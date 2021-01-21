@@ -1,4 +1,4 @@
-from npa_ingestion_tool import parse_rss
+from npa_ingestion_tool import parse_rss, sqlite3_database
 
 def main():
     # test = parse_rss("http://feeds.feedburner.com/acs/jnprdf")
@@ -9,6 +9,9 @@ def main():
     # test = parse_rss("https://www.mdpi.com/rss/journal/marinedrugs")
     # test = parse_rss("http://feeds.feedburner.com/acs/jnprdf")
     print(test)
+    print(len(test))
+
+    sqlite3_database(test)
 
 
 if __name__ == "__main__":

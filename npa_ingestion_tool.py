@@ -8,6 +8,7 @@ Created on Mon Jan 18 12:56:42 2021
 import feedparser
 import re
 import json
+import sqlite3
 
 
 def parse_rss(url):
@@ -33,3 +34,27 @@ def parse_rss(url):
     unique_doi_list = list(set(doi_list))
 
     return unique_doi_list
+
+
+def sqlite3_database(doi_list):
+    # Database initialization
+    db = sqlite3.connect('NPA_Ingestion_database.db')
+    cursor = db.cursor()
+
+    # Table creation
+    cursor.execute(
+        "CREATE TABLE IF NOT EXISTS DOIs (Doi VARCHAR UNIQUE, ID INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL)")
+
+    # Data insertion into the database
+    try:
+        for item in doi_list:
+            db.execute("INSERT INTO DOIs(Doi) VALUES(?)", (item,))
+    except sqlite3.IntegrityError:
+        print("Warning: Duplicate entry detected!")
+        pass
+
+    # Query database
+    for row in db.execute("SELECT * from DOIs"):
+        print(row)
+
+    db.close()
