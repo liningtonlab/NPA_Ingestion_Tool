@@ -3,7 +3,7 @@ from npa_ingestion_tool import parse_rss, sqlite3_database, get_archives_rss_url
 def main():
 
     # RSS Parsing; input is urls to RSS feeds
-    test = parse_rss("""<?xml version="1.0" encoding="UTF-8"?>
+    test1 = parse_rss("""<?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
   <channel>
     <title>Journal of Natural Products: Latest Articles (ACS Publications)</title>
@@ -672,21 +672,22 @@ Isoquinstatins</title>
     <feedburner:origLink>http://dx.doi.org/10.1021/acs.jnatprod.7b00352</feedburner:origLink></item>
   </channel>
 </rss>""")
-    #test = parse_rss("http://feeds.feedburner.com/acs/jnprdf")
+    test2 = parse_rss("https://pubmed.ncbi.nlm.nih.gov/rss/journals/7906882/?limit=100&name=J%20Nat%20Prod&utm_campaign=journals")
+    test3 = parse_rss("https://pubmed.ncbi.nlm.nih.gov/rss/search/1do9LIyNisfqzgoFui6tA3i64Wy61ltcunmtYjiJnZ1Bg8aEQA/?limit=100&utm_campaign=pubmed-2&fc=20210121191418")
     # test = parse_rss("https://www.thieme-connect.de/rss/thieme/en/10.1055-s-00000058.xml")
     # test = parse_rss("http://feeds.nature.com/ja/rss/current")
     # test = parse_rss("https://chemistry-europe.onlinelibrary.wiley.com/feed/10990690/most-recent")
     #test = parse_rss("https://onlinelibrary.wiley.com/feed/15213773/most-recent")
     # test = parse_rss("https://www.mdpi.com/rss/journal/marinedrugs")
     # test = parse_rss("http://feeds.feedburner.com/acs/jnprdf")
-    print(test)
-    print(len(test))
+    print(test3)
+    print(len(test3))
 
     # Database Entry
-    sqlite3_database(test)
+    sqlite3_database(test3)
 
     # RSS Feed archives
-    get_archives_rss_urls('http://feeds.feedburner.com/acs/jnprdf')
+    #get_archives_rss_urls('http://feeds.feedburner.com/acs/jnprdf')
 
 if __name__ == "__main__":
     main()

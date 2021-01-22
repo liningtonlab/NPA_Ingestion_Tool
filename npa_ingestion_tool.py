@@ -52,9 +52,9 @@ def sqlite3_database(doi_list):
 
     # Data insertion into the database
     try:
-        for item in doi_list:
-            # TODO: At some point,
-            db.execute("INSERT INTO DOIs(Doi, created) VALUES(?, ?)", (item, datetime.now()))
+        with db:
+            for item in doi_list:
+                db.execute("INSERT INTO DOIs(Doi, created) VALUES(?, ?)", (item, datetime.now()))
     except sqlite3.IntegrityError:
         print("Warning: Duplicate entry detected!")
         pass
@@ -63,4 +63,5 @@ def sqlite3_database(doi_list):
     for row in db.execute("SELECT * from DOIs"):
         print(row)
 
+    db.commit()
     db.close()
