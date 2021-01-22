@@ -9,7 +9,12 @@ import feedparser
 import re
 import json
 import sqlite3
+from datetime import  datetime
+import os
 
+def get_archives_rss_urls(url):
+        command_string = "waybackpack --list " + str(url)
+        os.system(command_string)
 
 def parse_rss(url):
     # Parse RSS url w/ feedparser to get consistent format
@@ -43,12 +48,13 @@ def sqlite3_database(doi_list):
 
     # Table creation
     cursor.execute(
-        "CREATE TABLE IF NOT EXISTS DOIs (Doi VARCHAR UNIQUE, ID INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL)")
+        "CREATE TABLE IF NOT EXISTS DOIs (Doi VARCHAR UNIQUE NOT NULL, created NOT NULL, ID INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL)")
 
     # Data insertion into the database
     try:
         for item in doi_list:
-            db.execute("INSERT INTO DOIs(Doi) VALUES(?)", (item,))
+            # TODO: At some point,
+            db.execute("INSERT INTO DOIs(Doi, created) VALUES(?, ?)", (item, datetime.now()))
     except sqlite3.IntegrityError:
         print("Warning: Duplicate entry detected!")
         pass
