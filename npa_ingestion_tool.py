@@ -27,21 +27,28 @@ def parse_rss(url, preview_file):
             """
     # Parse RSS url w/ feedparser to get consistent format
     rss_feed = feedparser.parse(url)
-
+    #print(rss_feed)
     # Creation of JSON file for easy viewing
     with open(preview_file, "w") as f:
         json.dump(rss_feed, f)
 
     # New list for found DOIs (will end up with duplicates)
     doi_list = []
-
+    article_metadata = {}
     # Search through parsed RSS feed dictionary
     for key in rss_feed.entries:
+        if key["title"]:
+            print(key["title"])
+
+        else:
+            print("no find")
         for val in key.values():
             if type(val) == str:
                 doi_search = re.search("(10\.\d{4,9}\/[-._;()/:A-Za-z0-9]+)", val)
                 if doi_search:
                     doi_list.append(doi_search.group(1))
+                    print(doi_search.group(1))
+                    break
 
     # Remove duplicate DOIs from list
     unique_doi_list = list(set(doi_list))

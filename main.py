@@ -8,7 +8,7 @@ def main():
         doi_list = [npa_ingestion_tool.parse_rss(line, "some_file.json") for line in my_file]
         print(doi_list)
 
-    # Database Entry
+    '''# Database Entry
     connection = npa_ingestion_tool.sqlite3_db_initialization("NPA_Ingestion_database.db")
     cursor = npa_ingestion_tool.sqlite3_table_creation(connection)
     for journal in doi_list:
@@ -16,7 +16,7 @@ def main():
     connection.commit()
 
     for row in connection.execute("SELECT * from DOIs"):
-        print(row)
+        print(row)'''
 
     # RSS Feed archives
     # get_archives_rss_urls('http://feeds.feedburner.com/acs/jnprdf')
