@@ -15,9 +15,21 @@ import re
 import sqlite3
 from metapub import PubMedFetcher
 
+
 def get_archives_rss_urls(url):
     command_string = "waybackpack --list " + str(url)
     os.system(command_string)
+
+
+def blanks(string):
+    """ Takes string input and checks if blank or not
+                :param url: string
+                :return: returns boolean of true for a blank, false if not blank
+                """
+    if string == "":
+        return True
+    else:
+        return False
 
 
 def parse_rss(url, preview_file):
@@ -35,11 +47,30 @@ def parse_rss(url, preview_file):
         json.dump(rss_feed, f)
 
     # New list for found DOIs (will end up with duplicates)
+
+    #TODO: Make list of dictionaries for each doi, figure out how to get one DOI and then add title\abstract
+
     doi_list = []
 
     # Search through parsed RSS feed dictionary
     for key in rss_feed.entries:
-        # Would need ML extractor to determine if title or abstract, too variable in publishers, when Pubmed available
+
+        '''if key["title"]:
+            tag_match = re.compile(r'(<!--.*?-->|<[^>]*>)|(\[{1}\bASAP\]{1}\s*)|(\bMarine\s\bDrugs\,\ \bVol\.\s[0-9]*\,\s\bPages\s[0-9]*\:\s*)')
+            tag_sub = tag_match.sub('', key["title"])
+            print(tag_sub)
+            
+            # TODO do something with the title, put in dictionary with DOI and abstract
+        else:
+            print("no title")'''
+
+        #TODO: Look for changes to make better and improve
+        if re.search('(^[A-Z][^.!?]*((\.|!|\?)(?! |\n|\r|\r\n)[^.!?]*)*(\.|!|\?)(?= |\n|\r|\r\n)\s?)(?:[A-Z][^.!?]*((\.|!|\?)(?! |\n|\r|\r\n)[^.!?]*)*(\.|!|\?)(?= |\n|\r|\r\n)\s)+', key["summary"]):
+            abstract = key["summary"]
+            print(abstract)
+        else:
+            print("RUh ROh")
+
 
         for val in key.values():
             if type(val) == str:
@@ -93,29 +124,40 @@ def sqlite3_table_creation(connection_object):
         """
     cursor = connection_object.cursor()
     cursor.execute(
-        "CREATE TABLE IF NOT EXISTS DOIs (ID INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, Doi VARCHAR UNIQUE NOT NULL, created NOT NULL)")
+        "CREATE TABLE IF NOT EXISTS DOIs (ID INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, Doi VARCHAR UNIQUE NOT NULL, Title VARCHAR, Abstract VARCHAR, Created NOT NULL)")
     return cursor
 
 
-def sqlite3_insertion(doi_input_list, cursor_object, connection_object):
+def sqlite3_insertion(connection_object, doi, title, abstract):
     """ insert data into the SQLite3 database
-            :param doi_input_list: list of DOI's
-            :param cursor_object: Cursor_object
+            :param doi: Doi
+            :param sql_state: SQL INSERT statement
             :param connection_object: Connection object
             :return: Cursor object or None
             """
     # Data insertion into the database
-    for item in doi_input_list:
-        try:
-            with connection_object:
-                connection_object.execute("INSERT INTO DOIs(Doi, created) VALUES(?, ?)", (item, datetime.now()))
-        except sqlite3.IntegrityError:
-            print("Warning: Duplicate entry detected!")
-            pass
+    try:
+        with connection_object:
+            connection_object.execute("INSERT INTO DOIs(Doi, Title, Abstract, Created) VALUES(?, ?, ?, ?)",
+                            (doi, title, abstract, datetime.now()))
 
-    # Query database
-    #for row in connection_object.execute("SELECT * from DOIs"):
-        #print(row)
+    except sqlite3.IntegrityError:
+        print("Warning: Duplicate entry detected!")
+        pass
 
-    #connection_object.commit()
-    #connection_object.close()
+def sqlite3_insertion_blankabs(connection_object, doi, title):
+    """ insert data into the SQLite3 database
+            :param doi: Doi
+            :param sql_state: SQL INSERT statement
+            :param connection_object: Connection object
+            :return: Cursor object or None
+            """
+    # Data insertion into the database
+    try:
+        with connection_object:
+            connection_object.execute("INSERT INTO DOIs(Doi, Title, Abstract, Created) VALUES(?, ?, NULL, ?)",
+                            (doi, title, datetime.now()))
+
+    except sqlite3.IntegrityError:
+        print("Warning: Duplicate entry detected!")
+        pass
