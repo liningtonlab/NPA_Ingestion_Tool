@@ -6,19 +6,25 @@ Created on Mon Jan 18 12:56:42 2021
 """
 
 from datetime import datetime
-
+from metapub import PubMedFetcher
+from bs4 import BeautifulSoup
 import feedparser
 import json
-import os
-import pubmed_parser
 import re
 import sqlite3
-from metapub import PubMedFetcher
 
 
-def get_archives_rss_urls(url):
-    command_string = "waybackpack --list " + str(url)
-    os.system(command_string)
+def no_newline(line):
+    """ Takes string input and checks if blank or not
+                    :param line: string
+                    :return: returns boolean of true for a blank, false if not blank
+                    """
+    new_line = line.rstrip('\n')
+    replace_line = new_line.replace("/", "").replace(".", "").replace(":", "").replace("-", "").replace(
+        "=", "").replace(
+        "!", "").replace("@", "").replace("#", "").replace(
+        "$", "").replace("%", "").replace("^", "").replace("&", "").replace("*", "")
+    return replace_line
 
 
 def blanks(string):
@@ -43,18 +49,18 @@ def parse_rss(url, preview_file):
     rss_feed = feedparser.parse(url)
 
     # Creation of JSON file for easy viewing
-    with open(preview_file, "w") as f:
+    path = 'C:/Users/maras/Desktop/NPA_Ingestion_Tool/raw_xml_archive/' + preview_file
+    with open(path, "x") as f:
         json.dump(rss_feed, f)
 
     # New list for found DOIs (will end up with duplicates)
-
-    #TODO: Make list of dictionaries for each doi, figure out how to get one DOI and then add title\abstract
 
     doi_list = []
 
     # Search through parsed RSS feed dictionary
     for key in rss_feed.entries:
 
+        # RSS Title/Abstract parsing
         '''if key["title"]:
             tag_match = re.compile(r'(<!--.*?-->|<[^>]*>)|(\[{1}\bASAP\]{1}\s*)|(\bMarine\s\bDrugs\,\ \bVol\.\s[0-9]*\,\s\bPages\s[0-9]*\:\s*)')
             tag_sub = tag_match.sub('', key["title"])
@@ -62,22 +68,20 @@ def parse_rss(url, preview_file):
             
             # TODO do something with the title, put in dictionary with DOI and abstract
         else:
-            print("no title")'''
-
+            print("no title")
         #TODO: Look for changes to make better and improve
         if re.search('(^[A-Z][^.!?]*((\.|!|\?)(?! |\n|\r|\r\n)[^.!?]*)*(\.|!|\?)(?= |\n|\r|\r\n)\s?)(?:[A-Z][^.!?]*((\.|!|\?)(?! |\n|\r|\r\n)[^.!?]*)*(\.|!|\?)(?= |\n|\r|\r\n)\s)+', key["summary"]):
             abstract = key["summary"]
             print(abstract)
         else:
-            print("RUh ROh")
-
+            print("no abstract")'''
 
         for val in key.values():
             if type(val) == str:
                 doi_search = re.search("(10\.\d{4,9}\/[-._;()/:A-Za-z0-9]+)", val)
                 if doi_search:
                     doi_list.append(doi_search.group(1))
-                    #print(doi_search.group(1))
+                    # print(doi_search.group(1))
                     break
 
     # Remove duplicate DOIs from list
@@ -85,10 +89,9 @@ def parse_rss(url, preview_file):
     return unique_doi_list
 
 
-
 def doi_2_pmid(doi):
     """ returns PMID for a given DOI
-                    :param pmid:  DOI as string
+                    :param doi:  DOI as string
                     :return: PMID as string
                     """
     fetch = PubMedFetcher()
@@ -98,11 +101,21 @@ def doi_2_pmid(doi):
 
 def pmid_2_abstract(pm_id):
     """ returns abstract for a given pmid
-                :param pmid: string pmid
+                :param pm_id: string pmid
                 :return: tuple of title and abstract
                 """
-    abstract = pubmed_parser.parse_xml_web(pm_id, sleep=None, save_xml=False)["abstract"]
-    title = pubmed_parser.parse_xml_web(pm_id, sleep=None, save_xml=False)["title"]
+    fetch = PubMedFetcher()
+    article = fetch.article_by_pmid(pm_id)
+    article_xml = article.xml
+    soup = BeautifulSoup(article_xml, "xml")
+    try:
+        title = soup.ArticleTitle.text
+    except AttributeError:
+        title = None
+    try:
+        abstract = soup.AbstractText.text
+    except AttributeError:
+        abstract = None
     return title, abstract
 
 
@@ -131,7 +144,8 @@ def sqlite3_table_creation(connection_object):
 def sqlite3_insertion(connection_object, doi, title, abstract):
     """ insert data into the SQLite3 database
             :param doi: Doi
-            :param sql_state: SQL INSERT statement
+            :param title: article title variable
+            :param abstract: article abstract variable
             :param connection_object: Connection object
             :return: Cursor object or None
             """
@@ -139,16 +153,17 @@ def sqlite3_insertion(connection_object, doi, title, abstract):
     try:
         with connection_object:
             connection_object.execute("INSERT INTO DOIs(Doi, Title, Abstract, Created) VALUES(?, ?, ?, ?)",
-                            (doi, title, abstract, datetime.now()))
+                                      (doi, title, abstract, datetime.now()))
 
     except sqlite3.IntegrityError:
         print("Warning: Duplicate entry detected!")
         pass
 
-def sqlite3_insertion_blankabs(connection_object, doi, title):
+
+def sqlite3_insertion_no_abstract(connection_object, doi, title):
     """ insert data into the SQLite3 database
             :param doi: Doi
-            :param sql_state: SQL INSERT statement
+            :param title: title variable
             :param connection_object: Connection object
             :return: Cursor object or None
             """
@@ -156,7 +171,24 @@ def sqlite3_insertion_blankabs(connection_object, doi, title):
     try:
         with connection_object:
             connection_object.execute("INSERT INTO DOIs(Doi, Title, Abstract, Created) VALUES(?, ?, NULL, ?)",
-                            (doi, title, datetime.now()))
+                                      (doi, title, datetime.now()))
+
+    except sqlite3.IntegrityError:
+        print("Warning: Duplicate entry detected!")
+        pass
+
+
+def sqlite3_insertion_only_doi(connection_object, doi):
+    """ insert data into the SQLite3 database
+            :param doi: Doi
+            :param connection_object: Connection object
+            :return: Cursor object or None
+            """
+    # Data insertion into the database
+    try:
+        with connection_object:
+            connection_object.execute("INSERT INTO DOIs(Doi, Title, Abstract, Created) VALUES(?, NULL, NULL, ?)",
+                                      (doi, datetime.now()))
 
     except sqlite3.IntegrityError:
         print("Warning: Duplicate entry detected!")
