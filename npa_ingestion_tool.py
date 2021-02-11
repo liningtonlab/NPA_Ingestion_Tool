@@ -12,6 +12,7 @@ import feedparser
 import json
 import re
 import sqlite3
+import requests
 
 
 def no_newline(line):
@@ -29,7 +30,7 @@ def no_newline(line):
 
 def blanks(string):
     """ Takes string input and checks if blank or not
-                :param url: string
+                :param string: string
                 :return: returns boolean of true for a blank, false if not blank
                 """
     if string == "":
@@ -37,19 +38,34 @@ def blanks(string):
     else:
         return False
 
+# Nothing useful for all links, cannot find or irrelevant info like CAPTCHA requests. All getting unicode errors
+'''def get_xml(url, archive_filename):
+    """ parse a xml file retrieved with requests using feedparser to the gather list of DOIs from the
+                    specified xml
+                :param url: url of rss feed
+                :param archive_filename: The file name of the archive file
+                :return: raw string of text from requests.get(url)
+                """
+    url_request = requests.get(url)
+    raw_xml_str = url_request.text
+    path = 'C:/Users/maras/Desktop/NPA_Ingestion_Tool/raw_xml_archive/' + archive_filename
+    with open(path, "w") as f:
+        json.dump(raw_xml_str, f) # f.write(raw_xml_str.text)
+    return raw_xml_str'''
 
-def parse_rss(url, preview_file):
-    """ parse a RSS feed using feedparser to the gather list of DOIs from the
-                specified RSS feed URL
-            :param url: string of url linky
-            :param preview_file: json file to preview RSS parse
+
+def parse_rss(url, archive_file):
+    """ parse a xml file retrieved with requests using feedparser to the gather list of DOIs from the
+                specified xml
+            :param archive_file: name of raw feed parser file
+            :param url: url of RSS feed
             :return: list of unique DOIs
             """
     # Parse RSS url w/ feedparser to get consistent format
     rss_feed = feedparser.parse(url)
 
     # Creation of JSON file for easy viewing
-    path = 'C:/Users/maras/Desktop/NPA_Ingestion_Tool/raw_xml_archive/' + preview_file
+    path = 'C:/Users/maras/Desktop/NPA_Ingestion_Tool/raw_xml_archive/' + archive_file
     with open(path, "x") as f:
         json.dump(rss_feed, f)
 
@@ -59,23 +75,6 @@ def parse_rss(url, preview_file):
 
     # Search through parsed RSS feed dictionary
     for key in rss_feed.entries:
-
-        # RSS Title/Abstract parsing
-        '''if key["title"]:
-            tag_match = re.compile(r'(<!--.*?-->|<[^>]*>)|(\[{1}\bASAP\]{1}\s*)|(\bMarine\s\bDrugs\,\ \bVol\.\s[0-9]*\,\s\bPages\s[0-9]*\:\s*)')
-            tag_sub = tag_match.sub('', key["title"])
-            print(tag_sub)
-            
-            # TODO do something with the title, put in dictionary with DOI and abstract
-        else:
-            print("no title")
-        #TODO: Look for changes to make better and improve
-        if re.search('(^[A-Z][^.!?]*((\.|!|\?)(?! |\n|\r|\r\n)[^.!?]*)*(\.|!|\?)(?= |\n|\r|\r\n)\s?)(?:[A-Z][^.!?]*((\.|!|\?)(?! |\n|\r|\r\n)[^.!?]*)*(\.|!|\?)(?= |\n|\r|\r\n)\s)+', key["summary"]):
-            abstract = key["summary"]
-            print(abstract)
-        else:
-            print("no abstract")'''
-
         for val in key.values():
             if type(val) == str:
                 doi_search = re.search("(10\.\d{4,9}\/[-._;()/:A-Za-z0-9]+)", val)
@@ -86,7 +85,7 @@ def parse_rss(url, preview_file):
 
     # Remove duplicate DOIs from list
     unique_doi_list = list(set(doi_list))
-    return unique_doi_list
+    return archive_file, unique_doi_list
 
 
 def doi_2_pmid(doi):
@@ -137,12 +136,15 @@ def sqlite3_table_creation(connection_object):
         """
     cursor = connection_object.cursor()
     cursor.execute(
-        "CREATE TABLE IF NOT EXISTS DOIs (ID INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,Doi VARCHAR UNIQUE NOT NULL, Title VARCHAR, Abstract VARCHAR, Created NOT NULL)")
+        "CREATE TABLE IF NOT EXISTS DOIs (ID INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,Doi VARCHAR UNIQUE NOT NULL, PMID VARCHAR, Title VARCHAR, Abstract VARCHAR, Source VARCHAR, Filename NOT NULL, Created NOT NULL)")
     return cursor
 
 
-def sqlite3_insertion(connection_object, doi, title, abstract):
+def sqlite3_insertion(connection_object, doi, pmid ,title, abstract, source, filename):
     """ insert data into the SQLite3 database
+            :param filename: name of archive file
+            :param source: source of doi(Pubmed, RSS Feed, Cross ref)
+            :param pmid: PubMed ID
             :param doi: Doi
             :param title: article title variable
             :param abstract: article abstract variable
@@ -152,16 +154,19 @@ def sqlite3_insertion(connection_object, doi, title, abstract):
     # Data insertion into the database
     try:
         with connection_object:
-            connection_object.execute("INSERT INTO DOIs(Doi, Title, Abstract, Created) VALUES(?, ?, ?, ?)",
-                                      (doi, title, abstract, datetime.now()))
+            connection_object.execute("INSERT INTO DOIs(Doi, PMID, Title, Abstract, Source, Filename, Created) VALUES(?, ?, ?, ?, ?, ?, ?)",
+                                      (doi, pmid, title, abstract, source, filename, datetime.now()))
 
     except sqlite3.IntegrityError:
         print("Warning: Duplicate entry detected!")
         pass
 
 
-def sqlite3_insertion_no_abstract(connection_object, doi, title):
+def sqlite3_insertion_no_abstract(connection_object, doi, pmid ,title, source, filename):
     """ insert data into the SQLite3 database
+            :param filename: name of archive file
+            :param source: source of doi(Pubmed, RSS Feed, Cross ref)
+            :param pmid: PubMed ID
             :param doi: Doi
             :param title: title variable
             :param connection_object: Connection object
@@ -170,16 +175,19 @@ def sqlite3_insertion_no_abstract(connection_object, doi, title):
     # Data insertion into the database
     try:
         with connection_object:
-            connection_object.execute("INSERT INTO DOIs(Doi, Title, Abstract, Created) VALUES(?, ?, NULL, ?)",
-                                      (doi, title, datetime.now()))
+            connection_object.execute("INSERT INTO DOIs(Doi, PMID, Title, Abstract, Source, Filename, Created) VALUES(?, ?, ?, NULL, ?, ?, ?)",
+                                      (doi, pmid, title, source, filename, datetime.now()))
 
     except sqlite3.IntegrityError:
         print("Warning: Duplicate entry detected!")
         pass
 
 
-def sqlite3_insertion_only_doi(connection_object, doi):
+def sqlite3_insertion_only_doi(connection_object, doi, filename):
     """ insert data into the SQLite3 database
+            :param filename: name of archive file
+            :param source: source of doi(Pubmed, RSS Feed, Cross ref)
+            :param pmid: PubMed ID
             :param doi: Doi
             :param connection_object: Connection object
             :return: Cursor object or None
@@ -187,21 +195,12 @@ def sqlite3_insertion_only_doi(connection_object, doi):
     # Data insertion into the database
     try:
         with connection_object:
-            connection_object.execute("INSERT INTO DOIs(Doi, Title, Abstract, Created) VALUES(?, NULL, NULL, ?)",
-                                      (doi, datetime.now()))
+            connection_object.execute("INSERT INTO DOIs(Doi, PMID, Title, Abstract, Source, Filename, Created) VALUES(?, NULL, NULL, NULL, NULL, ?, ?)",
+                                      (doi, filename, datetime.now()))
 
     except sqlite3.IntegrityError:
         print("Warning: Duplicate entry detected!")
         pass
-
-
-def date_conversion(raw_date):
-    """ converts a raw date with extra characters, takes needed part(y-m-d)
-                    :param raw_date: raw form of date with other unnecessary characters
-                    :return: final date, in a clean form ready to search files names with
-                    """
-    date_match = re.search("([0-9]{4}\-{1}[0-9]{2}\-[0-9]{2})", raw_date)
-    return date_match.group(0)
 
 
 def doi_date_locator(cursor_statement):
@@ -212,32 +211,16 @@ def doi_date_locator(cursor_statement):
     select_statement = cursor_statement.execute(
         "SELECT * FROM DOIs WHERE Abstract IS NULL and Created <= date('now', '-21 day')")
 
-    date_hits = [{"id": row[0], "doi": row[1], "date": date_conversion(row[4])} for row in select_statement]
+    date_hits = [{"id": row[0], "doi": row[1], "file": row[6]} for row in select_statement]
     return date_hits
 
 
-def date_check(file_list, date_time):
-    """ checks a list of files for the dates in question
-                :param file_list: list of raw xml files stored as json
-                :param date_time: Date of the rss feed archival, insertion date
-                :return: list of filename matches, to be used with rss_parse_archive as function to use within loop
-                """
-
-    date_match = re.search("([0-9]{4}\-{1}[0-9]{2}\-[0-9]{2})", date_time)
-    match_list = [item for item in file_list if date_match.group(0) == re.search("([0-9]{4}\-{1}[0-9]{2}\-[0-9]{2})", item).group(0)]
-    '''for item in file_list:
-        file_match = re.search("([0-9]{4}\-{1}[0-9]{2}\-[0-9]{2})", item)
-        if date_match.group(0) == file_match.group(0):
-            match_list.append(item)'''
-    return match_list
-
-
-def rss_parse_archive(file, id, doi):
+def rss_parse_archive(file, key_id, doi):
     # TODO: Fix abstract parsing, but mainly UPDATING database if a title/abstract is found within the archive file
 
     """ given the correctly selected file, search for doi
                 :param file: list of raw xml files stored as json
-                :param id: id of doi within database for updating if title/abstract found
+                :param key_id: id of doi within database for updating if title/abstract found
                 :param doi: to scan for right doi
                 :return: title/abstract, if both there or just title or nothing if not there
                 """
@@ -270,8 +253,8 @@ def rss_parse_archive(file, id, doi):
     unique_titles = list(set(titles))
     unique_abstracts = list(set(abstracts))
     if unique_abstracts and unique_titles:
-        return unique_titles[0], unique_abstracts[0]
+        return key_id, unique_titles[0], unique_abstracts[0]
     elif unique_titles:
-        return unique_titles[0]
+        return key_id, unique_titles[0]
     else:
         return ("no luck")

@@ -1,0 +1,860 @@
+"\n<!DOCTYPE html>\n
+<html lang=\"en\" xmlns:og=\"http://ogp.me/ns#\" xmlns:fb=\"https://www.facebook.com/2008/fbml\">\n<head>\n<meta
+        charset=\"utf-8\">\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">\n<meta content=\"mdpi\"
+name=\"sso-service\" />\n<meta content=\"width=device-width, initial-scale=1.0\" name=\"viewport\" />\n
+<title>MDPI | Error 404 File not found</title>
+<link rel=\"stylesheet\" href=\"https://www.mdpi.com/assets/css/font-awesome.min.css?eb190a3a77e5e1ee\">\n<link rel=
+\"stylesheet\" href=\"https://www.mdpi.com/assets/css/jquery.multiselect.css?f56c135cbf4d1483\">\n<link rel=
+\"stylesheet\" href=\"https://www.mdpi.com/assets/css/chosen.min.css?d7ca5ca9441ef9e1\">\n<link rel=\"stylesheet\"
+href=\"https://www.mdpi.com/assets/css/main2.css?1f755562bee0f9d0\">\n<link rel=\"mask-icon\"
+href=\"https://www.mdpi.com/img/mask-icon-128.svg?c1c7eca266cd7013\" color=\"#4f5671\">\n<link rel=\"apple-touch-icon\"
+sizes=\"180x180\" href=\"/icon/apple-touch-icon-180x180.png\">\n<link rel=\"apple-touch-icon\" sizes=\"152x152\"
+href=\"/icon/apple-touch-icon-152x152.png\">\n<link rel=\"apple-touch-icon\" sizes=\"144x144\"
+href=\"/icon/apple-touch-icon-144x144.png\">\n<link rel=\"apple-touch-icon\" sizes=\"120x120\"
+href=\"/icon/apple-touch-icon-120x120.png\">\n<link rel=\"apple-touch-icon\" sizes=\"114x114\"
+href=\"/icon/apple-touch-icon-114x114.png\">\n<link rel=\"apple-touch-icon\" sizes=\"76x76\"
+href=\"/icon/apple-touch-icon-76x76.png\">\n<link rel=\"apple-touch-icon\" sizes=\"72x72\"
+href=\"/icon/apple-touch-icon-72x72.png\">\n<link rel=\"apple-touch-icon\" sizes=\"57x57\"
+href=\"/icon/apple-touch-icon-57x57.png\">\n<link rel=\"apple-touch-icon\" href=\"/icon/apple-touch-icon-57x57.png\">\n
+<link rel=\"apple-touch-icon-precomposed\" href=\"/icon/apple-touch-icon-57x57.png\">\n<link rel=\"icon\"
+type=\"image/png\" sizes=\"32x32\" href=\"/icon/favicon-32x32.png\">\n<link rel=\"icon\" type=\"image/png\"
+sizes=\"96x96\" href=\"/icon/favicon-96x96.png\">\n<link rel=\"icon\" type=\"image/png\" sizes=\"16x16\"
+href=\"/icon/favicon-16x16.png\">\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\"
+href=\"/icon/favicon-192x192.png\">\n<link rel=\"manifest\" href=\"/manifest.json\">\n<meta name=\"theme-color\"
+content=\"#ffffff\">\n<meta name=\"application-name\" content=\"&nbsp;\" />\n<link rel=\"apple-touch-startup-image\"
+href=\"/img/icon_new/apple-icon-180x180.png\">\n<link rel=\"apple-touch-icon\" sizes=\"114x114\"
+href=\"/img/icon_new/apple-icon-114x114.png\">\n<link rel=\"apple-touch-icon\" sizes=\"120x120\"
+href=\"/img/icon_new/apple-icon-120x120.png\">\n<link rel=\"apple-touch-icon\" sizes=\"144x144\"
+href=\"/img/icon_new/apple-icon-144x144.png\">\n<link rel=\"apple-touch-icon\" sizes=\"152x152\"
+href=\"/img/icon_new/apple-icon-152x152.png\">\n<link rel=\"apple-touch-icon\" sizes=\"180x180\"
+href=\"/img/icon_new/apple-icon-180x180.png\">\n<meta name=\"msapplication-TileColor\" content=\"#ffffff\">\n<meta name=
+\"msapplication-TileImage\" content=\"/img/icon_new/ms-icon-144x144.png\">\n<meta name=\"msapplication-square70x70logo\"
+content=\"https://www.mdpi.com/icon/mstile-70x70.png\" />\n<meta name=\"msapplication-square150x150logo\"
+content=\"https://www.mdpi.com/icon/mstile-150x150.png\" />\n<meta name=\"msapplication-wide310x150logo\"
+content=\"https://www.mdpi.com/icon/mstile-310x150.png\" />\n<meta name=\"msapplication-square310x310logo\"
+content=\"https://www.mdpi.com/icon/mstile-310x310.png\" />\n<meta name=\"description\" content=\"MDPI is a publisher of
+peer-reviewed, open access journals since its establishment in 1996.\">\n<link rel=\"alternate\"
+type=\"application/rss+xml\" title=\"MDPI Publishing - Latest articles\" href=\"https://www.mdpi.com/rss\">\n<meta name=
+\"google-site-verification\"
+content=\"PxTlsg7z2S00aHroktQd57fxygEjMiNHydKn3txhvwY\">\n<!--[if lt IE 9]>\n            <script>var browserIe8 = true;</script>\n            <link rel=\"stylesheet\" href=\"https://www.mdpi.com/assets/css/ie8foundationfix.css?8ad845af75faa4fd\">\n            <script src=\"//html5shiv.googlecode.com/svn/trunk/html5.js\"></script>\n            <script src=\"//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js\"></script>\n            <script src=\"//s3.amazonaws.com/nwapi/nwmatcher/nwmatcher-1.2.5-min.js\"></script>\n            <script src=\"//html5base.googlecode.com/svn-history/r38/trunk/js/selectivizr-1.0.3b.js\"></script>\n            <script src=\"//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js\"></script>\n            <script src=\"https://www.mdpi.com/assets/js/ie8/ie8patch.js?9e1d3c689a0471df\"></script>\n            <script src=\"https://www.mdpi.com/assets/js/ie8/rem.min.js?94b62787dcd6d2f2\"></script>            \n                                                        <![endif]-->
+\n<script>\n (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\n ga('create', 'UA-5824718-2',
+    'auto');\n ga('require', 'displayfeatures');\n ga('send', 'pageview');\n</script>\n<script>\n
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\n new Date().getTime(),event:'gtm.js'});var
+    f=d.getElementsByTagName(s)[0],\n j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n
+    })(window,document,'script','dataLayer','GTM-WPK7SW5');\n</script>\n
+</head>\n<body>\n
+<noscript>\n<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-WPK7SW5\" height=\"0\" width=\"0\"
+    style=\"display:none;visibility:hidden\">
+</iframe>
+\n
+</noscript>\n<div
+id=\"menuModal\" class=\"reveal-modal reveal-modal-new reveal-modal-menu\" aria-hidden=\"true\" data-reveal role=\"dialog\">\n<div
+class=\"menu-container\">\n<div class=\"UI_NavMenu\">\n<a href=\"/about/journals\">\n<h2>Journals</h2>\n</a>\n<div
+class=\"content__container \">\n<div class=\"custom-accordion-for-small-screen-link \">\n<h2>Information
+</h2>\n</div>\n<div class=\"target-item custom-accordion-for-small-screen-content show-for-medium-up\">\n<div
+class=\"menu-container__links\">\n<div style=\"width: 100%; max-width: 120px; float: left;\">\n<a
+href=\"/authors\">For Authors</a>\n<a href=\"/reviewers\">For Reviewers</a>\n<a href=\"/editors\">For Editors</a>\n<a
+href=\"/librarians\">For Librarians</a>\n<a href=\"/publishing_services\">For Publishers</a>\n<a
+href=\"/societies\">For Societies</a>\n</div>\n<div style=\"width: 100%; max-width: 250px; float: left;\">\n<a
+href=\"/apc\">Article Processing Charges</a>\n<a href=\"/openaccess\">Open Access Policy</a>\n<a
+href=\"/ioap\">Institutional Open Access Program</a>\n<a href=\"/editorial_process\">Editorial Process</a>\n<a
+href=\"/awards\">Awards</a>\n<a href=\"/ethics\">Research and Publication Ethics</a>\n</div>\n</div>\n</div>\n</div>\n<a
+href=\"/authors/english\">\n<h2>Author Services</h2>\n</a>\n<div class=\"content__container \">\n<div
+class=\"custom-accordion-for-small-screen-link \">\n<h2>Initiatives</h2>\n</div>\n<div
+class=\"target-item custom-accordion-for-small-screen-content show-for-medium-up\">\n<div
+class=\"menu-container__links\">\n<div style=\"width: 100%; float: left;\">\n<a
+href=\"https://sciforum.net\" target=\"_blank\" rel=\"noopener noreferrer\">Sciforum</a>\n<a
+href=\"https://www.preprints.org\" target=\"_blank\" rel=\"noopener noreferrer\">Preprints</a>\n<a
+href=\"https://www.scilit.net\" target=\"_blank\" rel=\"noopener noreferrer\">Scilit</a>\n<a
+href=\"https://sciprofiles.com\" target=\"_blank\" rel=\"noopener noreferrer\">SciProfiles</a>\n<a
+href=\"https://www.mdpi.com/books\" target=\"_blank\" rel=\"noopener noreferrer\">MDPI Books</a>\n<a
+href=\"https://encyclopedia.pub\" target=\"_blank\" rel=\"noopener noreferrer\">Encyclopedia</a>\n<a
+href=\"https://jams.pub\" target=\"_blank\" rel=\"noopener noreferrer\">JAMS</a>\n<a
+href=\"/about/proceedings\">Proceedings</a>\n</div>\n</div>\n</div>\n</div>\n<a href=\"/about\">\n<h2>About
+</h2>\n</a>\n</div>\n<div class=\"menu-container__buttons\">\n<a
+class=\"button UA_SignInUpButton\" href=\"/user/login\">Sign In / Sign Up</a>\n</div>\n</div>\n</div>\n<div
+id=\"captchaModal\" class=\"reveal-modal reveal-modal-new reveal-modal-new--small\" data-reveal aria-label=\"Captcha\" aria-hidden=\"true\" role=\"dialog\"></div>\n<div
+id=\"actionDisabledModal\" class=\"reveal-modal\" data-reveal aria-labelledby=\"actionDisableModalTitle\" aria-hidden=\"true\" role=\"dialog\" style=\"width: 300px;\">\n<h2
+id=\"actionDisableModalTitle\">Notice</h2>\n<form
+action=\"/email/captcha\" method=\"post\" id=\"emailCaptchaForm\">\n<div class=\"row\">\n<div
+id=\"js-action-disabled-modal-text\" class=\"small-12 columns\">\n</div>\n<div
+id=\"js-action-disabled-modal-submit\" class=\"small-12 columns\" style=\"margin-top: 10px; display: none;\">\nYou can make submissions to other journals\n<a
+href=\"https://susy.mdpi.com/user/manuscripts/upload\" onclick=\"ga('send', 'event', 'Submit Paper', 'Send', 'Generic');\">here</a>.\n</div>\n</div>\n</form>\n<a
+class=\"close-reveal-modal\" aria-label=\"Close\">\n<i class=\"material-icons\">clear</i>\n</a>\n</div>\n<div
+id=\"container\">\n<noscript>\n<div id=\"no-javascript\">\n You seem to have javascript disabled. Please note that many
+of the page functionalities won't work as expected without javascript enabled.\n
+</div>\n                </noscript>\n<div class=\"fixed\">\n<nav class=\"tab-bar show-for-medium-down\">\n<div
+class=\"row full-width collapse\">\n<div class=\"medium-3 small-4 columns\">\n<a href=\"/\">\n<img
+class=\"full-size-menu__mdpi-logo\" src=\"https://www.mdpi.com/img/design/mdpi-pub-logo-blue-small4.png?fff78193ca41c286\" style=\"max-width: 65px;\" title=\"MDPI Open Access Journals\">\n</a>\n</div>\n<div
+class=\"medium-3 small-4 columns right-aligned\">\n<div class=\"show-for-medium-down\">\n<a
+href=\"#\" style=\"display: none;\">\n<i
+class=\"material-icons\" onclick=\"$('#menuModal').foundation('reveal', 'close'); return false;\">clear</i>\n</a>\n<a
+href=\"#\" class=\"js-open-small-search open-small-search\">\n<i
+class=\"material-icons show-for-small only\">search</i>\n</a>\n<a
+title=\"MDPI main page\" class=\"js-open-menu\" data-reveal-id=\"menuModal\" href=\"#\">\n<i
+class=\"material-icons\">menu</i>\n</a>\n</div>\n</div>\n</div>\n</nav>\n</div>\n<section
+class=\"main-section\">\n<header>\n<div class=\"full-size-menu show-for-large-up\">\n<div class=\"row full-width\">\n
+<div class=\"large-3 columns\">\n<a href=\"/\">\n<img class=\"full-size-menu__mdpi-logo\"
+src=\"https://www.mdpi.com/img/design/mdpi-pub-logo-blue-small4.png?fff78193ca41c286\" title=\"MDPI Open Access
+Journals\">\n
+</a>\n</div>\n<div class=\"large-6 columns text-center UI_NavMenu\">\n<ul>\n<li class=\"menu-item\">\n<a href=
+\"/about/journals\">Journals
+</a>\n</li>\n<li class=\"menu-item\">\n<a
+href=\"/authors\" data-dropdown=\"information-dropdown\" aria-controls=\"information-dropdown\" aria-expanded=\"false\" data-options=\"is_hover:true; hover_timeout:200\">Information</a>\n<ul
+id=\"information-dropdown\" class=\"f-dropdown dropdown-wrapper\" data-dropdown-content aria-hidden=\"true\" tabindex=\"-1\">\n<li>
+\n<div class=\"row\">\n<div class=\"small-4 columns right-border\">\n<ul>\n
+<li>\n<a href=\"/authors\">For Authors
+</a>
+\n
+</li>\n<li>\n<a href=\"/reviewers\">For Reviewers
+</a>\n</li>\n<li>\n<a href=\"/editors\">For Editors
+</a>\n</li>\n<li>\n<a href=\"/librarians\">For Librarians
+</a>\n</li>\n<li>\n<a href=\"/publishing_services\">For Publishers
+</a>\n</li>\n<li>\n<a href=\"/societies\">For Societies
+</a>\n</li>\n</ul>\n</div>\n<div class=\"small-8 columns\">\n<ul>\n
+<li>\n<a href=\"/apc\">Article Processing Charges
+</a>
+\n
+</li>\n<li>\n<a href=\"/openaccess\">Open Access Policy
+</a>\n</li>\n<li>\n<a href=\"/ioap\">Institutional Open Access Program
+</a>\n</li>\n<li>\n<a href=\"/editorial_process\">Editorial Process
+</a>\n</li>\n<li>\n<a href=\"/awards\">Awards
+</a>\n</li>\n<li>\n<a href=\"/ethics\">Research and Publication Ethics
+</a>\n</li>\n</ul>\n</div>\n</div>\n</li>\n</ul>\n</li>\n<li class=\"menu-item\">\n<a
+href=\"/authors/english\">Author Services</a>\n</li>\n<li class=\"menu-item\">\n<a
+href=\"#\" data-dropdown=\"initiatives-dropdown\" aria-controls=\"initiatives-dropdown\" aria-expanded=\"false\" data-options=\"is_hover: true; hover_timeout: 200\">Initiatives</a>\n<ul
+id=\"initiatives-dropdown\" class=\"f-dropdown dropdown-wrapper dropdown-wrapper__small\" data-dropdown-content aria-hidden=\"true\" tabindex=\"-1\">\n<li>
+\n<div class=\"row\">\n<div class=\"small-12 columns\">\n<ul>\n
+<li>\n<a href=\"https://sciforum.net\" target=\"_blank\" rel=\"noopener noreferrer\">\nSciforum\n
+</a>
+\n
+</li>\n<li>\n<a href=\"https://www.preprints.org\" target=\"_blank\" rel=\"noopener noreferrer\">\nPreprints\n
+</a>\n</li>\n<li>\n<a href=\"https://www.scilit.net\" target=\"_blank\" rel=\"noopener noreferrer\">\nScilit\n
+</a>\n</li>\n<li>\n<a href=\"https://sciprofiles.com\" target=\"_blank\" rel=\"noopener noreferrer\">\nSciProfiles\n
+</a>\n</li>\n<li>\n<a href=\"https://www.mdpi.com/books\" target=\"_blank\" rel=\"noopener noreferrer\">\nMDPI Books\n
+</a>\n</li>\n<li>\n<a href=\"https://encyclopedia.pub\" target=\"_blank\" rel=\"noopener noreferrer\">\nEncyclopedia\n
+</a>\n</li>\n<li>\n<a href=\"https://jams.pub\" target=\"_blank\" rel=\"noopener noreferrer\">\nJAMS\n
+</a>\n</li>\n<li>\n<a href=\"/about/proceedings\">\nProceedings\n
+</a>\n</li>\n</ul>\n</div>\n</div>\n</li>\n</ul>\n</li>\n<li class=\"menu-item\">\n<a
+href=\"/about\">About</a>\n</li>\n</ul>\n</div>\n<div
+class=\"large-3 columns text-right full-size-menu__buttons\">\n<div>\n<a class=\"button button--default-inversed
+UA_SignInUpButton\" href=\"/user/login\">Sign In / Sign Up
+</a>\n<a
+class=\"button button--default UC_NavSubmitButton\" href=\"https://susy.mdpi.com/user/manuscripts/upload\" onclick=\"ga('send', 'event', 'Submit Paper', 'Send', 'Generic');\">Submit</a>\n</div>\n</div>\n</div>\n</div>\n<div
+class=\"search-container hide-for-small-down row search-container__default-scheme\">\n<form
+id=\"basic_search\" style=\"background-color: inherit !important;\" class=\"large-12 medium-12 columns \" action=\"/search\" method=\"get\">\n<div
+class=\"row search-container__main-elements\">\n<div
+class=\"large-2 medium-2 small-12 columns text-right1 small-only-text-left\">\n<div class=\"show-for-medium-up\">\n<div
+class=\"search-input-label\">&nbsp;</div>\n</div>\n<span class=\"search-container__title\">Search<span
+class=\"hide-for-medium\"> for Articles</span><span class=\"hide-for-small\">:</span></span>\n</div>\n<div
+class=\"custom-accordion-for-small-screen-content\">\n<div class=\"large-2 medium-2 small-6 columns \">\n<div
+class=\"\">\n<div class=\"search-input-label\">Title / Keyword</div>\n</div>\n<input
+type=\"text\" placeholder=\"Title / Keyword\" id=\"q\" tabindex=\"1\" name=\"q\" value=\"\" />\n</div>\n<div
+class=\"large-2 medium-2 small-6 columns \">\n<div class=\"\">\n<div
+class=\"search-input-label\">Author / Affiliation</div>\n</div>\n<input
+type=\"text\" id=\"authors\" placeholder=\"Author / Affiliation\" tabindex=\"2\" name=\"authors\" value=\"\" />\n</div>\n<div
+class=\"large-2 medium-2 small-6 columns \">\n<div class=\"\">\n<div
+class=\"search-input-label\">Journal</div>\n</div>\n<select
+id=\"journal\" tabindex=\"3\" name=\"journal\" class=\"chosen-select\">\n<option
+value=\"\">All Journals</option>\n<option value=\"acoustics\">\nAcoustics\n</option>\n<option
+value=\"actuators\">\nActuators\n</option>\n<option value=\"admsci\">\nAdministrative Sciences\n</option>\n<option
+value=\"adolescents\">\nAdolescents\n</option>\n<option value=\"aerospace\">\nAerospace\n</option>\n<option
+value=\"agriculture\">\nAgriculture\n</option>\n<option value=\"agriengineering\">\nAgriEngineering\n</option>\n<option
+value=\"agronomy\">\nAgronomy\n</option>\n<option value=\"ai\">\nAI\n</option>\n<option
+value=\"algorithms\">\nAlgorithms\n</option>\n<option value=\"allergies\">\nAllergies\n</option>\n<option
+value=\"analytica\">\nAnalytica\n</option>\n<option value=\"animals\">\nAnimals\n</option>\n<option
+value=\"antibiotics\">\nAntibiotics\n</option>\n<option value=\"antibodies\">\nAntibodies\n</option>\n<option
+value=\"antioxidants\">\nAntioxidants\n</option>\n<option value=\"applmech\">\nApplied Mechanics\n</option>\n<option
+value=\"applnano\">\nApplied Nano\n</option>\n<option value=\"applsci\">\nApplied Sciences\n</option>\n<option
+value=\"asi\">\nApplied System Innovation (ASI)\n</option>\n<option value=\"arts\">\nArts\n</option>\n<option
+value=\"atmosphere\">\nAtmosphere\n</option>\n<option value=\"atoms\">\nAtoms\n</option>\n<option
+value=\"audiolres\">\nAudiology Research\n</option>\n<option value=\"automation\">\nAutomation\n</option>\n<option
+value=\"axioms\">\nAxioms\n</option>\n<option value=\"batteries\">\nBatteries\n</option>\n<option
+value=\"behavsci\">\nBehavioral Sciences\n</option>\n<option value=\"beverages\">\nBeverages\n</option>\n<option
+value=\"BDCC\">\nBig Data and Cognitive Computing (BDCC)\n</option>\n<option
+value=\"biochem\">\nBioChem\n</option>\n<option value=\"bioengineering\">\nBioengineering\n</option>\n<option
+value=\"biology\">\nBiology\n</option>\n<option value=\"biomechanics\">\nBiomechanics\n</option>\n<option
+value=\"biomedicines\">\nBiomedicines\n</option>\n<option
+value=\"biomedinformatics\">\nBioMedInformatics\n</option>\n<option
+value=\"biomimetics\">\nBiomimetics\n</option>\n<option value=\"biomolecules\">\nBiomolecules\n</option>\n<option
+value=\"biophysica\">\nBiophysica\n</option>\n<option value=\"biosensors\">\nBiosensors\n</option>\n<option
+value=\"biotech\">\nBioTech\n</option>\n<option value=\"birds\">\nBirds\n</option>\n<option
+value=\"brainsci\">\nBrain Sciences\n</option>\n<option value=\"buildings\">\nBuildings\n</option>\n<option
+value=\"businesses\">\nBusinesses\n</option>\n<option value=\"carbon\">\nC\n</option>\n<option
+value=\"cancers\">\nCancers\n</option>\n<option value=\"cardiogenetics\">\nCardiogenetics\n</option>\n<option
+value=\"catalysts\">\nCatalysts\n</option>\n<option value=\"cells\">\nCells\n</option>\n<option
+value=\"ceramics\">\nCeramics\n</option>\n<option value=\"challenges\">\nChallenges\n</option>\n<option
+value=\"ChemEngineering\">\nChemEngineering\n</option>\n<option value=\"chemistry\">\nChemistry\n</option>\n<option
+value=\"chemproc\">\nChemistry Proceedings\n</option>\n<option value=\"chemosensors\">\nChemosensors\n</option>\n<option
+value=\"children\">\nChildren\n</option>\n<option value=\"civileng\">\nCivilEng\n</option>\n<option
+value=\"cleantechnol\">\nClean Technologies (Clean Technol.)\n</option>\n<option
+value=\"climate\">\nClimate\n</option>\n<option value=\"clinpract\">\nClinics and Practice\n</option>\n<option
+value=\"clockssleep\">\nClocks &amp; Sleep\n</option>\n<option value=\"coatings\">\nCoatings\n</option>\n<option
+value=\"colloids\">\nColloids and Interfaces\n</option>\n<option value=\"compounds\">\nCompounds\n</option>\n<option
+value=\"computation\">\nComputation\n</option>\n<option value=\"computers\">\nComputers\n</option>\n<option
+value=\"condensedmatter\">\nCondensed Matter\n</option>\n<option
+value=\"conservation\">\nConservation\n</option>\n<option
+value=\"constrmater\">\nConstruction Materials\n</option>\n<option
+value=\"cmd\">\nCorrosion and Materials Degradation (CMD)\n</option>\n<option
+value=\"cosmetics\">\nCosmetics\n</option>\n<option value=\"crops\">\nCrops\n</option>\n<option
+value=\"cryptography\">\nCryptography\n</option>\n<option value=\"crystals\">\nCrystals\n</option>\n<option
+value=\"curroncol\">\nCurrent Oncology\n</option>\n<option value=\"dairy\">\nDairy\n</option>\n<option
+value=\"data\">\nData\n</option>\n<option value=\"dentistry\">\nDentistry Journal\n</option>\n<option
+value=\"dermatopathology\">\nDermatopathology\n</option>\n<option value=\"designs\">\nDesigns\n</option>\n<option
+value=\"diabetology\">\nDiabetology\n</option>\n<option value=\"diagnostics\">\nDiagnostics\n</option>\n<option
+value=\"digital\">\nDigital\n</option>\n<option value=\"disabilities\">\nDisabilities\n</option>\n<option
+value=\"diseases\">\nDiseases\n</option>\n<option value=\"diversity\">\nDiversity\n</option>\n<option
+value=\"drones\">\nDrones\n</option>\n<option value=\"earth\">\nEarth\n</option>\n<option
+value=\"ecologies\">\nEcologies\n</option>\n<option value=\"econometrics\">\nEconometrics\n</option>\n<option
+value=\"economies\">\nEconomies\n</option>\n<option value=\"education\">\nEducation Sciences\n</option>\n<option
+value=\"electricity\">\nElectricity\n</option>\n<option value=\"electrochem\">\nElectrochem\n</option>\n<option
+value=\"electronicmat\">\nElectronic Materials\n</option>\n<option
+value=\"electronics\">\nElectronics\n</option>\n<option value=\"encyclopedia\">\nEncyclopedia\n</option>\n<option
+value=\"endocrines\">\nEndocrines\n</option>\n<option value=\"energies\">\nEnergies\n</option>\n<option
+value=\"eng\">\nEng\n</option>\n<option value=\"engproc\">\nEngineering Proceedings\n</option>\n<option
+value=\"entropy\">\nEntropy\n</option>\n<option
+value=\"environsciproc\">\nEnvironmental Sciences Proceedings\n</option>\n<option
+value=\"environments\">\nEnvironments\n</option>\n<option value=\"epidemiologia\">\nEpidemiologia\n</option>\n<option
+value=\"epigenomes\">\nEpigenomes\n</option>\n<option value=\"ebj\">\nEuropean Burn Journal (EBJ)\n</option>\n<option
+value=\"ejihpe\">\nEuropean Journal of Investigation in Health, Psychology and Education (EJIHPE)\n</option>\n<option
+value=\"fermentation\">\nFermentation\n</option>\n<option value=\"fibers\">\nFibers\n</option>\n<option
+value=\"fire\">\nFire\n</option>\n<option value=\"fishes\">\nFishes\n</option>\n<option
+value=\"fluids\">\nFluids\n</option>\n<option value=\"foods\">\nFoods\n</option>\n<option
+value=\"forecasting\">\nForecasting\n</option>\n<option value=\"forensicsci\">\nForensic Sciences\n</option>\n<option
+value=\"forests\">\nForests\n</option>\n<option
+value=\"fractalfract\">\nFractal and Fractional (Fractal Fract)\n</option>\n<option
+value=\"fuels\">\nFuels\n</option>\n<option value=\"futureinternet\">\nFuture Internet\n</option>\n<option
+value=\"galaxies\">\nGalaxies\n</option>\n<option value=\"games\">\nGames\n</option>\n<option
+value=\"gases\">\nGases\n</option>\n<option value=\"gastroent\">\nGastroenterology Insights\n</option>\n<option
+value=\"gastrointestdisord\">\nGastrointestinal Disorders (GastrointestDisord)\n</option>\n<option
+value=\"gels\">\nGels\n</option>\n<option value=\"genealogy\">\nGenealogy\n</option>\n<option
+value=\"genes\">\nGenes\n</option>\n<option value=\"geographies\">\nGeographies\n</option>\n<option
+value=\"geohazards\">\nGeoHazards\n</option>\n<option value=\"geomatics\">\nGeomatics\n</option>\n<option
+value=\"geosciences\">\nGeosciences\n</option>\n<option value=\"geotechnics\">\nGeotechnics\n</option>\n<option
+value=\"geriatrics\">\nGeriatrics\n</option>\n<option value=\"healthcare\">\nHealthcare\n</option>\n<option
+value=\"hearts\">\nHearts\n</option>\n<option value=\"hemato\">\nHemato\n</option>\n<option
+value=\"heritage\">\nHeritage\n</option>\n<option value=\"histories\">\nHistories\n</option>\n<option
+value=\"horticulturae\">\nHorticulturae\n</option>\n<option value=\"humanities\">\nHumanities\n</option>\n<option
+value=\"hydrogen\">\nHydrogen\n</option>\n<option value=\"hydrology\">\nHydrology\n</option>\n<option
+value=\"immuno\">\nImmuno\n</option>\n<option value=\"idr\">\nInfectious Disease Reports\n</option>\n<option
+value=\"informatics\">\nInformatics\n</option>\n<option value=\"information\">\nInformation\n</option>\n<option
+value=\"infrastructures\">\nInfrastructures\n</option>\n<option value=\"inorganics\">\nInorganics\n</option>\n<option
+value=\"insects\">\nInsects\n</option>\n<option value=\"instruments\">\nInstruments\n</option>\n<option
+value=\"ijerph\">\nInternational Journal of Environmental Research and Public Health (IJERPH)\n</option>\n<option
+value=\"ijfs\">\nInternational Journal of Financial Studies (IJFS)\n</option>\n<option
+value=\"ijms\">\nInternational Journal of Molecular Sciences (IJMS)\n</option>\n<option
+value=\"IJNS\">\nInternational Journal of Neonatal Screening (IJNS)\n</option>\n<option
+value=\"ijtpp\">\nInternational Journal of Turbomachinery, Propulsion and Power (IJTPP)\n</option>\n<option
+value=\"inventions\">\nInventions\n</option>\n<option value=\"IoT\">\nIoT\n</option>\n<option
+value=\"ijgi\">\nISPRS International Journal of Geo-Information (IJGI)\n</option>\n<option
+value=\"J\">\nJ\n</option>\n<option
+value=\"jcdd\">\nJournal of Cardiovascular Development and Disease (JCDD)\n</option>\n<option
+value=\"jcm\">\nJournal of Clinical Medicine (JCM)\n</option>\n<option
+value=\"jcs\">\nJournal of Composites Science (J. Compos. Sci.)\n</option>\n<option
+value=\"jcp\">\nJournal of Cybersecurity and Privacy (JCP)\n</option>\n<option
+value=\"jdb\">\nJournal of Developmental Biology (JDB)\n</option>\n<option
+value=\"jfb\">\nJournal of Functional Biomaterials (JFB)\n</option>\n<option
+value=\"jfmk\">\nJournal of Functional Morphology and Kinesiology (JFMK)\n</option>\n<option
+value=\"jof\">\nJournal of Fungi (JoF)\n</option>\n<option
+value=\"jimaging\">\nJournal of Imaging (J. Imaging)\n</option>\n<option
+value=\"jintelligence\">\nJournal of Intelligence (J. Intell.)\n</option>\n<option
+value=\"jlpea\">\nJournal of Low Power Electronics and Applications (JLPEA)\n</option>\n<option
+value=\"jmmp\">\nJournal of Manufacturing and Materials Processing (JMMP)\n</option>\n<option
+value=\"jmse\">\nJournal of Marine Science and Engineering (JMSE)\n</option>\n<option
+value=\"jmp\">\nJournal of Molecular Pathology (JMP)\n</option>\n<option
+value=\"jnt\">\nJournal of Nanotheranostics (JNT)\n</option>\n<option
+value=\"jne\">\nJournal of Nuclear Engineering (JNE)\n</option>\n<option
+value=\"JOItmC\">\nJournal of Open Innovation: Technology, Market, and Complexity (JOItmC)\n</option>\n<option
+value=\"ohbm\">\nJournal of Otorhinolaryngology, Hearing and Balance Medicine (OHBM)\n</option>\n<option
+value=\"jpm\">\nJournal of Personalized Medicine (JPM)\n</option>\n<option
+value=\"jor\">\nJournal of Respiration (JoR)\n</option>\n<option
+value=\"jrfm\">\nJournal of Risk and Financial Management (JRFM)\n</option>\n<option
+value=\"jsan\">\nJournal of Sensor and Actuator Networks (JSAN)\n</option>\n<option
+value=\"jtaer\">\nJournal of Theoretical and Applied Electronic Commerce Research (JTAER)\n</option>\n<option
+value=\"jox\">\nJournal of Xenobiotics (JoX)\n</option>\n<option
+value=\"jzbg\">\nJournal of Zoological and Botanical Gardens (JZBG)\n</option>\n<option
+value=\"journalmedia\">\nJournalism and Media\n</option>\n<option value=\"land\">\nLand\n</option>\n<option
+value=\"languages\">\nLanguages\n</option>\n<option value=\"laws\">\nLaws\n</option>\n<option
+value=\"life\">\nLife\n</option>\n<option value=\"livers\">\nLivers\n</option>\n<option
+value=\"logistics\">\nLogistics\n</option>\n<option value=\"lubricants\">\nLubricants\n</option>\n<option
+value=\"make\">\nMachine Learning and Knowledge Extraction (MAKE)\n</option>\n<option
+value=\"machines\">\nMachines\n</option>\n<option value=\"macromol\">\nMacromol\n</option>\n<option
+value=\"magnetochemistry\">\nMagnetochemistry\n</option>\n<option
+value=\"marinedrugs\">\nMarine Drugs\n</option>\n<option value=\"materials\">\nMaterials\n</option>\n<option
+value=\"materproc\">\nMaterials Proceedings\n</option>\n<option
+value=\"mca\">\nMathematical and Computational Applications (MCA)\n</option>\n<option
+value=\"mathematics\">\nMathematics\n</option>\n<option value=\"medsci\">\nMedical Sciences\n</option>\n<option
+value=\"medicina\">\nMedicina\n</option>\n<option value=\"medicines\">\nMedicines\n</option>\n<option
+value=\"membranes\">\nMembranes\n</option>\n<option value=\"metabolites\">\nMetabolites\n</option>\n<option
+value=\"metals\">\nMetals\n</option>\n<option value=\"mps\">\nMethods and Protocols (MPs)\n</option>\n<option
+value=\"microbiolres\">\nMicrobiology Research\n</option>\n<option
+value=\"micromachines\">\nMicromachines\n</option>\n<option
+value=\"microorganisms\">\nMicroorganisms\n</option>\n<option value=\"minerals\">\nMinerals\n</option>\n<option
+value=\"mining\">\nMining\n</option>\n<option value=\"modelling\">\nModelling\n</option>\n<option
+value=\"molbank\">\nMolbank\n</option>\n<option value=\"molecules\">\nMolecules\n</option>\n<option
+value=\"mti\">\nMultimodal Technologies and Interaction (MTI)\n</option>\n<option
+value=\"nanoenergyadv\">\nNanoenergy Advances\n</option>\n<option
+value=\"nanomanufacturing\">\nNanomanufacturing\n</option>\n<option
+value=\"nanomaterials\">\nNanomaterials\n</option>\n<option value=\"neuroglia\">\nNeuroglia\n</option>\n<option
+value=\"neurolint\">\nNeurology International\n</option>\n<option value=\"neurosci\">\nNeuroSci\n</option>\n<option
+value=\"nitrogen\">\nNitrogen\n</option>\n<option value=\"ncrna\">\nNon-Coding RNA (ncRNA)\n</option>\n<option
+value=\"nursrep\">\nNursing Reports\n</option>\n<option value=\"nutraceuticals\">\nNutraceuticals\n</option>\n<option
+value=\"nutrients\">\nNutrients\n</option>\n<option value=\"obesities\">\nObesities\n</option>\n<option
+value=\"oceans\">\nOceans\n</option>\n<option value=\"onco\">\nOnco\n</option>\n<option
+value=\"optics\">\nOptics\n</option>\n<option value=\"oral\">\nOral\n</option>\n<option
+value=\"organics\">\nOrganics\n</option>\n<option value=\"osteology\">\nOsteology\n</option>\n<option
+value=\"parasitologia\">\nParasitologia\n</option>\n<option value=\"particles\">\nParticles\n</option>\n<option
+value=\"pathogens\">\nPathogens\n</option>\n<option value=\"pathophysiology\">\nPathophysiology\n</option>\n<option
+value=\"pediatrrep\">\nPediatric Reports\n</option>\n<option
+value=\"pharmaceuticals\">\nPharmaceuticals\n</option>\n<option
+value=\"pharmaceutics\">\nPharmaceutics\n</option>\n<option value=\"pharmacy\">\nPharmacy\n</option>\n<option
+value=\"philosophies\">\nPhilosophies\n</option>\n<option value=\"photochem\">\nPhotochem\n</option>\n<option
+value=\"photonics\">\nPhotonics\n</option>\n<option value=\"physchem\">\nPhyschem\n</option>\n<option
+value=\"physics\">\nPhysics\n</option>\n<option value=\"plants\">\nPlants\n</option>\n<option
+value=\"plasma\">\nPlasma\n</option>\n<option value=\"pollutants\">\nPollutants\n</option>\n<option
+value=\"polymers\">\nPolymers\n</option>\n<option value=\"polysaccharides\">\nPolysaccharides\n</option>\n<option
+value=\"proceedings\">\nProceedings\n</option>\n<option value=\"processes\">\nProcesses\n</option>\n<option
+value=\"prosthesis\">\nProsthesis\n</option>\n<option value=\"proteomes\">\nProteomes\n</option>\n<option
+value=\"psych\">\nPsych\n</option>\n<option value=\"psychiatryint\">\nPsychiatry International\n </option>\n<option
+value=\"publications\">\nPublications\n</option>\n<option
+value=\"qubs\">\nQuantum Beam Science (QuBS)\n</option>\n<option
+value=\"quantumrep\">\nQuantum Reports\n</option>\n<option value=\"quaternary\">\nQuaternary\n</option>\n<option
+value=\"radiation\">\nRadiation\n</option>\n<option value=\"reactions\">\nReactions\n</option>\n<option
+value=\"recycling\">\nRecycling\n</option>\n<option value=\"religions\">\nReligions\n</option>\n<option
+value=\"remotesensing\">\nRemote Sensing\n</option>\n<option value=\"reports\">\nReports\n</option>\n<option
+value=\"reprodmed\">\nReproductive Medicine (Reprod. Med.)\n</option>\n<option
+value=\"resources\">\nResources\n</option>\n<option value=\"risks\">\nRisks\n</option>\n<option
+value=\"robotics\">\nRobotics\n</option>\n<option value=\"safety\">\nSafety\n</option>\n<option
+value=\"sci\">\nSci\n</option>\n<option value=\"scipharm\">\nScientia Pharmaceutica (Sci. Pharm.)\n</option>\n<option
+value=\"sensors\">\nSensors\n</option>\n<option value=\"separations\">\nSeparations\n</option>\n<option
+value=\"sexes\">\nSexes\n</option>\n<option value=\"signals\">\nSignals\n</option>\n<option
+value=\"sinusitis\">\nSinusitis\n</option>\n<option value=\"smartcities\">\nSmart Cities\n</option>\n<option
+value=\"socsci\">\nSocial Sciences\n</option>\n<option value=\"societies\">\nSocieties\n</option>\n<option
+value=\"soilsystems\">\nSoil Systems\n</option>\n<option value=\"solids\">\nSolids\n</option>\n<option
+value=\"sports\">\nSports\n</option>\n<option value=\"standards\">\nStandards\n</option>\n<option
+value=\"stats\">\nStats\n</option>\n<option value=\"stresses\">\nStresses\n</option>\n<option
+value=\"surfaces\">\nSurfaces\n</option>\n<option value=\"surgeries\">\nSurgeries\n</option>\n<option
+value=\"sustainability\">\nSustainability\n</option>\n<option
+value=\"suschem\">\nSustainable Chemistry\n</option>\n<option value=\"symmetry\">\nSymmetry\n</option>\n<option
+value=\"systems\">\nSystems\n</option>\n<option value=\"taxonomy\">\nTaxonomy\n</option>\n<option
+value=\"technologies\">\nTechnologies\n</option>\n<option value=\"telecom\">\nTelecom\n</option>\n<option
+value=\"textiles\">\nTextiles\n</option>\n<option value=\"thermo\">\nThermo\n</option>\n<option
+value=\"tomography\">\nTomography\n</option>\n<option
+value=\"tourismhosp\">\nTourism and Hospitality\n</option>\n<option value=\"toxics\">\nToxics\n</option>\n<option
+value=\"toxins\">\nToxins\n</option>\n<option value=\"transplantology\">\nTransplantology\n</option>\n<option
+value=\"traumas\">\nTraumas\n</option>\n<option
+value=\"tropicalmed\">\nTropical Medicine and Infectious Disease (TropicalMed)\n</option>\n<option
+value=\"universe\">\nUniverse\n</option>\n<option value=\"urbansci\">\nUrban Science\n</option>\n<option
+value=\"uro\">\nUro\n</option>\n<option value=\"vaccines\">\nVaccines\n</option>\n<option
+value=\"vehicles\">\nVehicles\n</option>\n<option value=\"vetsci\">\nVeterinary Sciences\n</option>\n<option
+value=\"vibration\">\nVibration\n</option>\n<option value=\"viruses\">\nViruses\n</option>\n<option
+value=\"vision\">\nVision\n</option>\n<option value=\"water\">\nWater\n</option>\n<option
+value=\"women\">\nWomen\n</option>\n<option value=\"world\">\nWorld\n</option>\n<option
+value=\"wevj\">\nWorld Electric Vehicle Journal (WEVJ)\n</option>\n</select>\n</div>\n<div
+class=\"large-2 medium-2 small-6 columns \">\n<div class=\"\">\n<div
+class=\"search-input-label\">Article Type</div>\n</div>\n<select
+id=\"article_type\" tabindex=\"4\" name=\"article_type\" class=\"chosen-select\">\n<option
+value=\"\">All Article Types</option>\n <option value=\"research-article\">Article</option>\n<option
+value=\"review-article\">Review</option>\n<option value=\"rapid-communication\">Communication</option>\n<option
+value=\"editorial\">Editorial</option>\n<option value=\"addendum\">Addendum</option>\n<option
+value=\"book-review\">Book Review</option>\n<option value=\"brief-report\">Brief Report</option>\n<option
+value=\"case-report\">Case Report</option>\n<option value=\"article-commentary\">Comment</option>\n<option
+value=\"commentary\">Commentary</option>\n<option value=\"concept-paper\">Concept Paper</option>\n<option
+value=\"conference-report\">Conference Report</option>\n<option value=\"correction\">Correction</option>\n<option
+value=\"creative\">Creative</option>\n<option value=\"discussion\">Discussion</option>\n<option
+value=\"erratum\">Erratum</option>\n<option value=\"essay\">Essay</option>\n<option
+value=\"expression-of-concern\">Expression of Concern</option>\n<option
+value=\"extended-abstract\">Extended Abstract</option>\n<option value=\"hypothesis\">Hypothesis</option>\n<option
+value=\"interesting-image\">Interesting Images</option>\n<option value=\"letter\">Letter</option>\n<option
+value=\"books-received\">New Book Received</option>\n<option value=\"opinion\">Opinion</option>\n<option
+value=\"perspective\">Perspective</option>\n<option value=\"proceedings\">Proceedings</option>\n<option
+value=\"project-report\">Project Report</option>\n<option value=\"reply\">Reply</option>\n<option
+value=\"retraction\">Retraction</option>\n<option value=\"note\">Short Note</option>\n<option
+value=\"study-protocol\">Study Protocol</option>\n<option value=\"technical-note\">Technical Note</option>\n<option
+value=\"viewpoint\">Viewpoint</option>\n</select>\n</div>\n<div
+class=\"large-1 medium-1 small-6 end columns small-push-6 medium-reset-order large-reset-order js-search-collapsed-button-container\">\n<div
+class=\"search-input-label\">&nbsp;</div>\n<input
+type=\"submit\" id=\"search\" value=\"Search\" class=\"button button--dark button--full-width searchButton1 US_SearchButton\" tabindex=\"12\">\n</div>\n<div
+class=\"large-1 medium-1 small-6 end columns large-text-left small-only-text-center small-pull-6 medium-reset-order large-reset-order js-search-collapsed-link-container\">\n<div
+class=\"search-input-label\">&nbsp;</div>\n<a
+class=\"main-search-clear search-container__link\" href=\"#\" onclick=\"openAdvanced(''); return false;\">Advanced<span
+class=\"show-for-small-only\"> Search</span></a>\n</div>\n</div>\n</div>\n<div
+class=\"search-container__advanced\" style=\"margin-top: 0; padding-top: 0px; background-color: inherit; color: inherit;\">\n<div
+class=\"row\">\n<div class=\"large-2 medium-2 columns show-for-medium-up\">&nbsp;</div>\n<div
+class=\"large-2 medium-2 small-6 columns \">\n<div class=\"\">\n<div
+class=\"search-input-label\">Section</div>\n</div>\n<select
+id=\"section\" tabindex=\"5\" name=\"section\" class=\"chosen-select\">\n<option
+value=\"\"></option>\n</select>\n</div>\n<div class=\"large-2 medium-2 small-6 columns \">\n<div class=\"\">\n<div
+class=\"search-input-label\">Special Issue</div>\n</div>\n <select
+id=\"special_issue\" tabindex=\"6\" name=\"special_issue\" class=\"chosen-select\">\n<option
+value=\"\"></option>\n</select>\n</div>\n<div class=\"large-1 medium-1 small-6 end columns \">\n<div
+class=\"search-input-label\">Volume</div>\n<input
+type=\"text\" id=\"volume\" tabindex=\"7\" name=\"volume\" placeholder=\"...\" value=\"\" />\n</div>\n<div
+class=\"large-1 medium-1 small-6 end columns \">\n<div class=\"search-input-label\">Issue</div>\n<input
+type=\"text\" id=\"issue\" tabindex=\"8\" name=\"issue\" placeholder=\"...\" value=\"\" />\n</div>\n<div
+class=\"large-1 medium-1 small-6 end columns \">\n<div class=\"search-input-label\">Number</div>\n<input
+type=\"text\" id=\"number\" tabindex=\"9\" name=\"number\" placeholder=\"...\" value=\"\" />\n</div>\n<div
+class=\"large-1 medium-1 small-6 end columns \">\n<div class=\"search-input-label\">Page</div>\n<input
+type=\"text\" id=\"page\" tabindex=\"10\" name=\"page\" placeholder=\"...\" value=\"\" />\n</div>\n<div
+class=\"large-1 medium-1 small-6 columns small-push-6 medium-reset order large-reset-order medium-reset-order js-search-expanded-button-container\"></div>\n<div
+class=\"large-1 medium-1 small-6 columns large-text-left small-only-text-center small-pull-6 medium-reset-order large-reset-order js-search-expanded-link-container\"></div>\n</div>\n</div>\n</form>\n<form
+id=\"advanced-search\" class=\"large-12 medium-12 columns\">\n<div class=\"search-container__advanced\">\n<div
+id=\"advanced-search-template\" class=\"row advanced-search-row\">\n<div
+class=\"large-2 medium-2 small-12 columns show-for-medium-up\">&nbsp;</div>\n<div
+class=\"large-2 medium-2 small-3 columns connector-div\">\n<div class=\"search-input-label\"><span
+class=\"show-for-medium-up\">Logical Operator</span><span class=\"show-for-small\">Operator</span></div>\n<select
+class=\"connector\">\n<option value=\"and\">AND</option>\n<option value=\"or\">OR</option>\n</select>\n</div>\n<div
+class=\"large-3 medium-3 small-6 columns search-text-div\">\n<div class=\"search-input-label\">Search Text</div>\n<input
+type=\"text\" class=\"search-text\" placeholder=\"Search text\">\n</div>\n<div
+class=\"large-2 medium-2 small-6 large-offset-0 medium-offset-0 small-offset-3 columns search-field-div\">\n<div
+class=\"search-input-label\">Search Type</div>\n<select class=\"search-field\">\n<option
+value=\"all\">All fields</option>\n<option value=\"title\">Title</option>\n<option
+value=\"abstract\">Abstract</option>\n<option value=\"keywords\">Keywords</option>\n<option
+value=\"authors\">Authors</option>\n<option value=\"affiliations\">Affiliations</option>\n<option
+value=\"doi\">Doi</option>\n<option value=\"full_text\">Full Text</option>\n<option
+value=\"references\">References</option>\n</select>\n</div>\n<div class=\"large-1 medium-1 small-3 columns\">\n<div
+class=\"search-input-label\">&nbsp;</div>\n<div class=\"search-action-div\">\n<div class=\"search-plus\">\n<i
+class=\"material-icons\">add_circle_outline</i>\n</div>\n</div>\n<div class=\"search-action-div\">\n<div
+class=\"search-minus\">\n<i class=\"material-icons\">remove_circle_outline</i>\n</div>\n</div>\n</div>\n<div
+class=\"large-1 medium-1 small-6 large-offset-0 medium-offset-0 small-offset-3 end columns\">\n<div
+class=\"search-input-label\">&nbsp;</div>\n<input
+class=\"advanced-search-button button button--dark search-submit\" type=\"submit\" value=\"Search\">\n</div>\n<div
+class=\"large-1 medium-1 small-6 end columns show-for-medium-up\"></div>\n</div>\n</div>\n</form>\n</div>\n</header>\n<div
+id=\"main-content\" class=\"\">\n<div class=\"row full-width\">\n<div
+id=\"middle-column\" class=\"content__column large-8 large-offset-2 medium-10 medium-offset-1 content__column__full small-12 columns end middle-bordered\">\n<div
+class=\"middle-column__help\">\n<div class=\"middle-column__help__fixed show-for-medium-up\">\n<a
+href=\"#\" class=\"UA_ShareButton\" data-reveal-id=\"main-share-modal\" title=\"Share\">\n<i
+class=\"material-icons\">share</i>\n</a>\n<a href=\"#\" data-reveal-id=\"main-help-modal\" title=\"Help\">\n<i
+class=\"material-icons\">announcement</i>\n</a>\n</div>\n<div
+id=\"main-help-modal\" class=\"reveal-modal reveal-modal-new\" data-reveal aria-labelledby=\"modalTitle\" aria-hidden=\"true\" role=\"dialog\">\n<div
+class=\"row\">\n<div class=\"small-12 columns\">\n<h2 style=\"margin: 0;\">Need Help?</h2>\n</div>\n<div
+class=\"small-6 columns\">\n<h3>Support</h3>\n<p>\nFind support for a specific problem in the support section of our
+website.\n
+</p>\n<a
+target=\"_blank\" href=\"/about/contactform\" class=\"button button--color button--full-width\">\nGet Support\n</a>\n</div>\n<div
+class=\"small-6 columns\">\n<h3>Feedback</h3>\n<p>\nPlease let us know what you think of our products and services.\n
+</p>\n<a
+target=\"_blank\" href=\"/feedback/send\" class=\"button button--color button--full-width\">\nGive Feedback\n</a>\n</div>\n<div
+class=\"small-6 columns end\">\n<h3>Information</h3>\n<p>\nVisit our dedicated information section to learn more about
+MDPI.\n
+</p>\n<a
+target=\"_blank\" href=\"/authors\" class=\"button button--color button--full-width\">\nGet Information\n</a>\n</div>\n</div>\n<a
+class=\"close-reveal-modal\" aria-label=\"Close\">\n<i class=\"material-icons\">clear</i>\n</a>\n</div>\n</div>\n<div
+class=\"middle-column__main middle-column__main__snippets \">\n<div class=\"content__container\">\n<h1>Error 404 - File
+not found
+</h1>\n<p>\nThe webpage you are looking could not be found.<br>\nThe URL may have been incorrectly typed, or the page
+may<br>\nhave been moved into another part of the mdpi.com site.\n
+</p>\n<p>\n<a href=\"/\">Return to the main page
+</a><br>\n<a href=\"/about/contact\">Contact
+</a>\n</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</section>\n<div id=\"footer\">\n<div
+class=\"row full-width footer-links\" data-equalizer=\"footer\" data-equalizer-mq=\"small\">\n<div
+class=\"large-2 large-push-4 medium-3 small-6 columns\" data-equalizer-watch=\"footer\">\n<h3>\nFurther Information\n
+</h3>\n<a href=\"/apc\">\nArticle Processing Charges\n</a>\n<a href=\"/about/payment\">\nPay an Invoice\n </a>\n<a
+href=\"/openaccess\">\nOpen Access Policy\n</a>\n<a href=\"/about/contact\">\nContact MDPI\n</a>\n<a
+href=\"https://careers.mdpi.com\" target=\"_blank\" rel=\"noopener noreferrer\">\nJobs at MDPI\n</a>\n</div>\n<div
+class=\"large-2 large-push-4 medium-3 small-6 columns\" data-equalizer-watch=\"footer\">\n<h3>\nGuidelines\n</h3>\n<a
+href=\"/authors\">\nFor Authors\n</a>\n<a href=\"/reviewers\">\nFor Reviewers\n</a>\n<a
+href=\"/editors\">\nFor Editors\n</a>\n<a href=\"/librarians\">\nFor Librarians\n</a>\n<a
+href=\"/publishing_services\">\nFor Publishers\n</a>\n<a href=\"/societies\">\nFor Societies\n</a>\n</div>\n<div
+class=\"large-2 large-push-4 medium-3 small-6 columns\">\n<h3>\nMDPI Initiatives\n</h3>\n<a
+href=\"/ioap\">\nInstitutional Open Access Program (IOAP)\n</a>\n<a
+href=\"https://sciforum.net\" target=\"_blank\" rel=\"noopener noreferrer\">\nSciforum\n</a>\n<a
+href=\"https://www.preprints.org\" target=\"_blank\" rel=\"noopener noreferrer\">\nPreprints\n</a>\n<a
+href=\"https://www.scilit.net\" target=\"_blank\" rel=\"noopener noreferrer\">\nScilit\n</a>\n<a
+href=\"https://sciprofiles.com\" target=\"_blank\" rel=\"noopener noreferrer\">\nSciProfiles\n</a>\n<a
+href=\"https://www.mdpi.com/books\" target=\"_blank\" rel=\"noopener noreferrer\">\nMDPI Books\n</a>\n<a
+href=\"https://encyclopedia.pub\" target=\"_blank\" rel=\"noopener noreferrer\">\nEncyclopedia\n</a>\n<a
+href=\"https://jams.pub\" target=\"_blank\" rel=\"noopener noreferrer\">\nJAMS\n</a>\n<a
+href=\"/about/proceedings\">\nProceedings\n</a>\n<a
+href=\"http://blog.mdpi.com/\" onclick=\"ga('send', 'pageview', 'homeBlog');\" target=\"_blank\" rel=\"noopener noreferrer\">\nMDPI Blog\n</a>\n</div>\n<div
+class=\"large-2 large-push-4 medium-3 small-6 right-border-large-without columns UA_FooterFollowMDPI\">\n<h3>\nFollow
+MDPI\n
+</h3>\n<a
+href=\"https://www.linkedin.com/company/mdpi\" target=\"_blank\" rel=\"noopener noreferrer\">\nLinkedIn\n</a>\n<a
+href=\"https://www.facebook.com/MDPIOpenAccessPublishing\" target=\"_blank\" rel=\"noopener noreferrer\">\nFacebook\n</a>\n<a
+href=\"https://twitter.com/MDPIOpenAccess\" target=\"_blank\" rel=\"noopener noreferrer\">\nTwitter\n</a>\n</div>\n<div
+id=\"footer-subscribe\" class=\"large-4 large-pull-8 medium-12 small-12 left-border-large columns\">\n<div
+class=\"footer-subscribe__container\">\n<img
+class=\"show-for-large-up\" src=\"https://www.mdpi.com/img/design/mdpi-pub-logo-white-small.png?71d18e5f805839ab\" alt=\"MDPI\" title=\"MDPI Open Access Journals\" style=\"height: 50px; margin-bottom: 10px;\">\n</div>\n</div>\n</div>\n<div
+id=\"footer-copyright\">\n<div class=\"row\">\n<div
+class=\"columns large-6 medium-6 small-12 text-left\">\n\u00a9 1996-2021 MDPI (Basel, Switzerland) unless otherwise stated\n</div>\n<div
+class=\"columns large-6 medium-6 small-12 small-text-left medium-text-right large-text-right\">\n<a
+data-dropdown=\"drop-view-disclaimer\" aria-controls=\"drop-view-disclaimer\" aria-expanded=\"false\" data-options=\"align:top; is_hover:true; hover_timeout:2000;\">\nDisclaimer\n</a>\n<div
+id=\"drop-view-disclaimer\" class=\"f-dropdown label__btn__dropdown label__btn__dropdown--wide text-left\" data-dropdown-content aria-hidden=\"true\" tabindex=\"-1\">\nThe statements, opinions and data contained in the journals are solely\nthose of the individual authors and contributors and not of the publisher and the editor(s).\nMDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.\n</div>\n<a
+href=\"/about/terms-and-conditions\">\nTerms and Conditions\n</a>\n<a
+href=\"/about/privacy\">\nPrivacy Policy\n</a>\n</div>\n</div>\n</div>\n</div>\n<div
+id=\"cookie-notification\" class=\"js-allow-cookies\" style=\"display: none;\">\n<div
+class=\"columns large-10 medium-10 small-12\">\nWe use cookies on our website to ensure you get the best experience.<br
+class=\"show-for-medium-up\" />\nRead more about our cookies <a href=\"/about/privacy\">here</a>.\n</div>\n<div
+class=\"columns large-2 medium-2 small-12 small-only-text-left text-right\">\n<a
+class=\"button button--default\" href=\"/accept_cookies\">Accept</a>\n</div>\n</div>\n<div
+id=\"cookie-notification\" class=\"js-survey\" style=\"display: none;\">\n<div
+class=\"columns large-10 medium-10 small-12\">\n<strong>We have just recently launched a new version of our website.
+</strong><br class=\"show-for-meidum-up\" />\n<span
+style=\"font-weight: 400;\">\nHelp us to further improve by taking part in this short 5 minute survey <span
+style=\"inline-block\">\n<span class=\"show-for-medium-up js-survey-link\"><a
+href=\"https://www.surveymonkey.com/r/VWJZ6VW\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.</span>\n<span
+class=\"show-for-small-only js-survey-link\"><a
+href=\"https://www.surveymonkey.com/r/VWMDSNQ\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.</span>\n</span>\n</span>\n</div>\n<div
+class=\"columns large-2 medium-2 small-12 small-only-text-left text-right\">\n<a
+class=\"button button--default js-disable-survey-link\" href=\"/disable_survey\">Never show this again</a>\n</div>\n</div>\n</div>\n<div
+id=\"main-share-modal\" class=\"reveal-modal reveal-modal-new reveal-modal-new--small\" data-reveal aria-labelledby=\"modalTitle\" aria-hidden=\"true\" role=\"dialog\">\n<div
+class=\"row\">\n<div class=\"small-12 columns\">\n<h2 style=\"margin: 0;\">Share Link</h2>\n</div>\n<div
+class=\"small-12 columns\">\n<div class=\"social-media-links UA_ShareModalLinks\" style=\"text-align: left;\">\n<a
+href=\"/cdn-cgi/l/email-protection#b48b92d5d9c48fc7c1d6ded1d7c089f2c6dbd9918684f9f0e4fd9187f591868491868692c5c1dbc08f92d5d9c48fd6dbd0cd89dcc0c0c4c78e9b9bc3c3c39ad9d0c4dd9ad7dbd99bc6c7c79bdedbc1c6dad5d89bd9d5c6dddad1d0c6c1d3c79184f59187f59184f59184f59184f59184f5f5d6c7c0c6d5d7c09187f5918684\" title=\"Email\">\n<i
+class=\"fa fa-envelope-square\" style=\"font-size: 30px;\"></i>\n</a>\n<a
+href=\"https://twitter.com/intent/tweet?text=&amp;hashtags=&amp;url=https%3A%2F%2Fwww.mdpi.com%2Frss%2Fjournal%2Fmarinedrugs%250A&amp;via=MDPIOpenAccess\" onclick=\"windowOpen(this.href,600,800); return false\" title=\"Twitter\" target=\"_blank\">\n<i
+class=\"fa fa-twitter-square\" style=\"font-size: 30px;\"></i>\n</a>\n<a
+href=\"\t            http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.mdpi.com%2Frss%2Fjournal%2Fmarinedrugs%250A&amp;title=%26source%3Dhttps%3A%2F%2Fwww.mdpi.com\" onclick=\"windowOpen(this.href,600,800); return false\" title=\"LinkedIn\" target=\"_blank\">\n<i
+class=\"fa fa-linkedin-square\" style=\"font-size: 30px;\"></i>\n</a>\n<a
+href=\"https://www.facebook.com/sharer.php?u=https://www.mdpi.com/rss/journal/marinedrugs%0A\" title=\"facebook\" target=\"_blank\">\n<i
+class=\"fa fa-facebook-square\" style=\"font-size: 30px;\"></i>\n</a>\n<a
+href=\"javascript:void(0);\" title=\"Wechat\" data-reveal-id=\"weixin-share-modal\">\n<i
+class=\"fa fa-weixin-square\" style=\"font-size: 26px;\"></i>\n</a>\n<a
+href=\"https://www.reddit.com/submit?url=https://www.mdpi.com/rss/journal/marinedrugs%0A\" title=\"Reddit\" target=\"_blank\">\n<i
+class=\"fa fa-reddit-square\" style=\"font-size: 30px;\"></i>\n</a>\n<a
+href=\"https://www.mendeley.com/import/?url=https://www.mdpi.com/rss/journal/marinedrugs%0A\" title=\"Mendeley\" target=\"_blank\">\n<i
+class=\"fa fa-mendeley-square\" style=\"font-size: 30px;\"></i>\n</a>\n<a
+href=\"http://www.citeulike.org/posturl?url=https://www.mdpi.com/rss/journal/marinedrugs%0A\" title=\"CiteULike\" target=\"_blank\">\n<i
+class=\"fa fa-citeulike-square\" style=\"font-size: 30px;\"></i>\n</a>\n</div>\n</div>\n<div
+class=\"small-9 columns\">\n<input
+id=\"js-clipboard-text\" type=\"text\" readonly value=\"https://www.mdpi.com/rss/journal/marinedrugs%0A\" />\n</div>\n<div
+class=\"small-3 columns text-left\">\n<a
+class=\"button button--color js-clipboard-copy\" data-clipboard-target=\"#js-clipboard-text\">Copy</a>\n</div>\n</div>\n<a
+class=\"close-reveal-modal\" aria-label=\"Close\">\n<i class=\"material-icons\">clear</i>\n</a>\n</div>\n<div
+id=\"weixin-share-modal\" class=\"reveal-modal reveal-modal-new\" data-reveal aria-labelledby=\"weixin-share-modal-title\" aria-hidden=\"true\" role=\"dialog\">\n<div
+class=\"row\">\n<div class=\"small-12 columns\">\n<h2
+id=\"weixin-share-modal-title\" style=\"margin: 0;\">Share</h2>\n</div>\n<div class=\"small-12 columns\">\n<div
+class=\"weixin-qr-code-section\">\n\n<!DOCTYPE svg PUBLIC \"-//W3C//DTD SVG 1.1//EN\" \"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd\">\n<svg
+width=\"348\" height=\"348\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\">\n<desc>
+https://www.mdpi.com/rss/journal/marinedrugs%0A
+</desc>\n<g id=\"elements\" fill=\"black\" stroke=\"none\">\n<rect x=\"0\" y=\"0\" width=\"12\" height=\"12\" />\n<rect
+x=\"12\" y=\"0\" width=\"12\" height=\"12\" />\n<rect x=\"24\" y=\"0\" width=\"12\" height=\"12\" />\n<rect
+x=\"36\" y=\"0\" width=\"12\" height=\"12\" />\n<rect x=\"48\" y=\"0\" width=\"12\" height=\"12\" />\n<rect
+x=\"60\" y=\"0\" width=\"12\" height=\"12\" />\n<rect x=\"72\" y=\"0\" width=\"12\" height=\"12\" />\n<rect
+x=\"108\" y=\"0\" width=\"12\" height=\"12\" />\n<rect x=\"156\" y=\"0\" width=\"12\" height=\"12\" />\n<rect
+x=\"192\" y=\"0\" width=\"12\" height=\"12\" />\n<rect x=\"228\" y=\"0\" width=\"12\" height=\"12\" />\n<rect
+x=\"240\" y=\"0\" width=\"12\" height=\"12\" />\n<rect x=\"264\" y=\"0\" width=\"12\" height=\"12\" />\n<rect
+x=\"276\" y=\"0\" width=\"12\" height=\"12\" />\n<rect x=\"288\" y=\"0\" width=\"12\" height=\"12\" />\n<rect
+x=\"300\" y=\"0\" width=\"12\" height=\"12\" />\n<rect x=\"312\" y=\"0\" width=\"12\" height=\"12\" />\n<rect
+x=\"324\" y=\"0\" width=\"12\" height=\"12\" />\n<rect x=\"336\" y=\"0\" width=\"12\" height=\"12\" />\n<rect
+x=\"0\" y=\"12\" width=\"12\" height=\"12\" />\n<rect x=\"72\" y=\"12\" width=\"12\" height=\"12\" />\n<rect
+x=\"96\" y=\"12\" width=\"12\" height=\"12\" />\n<rect x=\"108\" y=\"12\" width=\"12\" height=\"12\" />\n<rect
+x=\"132\" y=\"12\" width=\"12\" height=\"12\" />\n<rect x=\"144\" y=\"12\" width=\"12\" height=\"12\" />\n<rect
+x=\"180\" y=\"12\" width=\"12\" height=\"12\" />\n<rect x=\"204\" y=\"12\" width=\"12\" height=\"12\" />\n<rect
+x=\"216\" y=\"12\" width=\"12\" height=\"12\" />\n<rect x=\"264\" y=\"12\" width=\"12\" height=\"12\" />\n<rect
+x=\"336\" y=\"12\" width=\"12\" height=\"12\" />\n<rect x=\"0\" y=\"24\" width=\"12\" height=\"12\" />\n<rect
+x=\"24\" y=\"24\" width=\"12\" height=\"12\" />\n<rect x=\"36\" y=\"24\" width=\"12\" height=\"12\" />\n<rect
+x=\"48\" y=\"24\" width=\"12\" height=\"12\" />\n<rect x=\"72\" y=\"24\" width=\"12\" height=\"12\" />\n<rect
+x=\"108\" y=\"24\" width=\"12\" height=\"12\" />\n<rect x=\"120\" y=\"24\" width=\"12\" height=\"12\" />\n<rect
+x=\"132\" y=\"24\" width=\"12\" height=\"12\" />\n<rect x=\"168\" y=\"24\" width=\"12\" height=\"12\" />\n<rect
+x=\"228\" y=\"24\" width=\"12\" height=\"12\" />\n<rect x=\"264\" y=\"24\" width=\"12\" height=\"12\" />\n<rect
+x=\"288\" y=\"24\" width=\"12\" height=\"12\" />\n<rect x=\"300\" y=\"24\" width=\"12\" height=\"12\" />\n<rect
+x=\"312\" y=\"24\" width=\"12\" height=\"12\" />\n<rect x=\"336\" y=\"24\" width=\"12\" height=\"12\" />\n<rect
+x=\"0\" y=\"36\" width=\"12\" height=\"12\" />\n<rect x=\"24\" y=\"36\" width=\"12\" height=\"12\" />\n<rect
+x=\"36\" y=\"36\" width=\"12\" height=\"12\" />\n<rect x=\"48\" y=\"36\" width=\"12\" height=\"12\" />\n<rect
+x=\"72\" y=\"36\" width=\"12\" height=\"12\" />\n<rect x=\"96\" y=\"36\" width=\"12\" height=\"12\" />\n<rect
+x=\"108\" y=\"36\" width=\"12\" height=\"12\" />\n<rect x=\"132\" y=\"36\" width=\"12\" height=\"12\" />\n<rect
+x=\"156\" y=\"36\" width=\"12\" height=\"12\" />\n<rect x=\"168\" y=\"36\" width=\"12\" height=\"12\" />\n<rect
+x=\"180\" y=\"36\" width=\"12\" height=\"12\" />\n<rect x=\"192\" y=\"36\" width=\"12\" height=\"12\" />\n<rect
+x=\"204\" y=\"36\" width=\"12\" height=\"12\" />\n<rect x=\"240\" y=\"36\" width=\"12\" height=\"12\" />\n<rect
+x=\"264\" y=\"36\" width=\"12\" height=\"12\" />\n<rect x=\"288\" y=\"36\" width=\"12\" height=\"12\" />\n<rect
+x=\"300\" y=\"36\" width=\"12\" height=\"12\" />\n<rect x=\"312\" y=\"36\" width=\"12\" height=\"12\" />\n<rect
+x=\"336\" y=\"36\" width=\"12\" height=\"12\" />\n<rect x=\"0\" y=\"48\" width=\"12\" height=\"12\" />\n<rect
+x=\"24\" y=\"48\" width=\"12\" height=\"12\" />\n<rect x=\"36\" y=\"48\" width=\"12\" height=\"12\" />\n<rect
+x=\"48\" y=\"48\" width=\"12\" height=\"12\" />\n<rect x=\"72\" y=\"48\" width=\"12\" height=\"12\" />\n<rect
+x=\"120\" y=\"48\" width=\"12\" height=\"12\" />\n<rect x=\"144\" y=\"48\" width=\"12\" height=\"12\" />\n<rect
+x=\"156\" y=\"48\" width=\"12\" height=\"12\" />\n<rect x=\"192\" y=\"48\" width=\"12\" height=\"12\" />\n<rect
+x=\"228\" y=\"48\" width=\"12\" height=\"12\" />\n<rect x=\"240\" y=\"48\" width=\"12\" height=\"12\" />\n<rect
+x=\"264\" y=\"48\" width=\"12\" height=\"12\" />\n<rect x=\"288\" y=\"48\" width=\"12\" height=\"12\" />\n<rect
+x=\"300\" y=\"48\" width=\"12\" height=\"12\" />\n<rect x=\"312\" y=\"48\" width=\"12\" height=\"12\" />\n<rect
+x=\"336\" y=\"48\" width=\"12\" height=\"12\" />\n<rect x=\"0\" y=\"60\" width=\"12\" height=\"12\" />\n<rect
+x=\"72\" y=\"60\" width=\"12\" height=\"12\" />\n<rect x=\"96\" y=\"60\" width=\"12\" height=\"12\" />\n<rect
+x=\"120\" y=\"60\" width=\"12\" height=\"12\" />\n<rect x=\"156\" y=\"60\" width=\"12\" height=\"12\" />\n<rect
+x=\"168\" y=\"60\" width=\"12\" height=\"12\" />\n<rect x=\"180\" y=\"60\" width=\"12\" height=\"12\" />\n<rect
+x=\"192\" y=\"60\" width=\"12\" height=\"12\" />\n<rect x=\"204\" y=\"60\" width=\"12\" height=\"12\" />\n<rect
+x=\"216\" y=\"60\" width=\"12\" height=\"12\" />\n<rect x=\"240\" y=\"60\" width=\"12\" height=\"12\" />\n<rect
+x=\"264\" y=\"60\" width=\"12\" height=\"12\" />\n<rect x=\"336\" y=\"60\" width=\"12\" height=\"12\" />\n<rect
+x=\"0\" y=\"72\" width=\"12\" height=\"12\" />\n<rect x=\"12\" y=\"72\" width=\"12\" height=\"12\" />\n<rect
+x=\"24\" y=\"72\" width=\"12\" height=\"12\" />\n<rect x=\"36\" y=\"72\" width=\"12\" height=\"12\" />\n<rect
+x=\"48\" y=\"72\" width=\"12\" height=\"12\" />\n<rect x=\"60\" y=\"72\" width=\"12\" height=\"12\" />\n<rect
+x=\"72\" y=\"72\" width=\"12\" height=\"12\" />\n<rect x=\"96\" y=\"72\" width=\"12\" height=\"12\" />\n<rect
+x=\"120\" y=\"72\" width=\"12\" height=\"12\" />\n<rect x=\"144\" y=\"72\" width=\"12\" height=\"12\" />\n<rect
+x=\"168\" y=\"72\" width=\"12\" height=\"12\" />\n<rect x=\"192\" y=\"72\" width=\"12\" height=\"12\" />\n<rect
+x=\"216\" y=\"72\" width=\"12\" height=\"12\" />\n<rect x=\"240\" y=\"72\" width=\"12\" height=\"12\" />\n<rect
+x=\"264\" y=\"72\" width=\"12\" height=\"12\" />\n<rect x=\"276\" y=\"72\" width=\"12\" height=\"12\" />\n<rect
+x=\"288\" y=\"72\" width=\"12\" height=\"12\" />\n<rect x=\"300\" y=\"72\" width=\"12\" height=\"12\" />\n<rect
+x=\"312\" y=\"72\" width=\"12\" height=\"12\" />\n<rect x=\"324\" y=\"72\" width=\"12\" height=\"12\" />\n<rect
+x=\"336\" y=\"72\" width=\"12\" height=\"12\" />\n<rect x=\"144\" y=\"84\" width=\"12\" height=\"12\" />\n<rect
+x=\"180\" y=\"84\" width=\"12\" height=\"12\" />\n<rect x=\"228\" y=\"84\" width=\"12\" height=\"12\" />\n<rect
+x=\"240\" y=\"84\" width=\"12\" height=\"12\" />\n<rect x=\"0\" y=\"96\" width=\"12\" height=\"12\" />\n<rect
+x=\"12\" y=\"96\" width=\"12\" height=\"12\" />\n<rect x=\"24\" y=\"96\" width=\"12\" height=\"12\" />\n<rect
+x=\"36\" y=\"96\" width=\"12\" height=\"12\" />\n<rect x=\"48\" y=\"96\" width=\"12\" height=\"12\" />\n<rect
+x=\"72\" y=\"96\" width=\"12\" height=\"12\" />\n<rect x=\"84\" y=\"96\" width=\"12\" height=\"12\" />\n<rect
+x=\"96\" y=\"96\" width=\"12\" height=\"12\" />\n<rect x=\"108\" y=\"96\" width=\"12\" height=\"12\" />\n<rect
+x=\"120\" y=\"96\" width=\"12\" height=\"12\" />\n<rect x=\"144\" y=\"96\" width=\"12\" height=\"12\" />\n<rect
+x=\"156\" y=\"96\" width=\"12\" height=\"12\" />\n<rect x=\"168\" y=\"96\" width=\"12\" height=\"12\" />\n<rect
+x=\"180\" y=\"96\" width=\"12\" height=\"12\" />\n<rect x=\"204\" y=\"96\" width=\"12\" height=\"12\" />\n<rect
+x=\"216\" y=\"96\" width=\"12\" height=\"12\" />\n<rect x=\"228\" y=\"96\" width=\"12\" height=\"12\" />\n<rect
+x=\"252\" y=\"96\" width=\"12\" height=\"12\" />\n<rect x=\"276\" y=\"96\" width=\"12\" height=\"12\" />\n<rect
+x=\"300\" y=\"96\" width=\"12\" height=\"12\" />\n<rect x=\"324\" y=\"96\" width=\"12\" height=\"12\" />\n<rect
+x=\"12\" y=\"108\" width=\"12\" height=\"12\" />\n<rect x=\"36\" y=\"108\" width=\"12\" height=\"12\" />\n<rect
+x=\"60\" y=\"108\" width=\"12\" height=\"12\" />\n<rect x=\"84\" y=\"108\" width=\"12\" height=\"12\" />\n<rect
+x=\"108\" y=\"108\" width=\"12\" height=\"12\" />\n<rect x=\"192\" y=\"108\" width=\"12\" height=\"12\" />\n<rect
+x=\"204\" y=\"108\" width=\"12\" height=\"12\" />\n<rect x=\"216\" y=\"108\" width=\"12\" height=\"12\" />\n<rect
+x=\"228\" y=\"108\" width=\"12\" height=\"12\" />\n<rect x=\"252\" y=\"108\" width=\"12\" height=\"12\" />\n<rect
+x=\"264\" y=\"108\" width=\"12\" height=\"12\" />\n<rect x=\"276\" y=\"108\" width=\"12\" height=\"12\" />\n<rect
+x=\"288\" y=\"108\" width=\"12\" height=\"12\" />\n<rect x=\"336\" y=\"108\" width=\"12\" height=\"12\" />\n<rect
+x=\"0\" y=\"120\" width=\"12\" height=\"12\" />\n<rect x=\"12\" y=\"120\" width=\"12\" height=\"12\" />\n<rect
+x=\"24\" y=\"120\" width=\"12\" height=\"12\" />\n<rect x=\"72\" y=\"120\" width=\"12\" height=\"12\" />\n<rect
+x=\"96\" y=\"120\" width=\"12\" height=\"12\" />\n<rect x=\"108\" y=\"120\" width=\"12\" height=\"12\" />\n<rect
+x=\"132\" y=\"120\" width=\"12\" height=\"12\" />\n<rect x=\"144\" y=\"120\" width=\"12\" height=\"12\" />\n<rect
+x=\"168\" y=\"120\" width=\"12\" height=\"12\" />\n<rect x=\"180\" y=\"120\" width=\"12\" height=\"12\" />\n<rect
+x=\"192\" y=\"120\" width=\"12\" height=\"12\" />\n<rect x=\"204\" y=\"120\" width=\"12\" height=\"12\" />\n<rect
+x=\"240\" y=\"120\" width=\"12\" height=\"12\" />\n<rect x=\"264\" y=\"120\" width=\"12\" height=\"12\" />\n<rect
+x=\"0\" y=\"132\" width=\"12\" height=\"12\" />\n<rect x=\"24\" y=\"132\" width=\"12\" height=\"12\" />\n<rect
+x=\"48\" y=\"132\" width=\"12\" height=\"12\" />\n<rect x=\"60\" y=\"132\" width=\"12\" height=\"12\" />\n<rect
+x=\"108\" y=\"132\" width=\"12\" height=\"12\" />\n<rect x=\"120\" y=\"132\" width=\"12\" height=\"12\" />\n<rect
+x=\"132\" y=\"132\" width=\"12\" height=\"12\" />\n<rect x=\"168\" y=\"132\" width=\"12\" height=\"12\" />\n<rect
+x=\"180\" y=\"132\" width=\"12\" height=\"12\" />\n<rect x=\"192\" y=\"132\" width=\"12\" height=\"12\" />\n<rect
+x=\"240\" y=\"132\" width=\"12\" height=\"12\" />\n<rect x=\"276\" y=\"132\" width=\"12\" height=\"12\" />\n<rect
+x=\"300\" y=\"132\" width=\"12\" height=\"12\" />\n<rect x=\"324\" y=\"132\" width=\"12\" height=\"12\" />\n<rect
+x=\"0\" y=\"144\" width=\"12\" height=\"12\" />\n<rect x=\"12\" y=\"144\" width=\"12\" height=\"12\" />\n<rect
+x=\"24\" y=\"144\" width=\"12\" height=\"12\" />\n<rect x=\"36\" y=\"144\" width=\"12\" height=\"12\" />\n<rect
+x=\"48\" y=\"144\" width=\"12\" height=\"12\" />\n<rect x=\"72\" y=\"144\" width=\"12\" height=\"12\" />\n<rect
+x=\"108\" y=\"144\" width=\"12\" height=\"12\" />\n<rect x=\"132\" y=\"144\" width=\"12\" height=\"12\" />\n<rect
+x=\"144\" y=\"144\" width=\"12\" height=\"12\" />\n<rect x=\"156\" y=\"144\" width=\"12\" height=\"12\" />\n<rect
+x=\"168\" y=\"144\" width=\"12\" height=\"12\" />\n<rect x=\"204\" y=\"144\" width=\"12\" height=\"12\" />\n<rect
+x=\"228\" y=\"144\" width=\"12\" height=\"12\" />\n<rect x=\"300\" y=\"144\" width=\"12\" height=\"12\" />\n<rect
+x=\"312\" y=\"144\" width=\"12\" height=\"12\" />\n<rect x=\"0\" y=\"156\" width=\"12\" height=\"12\" />\n<rect
+x=\"24\" y=\"156\" width=\"12\" height=\"12\" />\n<rect x=\"36\" y=\"156\" width=\"12\" height=\"12\" />\n<rect
+x=\"84\" y=\"156\" width=\"12\" height=\"12\" />\n<rect x=\"96\" y=\"156\" width=\"12\" height=\"12\" />\n<rect
+x=\"120\" y=\"156\" width=\"12\" height=\"12\" />\n<rect x=\"144\" y=\"156\" width=\"12\" height=\"12\" />\n<rect
+x=\"192\" y=\"156\" width=\"12\" height=\"12\" />\n<rect x=\"204\" y=\"156\" width=\"12\" height=\"12\" />\n<rect
+x=\"216\" y=\"156\" width=\"12\" height=\"12\" />\n<rect x=\"228\" y=\"156\" width=\"12\" height=\"12\" />\n<rect
+x=\"240\" y=\"156\" width=\"12\" height=\"12\" />\n<rect x=\"252\" y=\"156\" width=\"12\" height=\"12\" />\n<rect
+x=\"264\" y=\"156\" width=\"12\" height=\"12\" />\n<rect x=\"288\" y=\"156\" width=\"12\" height=\"12\" />\n<rect
+x=\"336\" y=\"156\" width=\"12\" height=\"12\" />\n<rect x=\"12\" y=\"168\" width=\"12\" height=\"12\" />\n<rect
+x=\"36\" y=\"168\" width=\"12\" height=\"12\" />\n<rect x=\"72\" y=\"168\" width=\"12\" height=\"12\" />\n<rect
+x=\"84\" y=\"168\" width=\"12\" height=\"12\" />\n<rect x=\"96\" y=\"168\" width=\"12\" height=\"12\" />\n<rect
+x=\"108\" y=\"168\" width=\"12\" height=\"12\" />\n<rect x=\"168\" y=\"168\" width=\"12\" height=\"12\" />\n<rect
+x=\"180\" y=\"168\" width=\"12\" height=\"12\" />\n<rect x=\"192\" y=\"168\" width=\"12\" height=\"12\" />\n<rect
+x=\"204\" y=\"168\" width=\"12\" height=\"12\" />\n<rect x=\"216\" y=\"168\" width=\"12\" height=\"12\" />\n<rect
+x=\"240\" y=\"168\" width=\"12\" height=\"12\" />\n<rect x=\"276\" y=\"168\" width=\"12\" height=\"12\" />\n<rect
+x=\"300\" y=\"168\" width=\"12\" height=\"12\" />\n<rect x=\"312\" y=\"168\" width=\"12\" height=\"12\" />\n<rect
+x=\"48\" y=\"180\" width=\"12\" height=\"12\" />\n<rect x=\"120\" y=\"180\" width=\"12\" height=\"12\" />\n<rect
+x=\"144\" y=\"180\" width=\"12\" height=\"12\" />\n<rect x=\"192\" y=\"180\" width=\"12\" height=\"12\" />\n<rect
+x=\"216\" y=\"180\" width=\"12\" height=\"12\" />\n<rect x=\"228\" y=\"180\" width=\"12\" height=\"12\" />\n<rect
+x=\"240\" y=\"180\" width=\"12\" height=\"12\" />\n<rect x=\"252\" y=\"180\" width=\"12\" height=\"12\" />\n<rect
+x=\"276\" y=\"180\" width=\"12\" height=\"12\" />\n<rect x=\"288\" y=\"180\" width=\"12\" height=\"12\" />\n<rect
+x=\"324\" y=\"180\" width=\"12\" height=\"12\" />\n<rect x=\"0\" y=\"192\" width=\"12\" height=\"12\" />\n<rect
+x=\"12\" y=\"192\" width=\"12\" height=\"12\" />\n<rect x=\"24\" y=\"192\" width=\"12\" height=\"12\" />\n<rect
+x=\"36\" y=\"192\" width=\"12\" height=\"12\" />\n<rect x=\"48\" y=\"192\" width=\"12\" height=\"12\" />\n<rect
+x=\"72\" y=\"192\" width=\"12\" height=\"12\" />\n<rect x=\"84\" y=\"192\" width=\"12\" height=\"12\" />\n<rect
+x=\"96\" y=\"192\" width=\"12\" height=\"12\" />\n<rect x=\"144\" y=\"192\" width=\"12\" height=\"12\" />\n<rect
+x=\"156\" y=\"192\" width=\"12\" height=\"12\" />\n<rect x=\"168\" y=\"192\" width=\"12\" height=\"12\" />\n<rect
+x=\"204\" y=\"192\" width=\"12\" height=\"12\" />\n<rect x=\"228\" y=\"192\" width=\"12\" height=\"12\" />\n<rect
+x=\"276\" y=\"192\" width=\"12\" height=\"12\" />\n<rect x=\"300\" y=\"192\" width=\"12\" height=\"12\" />\n<rect
+x=\"312\" y=\"192\" width=\"12\" height=\"12\" />\n<rect x=\"0\" y=\"204\" width=\"12\" height=\"12\" />\n<rect
+x=\"12\" y=\"204\" width=\"12\" height=\"12\" />\n<rect x=\"24\" y=\"204\" width=\"12\" height=\"12\" />\n<rect
+x=\"84\" y=\"204\" width=\"12\" height=\"12\" />\n<rect x=\"108\" y=\"204\" width=\"12\" height=\"12\" />\n<rect
+x=\"120\" y=\"204\" width=\"12\" height=\"12\" />\n<rect x=\"168\" y=\"204\" width=\"12\" height=\"12\" />\n<rect
+x=\"204\" y=\"204\" width=\"12\" height=\"12\" />\n<rect x=\"216\" y=\"204\" width=\"12\" height=\"12\" />\n<rect
+x=\"228\" y=\"204\" width=\"12\" height=\"12\" />\n<rect x=\"240\" y=\"204\" width=\"12\" height=\"12\" />\n<rect
+x=\"264\" y=\"204\" width=\"12\" height=\"12\" />\n<rect x=\"276\" y=\"204\" width=\"12\" height=\"12\" />\n<rect
+x=\"288\" y=\"204\" width=\"12\" height=\"12\" />\n<rect x=\"312\" y=\"204\" width=\"12\" height=\"12\" />\n<rect
+x=\"336\" y=\"204\" width=\"12\" height=\"12\" />\n<rect x=\"0\" y=\"216\" width=\"12\" height=\"12\" />\n<rect
+x=\"24\" y=\"216\" width=\"12\" height=\"12\" />\n<rect x=\"36\" y=\"216\" width=\"12\" height=\"12\" />\n<rect
+x=\"48\" y=\"216\" width=\"12\" height=\"12\" />\n<rect x=\"72\" y=\"216\" width=\"12\" height=\"12\" />\n<rect
+x=\"84\" y=\"216\" width=\"12\" height=\"12\" />\n<rect x=\"120\" y=\"216\" width=\"12\" height=\"12\" />\n<rect
+x=\"144\" y=\"216\" width=\"12\" height=\"12\" />\n<rect x=\"156\" y=\"216\" width=\"12\" height=\"12\" />\n<rect
+x=\"180\" y=\"216\" width=\"12\" height=\"12\" />\n<rect x=\"204\" y=\"216\" width=\"12\" height=\"12\" />\n<rect
+x=\"240\" y=\"216\" width=\"12\" height=\"12\" />\n<rect x=\"252\" y=\"216\" width=\"12\" height=\"12\" />\n<rect
+x=\"276\" y=\"216\" width=\"12\" height=\"12\" />\n<rect x=\"312\" y=\"216\" width=\"12\" height=\"12\" />\n<rect
+x=\"0\" y=\"228\" width=\"12\" height=\"12\" />\n<rect x=\"24\" y=\"228\" width=\"12\" height=\"12\" />\n<rect
+x=\"36\" y=\"228\" width=\"12\" height=\"12\" />\n<rect x=\"60\" y=\"228\" width=\"12\" height=\"12\" />\n<rect
+x=\"84\" y=\"228\" width=\"12\" height=\"12\" />\n<rect x=\"108\" y=\"228\" width=\"12\" height=\"12\" />\n<rect
+x=\"120\" y=\"228\" width=\"12\" height=\"12\" />\n<rect x=\"144\" y=\"228\" width=\"12\" height=\"12\" />\n<rect
+x=\"180\" y=\"228\" width=\"12\" height=\"12\" />\n<rect x=\"192\" y=\"228\" width=\"12\" height=\"12\" />\n<rect
+x=\"228\" y=\"228\" width=\"12\" height=\"12\" />\n<rect x=\"252\" y=\"228\" width=\"12\" height=\"12\" />\n<rect
+x=\"276\" y=\"228\" width=\"12\" height=\"12\" />\n<rect x=\"288\" y=\"228\" width=\"12\" height=\"12\" />\n<rect
+x=\"324\" y=\"228\" width=\"12\" height=\"12\" />\n<rect x=\"0\" y=\"240\" width=\"12\" height=\"12\" />\n<rect
+x=\"24\" y=\"240\" width=\"12\" height=\"12\" />\n<rect x=\"60\" y=\"240\" width=\"12\" height=\"12\" />\n<rect
+x=\"72\" y=\"240\" width=\"12\" height=\"12\" />\n<rect x=\"108\" y=\"240\" width=\"12\" height=\"12\" />\n<rect
+x=\"156\" y=\"240\" width=\"12\" height=\"12\" />\n<rect x=\"168\" y=\"240\" width=\"12\" height=\"12\" />\n<rect
+x=\"204\" y=\"240\" width=\"12\" height=\"12\" />\n<rect x=\"240\" y=\"240\" width=\"12\" height=\"12\" />\n<rect
+x=\"252\" y=\"240\" width=\"12\" height=\"12\" />\n<rect x=\"264\" y=\"240\" width=\"12\" height=\"12\" />\n<rect
+x=\"276\" y=\"240\" width=\"12\" height=\"12\" />\n<rect x=\"288\" y=\"240\" width=\"12\" height=\"12\" />\n<rect
+x=\"312\" y=\"240\" width=\"12\" height=\"12\" />\n<rect x=\"324\" y=\"240\" width=\"12\" height=\"12\" />\n<rect
+x=\"336\" y=\"240\" width=\"12\" height=\"12\" />\n<rect x=\"96\" y=\"252\" width=\"12\" height=\"12\" />\n<rect
+x=\"108\" y=\"252\" width=\"12\" height=\"12\" />\n<rect x=\"132\" y=\"252\" width=\"12\" height=\"12\" />\n<rect
+x=\"144\" y=\"252\" width=\"12\" height=\"12\" />\n<rect x=\"168\" y=\"252\" width=\"12\" height=\"12\" />\n<rect
+x=\"192\" y=\"252\" width=\"12\" height=\"12\" />\n<rect x=\"240\" y=\"252\" width=\"12\" height=\"12\" />\n<rect
+x=\"288\" y=\"252\" width=\"12\" height=\"12\" />\n<rect x=\"300\" y=\"252\" width=\"12\" height=\"12\" />\n<rect
+x=\"312\" y=\"252\" width=\"12\" height=\"12\" />\n<rect x=\"324\" y=\"252\" width=\"12\" height=\"12\" />\n<rect
+x=\"336\" y=\"252\" width=\"12\" height=\"12\" />\n<rect x=\"0\" y=\"264\" width=\"12\" height=\"12\" />\n<rect
+x=\"12\" y=\"264\" width=\"12\" height=\"12\" />\n<rect x=\"24\" y=\"264\" width=\"12\" height=\"12\" />\n<rect
+x=\"36\" y=\"264\" width=\"12\" height=\"12\" />\n<rect x=\"48\" y=\"264\" width=\"12\" height=\"12\" />\n<rect
+x=\"60\" y=\"264\" width=\"12\" height=\"12\" />\n<rect x=\"72\" y=\"264\" width=\"12\" height=\"12\" />\n<rect
+x=\"96\" y=\"264\" width=\"12\" height=\"12\" />\n<rect x=\"120\" y=\"264\" width=\"12\" height=\"12\" />\n<rect
+x=\"168\" y=\"264\" width=\"12\" height=\"12\" />\n<rect x=\"180\" y=\"264\" width=\"12\" height=\"12\" />\n<rect
+x=\"192\" y=\"264\" width=\"12\" height=\"12\" />\n<rect x=\"228\" y=\"264\" width=\"12\" height=\"12\" />\n<rect
+x=\"240\" y=\"264\" width=\"12\" height=\"12\" />\n<rect x=\"264\" y=\"264\" width=\"12\" height=\"12\" />\n<rect
+x=\"288\" y=\"264\" width=\"12\" height=\"12\" />\n<rect x=\"300\" y=\"264\" width=\"12\" height=\"12\" />\n<rect
+x=\"312\" y=\"264\" width=\"12\" height=\"12\" />\n<rect x=\"0\" y=\"276\" width=\"12\" height=\"12\" />\n<rect
+x=\"72\" y=\"276\" width=\"12\" height=\"12\" />\n<rect x=\"120\" y=\"276\" width=\"12\" height=\"12\" />\n<rect
+x=\"168\" y=\"276\" width=\"12\" height=\"12\" />\n<rect x=\"180\" y=\"276\" width=\"12\" height=\"12\" />\n<rect
+x=\"228\" y=\"276\" width=\"12\" height=\"12\" />\n<rect x=\"240\" y=\"276\" width=\"12\" height=\"12\" />\n<rect
+x=\"288\" y=\"276\" width=\"12\" height=\"12\" />\n<rect x=\"336\" y=\"276\" width=\"12\" height=\"12\" />\n<rect
+x=\"0\" y=\"288\" width=\"12\" height=\"12\" />\n<rect x=\"24\" y=\"288\" width=\"12\" height=\"12\" />\n<rect
+x=\"36\" y=\"288\" width=\"12\" height=\"12\" />\n<rect x=\"48\" y=\"288\" width=\"12\" height=\"12\" />\n<rect
+x=\"72\" y=\"288\" width=\"12\" height=\"12\" />\n<rect x=\"96\" y=\"288\" width=\"12\" height=\"12\" />\n<rect
+x=\"108\" y=\"288\" width=\"12\" height=\"12\" />\n<rect x=\"120\" y=\"288\" width=\"12\" height=\"12\" />\n<rect
+x=\"144\" y=\"288\" width=\"12\" height=\"12\" />\n<rect x=\"156\" y=\"288\" width=\"12\" height=\"12\" />\n<rect
+x=\"168\" y=\"288\" width=\"12\" height=\"12\" />\n<rect x=\"180\" y=\"288\" width=\"12\" height=\"12\" />\n<rect
+x=\"204\" y=\"288\" width=\"12\" height=\"12\" />\n<rect x=\"240\" y=\"288\" width=\"12\" height=\"12\" />\n<rect
+x=\"252\" y=\"288\" width=\"12\" height=\"12\" />\n<rect x=\"264\" y=\"288\" width=\"12\" height=\"12\" />\n<rect
+x=\"276\" y=\"288\" width=\"12\" height=\"12\" />\n<rect x=\"288\" y=\"288\" width=\"12\" height=\"12\" />\n<rect
+x=\"312\" y=\"288\" width=\"12\" height=\"12\" />\n<rect x=\"336\" y=\"288\" width=\"12\" height=\"12\" />\n<rect
+x=\"0\" y=\"300\" width=\"12\" height=\"12\" />\n<rect x=\"24\" y=\"300\" width=\"12\" height=\"12\" />\n<rect
+x=\"36\" y=\"300\" width=\"12\" height=\"12\" />\n<rect x=\"48\" y=\"300\" width=\"12\" height=\"12\" />\n<rect
+x=\"72\" y=\"300\" width=\"12\" height=\"12\" />\n<rect x=\"96\" y=\"300\" width=\"12\" height=\"12\" />\n<rect
+x=\"108\" y=\"300\" width=\"12\" height=\"12\" />\n<rect x=\"132\" y=\"300\" width=\"12\" height=\"12\" />\n<rect
+x=\"144\" y=\"300\" width=\"12\" height=\"12\" />\n<rect x=\"192\" y=\"300\" width=\"12\" height=\"12\" />\n<rect
+x=\"240\" y=\"300\" width=\"12\" height=\"12\" />\n<rect x=\"276\" y=\"300\" width=\"12\" height=\"12\" />\n<rect
+x=\"300\" y=\"300\" width=\"12\" height=\"12\" />\n<rect x=\"312\" y=\"300\" width=\"12\" height=\"12\" />\n<rect
+x=\"324\" y=\"300\" width=\"12\" height=\"12\" />\n<rect x=\"336\" y=\"300\" width=\"12\" height=\"12\" />\n<rect
+x=\"0\" y=\"312\" width=\"12\" height=\"12\" />\n<rect x=\"24\" y=\"312\" width=\"12\" height=\"12\" />\n<rect
+x=\"36\" y=\"312\" width=\"12\" height=\"12\" />\n<rect x=\"48\" y=\"312\" width=\"12\" height=\"12\" />\n<rect
+x=\"72\" y=\"312\" width=\"12\" height=\"12\" />\n<rect x=\"96\" y=\"312\" width=\"12\" height=\"12\" />\n<rect
+x=\"156\" y=\"312\" width=\"12\" height=\"12\" />\n<rect x=\"168\" y=\"312\" width=\"12\" height=\"12\" />\n<rect
+x=\"180\" y=\"312\" width=\"12\" height=\"12\" />\n<rect x=\"204\" y=\"312\" width=\"12\" height=\"12\" />\n<rect
+x=\"216\" y=\"312\" width=\"12\" height=\"12\" />\n<rect x=\"228\" y=\"312\" width=\"12\" height=\"12\" />\n<rect
+x=\"240\" y=\"312\" width=\"12\" height=\"12\" />\n<rect x=\"252\" y=\"312\" width=\"12\" height=\"12\" />\n<rect
+x=\"264\" y=\"312\" width=\"12\" height=\"12\" />\n<rect x=\"276\" y=\"312\" width=\"12\" height=\"12\" />\n<rect
+x=\"288\" y=\"312\" width=\"12\" height=\"12\" />\n<rect x=\"300\" y=\"312\" width=\"12\" height=\"12\" />\n<rect
+x=\"312\" y=\"312\" width=\"12\" height=\"12\" />\n<rect x=\"324\" y=\"312\" width=\"12\" height=\"12\" />\n<rect
+x=\"0\" y=\"324\" width=\"12\" height=\"12\" />\n<rect x=\"72\" y=\"324\" width=\"12\" height=\"12\" />\n<rect
+x=\"96\" y=\"324\" width=\"12\" height=\"12\" />\n<rect x=\"108\" y=\"324\" width=\"12\" height=\"12\" />\n<rect
+x=\"132\" y=\"324\" width=\"12\" height=\"12\" />\n<rect x=\"144\" y=\"324\" width=\"12\" height=\"12\" />\n<rect
+x=\"168\" y=\"324\" width=\"12\" height=\"12\" />\n<rect x=\"192\" y=\"324\" width=\"12\" height=\"12\" />\n<rect
+x=\"216\" y=\"324\" width=\"12\" height=\"12\" />\n<rect x=\"240\" y=\"324\" width=\"12\" height=\"12\" />\n<rect
+x=\"252\" y=\"324\" width=\"12\" height=\"12\" />\n<rect x=\"264\" y=\"324\" width=\"12\" height=\"12\" />\n<rect
+x=\"276\" y=\"324\" width=\"12\" height=\"12\" />\n<rect x=\"300\" y=\"324\" width=\"12\" height=\"12\" />\n<rect
+x=\"324\" y=\"324\" width=\"12\" height=\"12\" />\n<rect x=\"0\" y=\"336\" width=\"12\" height=\"12\" />\n<rect
+x=\"12\" y=\"336\" width=\"12\" height=\"12\" />\n<rect x=\"24\" y=\"336\" width=\"12\" height=\"12\" />\n<rect
+x=\"36\" y=\"336\" width=\"12\" height=\"12\" />\n<rect x=\"48\" y=\"336\" width=\"12\" height=\"12\" />\n<rect
+x=\"60\" y=\"336\" width=\"12\" height=\"12\" />\n<rect x=\"72\" y=\"336\" width=\"12\" height=\"12\" />\n<rect
+x=\"96\" y=\"336\" width=\"12\" height=\"12\" />\n<rect x=\"156\" y=\"336\" width=\"12\" height=\"12\" />\n<rect
+x=\"168\" y=\"336\" width=\"12\" height=\"12\" />\n<rect x=\"204\" y=\"336\" width=\"12\" height=\"12\" />\n<rect
+x=\"276\" y=\"336\" width=\"12\" height=\"12\" />\n<rect x=\"288\" y=\"336\" width=\"12\" height=\"12\" />\n<rect
+x=\"300\" y=\"336\" width=\"12\" height=\"12\" />\n<rect
+x=\"312\" y=\"336\" width=\"12\" height=\"12\" />\n</g>\n</svg>\n</div>\n</div>\n</div>\n<a
+class=\"close-reveal-modal\" aria-label=\"Close\">\n<i class=\"material-icons\">clear</i>\n</a>\n</div>\n<a
+href=\"#\" class=\"back-to-top\"><span class=\"show-for-medium-up\">Back to Top</span><span
+class=\"show-for-small\">Top</span></a>\n<script
+data-cfasync=\"false\" src=\"/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js\"></script><script
+src=\"https://www.mdpi.com/assets/js/modernizr-2.8.3.min.js?5227e0738f7f421d\"></script>\n<script
+src=\"https://www.mdpi.com/assets/js/jquery-1.12.4.min.js?4f252523d4af0b47\"></script>\n<script
+src=\"https://www.mdpi.com/assets/js/foundation-5.5.3.min.js?6b2ec41c18b29054\"></script>\n<script
+src=\"https://www.mdpi.com/assets/js/foundation-5.5.3.equalizer.min.js?0f6c549b75ec554c\"></script>\n<script
+src=\"https://www.mdpi.com/assets/js/jquery.multiselect.js?0edd3998731d1091\"></script>\n<script
+src=\"https://www.mdpi.com/assets/js/jquery.cycle2.min.js?63413052928f97ee\"></script>\n<script>\n
+$('select.foundation-select').multiselect({\n search: true,\n minHeight: 130,\n maxHeight: 130,\n });\n\n
+$(document).foundation({\n orbit: {\n timer_speed: 4000,\n },\n reveal: {\n animation: 'fadeAndPop',\n animation_speed:
+100,\n }\n });\n\n // old browser fix - this way the console log rows won't throw (silent) errors in browsers not
+supporting console log\n if (!window.console) window.console = {};\n if (!window.console.log) window.console.log =
+function () { };\n\n var currentJournalNameSystem = \"none\";\n\n $(document).ready(function()\n {\n
+$(\".chosen-select\").each(function(element) {\n var maxSelected = (undefined !== $(this).data('maxselectedoptions') ?
+$(this).data('maxselectedoptions') : 100);\n\n $(this).on('chosen:ready', function(event, data) {\n var select =
+$(data.chosen.form_field);\n if (select.attr('id') === 'journal-browser-volume') {\n
+$(data.chosen.dropdown).addClass('UI_JournalBrowser_Volume_Options');\n }\n if (select.attr('id') ===
+'journal-browser-issue') {\n $(data.chosen.dropdown).addClass('UI_JournalBrowser_Issue_Options');\n }\n }).chosen({
+disable_search_threshold: 7, max_selected_options: maxSelected, width: \"100%\" });\n });\n\n
+$(\".toEncode\").each(function(e) {\n var oldHref = $(this).attr(\"href\");\n var newHref =
+oldHref.replace('.botdefense.please.enable.javaScript.','@');\n $(this).attr(\"href\", newHref);\n\n if
+(!$(this).hasClass(\"emailCaptcha\"))\n {\n $(this).html(newHref.replace('mailto:', ''));\n }\n \n });\n\n
+$(document).on('opened.fndtn.reveal', '[data-reveal]', function()\n {\n $(document).foundation('equalizer', 'reflow');\n
+});\n\n // fix the images that have tag height / width defined\n // otherwise the default foundation styles overwrite
+the tag definitions\n $(\"img\").each(function()\n {\n if ($(this).attr('width') != undefined || $(this).attr('height')
+!= undefined)\n {\n $(this).addClass(\"img-fixed\");\n }\n });\n\n $(\"#basic_search,
+#advanced_search\").submit(function(e) {\n var searchArguments = false;\n\n
+$(this).find(\"input,select\").not(\"#search,.search-button\").each(function() {\n if (undefined === $(this).val() ||
+\"\" === $(this).val()) {\n $(this).attr('name', null);\n } else {\n $(this).attr('name');\n searchArguments = true;\n
+}\n });\n\n if (!searchArguments) {\n window.location = $(this).attr('action');\n return false;\n }\n });\n\n
+$(\".hide-show-desktop-option\").click(function(e) \n {\n e.preventDefault();\n var parentDiv =
+$(this).closest(\"div\");\n\n $.ajax({\n url: $(this).attr('href'),\n success: function(msg)\n {\n
+parentDiv.removeClass().hide();\n }\n });\n });\n\n /*\n * handle whole row as a link if the row contains only one
+visible link\n */\n $(\"table.new tr\").hover(function()\n {\n if ($(this).find(\"td:visible a\").length == 1)\n {\n
+$(this).addClass(\"single-link\");\n }\n },\n function()\n {\n $(this).removeClass(\"single-link\");\n });\n\n
+$(\"table.new:not(.table-of-tables)\").on(\"click\", \"tr.single-link\", function(e)\n {\n var target = $(e.target);\n
+if (!e.ctrlKey && !target.is(\"a\")) {\n $(this).find(\"td:visible a\")[0].click();\n }\n });\n\n
+$(document).on(\"click\", \".custom-accordion-for-small-screen-link\", function(e) {\n if
+($(this).closest(\"#basic_search\").length > 0) {\n if ($(\".search-container__advanced\").first().is(\":visible\")) {\n
+openAdvanced()\n }\n }\n\n if (Foundation.utils.is_small_only()) {\n if ($(this).hasClass(\"active\")) {\n
+$(this).removeClass(\"active\");\n
+$(this).next(\".custom-accordion-for-small-screen-content\").addClass(\"show-for-medium-up\");\n }\n else {\n
+$(this).addClass(\"active\");\n
+$(this).next(\".custom-accordion-for-small-screen-content\").removeClass(\"show-for-medium-up\");\n
+$(document).foundation('orbit', 'reflow');\n }\n }\n\n if (undefined !== $(this).data(\"callback\")) {\n var
+customCallback = $(this).data(\"callback\");\n func = window[customCallback];\n func();\n }\n });\n\n
+$(document).on(\"click\", \".js-open-small-search\", function(e) {\n e.preventDefault(); \n
+$(this).toggleClass(\"active\").closest(\".tab-bar\").toggleClass(\"active\");\n
+$(\".search-container\").toggleClass(\"hide-for-small-down\");\n });\n\n $(document).on(\"click\", \".js-survey-link\",
+function(e) {\n localStorage.setItem(\"mdpi_disable_survey\", true);\n window.location.href = \"/disable_survey\";\n
+});\n\n $(document).on(\"click\", \".js-disable-survey-link\", function(e) {\n
+localStorage.setItem(\"mdpi_disable_survey\", true);\n });\n\n $(document).on(\"click\", \".js-open-menu\", function(e)
+{\n $(\".search-container\").addClass(\"hide-for-small-down\");\n\n });\n\n $(window).on('resize', function() {\n
+recalculate_main_browser_position();\n recalculate_responsive_moving_containers();\n });\n\n checkCookiesAllowed();\n
+updateSearchLabelVisibilities();\n recalculate_main_browser_position();\n recalculate_responsive_moving_containers();\n
+\n \n if (window.document.documentMode == 11) {\n $(\"<link/>\", { rel: \"stylesheet\", type: \"text/css\", href:
+\"https://fonts.googleapis.com/icon?family=Material+Icons\"}).appendTo(\"head\");\n }\n });\n\n function
+recalculate_main_browser_position() {\n if (Foundation.utils.is_small_only()) {\n if
+($(\"#js-main-top-container\").parent(\"#js-large-main-top-container\").length > 0) {\n
+$(\"#js-main-top-container\").appendTo($(\"#js-small-main-top-container\"));\n }\n }\n else {\n if
+($(\"#js-main-top-container\").parent(\"#js-small-main-top-container\").length > 0) {\n
+$(\"#js-main-top-container\").appendTo($(\"#js-large-main-top-container\"));\n }\n }\n }\n\n function
+recalculate_responsive_moving_containers() {\n $(\".responsive-moving-container.large\").each(function() {\n var
+previousParent = $(\".responsive-moving-container.active[data-id='\"+$(this).data(\"id\")+\"']\");\n var movingContent =
+previousParent.html();\n\n if (Foundation.utils.is_small_only()) {\n var currentParent =
+$(\".responsive-moving-container.small[data-id='\"+$(this).data(\"id\")+\"']\");\n }\n else if
+(Foundation.utils.is_medium_only()) {\n var currentParent =
+$(\".responsive-moving-container.medium[data-id='\"+$(this).data(\"id\")+\"']\");\n }\n else {\n var currentParent =
+$(\".responsive-moving-container.large[data-id='\"+$(this).data(\"id\")+\"']\");\n }\n\n if
+(previousParent.attr(\"class\") !== currentParent.attr(\"class\")) {\n currentParent.html(movingContent);\n
+previousParent.html();\n currentParent.addClass(\"active\");\n previousParent.removeClass(\"active\");\n }\n });\n }\n\n
+// cookies allowed is checked from a) local storage and b) from server separately so that the footer bar doesn't\n //
+get included in the custom page caches\n function checkCookiesAllowed() {\n var cookiesEnabled =
+localStorage.getItem(\"mdpi_cookies_enabled\"); \n\n if (null === cookiesEnabled) {\n $.ajax({\n url:
+\"/ajax_cookie_value/mdpi_cookies_accepted\",\n success: function(data)\n {\n if (data.value) {\n
+localStorage.setItem(\"mdpi_cookies_enabled\", true);\n checkDisplaySurvey();\n }\n else {\n
+$(\".js-allow-cookies\").show();\n }\n }\n });\n }\n else {\n checkDisplaySurvey();\n }\n }\n\n // cookies allowed is
+checked from a) local storage and b) from server separately so that the footer bar doesn't\n // get included in the
+custom page caches\n //\n // NOTE! survey has been closed. Not used anymore (this code can be moved to somewhere for
+storage in case we need similar logic with other iterations)\n // \n function checkDisplaySurvey() {\n \n var
+surveyDisabled = localStorage.getItem(\"mdpi_disable_survey\"); \n var viewCount =
+localStorage.getItem(\"mdpi_new_layout_views\"); \n var viewLimit = localStorage.getItem(\"mdpi_new_layout_limit\");\n\n
+if (null !== surveyDisabled) {\n return;\n }\n\n $('head').append('');\n\n return;\n // todo: the below part can be
+removed later on...\n\n if (null === viewLimit) {\n localStorage.setItem(\"mdpi_new_layout_limit\",
+Math.floor(Math.random() * 50));\n localStorage.setItem(\"mdpi_new_layout_views\", 0);\n }\n else {\n viewCount++;\n
+localStorage.setItem(\"mdpi_new_layout_views\", viewCount);\n\n if (viewCount >= viewLimit) {\n $.ajax({\n url:
+\"/ajax_cookie_value/mdpi_disable_survey\",\n success: function(data)\n {\n if (data.value) {\n
+localStorage.setItem(\"mdpi_disable_survey\", true);\n }\n else {\n $(\".js-survey\").show();\n }\n }\n });\n }\n }\n
+}\n \n
+</script>\n<script src=\"https://www.mdpi.com/assets/js/lib.js?82799462daed82e0\"></script>\n<script
+src=\"https://www.mdpi.com/assets/js/mdpi.js?c5e55b6509d6aab3\"></script>\n<script>var banners_url =
+'https://serve.mdpi.com';
+</script>\n<script type='text/javascript'
+                   src='https://www.mdpi.com/assets/js/ifvisible.min.js?c621d19ecb761212'></script>\n<script
+src=\"https://www.mdpi.com/assets/js/xmltohtml/affix.js?ac4ea55275297c15\"></script>\n<script
+src=\"https://www.mdpi.com/assets/js/clipboard.min.js?3f3688138a1b9fc4\"></script>\n<script
+type=\"text/javascript\">\n        $(document).ready(function()\n        {\n            var helpFunctions = $(\".middle-column__help__fixed\");\n            var middleColumn  = $(\"#middle-column\");\n\n            helpFunctions.affix({\n                offset: {\n                    top: function() {\n                        return middleColumn.offset().top - 8 - (Foundation.utils.is_medium_only() ? 30 : 0);\n                    },\n                    bottom: function() {\n                        return $(\"#footer\").innerHeight() + 56 + (Foundation.utils.is_medium_only() ? 0 : 0);\n                    }\n                }\n            });\n\n            new ClipboardJS('.js-clipboard-copy');\n        });\n    </script>\n<!--[if lt IE 9]>\n                        <script src=\"https://www.mdpi.com/assets/js/ie8/ie8.js?6eef8fcbc831f5bd\"></script>\n            <script src=\"https://www.mdpi.com/assets/js/ie8/jquery.xdomainrequest.min.js?a945caca315782b0\"></script>\n        <![endif]-->\n\n<script>
+\n !function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);\n
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',\n
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');\n // Insert Twitter Pixel ID
+and Standard Event data below\n twq('init','o2pip');\n twq('track','PageView');\n
+</script>\n\n</body>\n</html>\n"
