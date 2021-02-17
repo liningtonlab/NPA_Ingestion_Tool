@@ -148,7 +148,7 @@ def sqlite3_insertion(connection_object, doi, pmid ,title, abstract, source, fil
             :param doi: Doi
             :param title: article title variable
             :param abstract: article abstract variable
-            :param connection_object: Connection object
+            :param connection_object: Connection object.cursor()
             :return: Cursor object or None
             """
     # Data insertion into the database
@@ -169,7 +169,7 @@ def sqlite3_insertion_no_abstract(connection_object, doi, pmid ,title, source, f
             :param pmid: PubMed ID
             :param doi: Doi
             :param title: title variable
-            :param connection_object: Connection object
+            :param connection_object: Connection object.cursor()
             :return: Cursor object or None
             """
     # Data insertion into the database
@@ -189,18 +189,50 @@ def sqlite3_insertion_only_doi(connection_object, doi, filename):
             :param source: source of doi(Pubmed, RSS Feed, Cross ref)
             :param pmid: PubMed ID
             :param doi: Doi
-            :param connection_object: Connection object
-            :return: Cursor object or None
+            :param connection_object: Connection object.cursor()
+            :return: None
             """
     # Data insertion into the database
     try:
         with connection_object:
             connection_object.execute("INSERT INTO DOIs(Doi, PMID, Title, Abstract, Source, Filename, Created) VALUES(?, NULL, NULL, NULL, NULL, ?, ?)",
                                       (doi, filename, datetime.now()))
-
     except sqlite3.IntegrityError:
         print("Warning: Duplicate entry detected!")
         pass
+
+
+def sqlite3_update_pubmed_title_abstract(connection_object,  pm_id, title, abstract, source, ids):
+    """ Update data in the SQLite3 database, when title/abstract found in PubMed
+                :param ids: Primary Key ID
+                :param pm_id: PubMed ID
+                :param source: source of title.abstract
+                :param abstract: article abstract
+                :param title: article title
+                :param connection_object: Connection object.cursor()
+                :return: None
+                """
+    try:
+        connection_object.execute("UPDATE DOIs SET PMID = ?, Title = ?, Abstract = ?, Source = ? WHERE ID = ?", (pm_id, title, abstract, source, ids))
+
+    except sqlite3.Error as error:
+        print("Failed to update sqlite table", error)
+
+
+def sqlite3_update_pubmed_title_only(connection_object, pm_id, title, source, ids):
+    """ Update data in the SQLite3 database, when Pubmed only has title
+                  :param ids: Primary Key ID
+                  :param pm_id: PubMed ID
+                  :param source: source of title.abstract
+                  :param title: article title
+                  :param connection_object: Connection object.cursor()
+                  :return: None
+                  """
+    try:
+        connection_object.execute("UPDATE DOIs SET PMID = ?, Title = ?, Source = ? WHERE ID = ?", (pm_id, title, source, ids))
+
+    except sqlite3.Error as error:
+        print("Failed to update sqlite table", error)
 
 
 def doi_date_locator(cursor_statement):

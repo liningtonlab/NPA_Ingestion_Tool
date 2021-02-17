@@ -1,6 +1,6 @@
 import npa_ingestion_tool
 from datetime import datetime
-
+import sqlite3
 
 def rss_feed_2_doi():
     # Open up file, loop through each line in the file to get each url to parse RSS feed
@@ -30,27 +30,48 @@ def rss_feed_2_doi():
     # Database Entry
     # Viewing; In terminal type: sqlite3 + database name
     # Then, SELECT * from DOIs;
+    connection.commit()
 
 
 def database_query_pubmed():
-    print(1)
+    conn = npa_ingestion_tool.sqlite3_db_initialization("npa_database_feb_10.db")
+    curse = conn.cursor()
+    new_rows = curse.execute(
+        "SELECT * FROM DOIs WHERE Abstract IS NULL and Created > date('now', '-21 day')")
+    for doi in new_rows:
+        print(doi)
     # Query PubMed (SELECT SQL statement) for DOI(title/abstract null) <3 weeks:
             # Try to convert to pubmed ID, then try to parse title/abstract
-    '''pubmed_id = npa_ingestion_tool.doi_2_pmid(doi)
-            try:
-                if pubmed_id:
-                    title_abstract = npa_ingestion_tool.pmid_2_abstract(pubmed_id)
-                    print(title_abstract)
-                    if npa_ingestion_tool.blanks(title_abstract[1]) is False or title_abstract[1] is not None:
-                        npa_ingestion_tool.sqlite3_insertion(connection, doi, title_abstract[0], title_abstract[1])
-                    elif npa_ingestion_tool.blanks(title_abstract[1]) is True or title_abstract[1] is None:
-                        npa_ingestion_tool.sqlite3_insertion_no_abstract(connection, doi, title_abstract[0])
-                else:
-                    print("PMID error: " + str(doi))
-                    continue
-            except TypeError:
-                print("TypeError")
-                continue'''
+        pubmed_id = npa_ingestion_tool.doi_2_pmid(doi[1])
+        try:
+            if pubmed_id:
+                pubmed_id_string = ''.join(pubmed_id)
+                title_abstract = npa_ingestion_tool.pmid_2_abstract(pubmed_id)
+                if title_abstract[1] is None or npa_ingestion_tool.blanks(title_abstract[1]) is True:
+                    try:
+                        conn.execute(
+                            "UPDATE DOIs SET PMID = ?, Title = ?, Source = ? WHERE ID = ?",
+                            (pubmed_id_string, title_abstract[0], "PubMed", doi[0]))
+                    except sqlite3.Error as error:
+                        print("Failed to update sqlite table", error)
+
+                elif title_abstract[1] is not None or npa_ingestion_tool.blanks(title_abstract[1]) is False:
+                    #npa_ingestion_tool.sqlite3_update_pubmed_title_abstract(curse, pubmed_id_string, title_abstract[0], title_abstract[1], "PubMed", doi[0])
+                    try:
+                        conn.execute(
+                            "UPDATE DOIs SET PMID = ?, Title = ?, Abstract = ?, Source = ? WHERE ID = ?",
+                            (pubmed_id_string, title_abstract[0], title_abstract[1], "PubMed", doi[0]))
+                    except sqlite3.Error as error:
+                        print("Failed to update sqlite table", error)
+            else:
+                print("PMID error: " + str(doi[1]))
+                continue
+        except TypeError:
+            print("TypeError")
+            continue
+    conn.commit()
+    old_rows = curse.execute(
+        "SELECT * FROM DOIs WHERE Abstract IS NULL and Created <= date('now', '-21 day')")
     # Query PubMed (SELECT SQL statement) for DOI(title/abstract null) >3 weeks:
             # Try to parse title/abstract from archived rss feed
                 # Filename stored in database, use rss_parse_archive() with: file, doi with id for later
