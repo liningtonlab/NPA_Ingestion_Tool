@@ -9,7 +9,6 @@ from datetime import datetime
 from metapub import PubMedFetcher
 from bs4 import BeautifulSoup
 import feedparser
-import json
 import re
 import sqlite3
 import requests
@@ -38,8 +37,9 @@ def blanks(string):
     else:
         return False
 
+
 # Nothing useful for all links, cannot find or irrelevant info like CAPTCHA requests. All getting unicode errors
-'''def get_xml(url, archive_filename):
+def get_xml(url, archive_filename):
     """ parse a xml file retrieved with requests using feedparser to the gather list of DOIs from the
                     specified xml
                 :param url: url of rss feed
@@ -49,28 +49,26 @@ def blanks(string):
     url_request = requests.get(url)
     raw_xml_str = url_request.text
     path = 'C:/Users/maras/Desktop/NPA_Ingestion_Tool/raw_xml_archive/' + archive_filename
-    with open(path, "w") as f:
-        json.dump(raw_xml_str, f) # f.write(raw_xml_str.text)
-    return raw_xml_str'''
+    with open(path, "w", encoding='utf-8') as f:
+        f.write(raw_xml_str)
+    return raw_xml_str, archive_filename
 
 
-def parse_rss(url, archive_file):
+def parse_rss(stringer):
     """ parse a xml file retrieved with requests using feedparser to the gather list of DOIs from the
                 specified xml
-            :param archive_file: name of raw feed parser file
-            :param url: url of RSS feed
+            :param stringer:
             :return: list of unique DOIs
             """
     # Parse RSS url w/ feedparser to get consistent format
-    rss_feed = feedparser.parse(url)
+    rss_feed = feedparser.parse(stringer)
 
     # Creation of JSON file for easy viewing
-    path = 'C:/Users/maras/Desktop/NPA_Ingestion_Tool/raw_xml_archive/' + archive_file
-    with open(path, "x") as f:
-        json.dump(rss_feed, f)
+    #path = 'C:/Users/maras/Desktop/NPA_Ingestion_Tool/raw_xml_archive/' + archive_file
+    #with open(path, "x") as f:
+        #json.dump(rss_feed, f)
 
     # New list for found DOIs (will end up with duplicates)
-
     doi_list = []
 
     # Search through parsed RSS feed dictionary
@@ -85,7 +83,8 @@ def parse_rss(url, archive_file):
 
     # Remove duplicate DOIs from list
     unique_doi_list = list(set(doi_list))
-    return archive_file, unique_doi_list
+
+    return unique_doi_list
 
 
 def doi_2_pmid(doi):
@@ -118,7 +117,6 @@ def pmid_2_abstract(pm_id):
     return title, abstract
 
 
-# SQLite3 Database Functions
 def sqlite3_db_initialization(db_file):
     """ create a database connection to the SQLite database
             specified by db_file
@@ -202,51 +200,6 @@ def sqlite3_insertion_only_doi(connection_object, doi, filename):
         pass
 
 
-def sqlite3_update_pubmed_title_abstract(connection_object,  pm_id, title, abstract, source, ids):
-    """ Update data in the SQLite3 database, when title/abstract found in PubMed
-                :param ids: Primary Key ID
-                :param pm_id: PubMed ID
-                :param source: source of title.abstract
-                :param abstract: article abstract
-                :param title: article title
-                :param connection_object: Connection object.cursor()
-                :return: None
-                """
-    try:
-        connection_object.execute("UPDATE DOIs SET PMID = ?, Title = ?, Abstract = ?, Source = ? WHERE ID = ?", (pm_id, title, abstract, source, ids))
-
-    except sqlite3.Error as error:
-        print("Failed to update sqlite table", error)
-
-
-def sqlite3_update_pubmed_title_only(connection_object, pm_id, title, source, ids):
-    """ Update data in the SQLite3 database, when Pubmed only has title
-                  :param ids: Primary Key ID
-                  :param pm_id: PubMed ID
-                  :param source: source of title.abstract
-                  :param title: article title
-                  :param connection_object: Connection object.cursor()
-                  :return: None
-                  """
-    try:
-        connection_object.execute("UPDATE DOIs SET PMID = ?, Title = ?, Source = ? WHERE ID = ?", (pm_id, title, source, ids))
-
-    except sqlite3.Error as error:
-        print("Failed to update sqlite table", error)
-
-
-def doi_date_locator(cursor_statement):
-    """ Queries database for 3 week old DOIs for id, doi and the date
-                        :param cursor_statement: cursor object
-                        :return: list of dictionaries that contains id, doi and date
-                        """
-    select_statement = cursor_statement.execute(
-        "SELECT * FROM DOIs WHERE Abstract IS NULL and Created <= date('now', '-21 day')")
-
-    date_hits = [{"id": row[0], "doi": row[1], "file": row[6]} for row in select_statement]
-    return date_hits
-
-
 def rss_parse_archive(file, key_id, doi):
     # TODO: Fix abstract parsing, but mainly UPDATING database if a title/abstract is found within the archive file
 
@@ -260,7 +213,7 @@ def rss_parse_archive(file, key_id, doi):
     titles = []
     abstracts = []
     with open(file, "r") as f:
-        data = json.load(f)
+        data = f
         print(data)
         for key in data["entries"]:
             for val in key.values():

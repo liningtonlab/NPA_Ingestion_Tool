@@ -2,25 +2,23 @@ import npa_ingestion_tool
 from datetime import datetime
 import sqlite3
 
+
 def rss_feed_2_doi():
-    # Open up file, loop through each line in the file to get each url to parse RSS feed
-    # Append list of DOIs to list for each journals url
+    """ Open up file, loop through each line in the file to get each url to parse RSS feed and Append list of DOIs to
+    list for each journal. Saves a raw XML file for archive of RSS feed. Lastly, added new DOI's into SQLite3 database.
+                        """
 
     with open("rss_feed.txt", "r") as my_file:
-
-        #list of the list of dois for each feed
-        doi_list = [npa_ingestion_tool.parse_rss(line, str(npa_ingestion_tool.no_newline(line) + "_" + datetime.now(
-        ).strftime("%Y-%m-%d_%I-%M-%S_%p") + ".json")) for line in my_file]
-        '''doi_list=[]
+        doi_list=[]
         for line in my_file:
             string = npa_ingestion_tool.get_xml(line, str(npa_ingestion_tool.no_newline(line) + "_" + datetime.now().strftime("%Y-%m-%d_%I-%M-%S_%p") + ".xml"))
-            parsed_dois = npa_ingestion_tool.parse_rss(string)
-            doi_list.append((parsed_dois))'''
+            parsed_dois = npa_ingestion_tool.parse_rss(string[0])
+            doi_list.append((string[1], parsed_dois))
     print(doi_list)
 
     # SQLite3 Database entry
     connection = npa_ingestion_tool.sqlite3_db_initialization("npa_database_feb_10.db")
-    cursor = npa_ingestion_tool.sqlite3_table_creation(connection)
+    table_creation = npa_ingestion_tool.sqlite3_table_creation(connection)
 
     for journal in doi_list:
         archive_filename = journal[0]
@@ -34,14 +32,21 @@ def rss_feed_2_doi():
 
 
 def database_query_pubmed():
+    """ Connect to database and query DOIs for either less than or equal to or greater than 3 weeks. If less than 3
+    weeks, convert to pubmed id and search PubMed for title/abstract and updating the database if a result is found.
+    If greater than equal to 3 weeks, try to parse from the RSS feed archives and also update database with any results.
+                            """
+    # Database connection and cursor object creation
     conn = npa_ingestion_tool.sqlite3_db_initialization("npa_database_feb_10.db")
     curse = conn.cursor()
+
+    # Query PubMed (SELECT SQL statement) for DOI(title/abstract null) <3 weeks:
     new_rows = curse.execute(
-        "SELECT * FROM DOIs WHERE Abstract IS NULL and Created > date('now', '-21 day')")
+        "SELECT * FROM DOIs WHERE Created > date('now', '-21 day') and Abstract IS NULL and Title is NULL")
     for doi in new_rows:
         print(doi)
-    # Query PubMed (SELECT SQL statement) for DOI(title/abstract null) <3 weeks:
-            # Try to convert to pubmed ID, then try to parse title/abstract
+
+    # Try to convert to pubmed ID, then try to parse title/abstract from PubMed and UPDATE the database
         pubmed_id = npa_ingestion_tool.doi_2_pmid(doi[1])
         try:
             if pubmed_id:
@@ -56,7 +61,6 @@ def database_query_pubmed():
                         print("Failed to update sqlite table", error)
 
                 elif title_abstract[1] is not None or npa_ingestion_tool.blanks(title_abstract[1]) is False:
-                    #npa_ingestion_tool.sqlite3_update_pubmed_title_abstract(curse, pubmed_id_string, title_abstract[0], title_abstract[1], "PubMed", doi[0])
                     try:
                         conn.execute(
                             "UPDATE DOIs SET PMID = ?, Title = ?, Abstract = ?, Source = ? WHERE ID = ?",
@@ -69,13 +73,15 @@ def database_query_pubmed():
         except TypeError:
             print("TypeError")
             continue
-    conn.commit()
+
+    conn.commit() # TODO: May need to move to after second part once its complete.
+    # Query PubMed (SELECT SQL statement) for DOI(title/abstract null) >3 weeks:
     old_rows = curse.execute(
         "SELECT * FROM DOIs WHERE Abstract IS NULL and Created <= date('now', '-21 day')")
-    # Query PubMed (SELECT SQL statement) for DOI(title/abstract null) >3 weeks:
-            # Try to parse title/abstract from archived rss feed
-                # Filename stored in database, use rss_parse_archive() with: file, doi with id for later
-                # if len of return 2, only title; if 3 both title/abstract. If 1, nothing parsed
+
+    # Try to parse title/abstract from archived rss feed
+    # Filename stored in database, use rss_parse_archive() with: file, doi with id for later
+    # if len of return 2, only title; if 3 both title/abstract. If 1, nothing parsed
 
 
 if __name__ == "__main__":
