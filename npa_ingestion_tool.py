@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 import feedparser
 import re
 import sqlite3
-import requests
+import json
 
 
 def no_newline(line):
@@ -23,7 +23,7 @@ def no_newline(line):
     replace_line = new_line.replace("/", "").replace(".", "").replace(":", "").replace("-", "").replace(
         "=", "").replace(
         "!", "").replace("@", "").replace("#", "").replace(
-        "$", "").replace("%", "").replace("^", "").replace("&", "").replace("*", "")
+        "$", "").replace("%", "").replace("^", "").replace("&", "").replace("*", "").replace("?", "")
     return replace_line
 
 
@@ -38,8 +38,8 @@ def blanks(string):
         return False
 
 
-# Nothing useful for all links, cannot find or irrelevant info like CAPTCHA requests. All getting unicode errors
-def get_xml(url, archive_filename):
+# For links, that feedparser can get DOI's from, getting from Requests fails to do so.
+'''def get_xml(url, archive_filename):
     """ parse a xml file retrieved with requests using feedparser to the gather list of DOIs from the
                     specified xml
                 :param url: url of rss feed
@@ -51,22 +51,24 @@ def get_xml(url, archive_filename):
     path = 'C:/Users/maras/Desktop/NPA_Ingestion_Tool/raw_xml_archive/' + archive_filename
     with open(path, "w", encoding='utf-8') as f:
         f.write(raw_xml_str)
-    return raw_xml_str, archive_filename
+    return raw_xml_str, archive_filename'''
 
 
-def parse_rss(stringer):
+def parse_rss(url, archive_file):
     """ parse a xml file retrieved with requests using feedparser to the gather list of DOIs from the
                 specified xml
-            :param stringer:
+            :param archive_file: The file name of the archive file
+            :param url: url of rss feed
             :return: list of unique DOIs
             """
     # Parse RSS url w/ feedparser to get consistent format
-    rss_feed = feedparser.parse(stringer)
+    rss_feed = feedparser.parse(url)
 
     # Creation of JSON file for easy viewing
-    #path = 'C:/Users/maras/Desktop/NPA_Ingestion_Tool/raw_xml_archive/' + archive_file
-    #with open(path, "x") as f:
-        #json.dump(rss_feed, f)
+    path = 'C:/Users/maras/Desktop/NPA_Ingestion_Tool/raw_xml_archive/' + archive_file
+    with open(path, "x") as f:
+        json.dump(rss_feed, f)
+
 
     # New list for found DOIs (will end up with duplicates)
     doi_list = []
@@ -84,7 +86,7 @@ def parse_rss(stringer):
     # Remove duplicate DOIs from list
     unique_doi_list = list(set(doi_list))
 
-    return unique_doi_list
+    return archive_file, unique_doi_list
 
 
 def doi_2_pmid(doi):
@@ -138,7 +140,7 @@ def sqlite3_table_creation(connection_object):
     return cursor
 
 
-def sqlite3_insertion(connection_object, doi, pmid ,title, abstract, source, filename):
+def sqlite3_insertion(connection_object, doi, pmid, title, abstract, source, filename):
     """ insert data into the SQLite3 database
             :param filename: name of archive file
             :param source: source of doi(Pubmed, RSS Feed, Cross ref)
@@ -160,7 +162,7 @@ def sqlite3_insertion(connection_object, doi, pmid ,title, abstract, source, fil
         pass
 
 
-def sqlite3_insertion_no_abstract(connection_object, doi, pmid ,title, source, filename):
+def sqlite3_insertion_no_abstract(connection_object, doi, pmid, title, source, filename):
     """ insert data into the SQLite3 database
             :param filename: name of archive file
             :param source: source of doi(Pubmed, RSS Feed, Cross ref)
@@ -184,8 +186,6 @@ def sqlite3_insertion_no_abstract(connection_object, doi, pmid ,title, source, f
 def sqlite3_insertion_only_doi(connection_object, doi, filename):
     """ insert data into the SQLite3 database
             :param filename: name of archive file
-            :param source: source of doi(Pubmed, RSS Feed, Cross ref)
-            :param pmid: PubMed ID
             :param doi: Doi
             :param connection_object: Connection object.cursor()
             :return: None
@@ -195,6 +195,7 @@ def sqlite3_insertion_only_doi(connection_object, doi, filename):
         with connection_object:
             connection_object.execute("INSERT INTO DOIs(Doi, PMID, Title, Abstract, Source, Filename, Created) VALUES(?, NULL, NULL, NULL, NULL, ?, ?)",
                                       (doi, filename, datetime.now()))
+            print("Successful DOI entry recorded!")
     except sqlite3.IntegrityError:
         print("Warning: Duplicate entry detected!")
         pass
@@ -242,4 +243,4 @@ def rss_parse_archive(file, key_id, doi):
     elif unique_titles:
         return key_id, unique_titles[0]
     else:
-        return ("no luck")
+        return "no luck"

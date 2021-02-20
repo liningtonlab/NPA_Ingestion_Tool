@@ -9,11 +9,14 @@ def rss_feed_2_doi():
                         """
 
     with open("rss_feed.txt", "r") as my_file:
-        doi_list=[]
+        doi_list = [npa_ingestion_tool.parse_rss(line, str(npa_ingestion_tool.no_newline(line) + "_" + datetime.now(
+        ).strftime("%Y-%m-%d_%I-%M-%S_%p") + ".json")) for line in my_file]
+        '''doi_list=[]
         for line in my_file:
             string = npa_ingestion_tool.get_xml(line, str(npa_ingestion_tool.no_newline(line) + "_" + datetime.now().strftime("%Y-%m-%d_%I-%M-%S_%p") + ".xml"))
             parsed_dois = npa_ingestion_tool.parse_rss(string[0])
-            doi_list.append((string[1], parsed_dois))
+            doi_list.append((string[1], parsed_dois))'''
+
     print(doi_list)
 
     # SQLite3 Database entry
@@ -47,10 +50,10 @@ def database_query_pubmed():
         print(doi)
 
     # Try to convert to pubmed ID, then try to parse title/abstract from PubMed and UPDATE the database
-        pubmed_id = npa_ingestion_tool.doi_2_pmid(doi[1])
+        pubmed_id = npa_ingestion_tool.doi_2_pmid(doi[1])  # returns type = list
         try:
             if pubmed_id:
-                pubmed_id_string = ''.join(pubmed_id)
+                pubmed_id_string = ''.join(pubmed_id) # converts list (['123']) to string ('123')
                 title_abstract = npa_ingestion_tool.pmid_2_abstract(pubmed_id)
                 if title_abstract[1] is None or npa_ingestion_tool.blanks(title_abstract[1]) is True:
                     try:
@@ -75,7 +78,7 @@ def database_query_pubmed():
             continue
 
     conn.commit() # TODO: May need to move to after second part once its complete.
-    # Query PubMed (SELECT SQL statement) for DOI(title/abstract null) >3 weeks:
+    # Query PubMed (SELECT SQL statement) for DOI(title/abstract null) >= 3 weeks:
     old_rows = curse.execute(
         "SELECT * FROM DOIs WHERE Abstract IS NULL and Created <= date('now', '-21 day')")
 
