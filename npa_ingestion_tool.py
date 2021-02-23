@@ -11,8 +11,8 @@ from bs4 import BeautifulSoup
 import feedparser
 import re
 import sqlite3
-import json
-
+import requests
+import os
 
 def no_newline(line):
     """ Takes string input and checks if blank or not
@@ -38,37 +38,55 @@ def blanks(string):
         return False
 
 
-# For links, that feedparser can get DOI's from, getting from Requests fails to do so.
-'''def get_xml(url, archive_filename):
+def get_xml(url, archive_filename):
     """ parse a xml file retrieved with requests using feedparser to the gather list of DOIs from the
                     specified xml
                 :param url: url of rss feed
                 :param archive_filename: The file name of the archive file
                 :return: raw string of text from requests.get(url)
                 """
-    url_request = requests.get(url)
-    raw_xml_str = url_request.text
+    # Assign a user agent to avoid 403 error
+    user_agent = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+
+    # Using request to get RSS feed text from the URL using the assigned user agent as headers variable
+    no_whitespace_url = url.rstrip('\n')
+    url_request = requests.get(no_whitespace_url, headers=user_agent)
+
     path = 'C:/Users/maras/Desktop/NPA_Ingestion_Tool/raw_xml_archive/' + archive_filename
+
+    if not os.path.exists(path):
+        url_request = requests.get(no_whitespace_url, headers=user_agent)
+        if not url_request.status_code == 200:
+            print(f"WARNING: {url_request.status_code} for URL = {url}")
+        raw_xml_str = url_request.text
+        with open(path, "w", encoding='utf-8') as f:
+            f.write(raw_xml_str)
+        return raw_xml_str, archive_filename
+    else:
+        with open(path) as f:
+            xml = f.read()
+        xml, archive_filename
+
+    # Archiving of RSS feed xml file to output directory
+    '''path = 'C:/Users/maras/Desktop/NPA_Ingestion_Tool/raw_xml_archive/' + archive_filename
     with open(path, "w", encoding='utf-8') as f:
-        f.write(raw_xml_str)
-    return raw_xml_str, archive_filename'''
+        f.write(raw_xml_str)'''
 
 
-def parse_rss(url, archive_file):
+
+def parse_rss(string_input):
     """ parse a xml file retrieved with requests using feedparser to the gather list of DOIs from the
                 specified xml
-            :param archive_file: The file name of the archive file
-            :param url: url of rss feed
+            :param string_input: raw string of text from requests.get(url)
             :return: list of unique DOIs
             """
     # Parse RSS url w/ feedparser to get consistent format
-    rss_feed = feedparser.parse(url)
+    rss_feed = feedparser.parse(string_input)
 
-    # Creation of JSON file for easy viewing
-    path = 'C:/Users/maras/Desktop/NPA_Ingestion_Tool/raw_xml_archive/' + archive_file
+    # Creation of JSON file for easy viewing (For archive of FeedparserDict using JSON, outdated)
+    '''path = 'C:/Users/maras/Desktop/NPA_Ingestion_Tool/raw_xml_archive/' + archive_file
     with open(path, "x") as f:
-        json.dump(rss_feed, f)
-
+        json.dump(rss_feed, f)'''
 
     # New list for found DOIs (will end up with duplicates)
     doi_list = []
@@ -86,7 +104,7 @@ def parse_rss(url, archive_file):
     # Remove duplicate DOIs from list
     unique_doi_list = list(set(doi_list))
 
-    return archive_file, unique_doi_list
+    return unique_doi_list
 
 
 def doi_2_pmid(doi):
@@ -135,12 +153,30 @@ def sqlite3_table_creation(connection_object):
         :return: Cursor object or None
         """
     cursor = connection_object.cursor()
-    cursor.execute(
-        "CREATE TABLE IF NOT EXISTS DOIs (ID INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,Doi VARCHAR UNIQUE NOT NULL, PMID VARCHAR, Title VARCHAR, Abstract VARCHAR, Source VARCHAR, Filename NOT NULL, Created NOT NULL)")
+    cursor.execute("CREATE TABLE IF NOT EXISTS DOIs (ID INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,Doi VARCHAR UNIQUE NOT NULL, PMID VARCHAR, Title VARCHAR, Abstract VARCHAR, Source VARCHAR, Filename NOT NULL, Created NOT NULL)")
     return cursor
 
 
-def sqlite3_insertion(connection_object, doi, pmid, title, abstract, source, filename):
+def sqlite3_insertion_only_doi(connection_object, doi, filename):
+    """ insert data into the SQLite3 database
+            :param filename: name of archive file
+            :param doi: Doi
+            :param connection_object: Connection object.cursor()
+            :return: None
+            """
+    # Data insertion into the database
+    try:
+        with connection_object:
+            connection_object.execute("INSERT INTO DOIs(Doi, PMID, Title, Abstract, Source, Filename, Created) VALUES(?, NULL, NULL, NULL, NULL, ?, ?)",
+                                      (doi, filename, datetime.now()))
+            print("Successful DOI entry recorded!")
+    except sqlite3.IntegrityError:
+        print("Warning: Duplicate entry detected!")
+        pass
+
+
+# Archive parsing, not yet used
+'''def sqlite3_insertion(connection_object, doi, pmid, title, abstract, source, filename):
     """ insert data into the SQLite3 database
             :param filename: name of archive file
             :param source: source of doi(Pubmed, RSS Feed, Cross ref)
@@ -180,25 +216,7 @@ def sqlite3_insertion_no_abstract(connection_object, doi, pmid, title, source, f
 
     except sqlite3.IntegrityError:
         print("Warning: Duplicate entry detected!")
-        pass
-
-
-def sqlite3_insertion_only_doi(connection_object, doi, filename):
-    """ insert data into the SQLite3 database
-            :param filename: name of archive file
-            :param doi: Doi
-            :param connection_object: Connection object.cursor()
-            :return: None
-            """
-    # Data insertion into the database
-    try:
-        with connection_object:
-            connection_object.execute("INSERT INTO DOIs(Doi, PMID, Title, Abstract, Source, Filename, Created) VALUES(?, NULL, NULL, NULL, NULL, ?, ?)",
-                                      (doi, filename, datetime.now()))
-            print("Successful DOI entry recorded!")
-    except sqlite3.IntegrityError:
-        print("Warning: Duplicate entry detected!")
-        pass
+        pass'''
 
 
 def rss_parse_archive(file, key_id, doi):

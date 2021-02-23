@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss1full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.nature.com/~d/styles/itemcontent.css"?><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns="http://purl.org/rss/1.0/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+    <channel rdf:about="http://feeds.nature.com/nchem/rss/current">
+        <title>Nature Chemistry - nature.com science feeds</title>
+        <description>Nature Chemistry is a monthly journal dedicated to publishing high-quality papers that describe the most significant and cutting-edge research in all areas of chemistry. As well as reflecting the traditional core subjects of analytical, inorganic, organic and physical chemistry, the journal features a broad range of chemical research including, but not limited to, bioinorganic and bioorganic chemistry, catalysis, computational and theoretical chemistry, environmental chemistry, green chemistry, medicinal chemistry, organometallic chemistry, polymer chemistry, supramolecular chemistry and surface chemistry. Other multidisciplinary topics such as nanotechnology, chemical biology and materials chemistry are also featured.</description>
+        <link>http://feeds.nature.com/nchem/rss/current</link>
+        <admin:generatorAgent rdf:resource="http://www.nature.com/" />
+        <admin:errorReportsTo rdf:resource="mailto:feedback@nature.com" />
+        <dc:publisher>Nature Publishing Group</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:rights>© 2021 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.</dc:rights>
+        <prism:publicationName>Nature Chemistry</prism:publicationName>
+        
+        
+        <prism:copyright>© 2021 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.</prism:copyright>
+        <prism:rightsAgent>permissions@nature.com</prism:rightsAgent>
+        <image rdf:resource="https://www.nature.com/uploads/product/nchem/rss.png" />
+        <items>
+            <rdf:Seq>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41557-020-00633-7" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41557-020-00625-7" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41557-020-00634-6" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41557-020-00618-6" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41557-020-00620-y" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41557-020-00635-5" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41557-020-00626-6" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41557-020-00629-3" />
+                
+            </rdf:Seq>
+        </items>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://feeds.nature.com/nchem/rss/current" /><feedburner:info uri="nchem/rss/current" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+    <image rdf:about="https://www.nature.com/uploads/product/nchem/rss.png">
+        <title>Nature Chemistry</title>
+        <url>https://www.nature.com/uploads/product/nchem/rss.png</url>
+        <link>http://feeds.nature.com/nchem/rss/current</link>
+    </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41557-020-00633-7">
+            <title><![CDATA[Abiotic reduction of ketones with silanes catalysed by carbonic anhydrase through an enzymatic zinc hydride]]></title>
+            <link>http://feeds.nature.com/~r/nchem/rss/current/~3/mbRB03aYjYs/s41557-020-00633-7</link>
+            <content:encoded><![CDATA[
+                <p>Nature Chemistry, Published online: 18 February 2021; <a href="https://www.nature.com/articles/s41557-020-00633-7">doi:10.1038/s41557-020-00633-7</a></p>Enzymatic reactions involving mononuclear metal hydrides are unknown in nature, despite the prevalence of such intermediates in synthetic transition-metal catalysed reactions. Now, it has been shown that zinc-containing carbonic anhydrase enzymes can catalyse hydride transfers from silanes to ketones with high enantioselectivity and there is evidence to support the intermediacy of a mononuclear zinc hydride.<img src="http://feeds.feedburner.com/~r/nchem/rss/current/~4/mbRB03aYjYs" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Abiotic reduction of ketones with silanes catalysed by carbonic anhydrase through an enzymatic zinc hydride]]></dc:title>
+            <dc:creator>Pengfei Ji</dc:creator><dc:creator>Jeeyoung Park</dc:creator><dc:creator>Yang Gu</dc:creator><dc:creator>Douglas S. Clark</dc:creator><dc:creator>John F. Hartwig</dc:creator>
+            <dc:identifier>doi:10.1038/s41557-020-00633-7</dc:identifier>
+            <dc:source>Nature Chemistry, Published online: 2021-02-18; | doi:10.1038/s41557-020-00633-7</dc:source>
+            <dc:date>2021-02-18</dc:date>
+            <prism:publicationName>Nature Chemistry</prism:publicationName>
+            <prism:doi>10.1038/s41557-020-00633-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41557-020-00633-7</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41557-020-00633-7</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41557-020-00625-7">
+            <title><![CDATA[Probing precipitation properties]]></title>
+            <link>http://feeds.nature.com/~r/nchem/rss/current/~3/pNdBo5gW140/s41557-020-00625-7</link>
+            <content:encoded><![CDATA[
+                <p>Nature Chemistry, Published online: 15 February 2021; <a href="https://www.nature.com/articles/s41557-020-00625-7">doi:10.1038/s41557-020-00625-7</a></p>Superheavy elements are short-lived and only available on a single-atom level, making their chemical properties very challenging to study. Now, through their co-precipitation with samarium, single atoms of rutherfordium have been shown to form hydroxide complexes but not ammine ones.<img src="http://feeds.feedburner.com/~r/nchem/rss/current/~4/pNdBo5gW140" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Probing precipitation properties]]></dc:title>
+            <dc:creator>Alexander Yakushev</dc:creator>
+            <dc:identifier>doi:10.1038/s41557-020-00625-7</dc:identifier>
+            <dc:source>Nature Chemistry, Published online: 2021-02-15; | doi:10.1038/s41557-020-00625-7</dc:source>
+            <dc:date>2021-02-15</dc:date>
+            <prism:publicationName>Nature Chemistry</prism:publicationName>
+            <prism:doi>10.1038/s41557-020-00625-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41557-020-00625-7</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41557-020-00625-7</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41557-020-00634-6">
+            <title><![CDATA[Co-precipitation behaviour of single atoms of rutherfordium in basic solutions]]></title>
+            <link>http://feeds.nature.com/~r/nchem/rss/current/~3/mC853WZ8vUg/s41557-020-00634-6</link>
+            <content:encoded><![CDATA[
+                <p>Nature Chemistry, Published online: 15 February 2021; <a href="https://www.nature.com/articles/s41557-020-00634-6">doi:10.1038/s41557-020-00634-6</a></p>It is difficult to investigate the chemical properties of superheavy elements, which are only available an atom at a time and rapidly decay. A co-precipitation method with samarium has now been developed that suggests rutherfordium would form hydroxide precipitates—but not ammine ones—if it were possible to perform these experiments on macroscopic quantities.<img src="http://feeds.feedburner.com/~r/nchem/rss/current/~4/mC853WZ8vUg" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Co-precipitation behaviour of single atoms of rutherfordium in basic solutions]]></dc:title>
+            <dc:creator>Yoshitaka Kasamatsu</dc:creator><dc:creator>Keigo Toyomura</dc:creator><dc:creator>Hiromitsu Haba</dc:creator><dc:creator>Takuya Yokokita</dc:creator><dc:creator>Yudai Shigekawa</dc:creator><dc:creator>Aiko Kino</dc:creator><dc:creator>Yuki Yasuda</dc:creator><dc:creator>Yukiko Komori</dc:creator><dc:creator>Jumpei Kanaya</dc:creator><dc:creator>Minghui Huang</dc:creator><dc:creator>Masashi Murakami</dc:creator><dc:creator>Hidetoshi Kikunaga</dc:creator><dc:creator>Eisuke Watanabe</dc:creator><dc:creator>Takashi Yoshimura</dc:creator><dc:creator>Kosuke Morita</dc:creator><dc:creator>Toshiaki Mitsugashira</dc:creator><dc:creator>Koichi Takamiya</dc:creator><dc:creator>Tsutomu Ohtsuki</dc:creator><dc:creator>Atsushi Shinohara</dc:creator>
+            <dc:identifier>doi:10.1038/s41557-020-00634-6</dc:identifier>
+            <dc:source>Nature Chemistry, Published online: 2021-02-15; | doi:10.1038/s41557-020-00634-6</dc:source>
+            <dc:date>2021-02-15</dc:date>
+            <prism:publicationName>Nature Chemistry</prism:publicationName>
+            <prism:doi>10.1038/s41557-020-00634-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41557-020-00634-6</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41557-020-00634-6</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41557-020-00618-6">
+            <title><![CDATA[Dipolar order in an amphidynamic crystalline metal–organic framework through reorienting linkers]]></title>
+            <link>http://feeds.nature.com/~r/nchem/rss/current/~3/7rtRMhYpktM/s41557-020-00618-6</link>
+            <content:encoded><![CDATA[
+                <p>Nature Chemistry, Published online: 15 February 2021; <a href="https://www.nature.com/articles/s41557-020-00618-6">doi:10.1038/s41557-020-00618-6</a></p>A metal–organic framework (MOF) has been prepared that features dynamic rotors embedded within its crystalline lattice. The dipolar F2-functionalized carboxylate linkers—rapidly rotating at room temperature—show correlated behaviour upon cooling, converting the paraelectric MOF into an ordered antiferroelectric one below 100 K.<img src="http://feeds.feedburner.com/~r/nchem/rss/current/~4/7rtRMhYpktM" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Dipolar order in an amphidynamic crystalline metal–organic framework through reorienting linkers]]></dc:title>
+            <dc:creator>Y.-S. Su</dc:creator><dc:creator>E. S. Lamb</dc:creator><dc:creator>I. Liepuoniute</dc:creator><dc:creator>A. Chronister</dc:creator><dc:creator>A. L. Stanton</dc:creator><dc:creator>P. Guzman</dc:creator><dc:creator>S. Pérez-Estrada</dc:creator><dc:creator>T. Y. Chang</dc:creator><dc:creator>K. N. Houk</dc:creator><dc:creator>M. A. Garcia-Garibay</dc:creator><dc:creator>S. E. Brown</dc:creator>
+            <dc:identifier>doi:10.1038/s41557-020-00618-6</dc:identifier>
+            <dc:source>Nature Chemistry, Published online: 2021-02-15; | doi:10.1038/s41557-020-00618-6</dc:source>
+            <dc:date>2021-02-15</dc:date>
+            <prism:publicationName>Nature Chemistry</prism:publicationName>
+            <prism:doi>10.1038/s41557-020-00618-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41557-020-00618-6</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41557-020-00618-6</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41557-020-00620-y">
+            <title><![CDATA[Illuminating the dark conformational space of macrocycles using dominant rotors]]></title>
+            <link>http://feeds.nature.com/~r/nchem/rss/current/~3/LnxYJXXfijU/s41557-020-00620-y</link>
+            <content:encoded><![CDATA[
+                <p>Nature Chemistry, Published online: 15 February 2021; <a href="https://www.nature.com/articles/s41557-020-00620-y">doi:10.1038/s41557-020-00620-y</a></p>Constrained molecules typically adopt one major conformation and this limitation prevents the study of other energetically less-favourable conformations. Nevertheless, these alternate structures might prove to be useful and it has now been shown that a dominant rotor method can alter the energetic landscape of peptides to create two-well systems with distinct conformational behaviour.<img src="http://feeds.feedburner.com/~r/nchem/rss/current/~4/LnxYJXXfijU" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Illuminating the dark conformational space of macrocycles using dominant rotors]]></dc:title>
+            <dc:creator>Diego B. Diaz</dc:creator><dc:creator>Solomon D. Appavoo</dc:creator><dc:creator>Anastasia F. Bogdanchikova</dc:creator><dc:creator>Yury Lebedev</dc:creator><dc:creator>Timothy J. McTiernan</dc:creator><dc:creator>Gabriel dos Passos Gomes</dc:creator><dc:creator>Andrei K. Yudin</dc:creator>
+            <dc:identifier>doi:10.1038/s41557-020-00620-y</dc:identifier>
+            <dc:source>Nature Chemistry, Published online: 2021-02-15; | doi:10.1038/s41557-020-00620-y</dc:source>
+            <dc:date>2021-02-15</dc:date>
+            <prism:publicationName>Nature Chemistry</prism:publicationName>
+            <prism:doi>10.1038/s41557-020-00620-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41557-020-00620-y</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41557-020-00620-y</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41557-020-00635-5">
+            <title><![CDATA[Metal–organic frameworks embedded in a liposome facilitate overall photocatalytic water splitting]]></title>
+            <link>http://feeds.nature.com/~r/nchem/rss/current/~3/iS3z4OjNLEs/s41557-020-00635-5</link>
+            <content:encoded><![CDATA[
+                <p>Nature Chemistry, Published online: 15 February 2021; <a href="https://www.nature.com/articles/s41557-020-00635-5">doi:10.1038/s41557-020-00635-5</a></p>Some metal–organic frameworks (MOFs) can promote photocatalytic hydrogen evolution and others can facilitate water oxidation, but it is difficult to combine them into a single system. Now, by confining MOFs that can promote each half-reaction within the hydrophobic and hydrophilic regions of a liposome to avoid the fast recombination of photo-generated charges, evidence for water splitting has been obtained.<img src="http://feeds.feedburner.com/~r/nchem/rss/current/~4/iS3z4OjNLEs" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Metal–organic frameworks embedded in a liposome facilitate overall photocatalytic water splitting]]></dc:title>
+            <dc:creator>Huihui Hu</dc:creator><dc:creator>Zhiye Wang</dc:creator><dc:creator>Lingyun Cao</dc:creator><dc:creator>Lingzhen Zeng</dc:creator><dc:creator>Cankun Zhang</dc:creator><dc:creator>Wenbin Lin</dc:creator><dc:creator>Cheng Wang</dc:creator>
+            <dc:identifier>doi:10.1038/s41557-020-00635-5</dc:identifier>
+            <dc:source>Nature Chemistry, Published online: 2021-02-15; | doi:10.1038/s41557-020-00635-5</dc:source>
+            <dc:date>2021-02-15</dc:date>
+            <prism:publicationName>Nature Chemistry</prism:publicationName>
+            <prism:doi>10.1038/s41557-020-00635-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41557-020-00635-5</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41557-020-00635-5</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41557-020-00626-6">
+            <title><![CDATA[Predicting the stability of homotrimeric and heterotrimeric collagen helices]]></title>
+            <link>http://feeds.nature.com/~r/nchem/rss/current/~3/PjYSrh0GgFY/s41557-020-00626-6</link>
+            <content:encoded><![CDATA[
+                <p>Nature Chemistry, Published online: 15 February 2021; <a href="https://www.nature.com/articles/s41557-020-00626-6">doi:10.1038/s41557-020-00626-6</a></p>Collagen-like peptides can self-assemble into hundreds of closely related triple helices. Now, an algorithm has been developed that predicts the most stable helix and the extent to which it will assemble to the exclusion of the competing helices. This information can help improve the understanding of triple helix design and assembly.<img src="http://feeds.feedburner.com/~r/nchem/rss/current/~4/PjYSrh0GgFY" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Predicting the stability of homotrimeric and heterotrimeric collagen helices]]></dc:title>
+            <dc:creator>Douglas R. Walker</dc:creator><dc:creator>Sarah A. H. Hulgan</dc:creator><dc:creator>Caroline M. Peterson</dc:creator><dc:creator>I-Che Li</dc:creator><dc:creator>Kevin J. Gonzalez</dc:creator><dc:creator>Jeffrey D. Hartgerink</dc:creator>
+            <dc:identifier>doi:10.1038/s41557-020-00626-6</dc:identifier>
+            <dc:source>Nature Chemistry, Published online: 2021-02-15; | doi:10.1038/s41557-020-00626-6</dc:source>
+            <dc:date>2021-02-15</dc:date>
+            <prism:publicationName>Nature Chemistry</prism:publicationName>
+            <prism:doi>10.1038/s41557-020-00626-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41557-020-00626-6</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41557-020-00626-6</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41557-020-00629-3">
+            <title><![CDATA[Direct observation of coherent femtosecond solvent reorganization coupled to intramolecular electron transfer]]></title>
+            <link>http://feeds.nature.com/~r/nchem/rss/current/~3/aUtLxdZ8WDo/s41557-020-00629-3</link>
+            <content:encoded><![CDATA[
+                <p>Nature Chemistry, Published online: 15 February 2021; <a href="https://www.nature.com/articles/s41557-020-00629-3">doi:10.1038/s41557-020-00629-3</a></p>Solvent plays a critical role in electron-transfer reactions, but short-range solvation dynamics are challenging to observe. Now, femtosecond X-ray solution scattering has been used to directly monitor the reorganization of water upon ultrafast intramolecular electron transfer in a bimetallic complex. Coherent motions of the first-shell water molecules are observed, arising from changes in solute–solvent hydrogen bonding.<img src="http://feeds.feedburner.com/~r/nchem/rss/current/~4/aUtLxdZ8WDo" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Direct observation of coherent femtosecond solvent reorganization coupled to intramolecular electron transfer]]></dc:title>
+            <dc:creator>Elisa Biasin</dc:creator><dc:creator>Zachary W. Fox</dc:creator><dc:creator>Amity Andersen</dc:creator><dc:creator>Kathryn Ledbetter</dc:creator><dc:creator>Kasper S. Kjær</dc:creator><dc:creator>Roberto Alonso-Mori</dc:creator><dc:creator>Julia M. Carlstad</dc:creator><dc:creator>Matthieu Chollet</dc:creator><dc:creator>James D. Gaynor</dc:creator><dc:creator>James M. Glownia</dc:creator><dc:creator>Kiryong Hong</dc:creator><dc:creator>Thomas Kroll</dc:creator><dc:creator>Jae Hyuk Lee</dc:creator><dc:creator>Chelsea Liekhus-Schmaltz</dc:creator><dc:creator>Marco Reinhard</dc:creator><dc:creator>Dimosthenis Sokaras</dc:creator><dc:creator>Yu Zhang</dc:creator><dc:creator>Gilles Doumy</dc:creator><dc:creator>Anne Marie March</dc:creator><dc:creator>Stephen H. Southworth</dc:creator><dc:creator>Shaul Mukamel</dc:creator><dc:creator>Kelly J. Gaffney</dc:creator><dc:creator>Robert W. Schoenlein</dc:creator><dc:creator>Niranjan Govind</dc:creator><dc:creator>Amy A. Cordones</dc:creator><dc:creator>Munira Khalil</dc:creator>
+            <dc:identifier>doi:10.1038/s41557-020-00629-3</dc:identifier>
+            <dc:source>Nature Chemistry, Published online: 2021-02-15; | doi:10.1038/s41557-020-00629-3</dc:source>
+            <dc:date>2021-02-15</dc:date>
+            <prism:publicationName>Nature Chemistry</prism:publicationName>
+            <prism:doi>10.1038/s41557-020-00629-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41557-020-00629-3</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41557-020-00629-3</feedburner:origLink></item>
+    
+</rdf:RDF>

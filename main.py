@@ -7,29 +7,28 @@ def rss_feed_2_doi():
     """ Open up file, loop through each line in the file to get each url to parse RSS feed and Append list of DOIs to
     list for each journal. Saves a raw XML file for archive of RSS feed. Lastly, added new DOI's into SQLite3 database.
                         """
-
     with open("rss_feed.txt", "r") as my_file:
-        doi_list = [npa_ingestion_tool.parse_rss(line, str(npa_ingestion_tool.no_newline(line) + "_" + datetime.now(
+        '''doi_list = [npa_ingestion_tool.parse_rss(line, str(npa_ingestion_tool.no_newline(line) + "_" + datetime.now(
         ).strftime("%Y-%m-%d_%I-%M-%S_%p") + ".json")) for line in my_file]
-        '''doi_list=[]
+        '''
+        doi_list = []
         for line in my_file:
-            string = npa_ingestion_tool.get_xml(line, str(npa_ingestion_tool.no_newline(line) + "_" + datetime.now().strftime("%Y-%m-%d_%I-%M-%S_%p") + ".xml"))
-            parsed_dois = npa_ingestion_tool.parse_rss(string[0])
-            doi_list.append((string[1], parsed_dois))'''
-
+            string = npa_ingestion_tool.get_xml(line, str(
+                npa_ingestion_tool.no_newline(line) + "_" + datetime.now().strftime("%Y-%m-%d") + ".xml"))
+            parsed_doi_list = npa_ingestion_tool.parse_rss(string[0])
+            doi_list.append((string[1], parsed_doi_list))
     print(doi_list)
 
     # SQLite3 Database entry
-    connection = npa_ingestion_tool.sqlite3_db_initialization("npa_database_feb_10.db")
-    table_creation = npa_ingestion_tool.sqlite3_table_creation(connection)
+    connection = npa_ingestion_tool.sqlite3_db_initialization("npa_database_feb_22_current.db")
+    npa_ingestion_tool.sqlite3_table_creation(connection)
 
     for journal in doi_list:
         archive_filename = journal[0]
         for doi in journal[1]:
             npa_ingestion_tool.sqlite3_insertion_only_doi(connection, doi, archive_filename)
 
-    # Database Entry
-    # Viewing; In terminal type: sqlite3 + database name
+    # Database Viewing; In terminal type: sqlite3 + database name
     # Then, SELECT * from DOIs;
     connection.commit()
 
@@ -40,7 +39,7 @@ def database_query_pubmed():
     If greater than equal to 3 weeks, try to parse from the RSS feed archives and also update database with any results.
                             """
     # Database connection and cursor object creation
-    conn = npa_ingestion_tool.sqlite3_db_initialization("npa_database_feb_10.db")
+    conn = npa_ingestion_tool.sqlite3_db_initialization("npa_database_feb_22_current.db")
     curse = conn.cursor()
 
     # Query PubMed (SELECT SQL statement) for DOI(title/abstract null) <3 weeks:
