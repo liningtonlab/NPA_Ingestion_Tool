@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://purl.org/rss/1.0/"
+         xmlns:cc="http://web.resource.org/cc/"
+         xmlns:content="http://purl.org/rss/1.0/modules/content/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/">
+   <channel>
+      <title>tandf: Bioscience, Biotechnology, and Biochemistry: Table of Contents</title>
+      <description>Table of Contents for Bioscience, Biotechnology, and Biochemistry. List of articles from both the latest and ahead of print issues.</description>
+      <dc:title>tandf: Bioscience, Biotechnology, and Biochemistry: Table of Contents</dc:title>
+      <dc:publisher>tandf</dc:publisher>
+      <dc:language>en-US</dc:language>
+      <prism:publicationName>Bioscience, Biotechnology, and Biochemistry</prism:publicationName>
+      <items>
+         <rdf:Seq>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1809988?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1813543?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1811949?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1809987?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1808443?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1814127?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1806704?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1812374?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1806705?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1812375?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1805718?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1805584?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1804317?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1807901?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1810539?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1815170?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1803728?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1811948?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1804318?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1807310?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1809989?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1808444?af=R"/>
+            <rdf:li rdf:resource="https://www.tandfonline.com/doi/full/10.1080/09168451.2019.1694404?af=R"/>
+         </rdf:Seq>
+      </items>
+   </channel>
+   <image rdf:about="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/tbbb20/2020/tbbb20.v084.i12/tbbb20.v084.i12/20201105-01/tbbb20.v084.i12.cover.jpg">
+      <title>Bioscience, Biotechnology, and Biochemistry</title>
+      <url>https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/tbbb20/2020/tbbb20.v084.i12/tbbb20.v084.i12/20201105-01/tbbb20.v084.i12.cover.jpg</url>
+      <link>https://www.tandfonline.com/loi/tbbb20?af=R</link>
+   </image>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1809988?af=R">
+      <title>Detection of 30 bp DNA fragments with a sensitive modified Southern blot analysis</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1809988?af=R</link>
+      <content:encoded>&lt;a href="/toc/tbbb20/84/12"&gt;Volume 84, Issue 12&lt;/a&gt;, December 2020, Page 2405-2414&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 84, Issue 12, December 2020, Page 2405-2414&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Detection of 30 bp DNA fragments with a sensitive modified Southern blot analysis</dc:title>
+      <dc:identifier>10.1080/09168451.2020.1809988</dc:identifier>
+      <dc:source>Bioscience, Biotechnology, and Biochemistry</dc:source>
+      <dc:date>2020-08-28T11:39:09Z</dc:date>
+      <dc:rights>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</dc:rights>
+      <dc:creator>Reona Takabatake</dc:creator>
+      <dc:creator>Machiko Kaneko</dc:creator>
+      <dc:creator>Makiko Yanagida</dc:creator>
+      <dc:creator>Kazumi Kitta</dc:creator>
+      <prism:publicationName>Detection of 30 bp DNA fragments with a sensitive modified Southern blot analysis</prism:publicationName>
+      <prism:volume>84</prism:volume>
+      <prism:number>12</prism:number>
+      <prism:startingPage>2405</prism:startingPage>
+      <prism:endingPage>2414</prism:endingPage>
+      <prism:coverDate>2020-12-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-12-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09168451.2020.1809988</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1809988?af=R</prism:url>
+      <prism:copyright>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1813543?af=R">
+      <title>The anti-tumor effect of ursolic acid on papillary thyroid carcinoma via suppressing Fibronectin-1</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1813543?af=R</link>
+      <content:encoded>&lt;a href="/toc/tbbb20/84/12"&gt;Volume 84, Issue 12&lt;/a&gt;, December 2020, Page 2415-2424&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 84, Issue 12, December 2020, Page 2415-2424&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>The anti-tumor effect of ursolic acid on papillary thyroid carcinoma via suppressing Fibronectin-1</dc:title>
+      <dc:identifier>10.1080/09168451.2020.1813543</dc:identifier>
+      <dc:source>Bioscience, Biotechnology, and Biochemistry</dc:source>
+      <dc:date>2020-09-18T12:52:47Z</dc:date>
+      <dc:rights>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</dc:rights>
+      <dc:creator>Mingxiang Cao</dc:creator>
+      <dc:creator>Di Xiao</dc:creator>
+      <dc:creator>Xubei Ding</dc:creator>
+      <prism:publicationName>The anti-tumor effect of ursolic acid on papillary thyroid carcinoma via suppressing Fibronectin-1</prism:publicationName>
+      <prism:volume>84</prism:volume>
+      <prism:number>12</prism:number>
+      <prism:startingPage>2415</prism:startingPage>
+      <prism:endingPage>2424</prism:endingPage>
+      <prism:coverDate>2020-12-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-12-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09168451.2020.1813543</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1813543?af=R</prism:url>
+      <prism:copyright>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1811949?af=R">
+      <title>The structures of cyclic aminals from aldehydes and “roofed” mono-N-sulfonyl cis-diamines</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1811949?af=R</link>
+      <content:encoded>&lt;a href="/toc/tbbb20/84/12"&gt;Volume 84, Issue 12&lt;/a&gt;, December 2020, Page 2425-2427&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 84, Issue 12, December 2020, Page 2425-2427&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>The structures of cyclic aminals from aldehydes and “roofed” mono-N-sulfonyl cis-diamines</dc:title>
+      <dc:identifier>10.1080/09168451.2020.1811949</dc:identifier>
+      <dc:source>Bioscience, Biotechnology, and Biochemistry</dc:source>
+      <dc:date>2020-08-31T06:42:15Z</dc:date>
+      <dc:rights>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</dc:rights>
+      <dc:creator>Laksana Anugerah Adhi</dc:creator>
+      <dc:creator>Satoshi Fukuda</dc:creator>
+      <dc:creator>Yukiharu Fukushi</dc:creator>
+      <prism:publicationName>The structures of cyclic aminals from aldehydes and “roofed” mono-N-sulfonyl cis-diamines</prism:publicationName>
+      <prism:volume>84</prism:volume>
+      <prism:number>12</prism:number>
+      <prism:startingPage>2425</prism:startingPage>
+      <prism:endingPage>2427</prism:endingPage>
+      <prism:coverDate>2020-12-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-12-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09168451.2020.1811949</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1811949?af=R</prism:url>
+      <prism:copyright>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1809987?af=R">
+      <title>Resveratrol suppresses insulin-like growth factor I-induced osteoblast migration: attenuation of the p44/p42 MAP kinase pathway</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1809987?af=R</link>
+      <content:encoded>&lt;a href="/toc/tbbb20/84/12"&gt;Volume 84, Issue 12&lt;/a&gt;, December 2020, Page 2428-2439&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 84, Issue 12, December 2020, Page 2428-2439&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Resveratrol suppresses insulin-like growth factor I-induced osteoblast migration: attenuation of the p44/p42 MAP kinase pathway</dc:title>
+      <dc:identifier>10.1080/09168451.2020.1809987</dc:identifier>
+      <dc:source>Bioscience, Biotechnology, and Biochemistry</dc:source>
+      <dc:date>2020-08-30T03:23:19Z</dc:date>
+      <dc:rights>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</dc:rights>
+      <dc:creator>Tomoyuki Hioki</dc:creator>
+      <dc:creator>Tetsu Kawabata</dc:creator>
+      <dc:creator>Go Sakai</dc:creator>
+      <dc:creator>Kazuhiko Fujita</dc:creator>
+      <dc:creator>Gen Kuroyanagi</dc:creator>
+      <dc:creator>Rie Matsushima-Nishiwaki</dc:creator>
+      <dc:creator>Woo Kim</dc:creator>
+      <dc:creator>Takanobu Otsuka</dc:creator>
+      <dc:creator>Hiroki Iida</dc:creator>
+      <dc:creator>Haruhiko Tokuda</dc:creator>
+      <dc:creator>Osamu Kozawa</dc:creator>
+      <prism:publicationName>Resveratrol suppresses insulin-like growth factor I-induced osteoblast migration: attenuation of the p44/p42 MAP kinase pathway</prism:publicationName>
+      <prism:volume>84</prism:volume>
+      <prism:number>12</prism:number>
+      <prism:startingPage>2428</prism:startingPage>
+      <prism:endingPage>2439</prism:endingPage>
+      <prism:coverDate>2020-12-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-12-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09168451.2020.1809987</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1809987?af=R</prism:url>
+      <prism:copyright>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1808443?af=R">
+      <title>Curcumin induces apoptosis in lung cancer cells by 14-3-3 protein-mediated activation of Bad</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1808443?af=R</link>
+      <content:encoded>&lt;a href="/toc/tbbb20/84/12"&gt;Volume 84, Issue 12&lt;/a&gt;, December 2020, Page 2440-2447&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 84, Issue 12, December 2020, Page 2440-2447&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Curcumin induces apoptosis in lung cancer cells by 14-3-3 protein-mediated activation of Bad</dc:title>
+      <dc:identifier>10.1080/09168451.2020.1808443</dc:identifier>
+      <dc:source>Bioscience, Biotechnology, and Biochemistry</dc:source>
+      <dc:date>2020-08-25T11:46:15Z</dc:date>
+      <dc:rights>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</dc:rights>
+      <dc:creator>Hiroshi Endo</dc:creator>
+      <dc:creator>Izumi Inoue</dc:creator>
+      <dc:creator>Kimiko Masunaka</dc:creator>
+      <dc:creator>Masaya Tanaka</dc:creator>
+      <dc:creator>Mihiro Yano</dc:creator>
+      <prism:publicationName>Curcumin induces apoptosis in lung cancer cells by 14-3-3 protein-mediated activation of Bad</prism:publicationName>
+      <prism:volume>84</prism:volume>
+      <prism:number>12</prism:number>
+      <prism:startingPage>2440</prism:startingPage>
+      <prism:endingPage>2447</prism:endingPage>
+      <prism:coverDate>2020-12-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-12-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09168451.2020.1808443</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1808443?af=R</prism:url>
+      <prism:copyright>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1814127?af=R">
+      <title>The effects of glucose and fatty acids on CXCL10 expression in skeletal muscle cells</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1814127?af=R</link>
+      <content:encoded>&lt;a href="/toc/tbbb20/84/12"&gt;Volume 84, Issue 12&lt;/a&gt;, December 2020, Page 2448-2457&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 84, Issue 12, December 2020, Page 2448-2457&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>The effects of glucose and fatty acids on CXCL10 expression in skeletal muscle cells</dc:title>
+      <dc:identifier>10.1080/09168451.2020.1814127</dc:identifier>
+      <dc:source>Bioscience, Biotechnology, and Biochemistry</dc:source>
+      <dc:date>2020-09-02T05:09:12Z</dc:date>
+      <dc:rights>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</dc:rights>
+      <dc:creator>Yuri Ishiuchi-Sato</dc:creator>
+      <dc:creator>Erika Hiraiwa</dc:creator>
+      <dc:creator>Ayaka Shinozaki</dc:creator>
+      <dc:creator>Taku Nedachi</dc:creator>
+      <prism:publicationName>The effects of glucose and fatty acids on CXCL10 expression in skeletal muscle cells</prism:publicationName>
+      <prism:volume>84</prism:volume>
+      <prism:number>12</prism:number>
+      <prism:startingPage>2448</prism:startingPage>
+      <prism:endingPage>2457</prism:endingPage>
+      <prism:coverDate>2020-12-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-12-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09168451.2020.1814127</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1814127?af=R</prism:url>
+      <prism:copyright>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1806704?af=R">
+      <title>LncRNA TUG1 reverses LPS-induced cell apoptosis and inflammation of macrophage via targeting MiR-221-3p/SPRED2 axis</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1806704?af=R</link>
+      <content:encoded>&lt;a href="/toc/tbbb20/84/12"&gt;Volume 84, Issue 12&lt;/a&gt;, December 2020, Page 2458-2465&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 84, Issue 12, December 2020, Page 2458-2465&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>LncRNA TUG1 reverses LPS-induced cell apoptosis and inflammation of macrophage via targeting MiR-221-3p/SPRED2 axis</dc:title>
+      <dc:identifier>10.1080/09168451.2020.1806704</dc:identifier>
+      <dc:source>Bioscience, Biotechnology, and Biochemistry</dc:source>
+      <dc:date>2020-08-25T11:49:58Z</dc:date>
+      <dc:rights>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</dc:rights>
+      <dc:creator>Lili Hu</dc:creator>
+      <dc:creator>Hongwei Ye</dc:creator>
+      <dc:creator>Jianjun Liao</dc:creator>
+      <prism:publicationName>LncRNA TUG1 reverses LPS-induced cell apoptosis and inflammation of macrophage via targeting MiR-221-3p/SPRED2 axis</prism:publicationName>
+      <prism:volume>84</prism:volume>
+      <prism:number>12</prism:number>
+      <prism:startingPage>2458</prism:startingPage>
+      <prism:endingPage>2465</prism:endingPage>
+      <prism:coverDate>2020-12-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-12-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09168451.2020.1806704</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1806704?af=R</prism:url>
+      <prism:copyright>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1812374?af=R">
+      <title>AtFLL2, a member of the FLO2 gene family, affects the enlargement of leaves at the vegetative stage and facilitates the regulation of carbon metabolism and flow</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1812374?af=R</link>
+      <content:encoded>&lt;a href="/toc/tbbb20/84/12"&gt;Volume 84, Issue 12&lt;/a&gt;, December 2020, Page 2466-2475&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 84, Issue 12, December 2020, Page 2466-2475&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>AtFLL2, a member of the FLO2 gene family, affects the enlargement of leaves at the vegetative stage and facilitates the regulation of carbon metabolism and flow</dc:title>
+      <dc:identifier>10.1080/09168451.2020.1812374</dc:identifier>
+      <dc:source>Bioscience, Biotechnology, and Biochemistry</dc:source>
+      <dc:date>2020-09-08T04:36:50Z</dc:date>
+      <dc:rights>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</dc:rights>
+      <dc:creator>Nonoka Sato</dc:creator>
+      <dc:creator>Miho Kihira</dc:creator>
+      <dc:creator>Ryoko Matsushita</dc:creator>
+      <dc:creator>Chihiro Kaneko</dc:creator>
+      <dc:creator>Yohei Ishii</dc:creator>
+      <dc:creator>Yong-Gen Yin</dc:creator>
+      <dc:creator>Naoki Kawachi</dc:creator>
+      <dc:creator>Hiroshi Teramura</dc:creator>
+      <dc:creator>Hiroaki Kusano</dc:creator>
+      <dc:creator>Hiroaki Shimada</dc:creator>
+      <prism:publicationName>AtFLL2, a member of the FLO2 gene family, affects the enlargement of leaves at the vegetative stage and facilitates the regulation of carbon metabolism and flow</prism:publicationName>
+      <prism:volume>84</prism:volume>
+      <prism:number>12</prism:number>
+      <prism:startingPage>2466</prism:startingPage>
+      <prism:endingPage>2475</prism:endingPage>
+      <prism:coverDate>2020-12-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-12-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09168451.2020.1812374</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1812374?af=R</prism:url>
+      <prism:copyright>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1806705?af=R">
+      <title>MicroRNA-18a-5p mitigates oxygen-glucose-deprivation/reoxygenation-induced injury through suppression of TLRs/NF-κB signaling by targeting TLR8 in PC12 cells</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1806705?af=R</link>
+      <content:encoded>&lt;a href="/toc/tbbb20/84/12"&gt;Volume 84, Issue 12&lt;/a&gt;, December 2020, Page 2476-2483&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 84, Issue 12, December 2020, Page 2476-2483&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>MicroRNA-18a-5p mitigates oxygen-glucose-deprivation/reoxygenation-induced injury through suppression of TLRs/NF-κB signaling by targeting TLR8 in PC12 cells</dc:title>
+      <dc:identifier>10.1080/09168451.2020.1806705</dc:identifier>
+      <dc:source>Bioscience, Biotechnology, and Biochemistry</dc:source>
+      <dc:date>2020-08-20T12:35:22Z</dc:date>
+      <dc:rights>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</dc:rights>
+      <dc:creator>Ying-Yun Lu</dc:creator>
+      <dc:creator>Xiao-Jun Ma</dc:creator>
+      <dc:creator>Yan-Na Yang</dc:creator>
+      <prism:publicationName>MicroRNA-18a-5p mitigates oxygen-glucose-deprivation/reoxygenation-induced injury through suppression of TLRs/NF-κB signaling by targeting TLR8 in PC12 cells</prism:publicationName>
+      <prism:volume>84</prism:volume>
+      <prism:number>12</prism:number>
+      <prism:startingPage>2476</prism:startingPage>
+      <prism:endingPage>2483</prism:endingPage>
+      <prism:coverDate>2020-12-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-12-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09168451.2020.1806705</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1806705?af=R</prism:url>
+      <prism:copyright>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1812375?af=R">
+      <title>Discovery of small-molecule modulator of heterotrimeric Gi-protein by integrated phenotypic profiling and chemical proteomics</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1812375?af=R</link>
+      <content:encoded>&lt;a href="/toc/tbbb20/84/12"&gt;Volume 84, Issue 12&lt;/a&gt;, December 2020, Page 2484-2490&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 84, Issue 12, December 2020, Page 2484-2490&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Discovery of small-molecule modulator of heterotrimeric Gi-protein by integrated phenotypic profiling and chemical proteomics</dc:title>
+      <dc:identifier>10.1080/09168451.2020.1812375</dc:identifier>
+      <dc:source>Bioscience, Biotechnology, and Biochemistry</dc:source>
+      <dc:date>2020-09-01T01:47:16Z</dc:date>
+      <dc:rights>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</dc:rights>
+      <dc:creator>Tatsuro Kawamura</dc:creator>
+      <dc:creator>Yushi Futamura</dc:creator>
+      <dc:creator>Erchang Shang</dc:creator>
+      <dc:creator>Makoto Muroi</dc:creator>
+      <dc:creator>Petra Janning</dc:creator>
+      <dc:creator>Masayoshi Ueno</dc:creator>
+      <dc:creator>Julian Wilke</dc:creator>
+      <dc:creator>Shigeki Takeda</dc:creator>
+      <dc:creator>Yasumitsu Kondoh</dc:creator>
+      <dc:creator>Slava Ziegler</dc:creator>
+      <dc:creator>Nobumoto Watanabe</dc:creator>
+      <dc:creator>Herbert Waldmann</dc:creator>
+      <dc:creator>Hiroyuki Osada</dc:creator>
+      <prism:publicationName>Discovery of small-molecule modulator of heterotrimeric Gi-protein by integrated phenotypic profiling and chemical proteomics</prism:publicationName>
+      <prism:volume>84</prism:volume>
+      <prism:number>12</prism:number>
+      <prism:startingPage>2484</prism:startingPage>
+      <prism:endingPage>2490</prism:endingPage>
+      <prism:coverDate>2020-12-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-12-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09168451.2020.1812375</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1812375?af=R</prism:url>
+      <prism:copyright>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1805718?af=R">
+      <title>A proteoglycan extract from Ganoderma Lucidum protects pancreatic beta-cells against STZ-induced apoptosis</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1805718?af=R</link>
+      <content:encoded>&lt;a href="/toc/tbbb20/84/12"&gt;Volume 84, Issue 12&lt;/a&gt;, December 2020, Page 2491-2498&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 84, Issue 12, December 2020, Page 2491-2498&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>A proteoglycan extract from Ganoderma Lucidum protects pancreatic beta-cells against STZ-induced apoptosis</dc:title>
+      <dc:identifier>10.1080/09168451.2020.1805718</dc:identifier>
+      <dc:source>Bioscience, Biotechnology, and Biochemistry</dc:source>
+      <dc:date>2020-08-16T02:17:05Z</dc:date>
+      <dc:rights>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</dc:rights>
+      <dc:creator>Haohui Liang</dc:creator>
+      <dc:creator>Yanna Pan</dc:creator>
+      <dc:creator>Yilong Teng</dc:creator>
+      <dc:creator>Shilin Yuan</dc:creator>
+      <dc:creator>Xiao Wu</dc:creator>
+      <dc:creator>Hongjie Yang</dc:creator>
+      <dc:creator>Ping Zhou</dc:creator>
+      <prism:publicationName>A proteoglycan extract from Ganoderma Lucidum protects pancreatic beta-cells against STZ-induced apoptosis</prism:publicationName>
+      <prism:volume>84</prism:volume>
+      <prism:number>12</prism:number>
+      <prism:startingPage>2491</prism:startingPage>
+      <prism:endingPage>2498</prism:endingPage>
+      <prism:coverDate>2020-12-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-12-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09168451.2020.1805718</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1805718?af=R</prism:url>
+      <prism:copyright>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1805584?af=R">
+      <title>Characterization of mouse di-N-acetylchitobiase that can degrade chitin-oligosaccharides</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1805584?af=R</link>
+      <content:encoded>&lt;a href="/toc/tbbb20/84/12"&gt;Volume 84, Issue 12&lt;/a&gt;, December 2020, Page 2499-2507&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 84, Issue 12, December 2020, Page 2499-2507&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Characterization of mouse di-N-acetylchitobiase that can degrade chitin-oligosaccharides</dc:title>
+      <dc:identifier>10.1080/09168451.2020.1805584</dc:identifier>
+      <dc:source>Bioscience, Biotechnology, and Biochemistry</dc:source>
+      <dc:date>2020-08-16T02:13:03Z</dc:date>
+      <dc:rights>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</dc:rights>
+      <dc:creator>Misa Ohno</dc:creator>
+      <dc:creator>Masao Miyazaki</dc:creator>
+      <dc:creator>Masahiro Kimura</dc:creator>
+      <dc:creator>Yusaku Minowa</dc:creator>
+      <dc:creator>Masayoshi Sakaguchi</dc:creator>
+      <dc:creator>Fumitaka Oyama</dc:creator>
+      <dc:creator>Tetsuro Yamashita</dc:creator>
+      <prism:publicationName>Characterization of mouse di-N-acetylchitobiase that can degrade chitin-oligosaccharides</prism:publicationName>
+      <prism:volume>84</prism:volume>
+      <prism:number>12</prism:number>
+      <prism:startingPage>2499</prism:startingPage>
+      <prism:endingPage>2507</prism:endingPage>
+      <prism:coverDate>2020-12-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-12-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09168451.2020.1805584</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1805584?af=R</prism:url>
+      <prism:copyright>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1804317?af=R">
+      <title>Crystal structure of a glycoside hydrolase family 68 β-fructosyltransferase from Beijerinckia indica subsp. indica in complex with fructose</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1804317?af=R</link>
+      <content:encoded>&lt;a href="/toc/tbbb20/84/12"&gt;Volume 84, Issue 12&lt;/a&gt;, December 2020, Page 2508-2520&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 84, Issue 12, December 2020, Page 2508-2520&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Crystal structure of a glycoside hydrolase family 68 β-fructosyltransferase from Beijerinckia indica subsp. indica in complex with fructose</dc:title>
+      <dc:identifier>10.1080/09168451.2020.1804317</dc:identifier>
+      <dc:source>Bioscience, Biotechnology, and Biochemistry</dc:source>
+      <dc:date>2020-08-05T03:34:33Z</dc:date>
+      <dc:rights>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</dc:rights>
+      <dc:creator>Takashi Tonozuka</dc:creator>
+      <dc:creator>Junichi Kitamura</dc:creator>
+      <dc:creator>Mika Nagaya</dc:creator>
+      <dc:creator>Reika Kawai</dc:creator>
+      <dc:creator>Atsushi Nishikawa</dc:creator>
+      <dc:creator>Katsuaki Hirano</dc:creator>
+      <dc:creator>Keisuke Tamura</dc:creator>
+      <dc:creator>Tadashi Fujii</dc:creator>
+      <dc:creator>Takumi Tochio</dc:creator>
+      <prism:publicationName>Crystal structure of a glycoside hydrolase family 68 β-fructosyltransferase from Beijerinckia indica subsp. indica in complex with fructose</prism:publicationName>
+      <prism:volume>84</prism:volume>
+      <prism:number>12</prism:number>
+      <prism:startingPage>2508</prism:startingPage>
+      <prism:endingPage>2520</prism:endingPage>
+      <prism:coverDate>2020-12-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-12-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09168451.2020.1804317</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1804317?af=R</prism:url>
+      <prism:copyright>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1807901?af=R">
+      <title>Analysis of the differential expression profile of miRNAs in myocardial tissues of rats with burn injury</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1807901?af=R</link>
+      <content:encoded>&lt;a href="/toc/tbbb20/84/12"&gt;Volume 84, Issue 12&lt;/a&gt;, December 2020, Page 2521-2528&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 84, Issue 12, December 2020, Page 2521-2528&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Analysis of the differential expression profile of miRNAs in myocardial tissues of rats with burn injury</dc:title>
+      <dc:identifier>10.1080/09168451.2020.1807901</dc:identifier>
+      <dc:source>Bioscience, Biotechnology, and Biochemistry</dc:source>
+      <dc:date>2020-09-01T01:41:08Z</dc:date>
+      <dc:rights>© 2020 The Author(s). Published by Informa UK Limited, trading as Taylor &amp; Francis Group.</dc:rights>
+      <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+      <dc:creator>Jingdong Guo</dc:creator>
+      <dc:creator>Zhensen Zhu</dc:creator>
+      <dc:creator>Dongmei Zhang</dc:creator>
+      <dc:creator>Bo Chen</dc:creator>
+      <dc:creator>Ben Zou</dc:creator>
+      <dc:creator>Songying Gao</dc:creator>
+      <dc:creator>Xiongxiang Zhu</dc:creator>
+      <prism:publicationName>Analysis of the differential expression profile of miRNAs in myocardial tissues of rats with burn injury</prism:publicationName>
+      <prism:volume>84</prism:volume>
+      <prism:number>12</prism:number>
+      <prism:startingPage>2521</prism:startingPage>
+      <prism:endingPage>2528</prism:endingPage>
+      <prism:coverDate>2020-12-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-12-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09168451.2020.1807901</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1807901?af=R</prism:url>
+      <prism:copyright>© 2020 The Author(s). Published by Informa UK Limited, trading as Taylor &amp; Francis Group.</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1810539?af=R">
+      <title>ROS-mediated synthetic growth defect caused by impaired metabolism of sphingolipids and phosphatidylserine in budding yeast</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1810539?af=R</link>
+      <content:encoded>&lt;a href="/toc/tbbb20/84/12"&gt;Volume 84, Issue 12&lt;/a&gt;, December 2020, Page 2529-2532&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 84, Issue 12, December 2020, Page 2529-2532&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>ROS-mediated synthetic growth defect caused by impaired metabolism of sphingolipids and phosphatidylserine in budding yeast</dc:title>
+      <dc:identifier>10.1080/09168451.2020.1810539</dc:identifier>
+      <dc:source>Bioscience, Biotechnology, and Biochemistry</dc:source>
+      <dc:date>2020-08-26T01:16:10Z</dc:date>
+      <dc:rights>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</dc:rights>
+      <dc:creator>Takumi Toda</dc:creator>
+      <dc:creator>Atsuya Urita</dc:creator>
+      <dc:creator>Ayano Koga</dc:creator>
+      <dc:creator>Chihiro Takayama</dc:creator>
+      <dc:creator>Motohiro Tani</dc:creator>
+      <prism:publicationName>ROS-mediated synthetic growth defect caused by impaired metabolism of sphingolipids and phosphatidylserine in budding yeast</prism:publicationName>
+      <prism:volume>84</prism:volume>
+      <prism:number>12</prism:number>
+      <prism:startingPage>2529</prism:startingPage>
+      <prism:endingPage>2532</prism:endingPage>
+      <prism:coverDate>2020-12-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-12-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09168451.2020.1810539</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1810539?af=R</prism:url>
+      <prism:copyright>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1815170?af=R">
+      <title>Streptozotocin-induced diabetic cardiomyopathy in rats: ameliorative effect of PIPERINE via Bcl2, Bax/Bcl2, and caspase-3 pathways</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1815170?af=R</link>
+      <content:encoded>&lt;a href="/toc/tbbb20/84/12"&gt;Volume 84, Issue 12&lt;/a&gt;, December 2020, Page 2533-2544&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 84, Issue 12, December 2020, Page 2533-2544&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Streptozotocin-induced diabetic cardiomyopathy in rats: ameliorative effect of PIPERINE via Bcl2, Bax/Bcl2, and caspase-3 pathways</dc:title>
+      <dc:identifier>10.1080/09168451.2020.1815170</dc:identifier>
+      <dc:source>Bioscience, Biotechnology, and Biochemistry</dc:source>
+      <dc:date>2020-09-06T03:03:18Z</dc:date>
+      <dc:rights>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</dc:rights>
+      <dc:creator>Yan Wang</dc:creator>
+      <dc:creator>Hui Sun</dc:creator>
+      <dc:creator>Jianwu Zhang</dc:creator>
+      <dc:creator>Zhiyang Xia</dc:creator>
+      <dc:creator>Wei Chen</dc:creator>
+      <prism:publicationName>Streptozotocin-induced diabetic cardiomyopathy in rats: ameliorative effect of PIPERINE via Bcl2, Bax/Bcl2, and caspase-3 pathways</prism:publicationName>
+      <prism:volume>84</prism:volume>
+      <prism:number>12</prism:number>
+      <prism:startingPage>2533</prism:startingPage>
+      <prism:endingPage>2544</prism:endingPage>
+      <prism:coverDate>2020-12-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-12-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09168451.2020.1815170</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1815170?af=R</prism:url>
+      <prism:copyright>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1803728?af=R">
+      <title>Effect of dispersed form on the bioavailability of β-carotene from daily intake in humans</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1803728?af=R</link>
+      <content:encoded>&lt;a href="/toc/tbbb20/84/12"&gt;Volume 84, Issue 12&lt;/a&gt;, December 2020, Page 2545-2557&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 84, Issue 12, December 2020, Page 2545-2557&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Effect of dispersed form on the bioavailability of β-carotene from daily intake in humans</dc:title>
+      <dc:identifier>10.1080/09168451.2020.1803728</dc:identifier>
+      <dc:source>Bioscience, Biotechnology, and Biochemistry</dc:source>
+      <dc:date>2020-08-24T02:38:27Z</dc:date>
+      <dc:rights>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</dc:rights>
+      <dc:creator>Eiichi Kotake-Nara</dc:creator>
+      <dc:creator>Megumi Hase</dc:creator>
+      <prism:publicationName>Effect of dispersed form on the bioavailability of β-carotene from daily intake in humans</prism:publicationName>
+      <prism:volume>84</prism:volume>
+      <prism:number>12</prism:number>
+      <prism:startingPage>2545</prism:startingPage>
+      <prism:endingPage>2557</prism:endingPage>
+      <prism:coverDate>2020-12-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-12-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09168451.2020.1803728</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1803728?af=R</prism:url>
+      <prism:copyright>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1811948?af=R">
+      <title>Lactobacilli and bifidobacteria derived from infant intestines may activate macrophages and lead to different IL-10 secretion</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1811948?af=R</link>
+      <content:encoded>&lt;a href="/toc/tbbb20/84/12"&gt;Volume 84, Issue 12&lt;/a&gt;, December 2020, Page 2558-2568&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 84, Issue 12, December 2020, Page 2558-2568&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Lactobacilli and bifidobacteria derived from infant intestines may activate macrophages and lead to different IL-10 secretion</dc:title>
+      <dc:identifier>10.1080/09168451.2020.1811948</dc:identifier>
+      <dc:source>Bioscience, Biotechnology, and Biochemistry</dc:source>
+      <dc:date>2020-08-30T03:21:18Z</dc:date>
+      <dc:rights>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</dc:rights>
+      <dc:creator>Huijing Liang</dc:creator>
+      <dc:creator>Zihao Luo</dc:creator>
+      <dc:creator>Zhonghua Miao</dc:creator>
+      <dc:creator>Xi Shen</dc:creator>
+      <dc:creator>Ming Li</dc:creator>
+      <dc:creator>Xuguang Zhang</dc:creator>
+      <dc:creator>Jiehua Chen</dc:creator>
+      <dc:creator>Xiaolei Ze</dc:creator>
+      <dc:creator>Qiwei Chen</dc:creator>
+      <dc:creator>Fang He</dc:creator>
+      <prism:publicationName>Lactobacilli and bifidobacteria derived from infant intestines may activate macrophages and lead to different IL-10 secretion</prism:publicationName>
+      <prism:volume>84</prism:volume>
+      <prism:number>12</prism:number>
+      <prism:startingPage>2558</prism:startingPage>
+      <prism:endingPage>2568</prism:endingPage>
+      <prism:coverDate>2020-12-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-12-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09168451.2020.1811948</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1811948?af=R</prism:url>
+      <prism:copyright>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1804318?af=R">
+      <title>Standardization of tomato juice tastes using a taste sensor approach</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1804318?af=R</link>
+      <content:encoded>&lt;a href="/toc/tbbb20/84/12"&gt;Volume 84, Issue 12&lt;/a&gt;, December 2020, Page 2569-2575&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 84, Issue 12, December 2020, Page 2569-2575&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Standardization of tomato juice tastes using a taste sensor approach</dc:title>
+      <dc:identifier>10.1080/09168451.2020.1804318</dc:identifier>
+      <dc:source>Bioscience, Biotechnology, and Biochemistry</dc:source>
+      <dc:date>2020-08-10T02:21:05Z</dc:date>
+      <dc:rights>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</dc:rights>
+      <dc:creator>Nobuyuki Hayashi</dc:creator>
+      <dc:creator>Tomomi Ujihara</dc:creator>
+      <dc:creator>Fumiyo Hayakawa</dc:creator>
+      <dc:creator>Yuko Nakano</dc:creator>
+      <dc:creator>Tomoko Kawakami</dc:creator>
+      <dc:creator>Hidekazu Ikezaki</dc:creator>
+      <prism:publicationName>Standardization of tomato juice tastes using a taste sensor approach</prism:publicationName>
+      <prism:volume>84</prism:volume>
+      <prism:number>12</prism:number>
+      <prism:startingPage>2569</prism:startingPage>
+      <prism:endingPage>2575</prism:endingPage>
+      <prism:coverDate>2020-12-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-12-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09168451.2020.1804318</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1804318?af=R</prism:url>
+      <prism:copyright>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1807310?af=R">
+      <title>L-Asparaginase activity analysis, ansZ gene identification and anticancer activity of a new Bacillus subtilis isolated from sponges of the Red Sea</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1807310?af=R</link>
+      <content:encoded>&lt;a href="/toc/tbbb20/84/12"&gt;Volume 84, Issue 12&lt;/a&gt;, December 2020, Page 2576-2584&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 84, Issue 12, December 2020, Page 2576-2584&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>L-Asparaginase activity analysis, ansZ gene identification and anticancer activity of a new Bacillus subtilis isolated from sponges of the Red Sea</dc:title>
+      <dc:identifier>10.1080/09168451.2020.1807310</dc:identifier>
+      <dc:source>Bioscience, Biotechnology, and Biochemistry</dc:source>
+      <dc:date>2020-08-28T12:08:02Z</dc:date>
+      <dc:rights>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</dc:rights>
+      <dc:creator>Fuad Ameen</dc:creator>
+      <dc:creator>Wafa A. Alshehri</dc:creator>
+      <dc:creator>Nouf M. Al-Enazi</dc:creator>
+      <dc:creator>Abobakr Almansob</dc:creator>
+      <prism:publicationName>L-Asparaginase activity analysis, ansZ gene identification and anticancer activity of a new Bacillus subtilis isolated from sponges of the Red Sea</prism:publicationName>
+      <prism:volume>84</prism:volume>
+      <prism:number>12</prism:number>
+      <prism:startingPage>2576</prism:startingPage>
+      <prism:endingPage>2584</prism:endingPage>
+      <prism:coverDate>2020-12-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-12-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09168451.2020.1807310</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1807310?af=R</prism:url>
+      <prism:copyright>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1809989?af=R">
+      <title>Relationship between the bacterial community structures on human hair and scalp</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1809989?af=R</link>
+      <content:encoded>&lt;a href="/toc/tbbb20/84/12"&gt;Volume 84, Issue 12&lt;/a&gt;, December 2020, Page 2585-2596&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 84, Issue 12, December 2020, Page 2585-2596&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>Relationship between the bacterial community structures on human hair and scalp</dc:title>
+      <dc:identifier>10.1080/09168451.2020.1809989</dc:identifier>
+      <dc:source>Bioscience, Biotechnology, and Biochemistry</dc:source>
+      <dc:date>2020-09-30T04:46:46Z</dc:date>
+      <dc:rights>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</dc:rights>
+      <dc:creator>Kota Watanabe</dc:creator>
+      <dc:creator>Azusa Yamada</dc:creator>
+      <dc:creator>Yuri Nishi</dc:creator>
+      <dc:creator>Yukihiro Tashiro</dc:creator>
+      <dc:creator>Kenji Sakai</dc:creator>
+      <prism:publicationName>Relationship between the bacterial community structures on human hair and scalp</prism:publicationName>
+      <prism:volume>84</prism:volume>
+      <prism:number>12</prism:number>
+      <prism:startingPage>2585</prism:startingPage>
+      <prism:endingPage>2596</prism:endingPage>
+      <prism:coverDate>2020-12-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-12-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09168451.2020.1809989</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1809989?af=R</prism:url>
+      <prism:copyright>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1808444?af=R">
+      <title>A single seed treatment mediated through reactive oxygen species increases germination, growth performance, and abiotic stress tolerance in Arabidopsis and rice</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1808444?af=R</link>
+      <content:encoded>&lt;a href="/toc/tbbb20/84/12"&gt;Volume 84, Issue 12&lt;/a&gt;, December 2020, Page 2597-2608&lt;br/&gt;. &lt;br/&gt;</content:encoded>
+      <description>Volume 84, Issue 12, December 2020, Page 2597-2608&lt;br/&gt;. &lt;br/&gt;</description>
+      <dc:title>A single seed treatment mediated through reactive oxygen species increases germination, growth performance, and abiotic stress tolerance in Arabidopsis and rice</dc:title>
+      <dc:identifier>10.1080/09168451.2020.1808444</dc:identifier>
+      <dc:source>Bioscience, Biotechnology, and Biochemistry</dc:source>
+      <dc:date>2020-08-28T11:58:17Z</dc:date>
+      <dc:rights>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</dc:rights>
+      <dc:creator>Md Mostafa Kamal</dc:creator>
+      <dc:creator>Carlos Erazo</dc:creator>
+      <dc:creator>Karen K. Tanino</dc:creator>
+      <dc:creator>Yukio Kawamura</dc:creator>
+      <dc:creator>Jun Kasuga</dc:creator>
+      <dc:creator>Bernard Laarveld</dc:creator>
+      <dc:creator>Andrew Olkowski</dc:creator>
+      <dc:creator>Matsuo Uemura</dc:creator>
+      <prism:publicationName>A single seed treatment mediated through reactive oxygen species increases germination, growth performance, and abiotic stress tolerance in Arabidopsis and rice</prism:publicationName>
+      <prism:volume>84</prism:volume>
+      <prism:number>12</prism:number>
+      <prism:startingPage>2597</prism:startingPage>
+      <prism:endingPage>2608</prism:endingPage>
+      <prism:coverDate>2020-12-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2020-12-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1080/09168451.2020.1808444</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09168451.2020.1808444?af=R</prism:url>
+      <prism:copyright>© 2020 Japan Society for Bioscience, Biotechnology, and Agrochemistry</prism:copyright>
+   </item>
+   <item rdf:about="https://www.tandfonline.com/doi/full/10.1080/09168451.2019.1694404?af=R">
+      <title>Up-regulated Linc00472 suppresses development of lung cancer cell via inhibition of MiR-196b-5p</title>
+      <link>https://www.tandfonline.com/doi/full/10.1080/09168451.2019.1694404?af=R</link>
+      <content:encoded>. &lt;br/&gt;</content:encoded>
+      <description>. &lt;br/&gt;</description>
+      <dc:title>Up-regulated Linc00472 suppresses development of lung cancer cell via inhibition of MiR-196b-5p</dc:title>
+      <dc:identifier>10.1080/09168451.2019.1694404</dc:identifier>
+      <dc:source>Bioscience, Biotechnology, and Biochemistry</dc:source>
+      <dc:date>2019-12-03T09:20:19Z</dc:date>
+      <dc:rights>© 2019 The Author(s). Published by Informa UK Limited, trading as Taylor &amp; Francis Group.</dc:rights>
+      <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+      <dc:creator>Xiaoming Mao</dc:creator>
+      <dc:creator>Xiaohu Zhou</dc:creator>
+      <dc:creator>Jun Liu</dc:creator>
+      <dc:creator>Yiran Mao</dc:creator>
+      <dc:creator>Hua Zhou</dc:creator>
+      <prism:publicationName>Up-regulated Linc00472 suppresses development of lung cancer cell via inhibition of MiR-196b-5p</prism:publicationName>
+      <prism:startingPage>1</prism:startingPage>
+      <prism:endingPage>13</prism:endingPage>
+      <prism:doi>10.1080/09168451.2019.1694404</prism:doi>
+      <prism:url>https://www.tandfonline.com/doi/full/10.1080/09168451.2019.1694404?af=R</prism:url>
+      <prism:copyright>© 2019 The Author(s). Published by Informa UK Limited, trading as Taylor &amp; Francis Group.</prism:copyright>
+   </item>
+</rdf:RDF>

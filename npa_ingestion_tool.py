@@ -13,6 +13,46 @@ import re
 import sqlite3
 import requests
 import os
+from urllib.error import HTTPError
+from urllib.parse import quote_plus, urlencode
+from urllib.request import urlopen, Request
+import json
+from Levenshtein import ratio
+
+
+def cross_ref_query_title(title):
+    EMPTY_RESULT = {
+    "crossref_title": "",
+    "similarity": 0,
+    "doi": ""
+}
+    api_url = "https://api.crossref.org/works?"
+    params = {"rows": "5", "query.bibliographic": title}
+    url = api_url + urlencode(params, quote_via=quote_plus)
+    print(url)
+    request = Request(url)
+    request.add_header("User-Agent", "OpenAPC DOI Importer (https://github.com/OpenAPC/openapc-de/blob/master/python/import_dois.py)")
+    try:
+        ret = urlopen(request)
+        content = ret.read()
+        data = json.loads(content)
+        items = data["message"]["items"]
+        most_similar = EMPTY_RESULT
+        for item in items:
+            if "title" not in item:
+                continue
+            title = item["title"].pop()
+            result = {
+                "crossref_title": title,
+                "similarity": ratio(title.lower(), params["query.bibliographic"].lower()),
+                "doi": item["DOI"]
+            }
+            if most_similar["similarity"] < result["similarity"]:
+                most_similar = result
+        return {"success": True, "result": most_similar}
+    except HTTPError as httpe:
+        return {"success": False, "result": EMPTY_RESULT, "exception": httpe}
+
 
 def no_newline(line):
     """ Takes string input and checks if blank or not
@@ -63,7 +103,7 @@ def get_xml(url, archive_filename):
             f.write(raw_xml_str)
         return raw_xml_str, archive_filename
     else:
-        with open(path) as f:
+        with open(path, "r", encoding='utf-8') as f:
             xml = f.read()
         xml, archive_filename
 
@@ -71,7 +111,6 @@ def get_xml(url, archive_filename):
     '''path = 'C:/Users/maras/Desktop/NPA_Ingestion_Tool/raw_xml_archive/' + archive_filename
     with open(path, "w", encoding='utf-8') as f:
         f.write(raw_xml_str)'''
-
 
 
 def parse_rss(string_input):
@@ -103,6 +142,40 @@ def parse_rss(string_input):
 
     # Remove duplicate DOIs from list
     unique_doi_list = list(set(doi_list))
+
+    return unique_doi_list
+
+def parse_rss_no_doi(string_input):
+    """ parse a xml file retrieved with requests using feedparser to the gather list of DOIs from the
+                specified xml
+            :param string_input: raw string of text from requests.get(url)
+            :return: list of unique DOIs
+            """
+    # Parse RSS url w/ feedparser to get consistent format
+    rss_feed = feedparser.parse(string_input)
+
+    # Creation of JSON file for easy viewing (For archive of FeedparserDict using JSON, outdated)
+    '''path = 'C:/Users/maras/Desktop/NPA_Ingestion_Tool/raw_xml_archive/' + archive_file
+    with open(path, "x") as f:
+        json.dump(rss_feed, f)'''
+
+    # New list for found DOIs (will end up with duplicates)
+    crossref_doi_list = []
+
+    # Search through parsed RSS feed dictionary
+    for key in rss_feed.entries:
+        found_title = []
+        if key["title"]:
+            title_1 = key["title"]
+            found_title.append(title_1)
+        unique_title = list(set(found_title))
+        title_string = ''.join(unique_title)
+        crossref_query = cross_ref_query_title(title_string)
+        found_doi = crossref_query["result"]["doi"]
+        crossref_doi_list.append(found_doi)
+
+    # Remove duplicate DOIs from list
+    unique_doi_list = list(set(crossref_doi_list))
 
     return unique_doi_list
 
@@ -190,15 +263,15 @@ def sqlite3_insertion_only_doi(connection_object, doi, filename):
     # Data insertion into the database
     try:
         with connection_object:
-            connection_object.execute("INSERT INTO DOIs(Doi, PMID, Title, Abstract, Source, Filename, Created) VALUES(?, ?, ?, ?, ?, ?, ?)",
+            connection_object.execute("INSERT INTO DOIs(Doi, PMID, Title, Abstract, Source, Filename, Created) VALUES(?, ?, ?, NULL, NULL, ?, ?)",
                                       (doi, pmid, title, abstract, source, filename, datetime.now()))
 
     except sqlite3.IntegrityError:
         print("Warning: Duplicate entry detected!")
-        pass
+        pass'''
 
 
-def sqlite3_insertion_no_abstract(connection_object, doi, pmid, title, source, filename):
+def sqlite3_insertion_no_abstract(connection_object, doi, title, filename):
     """ insert data into the SQLite3 database
             :param filename: name of archive file
             :param source: source of doi(Pubmed, RSS Feed, Cross ref)
@@ -211,12 +284,12 @@ def sqlite3_insertion_no_abstract(connection_object, doi, pmid, title, source, f
     # Data insertion into the database
     try:
         with connection_object:
-            connection_object.execute("INSERT INTO DOIs(Doi, PMID, Title, Abstract, Source, Filename, Created) VALUES(?, ?, ?, NULL, ?, ?, ?)",
-                                      (doi, pmid, title, source, filename, datetime.now()))
-
+            connection_object.execute("INSERT INTO DOIs(Doi, PMID, Title, Abstract, Source, Filename, Created) VALUES(?, NULL, ?, NULL, NULL, ?, ?)",
+                                      (doi, title, filename, datetime.now()))
+            print("Successful DOI entry recorded!")
     except sqlite3.IntegrityError:
         print("Warning: Duplicate entry detected!")
-        pass'''
+        pass
 
 
 def rss_parse_archive(file, key_id, doi):

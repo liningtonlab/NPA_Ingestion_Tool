@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://purl.org/rss/1.0/"
+         xmlns:cc="http://web.resource.org/cc/"
+         xmlns:content="http://purl.org/rss/1.0/modules/content/"
+         xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel>
+      <title>SAGE Publications Inc: Natural Product Communications: Table of Contents</title>
+      <description>Table of Contents for Natural Product Communications. List of articles from both the latest and ahead of print issues.</description>
+      <dc:title>SAGE Publications Inc: Natural Product Communications: Table of Contents</dc:title>
+      <dc:publisher>SAGE Publications Inc</dc:publisher>
+      <dc:language>en-US</dc:language>
+      <prism:publicationName>Natural Product Communications</prism:publicationName>
+      <items>
+         <rdf:Seq>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21997670?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21992261?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21995381?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21996153?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21996184?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21996158?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21996149?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21996156?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21996180?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21996132?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21996900?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21996160?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21991686?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21992966?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X20988422?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21990194?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21992988?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21993335?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21991687?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21991720?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21992218?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21992266?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21993345?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21993350?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21990199?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21991691?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21991714?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+         </rdf:Seq>
+      </items>
+   </channel>
+   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/covergifs/npxa/cover.jpg">
+      <title>Natural Product Communications</title>
+      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/covergifs/npxa/cover.jpg</url>
+      <link>https://journals.sagepub.com/loi/npxa?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+   </image>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21997670?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Antioxidant Activity and Hepatoprotective Effect of Exopolysaccharides From Cultivated Ophiocordyceps Sinensis Against CCl4-Induced Liver Damages</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21997670?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt;Cordyceps is a well-known and valuable fungal Chinese medicine and health food. The polysaccharides from C. sinensis have been reported as the main bioactive components, which possess antioxidant, anti-aging, and liver protective activities. This study aimed to investigate the in vitro antioxidative and protective effects of exopolysaccharides (EPS) from cultivated Ophiocordyceps sinensis (O. sinensis) on rats with liver damage induced by CCl4. The results indicated that cultivated O. sinensis EPS possess moderate ABTS and hydroxyl radical scavenging abilities with IC50 values of 2.00 and 3.78 mg/mL, respectively. EPS and the positive control (silymarin) could also protect rat liver from the oxidative effect induced by CCl4 via increasing GSH levels, reducing MAD levels and decreasing serum AST and ALT activities. Moreover, the changes in histopathological liver tissue showed that EPS significantly reduced the damage induced by CCl4 in the liver. The findings suggest that EPS possesses a significant hepatoprotective effect against hepatotoxicity induced by CCl4 in rats.</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt;Cordyceps is a well-known and valuable fungal Chinese medicine and health food. The polysaccharides from C. sinensis have been reported as the main bioactive components, which possess antioxidant, anti-aging, and liver protective activities. This study aimed to investigate the in vitro antioxidative and protective effects of exopolysaccharides (EPS) from cultivated Ophiocordyceps sinensis (O. sinensis) on rats with liver damage induced by CCl4. The results indicated that cultivated O. sinensis EPS possess moderate ABTS and hydroxyl radical scavenging abilities with IC50 values of 2.00 and 3.78 mg/mL, respectively. EPS and the positive control (silymarin) could also protect rat liver from the oxidative effect induced by CCl4 via increasing GSH levels, reducing MAD levels and decreasing serum AST and ALT activities. Moreover, the changes in histopathological liver tissue showed that EPS significantly reduced the damage induced by CCl4 in the liver. The findings suggest that EPS possesses a significant hepatoprotective effect against hepatotoxicity induced by CCl4 in rats.</description>
+      <dc:title>Antioxidant Activity and Hepatoprotective Effect of Exopolysaccharides From Cultivated Ophiocordyceps Sinensis Against CCl4-Induced Liver Damages</dc:title>
+      <dc:identifier>10.1177/1934578X21997670</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-26T04:35:51Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Quang-Vinh Nguyen</dc:creator>
+      <dc:creator>Thi-Tuoi Vu</dc:creator>
+      <dc:creator>Minh-Trang Tran</dc:creator>
+      <dc:creator>Phuong Tham Ho Thi</dc:creator>
+      <dc:creator>Huynh Thu</dc:creator>
+      <dc:creator>Thuy Hang Le Thi</dc:creator>
+      <dc:creator>Hoang Van Chuyen</dc:creator>
+      <dc:creator>Minh-Hiep Dinh</dc:creator>
+      <prism:publicationName>Antioxidant Activity and Hepatoprotective Effect of Exopolysaccharides From Cultivated Ophiocordyceps Sinensis Against CCl4-Induced Liver Damages</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21997670</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21997670?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21992261?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Flavonoids From the Flowers and Leaves of the Himalayan Megacodon stylophorus (Gentianaceae)</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21992261?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt;Five flavonol O-glycosides and 4 C-glycosylflavones were isolated from the flowers of the Himalayan Megacodon stylophorus (Gentianaceae). They were characterized as quercetin 3-O-glucoside (1), quercetin 3-O-rutinoside (2), kaempferol 3-O-glucoside (3), isorhamnetin 3-O-glucoside (4) and kaempferol 3,7-di-O-glucoside (5) (flavonols), and isovitexin (6), isoorientin (7), isovitexin X″-O-arabinoside (8) and isovitexin 4′-O-glucoside (9) (C-glycosylflavones) by ultraviolet, liquid chromatography-mass spectrometry, acid hydrolysis, nuclear magnetic resonance, and/or high-performance liquid chromatography and thin-layer chromatography comparisons with authentic samples. On the other hand, 5 C-glycosylflavones were isolated from the leaves and identified as 6, 7, 9, vitexin (10), and orientin (11). Although many C-glycosylflavones and xanthones have been reported from Gentianaceae species, flavonols are minor occurrence in the family. Flavonoids were reported from the Megacodon species for the first time.</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt;Five flavonol O-glycosides and 4 C-glycosylflavones were isolated from the flowers of the Himalayan Megacodon stylophorus (Gentianaceae). They were characterized as quercetin 3-O-glucoside (1), quercetin 3-O-rutinoside (2), kaempferol 3-O-glucoside (3), isorhamnetin 3-O-glucoside (4) and kaempferol 3,7-di-O-glucoside (5) (flavonols), and isovitexin (6), isoorientin (7), isovitexin X″-O-arabinoside (8) and isovitexin 4′-O-glucoside (9) (C-glycosylflavones) by ultraviolet, liquid chromatography-mass spectrometry, acid hydrolysis, nuclear magnetic resonance, and/or high-performance liquid chromatography and thin-layer chromatography comparisons with authentic samples. On the other hand, 5 C-glycosylflavones were isolated from the leaves and identified as 6, 7, 9, vitexin (10), and orientin (11). Although many C-glycosylflavones and xanthones have been reported from Gentianaceae species, flavonols are minor occurrence in the family. Flavonoids were reported from the Megacodon species for the first time.</description>
+      <dc:title>Flavonoids From the Flowers and Leaves of the Himalayan Megacodon stylophorus (Gentianaceae)</dc:title>
+      <dc:identifier>10.1177/1934578X21992261</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-25T04:36:12Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Tsukasa Iwashina</dc:creator>
+      <dc:creator>Rinchen Yangzom</dc:creator>
+      <dc:creator>Hari Prasad Devkota</dc:creator>
+      <dc:creator>Takayuki Mizuno</dc:creator>
+      <prism:publicationName>Flavonoids From the Flowers and Leaves of the Himalayan Megacodon stylophorus (Gentianaceae)</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21992261</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21992261?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21995381?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Chemical Diversity of Liverworts From Frullania Genus</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21995381?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt; Frullania is one of the largest and taxonomically most complex genus of leafy liverworts. Current morphology-based estimates of Frullania diversity are close to 400 species; however, species level-classification of Frullania has been regarded notoriously difficult and subject to many studies. The liverworts classified in this genus have been studied using morphological evidence and molecular markers but also in terms of secondary metabolite composition. Up to now 98 Frullania species have been chemically investigated. As a result, it is known that Frullania species are characterized by a remarkable chemical diversity. The most characteristic compounds present in this liverwort genus are sesquiterpene lactones with eudesamnolides as the most diverse group, and aromatic compounds belonging to bibenzyls. In this review paper we report the distribution of secondary metabolites in all chemically investigated Frullania species and discuss some aspects concerning the division of this genus into chemotypes.</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt; Frullania is one of the largest and taxonomically most complex genus of leafy liverworts. Current morphology-based estimates of Frullania diversity are close to 400 species; however, species level-classification of Frullania has been regarded notoriously difficult and subject to many studies. The liverworts classified in this genus have been studied using morphological evidence and molecular markers but also in terms of secondary metabolite composition. Up to now 98 Frullania species have been chemically investigated. As a result, it is known that Frullania species are characterized by a remarkable chemical diversity. The most characteristic compounds present in this liverwort genus are sesquiterpene lactones with eudesamnolides as the most diverse group, and aromatic compounds belonging to bibenzyls. In this review paper we report the distribution of secondary metabolites in all chemically investigated Frullania species and discuss some aspects concerning the division of this genus into chemotypes.</description>
+      <dc:title>Chemical Diversity of Liverworts From Frullania Genus</dc:title>
+      <dc:identifier>10.1177/1934578X21995381</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-25T04:49:52Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Agnieszka Ludwiczuk</dc:creator>
+      <dc:creator>Yoshinori Asakawa</dc:creator>
+      <prism:publicationName>Chemical Diversity of Liverworts From Frullania Genus</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21995381</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21995381?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21996153?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Two New Terpenoids From the Fruits of Chaenomeles sinensis (Thouin) Koehne</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21996153?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt;A new sesquiterpenoid, chaenomelesterpenoid A (1), and a new norisoprenoid, chaenomelesterpenoid B (2), were isolated from the fruits of Chaenomeles sinensis (Thouin) Koehne. Their structures were determined by NMR spectroscopy and MS. In addition, the protective effects of the compounds were tested against corticosterone-induced damage in PC-12 cells using real-time cellular analysis (RTCA). Compounds 1 and 2 significantly improved cell viability and corticosterone-induced damage in PC-12 cells with EC50 values of 15.7 and 12.6 µM, respectively.</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt;A new sesquiterpenoid, chaenomelesterpenoid A (1), and a new norisoprenoid, chaenomelesterpenoid B (2), were isolated from the fruits of Chaenomeles sinensis (Thouin) Koehne. Their structures were determined by NMR spectroscopy and MS. In addition, the protective effects of the compounds were tested against corticosterone-induced damage in PC-12 cells using real-time cellular analysis (RTCA). Compounds 1 and 2 significantly improved cell viability and corticosterone-induced damage in PC-12 cells with EC50 values of 15.7 and 12.6 µM, respectively.</description>
+      <dc:title>Two New Terpenoids From the Fruits of Chaenomeles sinensis (Thouin) Koehne</dc:title>
+      <dc:identifier>10.1177/1934578X21996153</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-25T05:30:21Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Meng Li</dc:creator>
+      <dc:creator>Zhi-guang Zhang</dc:creator>
+      <dc:creator>Jing-ya Shi</dc:creator>
+      <dc:creator>Ya-ge Li</dc:creator>
+      <dc:creator>Jing-ke Zhang</dc:creator>
+      <dc:creator>Yang Ying</dc:creator>
+      <dc:creator>Xiao-yan Deng</dc:creator>
+      <dc:creator>Xiao-ke Zheng</dc:creator>
+      <dc:creator>Wei-sheng Feng</dc:creator>
+      <prism:publicationName>Two New Terpenoids From the Fruits of Chaenomeles sinensis (Thouin) Koehne</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21996153</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21996153?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21996184?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Optimization of Microwave-Assisted Extraction of Phlorotannin From Sargassum swartzii (Turn.) C. Ag. With Ethanol/Water</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21996184?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt; Sargassum is a genus of brown macroalgae in the class Phaeophyta, distributed widely in all oceans, including those of Vietnam. Species of this genus have been proven to possess diverse biological activities, such as antioxidant, anti-fungal, and anti-inflammatory, along with many benefits and applications for human health, including anti-diabetic, obesity, and thrombosis. These benefits arise from a diverse chemical composition, with compounds such as fucoidan, mannitol, and especially phlorotannin—a group of phenolic derivatives found predominantly in brown algae. In this study, we evaluated and optimized the factors that affected the extraction process of phlorotannins from Sargassum swartzii (Turn.) C. Ag., a common species of brown macroalgae in Vietnam. The process utilized ethanol and water as the solvent system, and the extraction process was assisted with the use of microwaves. To carry out optimization studies, Response Surface Methodology (RSM) was adopted according to a Central Composite Desisgn (CCD), taking four processing factors into consideration, ethanol concentration (%, v/v), extraction time (minutes), solvent/material ratio (v/w), and microwave output power (W) as independent variables. Phlorotannin concentration (mgPhE/g) and extract mass (mg) were regarded as optimization outcomes. Experimental conditions that produced the highest phlorotannin yield from 10 g of S. swartzii are as follows: Extraction time of 65 minutes, ethanol concentration of 52%, microwave output power of 613 W, and solvent/material ratio of 33/1 (v/w). These conditions corresponded to a phlorotannin concentration of 5.59 ± 0.11 mg PhE/g, and a total extract content of 27.88 ± 0.13 mg/g.</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt; Sargassum is a genus of brown macroalgae in the class Phaeophyta, distributed widely in all oceans, including those of Vietnam. Species of this genus have been proven to possess diverse biological activities, such as antioxidant, anti-fungal, and anti-inflammatory, along with many benefits and applications for human health, including anti-diabetic, obesity, and thrombosis. These benefits arise from a diverse chemical composition, with compounds such as fucoidan, mannitol, and especially phlorotannin—a group of phenolic derivatives found predominantly in brown algae. In this study, we evaluated and optimized the factors that affected the extraction process of phlorotannins from Sargassum swartzii (Turn.) C. Ag., a common species of brown macroalgae in Vietnam. The process utilized ethanol and water as the solvent system, and the extraction process was assisted with the use of microwaves. To carry out optimization studies, Response Surface Methodology (RSM) was adopted according to a Central Composite Desisgn (CCD), taking four processing factors into consideration, ethanol concentration (%, v/v), extraction time (minutes), solvent/material ratio (v/w), and microwave output power (W) as independent variables. Phlorotannin concentration (mgPhE/g) and extract mass (mg) were regarded as optimization outcomes. Experimental conditions that produced the highest phlorotannin yield from 10 g of S. swartzii are as follows: Extraction time of 65 minutes, ethanol concentration of 52%, microwave output power of 613 W, and solvent/material ratio of 33/1 (v/w). These conditions corresponded to a phlorotannin concentration of 5.59 ± 0.11 mg PhE/g, and a total extract content of 27.88 ± 0.13 mg/g.</description>
+      <dc:title>Optimization of Microwave-Assisted Extraction of Phlorotannin From Sargassum swartzii (Turn.) C. Ag. With Ethanol/Water</dc:title>
+      <dc:identifier>10.1177/1934578X21996184</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-25T04:46:52Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Tran Quoc Toan</dc:creator>
+      <dc:creator>Tran Duy Phong</dc:creator>
+      <dc:creator>Dam Duc Tien</dc:creator>
+      <dc:creator>Nguyen Manh Linh</dc:creator>
+      <dc:creator>Nguyen Thi Mai Anh</dc:creator>
+      <dc:creator>Pham Thi Hong Minh</dc:creator>
+      <dc:creator>Le Xuan Duy</dc:creator>
+      <dc:creator>Do Huu Nghi</dc:creator>
+      <dc:creator>Hai Ha Pham Thi</dc:creator>
+      <dc:creator>Pham Tri Nhut</dc:creator>
+      <dc:creator>Ho Sy Tung</dc:creator>
+      <dc:creator>Nguyen Quang Tung</dc:creator>
+      <prism:publicationName>Optimization of Microwave-Assisted Extraction of Phlorotannin From Sargassum swartzii (Turn.) C. Ag. With Ethanol/Water</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21996184</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21996184?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21996158?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Antibacterial Mechanism of Dihydrotanshinone I</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21996158?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt;The antimicrobial activity and the underlying action mechanisms of dihydrotanshinone I against Staphylococcus aureus, methicillin-resistant Staphylococcus aureus, extended-spectrum beta-lactamases Staphylococcus aureus were investigated with Kleihauer-Betke (K-B) test. The antibacterial mechanisms of dihydrotanshinone I were investigated by monitoring the changes in electric conductivity, concentration of AKP, protein content, and patterns of protein electrophoretic bands in sodium dodecyl sulfate-polyacrylamide gel electrophoresis (SDS-PAGE). The antibacterial rings showed that antimicrobial activity of dihydrotanshinone I at 18 mM was stronger to Staphylococcus aureus than to methicillin-resistant Staphylococcus aureus and extended-spectrum beta-lactamases Staphylococcus aureus. The minimum inhibitory concentration (MIC) and IC50 values showed that dihydrotanshinone I had the strongest inhibitory activity against S. aureus (MIC = 280 µM, IC50 = 874 ± 0.01 µM, respectively). Dihydrotanshinone I could increase the electric conductivity, concentration of alkaline phosphatase (AKP) and protein content. The patterns of protein bands in SDS-PAGE were changed obviously. Dihydrotanshinone I also significantly inhibited S. aureus, methicillin-resistant S. aureus, and extended-spectrum beta-lactamases S. aureus, indicating that dihydrotanshinone I can damage the structures of cell wall and cell membrane to increase permeability of cell membrane and release of cell components. Dihydrotanshinone I could influence the synthesis of bacterial protein, destroy the protein, or reject the anabolism or expression of the protein, and finally lead to the loss of normal physiological function of bacteria.</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt;The antimicrobial activity and the underlying action mechanisms of dihydrotanshinone I against Staphylococcus aureus, methicillin-resistant Staphylococcus aureus, extended-spectrum beta-lactamases Staphylococcus aureus were investigated with Kleihauer-Betke (K-B) test. The antibacterial mechanisms of dihydrotanshinone I were investigated by monitoring the changes in electric conductivity, concentration of AKP, protein content, and patterns of protein electrophoretic bands in sodium dodecyl sulfate-polyacrylamide gel electrophoresis (SDS-PAGE). The antibacterial rings showed that antimicrobial activity of dihydrotanshinone I at 18 mM was stronger to Staphylococcus aureus than to methicillin-resistant Staphylococcus aureus and extended-spectrum beta-lactamases Staphylococcus aureus. The minimum inhibitory concentration (MIC) and IC50 values showed that dihydrotanshinone I had the strongest inhibitory activity against S. aureus (MIC = 280 µM, IC50 = 874 ± 0.01 µM, respectively). Dihydrotanshinone I could increase the electric conductivity, concentration of alkaline phosphatase (AKP) and protein content. The patterns of protein bands in SDS-PAGE were changed obviously. Dihydrotanshinone I also significantly inhibited S. aureus, methicillin-resistant S. aureus, and extended-spectrum beta-lactamases S. aureus, indicating that dihydrotanshinone I can damage the structures of cell wall and cell membrane to increase permeability of cell membrane and release of cell components. Dihydrotanshinone I could influence the synthesis of bacterial protein, destroy the protein, or reject the anabolism or expression of the protein, and finally lead to the loss of normal physiological function of bacteria.</description>
+      <dc:title>Antibacterial Mechanism of Dihydrotanshinone I</dc:title>
+      <dc:identifier>10.1177/1934578X21996158</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-24T04:42:53Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Lin Zhao</dc:creator>
+      <dc:creator>Yingying Zhao</dc:creator>
+      <dc:creator>Jinfeng Wei</dc:creator>
+      <dc:creator>Zhenhua Liu</dc:creator>
+      <dc:creator>Changqin Li</dc:creator>
+      <dc:creator>Wenyi Kang</dc:creator>
+      <prism:publicationName>Antibacterial Mechanism of Dihydrotanshinone I</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21996158</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21996158?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21996149?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Plant Essential Oils: Possible COVID-19 Therapeutics</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21996149?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt;</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt;</description>
+      <dc:title>Plant Essential Oils: Possible COVID-19 Therapeutics</dc:title>
+      <dc:identifier>10.1177/1934578X21996149</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-23T04:50:06Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Rownak Jahan</dc:creator>
+      <dc:creator>Alok K. Paul</dc:creator>
+      <dc:creator>Khoshnur Jannat</dc:creator>
+      <dc:creator>Mohammed Rahmatullah</dc:creator>
+      <prism:publicationName>Plant Essential Oils: Possible COVID-19 Therapeutics</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21996149</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21996149?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21996156?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Antioxidant and Cytotoxic Activities of Myrtaceae Essential Oils Rich in Terpenoids From Brazil</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21996156?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt;This work analyzed the chemical compositions and evaluated the antioxidant and cytotoxic activities of essential oils (EO) of Eugenia patrisii (Epat), Eugenia stipitata (Esti), Myrcia splendens (Mspl), Myrcia sylvatica (Msyl), Psidium guajava (Pgua), and Psidium guineense (Pgui-1 and Pgui-2) from the Brazilian Amazon. Sesquiterpenoids were found in high concentrations in the oils of E. patrisii and M. splendens, which were rich in E-caryophyllene (32.0% and 45.8%); E. stipitata and M. sylvatica, which displayed germacrene D (11.8%) and germacrene B (24.5%); and P. guajava that showed epi-β-bisabolol (16.1%) as the main compound. However, P. guineense samples (Pgui-1 and Pgui-2) were rich in monoterpenoids such as limonene (Pgui-1: 30.2%; Pgui-2 30.4%) and α-pinene (Pgui-1: 22.5%; Pgui-2: 17.7%). The samples showed a weak and moderate antioxidant activities in the DPPH assay, displaying inhibition rates from 11.5% to 38.6% (at 10 mg/mL). All samples were cytotoxic against human cancer cells by the MTT method. Epat oil showed higher activity against melanoma (SKMEL-19, IC505.8 µg/mL), gastric (AGP01, IC503.2 µg/mL), and colon (HCT116, IC506.7 µg/mL). Meanwhile, the samples Pgua and Pgui were more active against breast cancer cells (MCF7, IC5012.4 µg/mL and 11.6 µg/mL, respectively).</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt;This work analyzed the chemical compositions and evaluated the antioxidant and cytotoxic activities of essential oils (EO) of Eugenia patrisii (Epat), Eugenia stipitata (Esti), Myrcia splendens (Mspl), Myrcia sylvatica (Msyl), Psidium guajava (Pgua), and Psidium guineense (Pgui-1 and Pgui-2) from the Brazilian Amazon. Sesquiterpenoids were found in high concentrations in the oils of E. patrisii and M. splendens, which were rich in E-caryophyllene (32.0% and 45.8%); E. stipitata and M. sylvatica, which displayed germacrene D (11.8%) and germacrene B (24.5%); and P. guajava that showed epi-β-bisabolol (16.1%) as the main compound. However, P. guineense samples (Pgui-1 and Pgui-2) were rich in monoterpenoids such as limonene (Pgui-1: 30.2%; Pgui-2 30.4%) and α-pinene (Pgui-1: 22.5%; Pgui-2: 17.7%). The samples showed a weak and moderate antioxidant activities in the DPPH assay, displaying inhibition rates from 11.5% to 38.6% (at 10 mg/mL). All samples were cytotoxic against human cancer cells by the MTT method. Epat oil showed higher activity against melanoma (SKMEL-19, IC505.8 µg/mL), gastric (AGP01, IC503.2 µg/mL), and colon (HCT116, IC506.7 µg/mL). Meanwhile, the samples Pgua and Pgui were more active against breast cancer cells (MCF7, IC5012.4 µg/mL and 11.6 µg/mL, respectively).</description>
+      <dc:title>Antioxidant and Cytotoxic Activities of Myrtaceae Essential Oils Rich in Terpenoids From Brazil</dc:title>
+      <dc:identifier>10.1177/1934578X21996156</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-23T05:01:31Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Lucas Botelho Jerônimo</dc:creator>
+      <dc:creator>Jamile S. da Costa</dc:creator>
+      <dc:creator>Laine C. Pinto</dc:creator>
+      <dc:creator>Raquel C. Montenegro</dc:creator>
+      <dc:creator>William N. Setzer</dc:creator>
+      <dc:creator>Rosa Helena Veras Mourão</dc:creator>
+      <dc:creator>Joyce Kelly R. da Silva</dc:creator>
+      <dc:creator>José Guilherme S. Maia</dc:creator>
+      <dc:creator>Pablo Luis B. Figueiredo</dc:creator>
+      <prism:publicationName>Antioxidant and Cytotoxic Activities of Myrtaceae Essential Oils Rich in Terpenoids From Brazil</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21996156</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21996156?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21996180?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Antimicrobial Activity of Securamines From the Bryozoan Securiflustra securifrons</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21996180?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt;Natural products and their derivatives have served as powerful therapeutics against pathogenic microorganisms and are the mainstay of our currently available treatment options to combat infections. As part of our ongoing search for antimicrobial natural products from marine organisms, one fraction prepared from the Arctic marine bryozoan Securiflustra securifrons was found to be active against the human pathogenic bacterium Streptococcus agalactiae (gr. B). Chemical investigation of the fraction revealed that it contained several variants of the highly modified secondary metabolites known as securamines. The securamines are alkaloids sharing a common isoprene-histamine-tryptamine backbone. In this study, we describe the antimicrobial activities of securamine C, E, and H – J (4, 5, and 1-3) and the attempt to deconvolute the mode of action of 1.</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt;Natural products and their derivatives have served as powerful therapeutics against pathogenic microorganisms and are the mainstay of our currently available treatment options to combat infections. As part of our ongoing search for antimicrobial natural products from marine organisms, one fraction prepared from the Arctic marine bryozoan Securiflustra securifrons was found to be active against the human pathogenic bacterium Streptococcus agalactiae (gr. B). Chemical investigation of the fraction revealed that it contained several variants of the highly modified secondary metabolites known as securamines. The securamines are alkaloids sharing a common isoprene-histamine-tryptamine backbone. In this study, we describe the antimicrobial activities of securamine C, E, and H – J (4, 5, and 1-3) and the attempt to deconvolute the mode of action of 1.</description>
+      <dc:title>Antimicrobial Activity of Securamines From the Bryozoan Securiflustra securifrons</dc:title>
+      <dc:identifier>10.1177/1934578X21996180</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-22T07:07:47Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Kine Ø. Hansen</dc:creator>
+      <dc:creator>Ida K. Ø. Hansen</dc:creator>
+      <dc:creator>Céline S. Richard</dc:creator>
+      <dc:creator>Marte Jenssen</dc:creator>
+      <dc:creator>Jeanette H. Andersen</dc:creator>
+      <dc:creator>Espen H. Hansen</dc:creator>
+      <prism:publicationName>Antimicrobial Activity of Securamines From the Bryozoan Securiflustra securifrons</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21996180</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21996180?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21996132?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Obituary</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21996132?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt;</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt;</description>
+      <dc:title>Obituary</dc:title>
+      <dc:identifier>10.1177/1934578X21996132</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-19T05:19:11Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Pawan K. Agrawal</dc:creator>
+      <prism:publicationName>Obituary</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21996132</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21996132?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21996900?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>RETRACTION NOTICE: Oleanane-Type Saponins From the Aerial Parts of Panax bipinnatifidus</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21996900?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt;</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt;</description>
+      <dc:title>RETRACTION NOTICE: Oleanane-Type Saponins From the Aerial Parts of Panax bipinnatifidus</dc:title>
+      <dc:identifier>10.1177/1934578X21996900</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-18T06:17:58Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <prism:publicationName>RETRACTION NOTICE: Oleanane-Type Saponins From the Aerial Parts of Panax bipinnatifidus</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21996900</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21996900?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21996160?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Effects of Different Drying Methods on the Contents of Nine Components and Immunomodulatory Activities of Four Components in Osmamthus fragrans Flowers</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21996160?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt;The effects of drying methods on the contents of four nonvolatile and five volatile components and the immunoregulatory activities of four components in Osmamthus fragrans flowers were investigated. In general, microwaving preserved more nonvolatile components than the other methods, while the sun or shade method preserved more volatile components. Nonvolatile components such as salidroside and acteoside and volatile ingredients such as linalool and linalool oxide exhibited better immunoregulatory activity than the other ingredients. Taken together, O. fragrans flowers dried by microwaving resulted in the best immunoregulatory activity. This study provides evidence for the optimal drying method for O. fragrans flowers as food and medicine.</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt;The effects of drying methods on the contents of four nonvolatile and five volatile components and the immunoregulatory activities of four components in Osmamthus fragrans flowers were investigated. In general, microwaving preserved more nonvolatile components than the other methods, while the sun or shade method preserved more volatile components. Nonvolatile components such as salidroside and acteoside and volatile ingredients such as linalool and linalool oxide exhibited better immunoregulatory activity than the other ingredients. Taken together, O. fragrans flowers dried by microwaving resulted in the best immunoregulatory activity. This study provides evidence for the optimal drying method for O. fragrans flowers as food and medicine.</description>
+      <dc:title>Effects of Different Drying Methods on the Contents of Nine Components and Immunomodulatory Activities of Four Components in Osmamthus fragrans Flowers</dc:title>
+      <dc:identifier>10.1177/1934578X21996160</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-18T06:24:07Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Chang Yuexing</dc:creator>
+      <dc:creator>Lin Junjie</dc:creator>
+      <dc:creator>Pan Siqing</dc:creator>
+      <dc:creator>Jing Yanlin</dc:creator>
+      <dc:creator>Guo Ailing</dc:creator>
+      <dc:creator>Deng Yun</dc:creator>
+      <prism:publicationName>Effects of Different Drying Methods on the Contents of Nine Components and Immunomodulatory Activities of Four Components in Osmamthus fragrans Flowers</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21996160</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21996160?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21991686?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Synthesis, Antitumor Activity, Oil-Water Partition Coefficient, and Theoretical Calculation of 2 New Rutaecarpine Derivatives With Methoxy Groups</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21991686?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt;Two rutaecarpine (RUT) derivatives, substituted with methoxy groups, namely, 2-methoxyl rutaecarpine (RUT-OCH3, 3a), and 2,10-dimethoxy rutaecarpine (RUT-(OCH3)2, 3b), were synthesized and characterized using 1H nuclear magnetic resonance (NMR), 13C NMR and mass spectra. The in vitro antitumor activities of compounds RUT, 3a, and 3b against A549, H1299, and HepG2 cells were studied by 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl tetrazolium bromide assay. The results showed that the activity of compounds 3a and 3b was stronger than that of compound RUT, and the activity of compound 3a was stronger than that of 3b, indicating that the activity of the compounds was improved after structural modification. The apparent oil-water partition coefficients of compound RUT, 3a, and 3b were explored using ultraviolet spectrometry. The results indicated that hydrophobicity affects the physicochemical properties of the molecules and influences antitumor activities. In addition, the Natural Electron Configuration, frontier molecular orbital (highest occupied molecular orbital, lowest unoccupied molecular orbital) bandgaps of compounds have been studied based on density functional theory (DFT) by means of DFT-B3LYP/6‐31G (d) in Gaussian 16. The calculation results showed that bandgap of 3a is highest, indicating that the stability of 3a is weakest, so 3a has higher activity than RUT and 3b, which agrees with the results of antitumor activities experiment.</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt;Two rutaecarpine (RUT) derivatives, substituted with methoxy groups, namely, 2-methoxyl rutaecarpine (RUT-OCH3, 3a), and 2,10-dimethoxy rutaecarpine (RUT-(OCH3)2, 3b), were synthesized and characterized using 1H nuclear magnetic resonance (NMR), 13C NMR and mass spectra. The in vitro antitumor activities of compounds RUT, 3a, and 3b against A549, H1299, and HepG2 cells were studied by 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyl tetrazolium bromide assay. The results showed that the activity of compounds 3a and 3b was stronger than that of compound RUT, and the activity of compound 3a was stronger than that of 3b, indicating that the activity of the compounds was improved after structural modification. The apparent oil-water partition coefficients of compound RUT, 3a, and 3b were explored using ultraviolet spectrometry. The results indicated that hydrophobicity affects the physicochemical properties of the molecules and influences antitumor activities. In addition, the Natural Electron Configuration, frontier molecular orbital (highest occupied molecular orbital, lowest unoccupied molecular orbital) bandgaps of compounds have been studied based on density functional theory (DFT) by means of DFT-B3LYP/6‐31G (d) in Gaussian 16. The calculation results showed that bandgap of 3a is highest, indicating that the stability of 3a is weakest, so 3a has higher activity than RUT and 3b, which agrees with the results of antitumor activities experiment.</description>
+      <dc:title>Synthesis, Antitumor Activity, Oil-Water Partition Coefficient, and Theoretical Calculation of 2 New Rutaecarpine Derivatives With Methoxy Groups</dc:title>
+      <dc:identifier>10.1177/1934578X21991686</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-16T06:04:33Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Jingjing Ma</dc:creator>
+      <dc:creator>Ruolan Yang</dc:creator>
+      <dc:creator>Hui Guo</dc:creator>
+      <dc:creator>Keyao Zhang</dc:creator>
+      <dc:creator>Jingli Liu</dc:creator>
+      <dc:creator>Yifan Feng</dc:creator>
+      <dc:creator>Jing Zhou</dc:creator>
+      <dc:creator>Ruyi Jin</dc:creator>
+      <dc:creator>Zhi Li</dc:creator>
+      <dc:creator>Dongyan Guo</dc:creator>
+      <dc:creator>Yong-gang Yan</dc:creator>
+      <dc:creator>Haiyan Zhu</dc:creator>
+      <dc:creator>Yuping Tang</dc:creator>
+      <prism:publicationName>Synthesis, Antitumor Activity, Oil-Water Partition Coefficient, and Theoretical Calculation of 2 New Rutaecarpine Derivatives With Methoxy Groups</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21991686</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21991686?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21992966?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>A Combined Phytochemical and Network Pharmacology Approach to Reveal the Effective Substances and Mechanism of Eomecon chionantha Hance for the Treatment of Ulcerative Colitis</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21992966?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt; Eomecon chionantha Hance (ECH), a traditional Chinese herbal medicine, has been reported for the treatment of traumatic injuries and colitis. The current treatments for ulcerative colitis (UC) are unstable and have side effects, so ECH is potentially useful for treating this condition. However, the active ingredients and pharmacological mechanisms of ECH in treating UC remain unclear. In this study, 21 alkaloids were extracted and purified from the roots of ECH, among which 13 were extracted from this herb for the first time. Our results showed that 12 ingredients may have effective pharmacological effects after absorption, distribution, metabolism, and excretion (ADME) screening. Network pharmacological analysis revealed that the active ingredients may have positive effects on 19 significant signaling pathways, such as on small cell lung cancer, serotonergic synapses, the IL-17 signaling pathway, Th17 cell differentiation, the estrogen signaling pathway, transcriptional misregulation in cancer, the PI3K-Akt signaling pathway, and others by targeting 23 proteins, including MAPK14, RXRA, GSK3B, CDK2, RXRB, HSP90AA1, PTGS2, and ESR1. It is of great benefit to use separation, purification, and network pharmacology together to screen active natural products. This study indicated potential anti-UC mechanisms of the active ingredients of ECH and provides theoretical support for the treatment of UC using ECH.</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt; Eomecon chionantha Hance (ECH), a traditional Chinese herbal medicine, has been reported for the treatment of traumatic injuries and colitis. The current treatments for ulcerative colitis (UC) are unstable and have side effects, so ECH is potentially useful for treating this condition. However, the active ingredients and pharmacological mechanisms of ECH in treating UC remain unclear. In this study, 21 alkaloids were extracted and purified from the roots of ECH, among which 13 were extracted from this herb for the first time. Our results showed that 12 ingredients may have effective pharmacological effects after absorption, distribution, metabolism, and excretion (ADME) screening. Network pharmacological analysis revealed that the active ingredients may have positive effects on 19 significant signaling pathways, such as on small cell lung cancer, serotonergic synapses, the IL-17 signaling pathway, Th17 cell differentiation, the estrogen signaling pathway, transcriptional misregulation in cancer, the PI3K-Akt signaling pathway, and others by targeting 23 proteins, including MAPK14, RXRA, GSK3B, CDK2, RXRB, HSP90AA1, PTGS2, and ESR1. It is of great benefit to use separation, purification, and network pharmacology together to screen active natural products. This study indicated potential anti-UC mechanisms of the active ingredients of ECH and provides theoretical support for the treatment of UC using ECH.</description>
+      <dc:title>A Combined Phytochemical and Network Pharmacology Approach to Reveal the Effective Substances and Mechanism of Eomecon chionantha Hance for the Treatment of Ulcerative Colitis</dc:title>
+      <dc:identifier>10.1177/1934578X21992966</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-12T04:53:49Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Yu-mei Tian</dc:creator>
+      <dc:creator>Hai-lang He</dc:creator>
+      <dc:creator>Ya-ting Cheng</dc:creator>
+      <dc:creator>Li Yi</dc:creator>
+      <dc:creator>Yuan Yang</dc:creator>
+      <dc:creator>Peng Yang</dc:creator>
+      <prism:publicationName>A Combined Phytochemical and Network Pharmacology Approach to Reveal the Effective Substances and Mechanism of Eomecon chionantha Hance for the Treatment of Ulcerative Colitis</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21992966</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21992966?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X20988422?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Editorial</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X20988422?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt;</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt;</description>
+      <dc:title>Editorial</dc:title>
+      <dc:identifier>10.1177/1934578X20988422</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-10T05:53:45Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Pawan K. Agrawal</dc:creator>
+      <prism:publicationName>Editorial</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X20988422</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X20988422?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21990194?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Blue Tansy Essential Oil: Chemical Composition, Repellent Activity Against Aedes aegypti and Attractant Activity for Ceratitis capitata</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21990194?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt;Blue tansy essential oil (BTEO) (Tanacetum annuum L.) was analyzed by GC-MS and GC-FID using two different capillary column stationary phases. Sabinene (14.0%), camphor (13.6%), myrcene (8.0%), β-pinene (7.7%), and chamazulene (6.9%) were the main components using an SE52 column (non-polar). On a polar CW20M phase column, sabinene (15.1%), camphor (14.4%), α-phellandrene (7.9%), β-pinene (7.7%), and myrcene (6.9%) were the most abundant compounds. To assess the oil for potential applications in integrated pest management strategies, behavioral bioassays were conducted to test for repellency against yellow fever mosquito Aedes aegypti, and for attractant activity for Mediterranean fruit fly Ceratitis capitata. Results showed that BTEO was not effective in repelling Ae. aegypti (minimum effective dosage [MED]: 0.625 ± 0.109 mg/cm2 compared with the standard insect repellent DEET (N,N-diethyl-3-methylbenzamide). In assays with male C. capitata, BTEO displayed mild attraction compared with two positive controls (essential oils from tea tree Melaleuca alternifolia and African ginger bush Tetradenia riparia). Additional studies are needed to identify the specific attractant chemicals in BTEO and to determine if they confer a synergistic effect when combined with other known attractants for C. capitata. To the best of our knowledge, this study represents the first investigation of BTEO for repellency against the mosquito vector Ae. aegypti and for attractancy to C. capitata, a major agricultural pest worldwide.</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt;Blue tansy essential oil (BTEO) (Tanacetum annuum L.) was analyzed by GC-MS and GC-FID using two different capillary column stationary phases. Sabinene (14.0%), camphor (13.6%), myrcene (8.0%), β-pinene (7.7%), and chamazulene (6.9%) were the main components using an SE52 column (non-polar). On a polar CW20M phase column, sabinene (15.1%), camphor (14.4%), α-phellandrene (7.9%), β-pinene (7.7%), and myrcene (6.9%) were the most abundant compounds. To assess the oil for potential applications in integrated pest management strategies, behavioral bioassays were conducted to test for repellency against yellow fever mosquito Aedes aegypti, and for attractant activity for Mediterranean fruit fly Ceratitis capitata. Results showed that BTEO was not effective in repelling Ae. aegypti (minimum effective dosage [MED]: 0.625 ± 0.109 mg/cm2 compared with the standard insect repellent DEET (N,N-diethyl-3-methylbenzamide). In assays with male C. capitata, BTEO displayed mild attraction compared with two positive controls (essential oils from tea tree Melaleuca alternifolia and African ginger bush Tetradenia riparia). Additional studies are needed to identify the specific attractant chemicals in BTEO and to determine if they confer a synergistic effect when combined with other known attractants for C. capitata. To the best of our knowledge, this study represents the first investigation of BTEO for repellency against the mosquito vector Ae. aegypti and for attractancy to C. capitata, a major agricultural pest worldwide.</description>
+      <dc:title>Blue Tansy Essential Oil: Chemical Composition, Repellent Activity Against Aedes aegypti and Attractant Activity for Ceratitis capitata</dc:title>
+      <dc:identifier>10.1177/1934578X21990194</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-10T05:56:08Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Iris Stappen</dc:creator>
+      <dc:creator>Juergen Wanner</dc:creator>
+      <dc:creator>Nurhayat Tabanca</dc:creator>
+      <dc:creator>Ulrich R. Bernier</dc:creator>
+      <dc:creator>Paul E. Kendra</dc:creator>
+      <prism:publicationName>Blue Tansy Essential Oil: Chemical Composition, Repellent Activity Against Aedes aegypti and Attractant Activity for Ceratitis capitata</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21990194</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21990194?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21992988?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Glycoside Compounds From Glycyrrhiza uralensis and Their Neuroprotective Activities</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21992988?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt;This paper concerns the study of the roots and rhizomes of Glycyrrhiza uralensis where one new alkaloid glycoside, 3,4-dihydroxyquinoline 4-O-β-d-glucopyranoside, along with 13 known compounds (12 phenolic glycosides and one triterpene glycoside) were isolated and identified. The structure of the new compound and the known ones were identified on the basis of nuclear magnetic resonance (NMR) and mass spectrometric (MS) analysis. All the glycosides were tested for their anti-neuroinflammatory activities by inhibiting nitric oxide (NO) release in lipopolysaccharide (LPS)-induced murine microglial BV-2 cells. Several compounds were tested for their antioxidant activities in rat adrenal pheochromocytoma PC12 cells. A structure–activity relationship (SAR) analysis was carried out and revealed that the position and amount of sugar moieties have significant impact on antioxidant activities.</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt;This paper concerns the study of the roots and rhizomes of Glycyrrhiza uralensis where one new alkaloid glycoside, 3,4-dihydroxyquinoline 4-O-β-d-glucopyranoside, along with 13 known compounds (12 phenolic glycosides and one triterpene glycoside) were isolated and identified. The structure of the new compound and the known ones were identified on the basis of nuclear magnetic resonance (NMR) and mass spectrometric (MS) analysis. All the glycosides were tested for their anti-neuroinflammatory activities by inhibiting nitric oxide (NO) release in lipopolysaccharide (LPS)-induced murine microglial BV-2 cells. Several compounds were tested for their antioxidant activities in rat adrenal pheochromocytoma PC12 cells. A structure–activity relationship (SAR) analysis was carried out and revealed that the position and amount of sugar moieties have significant impact on antioxidant activities.</description>
+      <dc:title>Glycoside Compounds From Glycyrrhiza uralensis and Their Neuroprotective Activities</dc:title>
+      <dc:identifier>10.1177/1934578X21992988</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-10T07:07:51Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Guanhua Wei</dc:creator>
+      <dc:creator>Honghong Da</dc:creator>
+      <dc:creator>Kaixue Zhang</dc:creator>
+      <dc:creator>Junmin Zhang</dc:creator>
+      <dc:creator>Jianguo Fang</dc:creator>
+      <dc:creator>Zhigang Yang</dc:creator>
+      <prism:publicationName>Glycoside Compounds From Glycyrrhiza uralensis and Their Neuroprotective Activities</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21992988</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21992988?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21993335?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Capsaicin Acts Through Reducing P38 MAPK-Dependent Thymidylate Synthase Expression to Enhance 5-Fluorouracil-Induced Cytotoxicity in Human Lung Cancer Cells</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21993335?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt;Capsaicin, an ingredient of green and red bell peppers, shows anticancer activity in several malignant cell lines. Thymidylate synthase (TS) is a well-validated anticancer drug target in non-small cell lung cancer (NSCLC) cells. However, whether capsaicin and 5-fluorouracil (5-FU) induce synergistic cytotoxicity in NSCLC cells by regulating TS expression is unclear. This study investigated the cytotoxicity of capsaicin and 5-FU co-treatment on two hoursuman lung adenocarcinoma cell lines, H520 and H1703, and the underlying mechanisms. Capsaicin decreased TS expression in a p38 mitogen-activated protein kinase (MAPK) inactivation–dependent manner in H520 and H1703 cells. Enhancement of p38 MAPK activity by transfection with constitutive active mitogen-activated protein kinase kinase six vectors increased TS expression and cell survival. In addition, capsaicin and 5-FU co-treatment enhanced synergistic cytotoxicity and inhibited cell growth associated with TS downregulation and p38 MAPK inactivation in H520 and H1703 cells. Capsaicin and 5-FU co-treatment did not affect the cellular content of capsaicin. These results show that capsaicin may be combined with 5-FU to treat NSCLC.</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt;Capsaicin, an ingredient of green and red bell peppers, shows anticancer activity in several malignant cell lines. Thymidylate synthase (TS) is a well-validated anticancer drug target in non-small cell lung cancer (NSCLC) cells. However, whether capsaicin and 5-fluorouracil (5-FU) induce synergistic cytotoxicity in NSCLC cells by regulating TS expression is unclear. This study investigated the cytotoxicity of capsaicin and 5-FU co-treatment on two hoursuman lung adenocarcinoma cell lines, H520 and H1703, and the underlying mechanisms. Capsaicin decreased TS expression in a p38 mitogen-activated protein kinase (MAPK) inactivation–dependent manner in H520 and H1703 cells. Enhancement of p38 MAPK activity by transfection with constitutive active mitogen-activated protein kinase kinase six vectors increased TS expression and cell survival. In addition, capsaicin and 5-FU co-treatment enhanced synergistic cytotoxicity and inhibited cell growth associated with TS downregulation and p38 MAPK inactivation in H520 and H1703 cells. Capsaicin and 5-FU co-treatment did not affect the cellular content of capsaicin. These results show that capsaicin may be combined with 5-FU to treat NSCLC.</description>
+      <dc:title>Capsaicin Acts Through Reducing P38 MAPK-Dependent Thymidylate Synthase Expression to Enhance 5-Fluorouracil-Induced Cytotoxicity in Human Lung Cancer Cells</dc:title>
+      <dc:identifier>10.1177/1934578X21993335</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-10T07:26:35Z</dc:date>
+      <dc:rights>© The Author(s) 2022</dc:rights>
+      <dc:creator>Chun-Liang Tung</dc:creator>
+      <dc:creator>Jyh-Cheng Chen</dc:creator>
+      <dc:creator>Jen-Chung Ko</dc:creator>
+      <dc:creator>Li-Ling Liu</dc:creator>
+      <dc:creator>Chin-Cheng Chien</dc:creator>
+      <dc:creator>I-Hsiang Huang</dc:creator>
+      <dc:creator>Yong-Cing Tsao</dc:creator>
+      <dc:creator>Hsiang-Hung Cheng</dc:creator>
+      <dc:creator>Tzu-Ying Chen</dc:creator>
+      <dc:creator>Ting-Chuan Yen</dc:creator>
+      <dc:creator>Yun-Wei Lin</dc:creator>
+      <prism:publicationName>Capsaicin Acts Through Reducing P38 MAPK-Dependent Thymidylate Synthase Expression to Enhance 5-Fluorouracil-Induced Cytotoxicity in Human Lung Cancer Cells</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21993335</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21993335?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2022</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21991687?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Two New Sesquiterpenoids Isolated From Cyperus rotundus L</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21991687?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt;Two new sesquiterpenoids, isocyperotundone (1) and 1,4-epoxy-4-hydroxy-4,5-seco-guain-11-en-5-one (2), together with 6 known sesquiterpenoids, cyperotundone (3), cyperenoic acid (4), sugetriol triacetate (5), cyperusol A3 (6), cyperusol A2 (7), and cyperusol A1 (8), were isolated from the methanol extract of the rhizomes of Cyperus rotundus L. High-resolution electrospray ionization mass spectrometry and 1-dimensional (1D) and 2D nuclear magnetic resonance spectroscopy were used to establish the structures of all the compounds. All the compounds were tested for activity on nuclear factor kappa-light-chain-enhancer of activated B cells (NF-κB) signaling. Compounds 1-7 exhibited inhibitory activity on tumor necrosis factor-α-induced activation of the NF-κB pathway, with half-maximal inhibitory concentration values ranging from 34.5 to 73.7 μmol/L.</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt;Two new sesquiterpenoids, isocyperotundone (1) and 1,4-epoxy-4-hydroxy-4,5-seco-guain-11-en-5-one (2), together with 6 known sesquiterpenoids, cyperotundone (3), cyperenoic acid (4), sugetriol triacetate (5), cyperusol A3 (6), cyperusol A2 (7), and cyperusol A1 (8), were isolated from the methanol extract of the rhizomes of Cyperus rotundus L. High-resolution electrospray ionization mass spectrometry and 1-dimensional (1D) and 2D nuclear magnetic resonance spectroscopy were used to establish the structures of all the compounds. All the compounds were tested for activity on nuclear factor kappa-light-chain-enhancer of activated B cells (NF-κB) signaling. Compounds 1-7 exhibited inhibitory activity on tumor necrosis factor-α-induced activation of the NF-κB pathway, with half-maximal inhibitory concentration values ranging from 34.5 to 73.7 μmol/L.</description>
+      <dc:title>Two New Sesquiterpenoids Isolated From Cyperus rotundus L</dc:title>
+      <dc:identifier>10.1177/1934578X21991687</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-09T04:57:44Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Qiang Wang</dc:creator>
+      <dc:creator>Chundie Yi</dc:creator>
+      <dc:creator>Wenlan Duan</dc:creator>
+      <dc:creator>Yunfeng Duan</dc:creator>
+      <dc:creator>Jiahao Lou</dc:creator>
+      <dc:creator>Guangzhi Zeng</dc:creator>
+      <dc:creator>Junlin Yin</dc:creator>
+      <prism:publicationName>Two New Sesquiterpenoids Isolated From Cyperus rotundus L</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21991687</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21991687?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21991720?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Two New Acylated Sucroses From the Roots of Canna indica L. and Their Antioxidant Activity</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21991720?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt;Two new acylated sucroses, (6-O-axetoxyl)-β-d-fructofuranosyl-(2→1)-(6-O-feruloyl-α- d-glucopyranoside (1) and (6-O-axetoxyl)-β-d-fructofuranosyl-(2→1)-(6-O-(E)-p-coumaroyl-α- d-glucopyranoside (2), and four known compounds, 2-(3′,4′-dihydroxyphenyl)-1-propanol-4′-O-[4′′′-hydroxy-3′′′,5′′′-dimethoxybenzoyl-(→6′′)-β-d-fructofuranoside (3), tryptophol glucoside (4), corchonoside C (5), and 2-hydroxy-5-(2-hydroxyethyl)phenyl β-d-fructofuranoside (6), were isolated from the roots of Canna indica L. (Cannaceae). Their structures were determined by extensive analysis of HR-ESI-MS, 1D, and 2D NMR spectral data, as well as by comparison of these with those reported in the literature. Antioxidant activity of compounds 1-6 were evaluated by peroxyl radical absorbance capacity assay. Compounds 1 and 3 neutralized high amounts of peroxyl radical. At a concentration of 1 µM, their ORACROO* values were 3.07 ± 0.15 and 4.27 ± 0.30, respectively, many times greater than that of trolox, which was used as an internal standard. At 10 µM, the peroxyl radical absorbance capacity of compounds 1 and 3 exhibited equivalents to 15.60 ± 0.22 and 24.91 ± 0.43 times the net protection by 1 µM of trolox.</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt;Two new acylated sucroses, (6-O-axetoxyl)-β-d-fructofuranosyl-(2→1)-(6-O-feruloyl-α- d-glucopyranoside (1) and (6-O-axetoxyl)-β-d-fructofuranosyl-(2→1)-(6-O-(E)-p-coumaroyl-α- d-glucopyranoside (2), and four known compounds, 2-(3′,4′-dihydroxyphenyl)-1-propanol-4′-O-[4′′′-hydroxy-3′′′,5′′′-dimethoxybenzoyl-(→6′′)-β-d-fructofuranoside (3), tryptophol glucoside (4), corchonoside C (5), and 2-hydroxy-5-(2-hydroxyethyl)phenyl β-d-fructofuranoside (6), were isolated from the roots of Canna indica L. (Cannaceae). Their structures were determined by extensive analysis of HR-ESI-MS, 1D, and 2D NMR spectral data, as well as by comparison of these with those reported in the literature. Antioxidant activity of compounds 1-6 were evaluated by peroxyl radical absorbance capacity assay. Compounds 1 and 3 neutralized high amounts of peroxyl radical. At a concentration of 1 µM, their ORACROO* values were 3.07 ± 0.15 and 4.27 ± 0.30, respectively, many times greater than that of trolox, which was used as an internal standard. At 10 µM, the peroxyl radical absorbance capacity of compounds 1 and 3 exhibited equivalents to 15.60 ± 0.22 and 24.91 ± 0.43 times the net protection by 1 µM of trolox.</description>
+      <dc:title>Two New Acylated Sucroses From the Roots of Canna indica L. and Their Antioxidant Activity</dc:title>
+      <dc:identifier>10.1177/1934578X21991720</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-09T05:01:24Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Luu The Anh</dc:creator>
+      <dc:creator>Nguyen Hieu</dc:creator>
+      <dc:creator>Do Thi Trang</dc:creator>
+      <dc:creator>Bui Huu Tai</dc:creator>
+      <dc:creator>Phan Van Kiem</dc:creator>
+      <prism:publicationName>Two New Acylated Sucroses From the Roots of Canna indica L. and Their Antioxidant Activity</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21991720</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21991720?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21992218?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>β-Pinene Derived Products With Enhanced In Vitro Antimicrobial Activity</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21992218?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt;The development of new antimicrobials has always been a research hotspot. In this study, β-pinene-based derivatives were synthesized, and their antimicrobial activity was evaluated. The purpose was to develop some novel, promising new fungicides. Three β-pinene derivatives containing bis-hydronopyl were prepared, and their antifungal and antibacterial activities were evaluated against 6 plant pathogenic fungi and 4 bacterial species; a preliminary structure-activity relationship is discussed. The results indicated that the derivatives containing the blend of alkyl group and bis-hydronopyl had potent inhibitory activities against plant fungal pathogens and bacteria. Among these molecules, bis-hydronopyl dimethyl ammonium bromide showed excellent effects on Colletotrichum acutatum with a half-maximal effective concentration of 0.538 µg/mL, which was lower than that of carbendazim. Scanning electron microscope showed that after administration of bis-hydronopyl dimethyl ammonium bromide (compound 3a), the C. acutatum mycelia were sunken and deformed in comparison with the control group. Furthermore, the inhibitory activities of the methyl derivatives against the plant pathogens were better than those of the ethyl derivatives. These results provide new insights into the inhibition of fungi and bacteria by β-pinene derivatives, which may lead them to be used as precursor molecules for novel pesticides and antimicrobials in further research.</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt;The development of new antimicrobials has always been a research hotspot. In this study, β-pinene-based derivatives were synthesized, and their antimicrobial activity was evaluated. The purpose was to develop some novel, promising new fungicides. Three β-pinene derivatives containing bis-hydronopyl were prepared, and their antifungal and antibacterial activities were evaluated against 6 plant pathogenic fungi and 4 bacterial species; a preliminary structure-activity relationship is discussed. The results indicated that the derivatives containing the blend of alkyl group and bis-hydronopyl had potent inhibitory activities against plant fungal pathogens and bacteria. Among these molecules, bis-hydronopyl dimethyl ammonium bromide showed excellent effects on Colletotrichum acutatum with a half-maximal effective concentration of 0.538 µg/mL, which was lower than that of carbendazim. Scanning electron microscope showed that after administration of bis-hydronopyl dimethyl ammonium bromide (compound 3a), the C. acutatum mycelia were sunken and deformed in comparison with the control group. Furthermore, the inhibitory activities of the methyl derivatives against the plant pathogens were better than those of the ethyl derivatives. These results provide new insights into the inhibition of fungi and bacteria by β-pinene derivatives, which may lead them to be used as precursor molecules for novel pesticides and antimicrobials in further research.</description>
+      <dc:title>β-Pinene Derived Products With Enhanced In Vitro Antimicrobial Activity</dc:title>
+      <dc:identifier>10.1177/1934578X21992218</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-09T05:08:45Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Xuezhen Feng</dc:creator>
+      <dc:creator>Zhuanquan Xiao</dc:creator>
+      <dc:creator>Yuling Yang</dc:creator>
+      <dc:creator>Shangxing Chen</dc:creator>
+      <dc:creator>Shengliang Liao</dc:creator>
+      <dc:creator>Hai Luo</dc:creator>
+      <dc:creator>Lu He</dc:creator>
+      <dc:creator>Zongde Wang</dc:creator>
+      <dc:creator>Guorong Fan</dc:creator>
+      <prism:publicationName>β-Pinene Derived Products With Enhanced In Vitro Antimicrobial Activity</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21992218</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21992218?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21992266?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>A New Brominated Norsesquiterpene Glycoside From the Rhizomes of Acorus tatarinowii Schott</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21992266?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt;A new brominated norsesquiterpene glycoside, acoruside (1), has been isolated from the rhizomes of Acorus tatarinowii Schott, together with 8 known compounds (2-9). Their structures were elucidated mainly based on 1-dimensional (1D) and 2D nuclear magnetic resonance spectra. The absolute configuration of compound 1 was determined by comparing its experimental and calculated electronic circular dichroism spectra. The in vitro tests indicated that at 10 µM, compounds 2, 3, and 4 aggravated serum deprivation injuries of PC12 cells, compound 2 aggravated rotenone-induced injuries of PC12 cells, and compounds 3 and 4 aggravated the oxygen-glucose deprivation-induced injuries of PC12 cells.</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt;A new brominated norsesquiterpene glycoside, acoruside (1), has been isolated from the rhizomes of Acorus tatarinowii Schott, together with 8 known compounds (2-9). Their structures were elucidated mainly based on 1-dimensional (1D) and 2D nuclear magnetic resonance spectra. The absolute configuration of compound 1 was determined by comparing its experimental and calculated electronic circular dichroism spectra. The in vitro tests indicated that at 10 µM, compounds 2, 3, and 4 aggravated serum deprivation injuries of PC12 cells, compound 2 aggravated rotenone-induced injuries of PC12 cells, and compounds 3 and 4 aggravated the oxygen-glucose deprivation-induced injuries of PC12 cells.</description>
+      <dc:title>A New Brominated Norsesquiterpene Glycoside From the Rhizomes of Acorus tatarinowii Schott</dc:title>
+      <dc:identifier>10.1177/1934578X21992266</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-09T04:55:04Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Zhi-You Hao</dc:creator>
+      <dc:creator>Gang Ni</dc:creator>
+      <dc:creator>Dong Liang</dc:creator>
+      <dc:creator>Yan-Fei Liu</dc:creator>
+      <dc:creator>Chun-Lei Zhang</dc:creator>
+      <dc:creator>Yan Wang</dc:creator>
+      <dc:creator>Qing-Jian Zhang</dc:creator>
+      <dc:creator>Ruo-Yun Chen</dc:creator>
+      <dc:creator>De-Quan Yu</dc:creator>
+      <prism:publicationName>A New Brominated Norsesquiterpene Glycoside From the Rhizomes of Acorus tatarinowii Schott</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21992266</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21992266?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21993345?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Chemical Constituents of the Marine Sponge Aaptos aaptos (Schmidt, 1864) and Their Cytotoxic Activity</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21993345?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt;Seven compounds (1-7) were isolated from the marine sponge Aaptos aaptos living in the Vietnamese sea. Their structures were determined as 2 hours, 5H,7H,9H-9S-hydroxy-imidazo[1,5-α]pyridine-1,3-dione (1), 3-([9-methylhexadecyl]oxy)propane-1,2-diol 2, 2,3-dihydro-2,3-dioxoaaptamine (3), indol-3-aldehyde (4), methyl indole-3-carboxylate (5) 4-hydroxy-5-(indole-3-yl)−5-oxo-pentan-2-one (6), and thymidine (7) by extensive analysis of HR-ESI-MS, 1D, and 2D NMR spectral data, as well as by comparison of the spectral data with those reported in the literature. In addition, the absolute configuration of 1 was determined from the experimental ECD spectrum and comparison of this with the theoretical ECD calculations using the TDDFT method. Compounds 1 and 2 were isolated from nature for the first time. Compound 3 induced cytotoxic activity against SK-LU-1, MCF-7, HepG2, and SK-Mel-2 cell lines with IC50 values of 41.27 ± 2.63, 40.70 ± 2.65, 34.31 ± 3.43, and 36.63 ± 1.40 µM, respectively.</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt;Seven compounds (1-7) were isolated from the marine sponge Aaptos aaptos living in the Vietnamese sea. Their structures were determined as 2 hours, 5H,7H,9H-9S-hydroxy-imidazo[1,5-α]pyridine-1,3-dione (1), 3-([9-methylhexadecyl]oxy)propane-1,2-diol 2, 2,3-dihydro-2,3-dioxoaaptamine (3), indol-3-aldehyde (4), methyl indole-3-carboxylate (5) 4-hydroxy-5-(indole-3-yl)−5-oxo-pentan-2-one (6), and thymidine (7) by extensive analysis of HR-ESI-MS, 1D, and 2D NMR spectral data, as well as by comparison of the spectral data with those reported in the literature. In addition, the absolute configuration of 1 was determined from the experimental ECD spectrum and comparison of this with the theoretical ECD calculations using the TDDFT method. Compounds 1 and 2 were isolated from nature for the first time. Compound 3 induced cytotoxic activity against SK-LU-1, MCF-7, HepG2, and SK-Mel-2 cell lines with IC50 values of 41.27 ± 2.63, 40.70 ± 2.65, 34.31 ± 3.43, and 36.63 ± 1.40 µM, respectively.</description>
+      <dc:title>Chemical Constituents of the Marine Sponge Aaptos aaptos (Schmidt, 1864) and Their Cytotoxic Activity</dc:title>
+      <dc:identifier>10.1177/1934578X21993345</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-09T05:11:46Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Do Thi Trang</dc:creator>
+      <dc:creator>Bui Huu Tai</dc:creator>
+      <dc:creator>Dan Thuy Hang</dc:creator>
+      <dc:creator>Pham Hai Yen</dc:creator>
+      <dc:creator>Phan Thi Thanh Huong</dc:creator>
+      <dc:creator>Nguyen Xuan Nhiem</dc:creator>
+      <dc:creator>Phan Van Kiem</dc:creator>
+      <prism:publicationName>Chemical Constituents of the Marine Sponge Aaptos aaptos (Schmidt, 1864) and Their Cytotoxic Activity</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21993345</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21993345?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21993350?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Activity of Cordycepin From Cordyceps sinensis Against Drug-Resistant Tumor Cells as Determined by Gene Expression and Drug Sensitivity Profiling</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21993350?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt;Cordycepin is one of the substantial components of the parasitic fungus Cordyceps sinensis as well as other Cordyceps species. It exerts various effects such as antimetastatic, antiinflammatory, antioxidant, and neuroprotective activities. Assorted studies revealed in vitro and in vivo anticancer influence of cordycepin and put forward its potential for cancer therapy. However, the role of multidrug resistance-associated mechanisms for the antitumor effect of cordycepin has not been investigated in great detail thus far. Therefore, we searched cordycepin’s cytotoxicity with regard to well-known anticancer drug resistance mechanisms, including ABCB1, ABCB5, ABCC1, ABCG2, EGFR, and TP53, and identified putative molecular determinants related to the cellular responsiveness of cordycepin. Bioinformatic analyses of NCI microarray data and gene promoter transcription factor binding motif analyses were performed to specify the mechanisms of cordycepin towards cancer cells. COMPARE and hierarchical analyses led to the detection of the genes involved in cordycepin’s cytotoxicity and sensitivity and resistance of cell lines towards cordycepin. Tumor-type dependent response and cross-resistance profiles were further unravelled. We found transcription factors potentially involved in the common transcriptional regulation of the genes identified by COMPARE analyses. Cordycepin bypassed resistance mediated by the expression of ATP-binding cassete (ABC) transporters (P-gp, ABCB5, ABCC1 and BCRP) and mutant epidermal growth factor receptor (EGFR). The drug sensitivity profiles of several DNA Topo I and II inhibitors were significantly correlated with those of cordycepin’s activity. Among eight different tumor types, prostate cancer was the most sensitive, whereas renal carcinoma was the most resistant to cordycepin. NF-κB was discovered as a common transcription factor. The potential of cordycepin is set forth as a potential new drug lead by bioinformatic evaluations. Further experimental studies are warranted for better understanding of cordycepin’s activity against cancer.</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt;Cordycepin is one of the substantial components of the parasitic fungus Cordyceps sinensis as well as other Cordyceps species. It exerts various effects such as antimetastatic, antiinflammatory, antioxidant, and neuroprotective activities. Assorted studies revealed in vitro and in vivo anticancer influence of cordycepin and put forward its potential for cancer therapy. However, the role of multidrug resistance-associated mechanisms for the antitumor effect of cordycepin has not been investigated in great detail thus far. Therefore, we searched cordycepin’s cytotoxicity with regard to well-known anticancer drug resistance mechanisms, including ABCB1, ABCB5, ABCC1, ABCG2, EGFR, and TP53, and identified putative molecular determinants related to the cellular responsiveness of cordycepin. Bioinformatic analyses of NCI microarray data and gene promoter transcription factor binding motif analyses were performed to specify the mechanisms of cordycepin towards cancer cells. COMPARE and hierarchical analyses led to the detection of the genes involved in cordycepin’s cytotoxicity and sensitivity and resistance of cell lines towards cordycepin. Tumor-type dependent response and cross-resistance profiles were further unravelled. We found transcription factors potentially involved in the common transcriptional regulation of the genes identified by COMPARE analyses. Cordycepin bypassed resistance mediated by the expression of ATP-binding cassete (ABC) transporters (P-gp, ABCB5, ABCC1 and BCRP) and mutant epidermal growth factor receptor (EGFR). The drug sensitivity profiles of several DNA Topo I and II inhibitors were significantly correlated with those of cordycepin’s activity. Among eight different tumor types, prostate cancer was the most sensitive, whereas renal carcinoma was the most resistant to cordycepin. NF-κB was discovered as a common transcription factor. The potential of cordycepin is set forth as a potential new drug lead by bioinformatic evaluations. Further experimental studies are warranted for better understanding of cordycepin’s activity against cancer.</description>
+      <dc:title>Activity of Cordycepin From Cordyceps sinensis Against Drug-Resistant Tumor Cells as Determined by Gene Expression and Drug Sensitivity Profiling</dc:title>
+      <dc:identifier>10.1177/1934578X21993350</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-09T06:24:29Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Nadire Özenver</dc:creator>
+      <dc:creator>Joelle C. Boulos</dc:creator>
+      <dc:creator>Thomas Efferth</dc:creator>
+      <prism:publicationName>Activity of Cordycepin From Cordyceps sinensis Against Drug-Resistant Tumor Cells as Determined by Gene Expression and Drug Sensitivity Profiling</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21993350</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21993350?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21990199?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Editorial</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21990199?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt;</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt;</description>
+      <dc:title>Editorial</dc:title>
+      <dc:identifier>10.1177/1934578X21990199</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-05T10:03:03Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Fatih Demirci</dc:creator>
+      <prism:publicationName>Editorial</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21990199</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21990199?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21991691?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Grape Seed Procyanidins Inhibit the Growth of Breast Cancer MCF-7 Cells by Down-Regulating the EGFR/VEGF/MMP9 Pathway</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21991691?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt;Breast cancer is the most common invasive cancer in women and the second leading cause of cancer death in women. However, it is not clear about its effective treatments. As a potential anticancer agent, grape seed procyanidins (GSPs) have been shown to inhibit the proliferation of various cancer cells in vitro and in vivo. In this study, it was shown that GSPs significantly inhibit MCF-7 cell proliferation in a concentration/time-dependent manner. The flow cytometric data clearly demonstrated that GSPs cause cell cycle arrest in the G2/M phase, followed by cell apoptosis. Moreover, it also confirmed that growth inhibition mediated by treatment with GSPs is related to the induction of apoptosis due to p53 elevation, purportedly by inhibition of the epidermal growth factor receptor (EGFR)/vascular endothelial growth factor (VEGF)/matrix metalloproteinase 9 (MMP9) pathway. Taken together, these findings suggest that GSPs inhibit MCF-7 cells proliferation and induce cell apoptosis by suppressing EGFR/VEGF/MMP9 pathway.</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt;Breast cancer is the most common invasive cancer in women and the second leading cause of cancer death in women. However, it is not clear about its effective treatments. As a potential anticancer agent, grape seed procyanidins (GSPs) have been shown to inhibit the proliferation of various cancer cells in vitro and in vivo. In this study, it was shown that GSPs significantly inhibit MCF-7 cell proliferation in a concentration/time-dependent manner. The flow cytometric data clearly demonstrated that GSPs cause cell cycle arrest in the G2/M phase, followed by cell apoptosis. Moreover, it also confirmed that growth inhibition mediated by treatment with GSPs is related to the induction of apoptosis due to p53 elevation, purportedly by inhibition of the epidermal growth factor receptor (EGFR)/vascular endothelial growth factor (VEGF)/matrix metalloproteinase 9 (MMP9) pathway. Taken together, these findings suggest that GSPs inhibit MCF-7 cells proliferation and induce cell apoptosis by suppressing EGFR/VEGF/MMP9 pathway.</description>
+      <dc:title>Grape Seed Procyanidins Inhibit the Growth of Breast Cancer MCF-7 Cells by Down-Regulating the EGFR/VEGF/MMP9 Pathway</dc:title>
+      <dc:identifier>10.1177/1934578X21991691</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-05T10:01:22Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Fan-ting Kong</dc:creator>
+      <dc:creator>Chen-xi He</dc:creator>
+      <dc:creator>Fan-lei Kong</dc:creator>
+      <dc:creator>Su-fen Han</dc:creator>
+      <dc:creator>Xiang-shun Kong</dc:creator>
+      <dc:creator>Wei-qiang Han</dc:creator>
+      <dc:creator>Li-xian Yang</dc:creator>
+      <prism:publicationName>Grape Seed Procyanidins Inhibit the Growth of Breast Cancer MCF-7 Cells by Down-Regulating the EGFR/VEGF/MMP9 Pathway</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21991691</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21991691?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21991714?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>Network Pharmacology Integrated Molecular Docking Reveals the Anti-COVID-19 Mechanism of Yinma Jiedu Granules</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21991714?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/2"&gt;Volume 16, Issue 2&lt;/a&gt;, February 2021. &lt;br/&gt;To investigate the mechanism of action of components of Yinma Jiedu granules in the treatment of coronavirus disease 2019 (COVID-19) using network pharmacology and molecular docking. The main chemical components of Yinma Jiedu granules were collected in the literature and Traditional Chinese Medicine Systems Pharmacology Database and Analysis Platform database. Using the SwissTargetPrediction database, the targets of the active component were identified and further correlated to the targets of COVID-19 through the GeneCards database. The overlapping targets of Yinma Jiedu granules components and COVID-19 were identified as the research target. Using the Database for Annotation, Visualization and Integrated Discovery database to carry out the target gene function Gene Ontology enrichment and Kyoto Encyclopedia of Genes and Genomes pathway annotation and Cytoscape 3.6.1 software was used to construct a “component-target-pathway” network. The protein-protein interaction network was built using Search Tool for the Retrieval of Interacting Genes/Proteins database. Using Discovery Studio 2016 Client software to study the virtual docking of key protein and active components. One hundred active components were screened from the Yinma Jiedu Granules that involved 67 targets, including mitogen-activated protein kinase 3 (MAPK3), epidermal growth factor receptor, tumor necrosis factor, tumor protein 53, and MAPK1. These targets affected 109 signaling pathways including hypoxia-inducible factor-1, apoptosis, and Toll-like receptor signaling pathways. Molecular docking results showed that the screened active components have a strong binding ability to the key targets. In this study, through network pharmacology and molecular docking, we justified the multicomponent, multitarget, and multipathways of Yinma Jiedu Granules in the treatment of COVID-19.</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 2, February 2021. &lt;br/&gt;To investigate the mechanism of action of components of Yinma Jiedu granules in the treatment of coronavirus disease 2019 (COVID-19) using network pharmacology and molecular docking. The main chemical components of Yinma Jiedu granules were collected in the literature and Traditional Chinese Medicine Systems Pharmacology Database and Analysis Platform database. Using the SwissTargetPrediction database, the targets of the active component were identified and further correlated to the targets of COVID-19 through the GeneCards database. The overlapping targets of Yinma Jiedu granules components and COVID-19 were identified as the research target. Using the Database for Annotation, Visualization and Integrated Discovery database to carry out the target gene function Gene Ontology enrichment and Kyoto Encyclopedia of Genes and Genomes pathway annotation and Cytoscape 3.6.1 software was used to construct a “component-target-pathway” network. The protein-protein interaction network was built using Search Tool for the Retrieval of Interacting Genes/Proteins database. Using Discovery Studio 2016 Client software to study the virtual docking of key protein and active components. One hundred active components were screened from the Yinma Jiedu Granules that involved 67 targets, including mitogen-activated protein kinase 3 (MAPK3), epidermal growth factor receptor, tumor necrosis factor, tumor protein 53, and MAPK1. These targets affected 109 signaling pathways including hypoxia-inducible factor-1, apoptosis, and Toll-like receptor signaling pathways. Molecular docking results showed that the screened active components have a strong binding ability to the key targets. In this study, through network pharmacology and molecular docking, we justified the multicomponent, multitarget, and multipathways of Yinma Jiedu Granules in the treatment of COVID-19.</description>
+      <dc:title>Network Pharmacology Integrated Molecular Docking Reveals the Anti-COVID-19 Mechanism of Yinma Jiedu Granules</dc:title>
+      <dc:identifier>10.1177/1934578X21991714</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-02-04T05:18:18Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>ZiXin Yuan</dc:creator>
+      <dc:creator>Can Zeng</dc:creator>
+      <dc:creator>Bing Yu</dc:creator>
+      <dc:creator>Ying Zhang</dc:creator>
+      <dc:creator>TianShun Wang</dc:creator>
+      <dc:creator>XingPan Wu</dc:creator>
+      <dc:creator>Yan-fang Yang</dc:creator>
+      <dc:creator>He-zhen Wu</dc:creator>
+      <prism:publicationName>Network Pharmacology Integrated Molecular Docking Reveals the Anti-COVID-19 Mechanism of Yinma Jiedu Granules</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>2</prism:number>
+      <prism:coverDate>2021-02-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-02-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21991714</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21991714?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+</rdf:RDF>

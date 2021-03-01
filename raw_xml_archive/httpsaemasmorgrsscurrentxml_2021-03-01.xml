@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:prism="http://purl.org/rss/1.0/modules/prism/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://aem.asm.org">
+<title>AEM Current Issue</title>
+<link>http://aem.asm.org</link>
+<description>Applied and Environmental Microbiology RSS feed</description>
+<prism:eIssn>1098-5336</prism:eIssn>
+<prism:coverDisplayDate>March 2021</prism:coverDisplayDate>
+<prism:publicationName>Applied and Environmental Microbiology</prism:publicationName>
+<prism:issn>0099-2240</prism:issn>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/masthead-87-6?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e00090-21?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e01468-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e01629-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e01925-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e01962-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e01994-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02189-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02201-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02241-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02261-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02275-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02330-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02353-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02399-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02417-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02429-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02440-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02441-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02516-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02522-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02541-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02545-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02546-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02593-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02594-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02604-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02651-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02652-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02659-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02666-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02669-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02695-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02698-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02701-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02713-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02740-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02757-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02762-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02798-20?rss=1" />
+  <rdf:li rdf:resource="http://aem.asm.org/cgi/content/short/87/6/e02957-20?rss=1" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/masthead-87-6?rss=1">
+<title><![CDATA[Editorial Board [Masthead]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/masthead-87-6?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[]]></dc:creator>
+<dc:date>2021-02-26T08:00:57-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.masthead.87-6</dc:identifier>
+<dc:identifier>hwp:resource-id:aem;87/6/masthead-87-6</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Editorial Board [Masthead]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Masthead</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>masthead-87-6</prism:startingPage>
+<prism:endingPage>masthead-87-6</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/masthead-87-6</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e00090-21?rss=1">
+<title><![CDATA[Articles of Significant Interest in This Issue [Spotlight]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e00090-21?rss=1</link>
+<description><![CDATA[]]></description>
+<dc:creator><![CDATA[]]></dc:creator>
+<dc:date>2021-02-26T08:00:56-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.00090-21</dc:identifier>
+<dc:identifier>hwp:resource-id:aem;87/6/e00090-21</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Articles of Significant Interest in This Issue [Spotlight]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Spotlight</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e00090-21</prism:startingPage>
+<prism:endingPage>e00090-21</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e00090-21</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e01468-20?rss=1">
+<title><![CDATA[Reduced Antibacterial Drug Resistance and blaCTX-M {beta}-Lactamase Gene Carriage in Cattle-Associated Escherichia coli at Low Temperatures, at Sites Dominated by Older Animals, and on Pastureland: Implications for Surveillance [Public and Environmental Health Microbiology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e01468-20?rss=1</link>
+<description><![CDATA[
+<p>Little is known about the drivers of critically important antibacterial resistance in species with zoonotic potential present on farms (e.g., CTX-M &beta;-lactamase-positive <I>Escherichia coli</I>). We collected samples monthly between January 2017 and December 2018 on 53 dairy farms in South West England, along with data for 610 variables concerning antibacterial usage, management practices, and meteorological factors. We detected <I>E. coli</I> resistant to amoxicillin, ciprofloxacin, streptomycin, and tetracycline in 2,754/4,145 (66%), 263/4,145 (6%), 1,475/4,145 (36%), and 2,874/4,145 (69%), respectively, of samples from fecally contaminated on-farm and near-farm sites. <I>E. coli</I> positive for <I>bla</I><SUB>CTX-M</SUB> were detected in 224/4,145 (5.4%) of samples. Multilevel, multivariable logistic regression showed antibacterial dry cow therapeutic choice (including use of cefquinome or framycetin) to be associated with higher odds of <I>bla</I><SUB>CTX-M</SUB> positivity. Low average monthly ambient temperature was associated with lower odds of <I>bla</I><SUB>CTX-M</SUB> <I>E. coli</I> positivity in samples and with lower odds of finding <I>E. coli</I> resistant to each of the four test antibacterials. This was in addition to the effect of temperature on total <I>E. coli</I> density. Furthermore, samples collected close to calves had higher odds of having <I>E. coli</I> resistant to each antibacterial, as well as <I>E. coli</I> positive for <I>bla</I><SUB>CTX-M</SUB>. Samples collected on pastureland had lower odds of having <I>E. coli</I> resistant to amoxicillin or tetracycline, as well as lower odds of being positive for <I>bla</I><SUB>CTX-M</SUB>.</p>
+<p><b>IMPORTANCE</b> Antibacterial resistance poses a significant threat to human and animal health and global food security. Surveillance for resistance on farms is important for many reasons, including tracking impacts of interventions aimed at reducing the prevalence of resistance. In this longitudinal survey of dairy farm antibacterial resistance, we showed that local temperature&mdash;as it changes over the course of a year&mdash;was associated with the prevalence of antibacterial-resistant <I>E. coli</I>. We also showed that prevalence of resistant <I>E. coli</I> was lower on pastureland and higher in environments inhabited by young animals. These findings have profound implications for routine surveillance and for surveys carried out for research. They provide important evidence that sampling at a single time point and/or single location on a farm is unlikely to be adequate to accurately determine the status of the farm regarding the presence of samples containing resistant <I>E. coli</I>.</p>
+]]></description>
+<dc:creator><![CDATA[Schubert, H., Morley, K., Puddy, E. F., Arbon, R., Findlay, J., Mounsey, O., Gould, V. C., Vass, L., Evans, M., Rees, G. M., Barrett, D. C., Turner, K. M., Cogan, T. A., Avison, M. B., Reyher, K. K.]]></dc:creator>
+<dc:date>2021-02-26T08:00:56-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.01468-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.01468-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Reduced Antibacterial Drug Resistance and blaCTX-M {beta}-Lactamase Gene Carriage in Cattle-Associated Escherichia coli at Low Temperatures, at Sites Dominated by Older Animals, and on Pastureland: Implications for Surveillance [Public and Environmental Health Microbiology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Public and Environmental Health Microbiology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e01468-20</prism:startingPage>
+<prism:endingPage>e01468-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e01468-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e01629-20?rss=1">
+<title><![CDATA[Structural and Biochemical Analysis Reveals a Distinct Catalytic Site of Salicylate 5-Monooxygenase NagGH from Rieske Dioxygenases [Enzymology and Protein Engineering]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e01629-20?rss=1</link>
+<description><![CDATA[
+<p>Rieske nonheme iron oxygenases (ROs) catalyze the oxidation of a wide variety of substrates and play important roles in aromatic compound degradation and polycyclic aromatic hydrocarbon degradation. Those Rieske dioxygenases that usually act on hydrophobic substrates have been extensively studied and structurally characterized. Here, we report the crystal structure of a novel Rieske monooxygenase, NagGH, the oxygenase component of a salicylate 5-monooxygenase from <I>Ralstonia</I> sp. strain U2 that catalyzes the hydroxylation of a hydrophilic substrate salicylate (2-hydroxybenzoate), forming gentisate (2, 5-dihydroxybenzoate). The large subunit NagG and small subunit NagH share the same fold as that for their counterparts of Rieske dioxygenases and assemble the same &alpha;<SUB>3</SUB>&beta;<SUB>3</SUB> hexamer, despite that they share low (or no identity for NagH) sequence identities with these dioxygenase counterparts. A potential substrate-binding pocket was observed in the vicinity of the nonheme iron site. It featured a positively charged residue Arg323 that was surrounded by hydrophobic residues. The shift of nonheme iron atom caused by residue Leu228 disrupted the usual substrate pocket observed in other ROs. Residue Asn218 at the usual substrate pocket observed in other ROs was likewise involved in substrate binding and oxidation, yet residues Gln316 and Ser367, away from the usual substrate pocket of other ROs, were shown to play a more important role in substrate oxidation than Asn218. The unique binding pocket and unusual substrate-protein hydrophilic interaction provide new insights into Rieske monooxygenases.</p>
+<p><b>IMPORTANCE</b> Rieske oxygenases are involved in the degradation of various aromatic compounds. These dioxygenases usually carry out hydroxylation of hydrophobic aromatic compounds and supply substrates with hydroxyl groups for extradiol/intradiol dioxygenases to cleave rings, and have been extensively studied. Salicylate 5-hydroxylase NagGH is a novel Rieske monooxygenase with high similarity to Rieske dioxygenases, and also shares reductase and ferredoxin similarity with a Rieske dioxygenase naphthalene 1,2-dioxygenase (NagAcAd) in <I>Ralstonia</I> sp. strain U2. The structure of NagGH, the oxygenase component of salicylate 5-monooxygenase, gives a representative of those monooxygenases and will help us understand the mechanism of their substrate binding and product regio-selectivity.</p>
+]]></description>
+<dc:creator><![CDATA[Hou, Y.-J., Guo, Y., Li, D.-F., Zhou, N.-Y.]]></dc:creator>
+<dc:date>2021-02-26T08:00:56-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.01629-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.01629-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Structural and Biochemical Analysis Reveals a Distinct Catalytic Site of Salicylate 5-Monooxygenase NagGH from Rieske Dioxygenases [Enzymology and Protein Engineering]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Enzymology and Protein Engineering</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e01629-20</prism:startingPage>
+<prism:endingPage>e01629-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e01629-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e01925-20?rss=1">
+<title><![CDATA[Nature versus Nurture: Assessing the Impact of Strain Diversity and Pregrowth Conditions on Salmonella enterica, Escherichia coli, and Listeria Species Growth and Survival on Selected Produce Items [Food Microbiology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e01925-20?rss=1</link>
+<description><![CDATA[
+<p>Inoculation studies are important when assessing microbial survival and growth in food products. These studies typically involve the pregrowth of multiple strains of a target pathogen under a single condition; this emphasizes strain diversity. To gain a better understanding of the impacts of strain diversity ("nature") and pregrowth conditions ("nurture") on subsequent bacterial growth in foods, we assessed the growth and survival of <I>Salmonella enterica</I> (<I>n</I> = 5), <I>Escherichia coli</I> (<I>n</I> = 6), and <I>Listeria</I> (<I>n</I> = 5) inoculated onto tomatoes, precut lettuce, and cantaloupe rind, respectively. Pregrowth conditions included (i) 37&deg;C to stationary phase (baseline), (ii) low pH, (iii) high salt, (iv) reduced water activity, (v) log phase, (vi) minimal medium, and (vii) 21&deg;C. Inoculated tomatoes were incubated at 21&deg;C; lettuce and cantaloupe were incubated at 7&deg;C. Bacterial counts were assessed over three phases, including initial reduction (phase 1), change in bacterial numbers over the first 24 h of incubation (phase 2), and change over the 7-day incubation (phase 3). <I>E. coli</I> showed overall decline in counts (&lt;1 log) over the 7-day period, except for a &lt;1-log increase after pregrowth in high salt and to mid-log phase. In contrast, <I>S. enterica</I> and <I>Listeria</I> showed regrowth after an initial reduction. Pregrowth conditions had a substantial and significant effect on all three phases of <I>S. enterica</I> and <I>E. coli</I> population dynamics on inoculated produce, whereas strain did not show a significant effect. For <I>Listeria</I>, both pregrowth conditions and strain affected changes in phase 2 but not phases 1 and 3.</p>
+<p><b>IMPORTANCE</b> Our findings suggest that inclusion of multiple pregrowth conditions in inoculation studies can best capture the range of growth and survival patterns expected for <I>Salmonella enterica</I> and <I>Escherichia coli</I> present on produce. This is particularly important for fresh and fresh-cut produce, where stress conditions encountered by pathogens prior to contamination can vary widely, making selection of a typical pregrowth condition virtually impossible. Pathogen growth and survival data generated using multiple pregrowth conditions will allow for more robust microbial risk assessments that account more accurately for uncertainty.</p>
+]]></description>
+<dc:creator><![CDATA[Harrand, A. S., Guariglia-Oropeza, V., Skeens, J., Kent, D., Wiedmann, M.]]></dc:creator>
+<dc:date>2021-02-26T08:00:56-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.01925-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.01925-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Nature versus Nurture: Assessing the Impact of Strain Diversity and Pregrowth Conditions on Salmonella enterica, Escherichia coli, and Listeria Species Growth and Survival on Selected Produce Items [Food Microbiology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Food Microbiology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e01925-20</prism:startingPage>
+<prism:endingPage>e01925-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e01925-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e01962-20?rss=1">
+<title><![CDATA[Control of Competence in Vibrio fischeri [Genetics and Molecular Biology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e01962-20?rss=1</link>
+<description><![CDATA[
+<p><I>Vibrio</I> species, including the squid symbiont <I>Vibrio fischeri</I>, become competent to take up DNA under specific conditions. For example, <I>V. fischeri</I> becomes competent when grown in the presence of chitin oligosaccharides or upon overproduction of the competence regulatory factor TfoX. While little is known about the regulatory pathway(s) that controls <I>V. fischeri</I> competence, this microbe encodes homologs of factors that control competence in the well-studied <I>V. cholerae</I>. To further develop <I>V. fischeri</I> as a genetically tractable organism, we evaluated the roles of some of these competence homologs. Using TfoX-overproducing cells, we found that competence depends upon LitR, the homolog of <I>V. cholerae</I> master quorum-sensing and competence regulator HapR, and upon homologs of putative pilus genes that in <I>V. cholerae</I> facilitate DNA uptake. Disruption of genes for negative regulators upstream of LitR, namely, the LuxO protein and the small RNA (sRNA) Qrr1, resulted in increased transformation frequencies. Unlike LitR-controlled light production, however, competence did not vary with cell density under <I>tfoX</I> overexpression conditions. Analogous to the case with <I>V. cholerae</I>, the requirement for LitR could be suppressed by loss of the Dns nuclease. We also found a role for the putative competence regulator CytR. Finally, we determined that transformation frequencies varied depending on the TfoX-encoding plasmid, and we developed a new dual <I>tfoX</I> and <I>litR</I> overexpression construct that substantially increased the transformation frequency of a less genetically tractable strain. By advancing the ease of genetic manipulation of <I>V. fischeri</I>, these findings will facilitate the rapid discovery of genes involved in physiologically relevant processes, such as biofilm formation and host colonization.</p>
+<p><b>IMPORTANCE</b> The ability of bacteria to take up DNA (competence) and incorporate foreign DNA into their genomes (transformation) permits them to rapidly evolve and gain new traits and/or acquire antibiotic resistances. It also facilitates laboratory-based investigations into mechanisms of specific phenotypes, such as those involved in host colonization. <I>Vibrio fischeri</I> has long been a model for symbiotic bacterium-host interactions as well as for other aspects of its physiology, such as bioluminescence and biofilm formation. Competence of <I>V. fischeri</I> can be readily induced upon overexpression of the competence factor TfoX. Relatively little is known about the <I>V. fischeri</I> competence pathway, although homologs of factors known to be important in <I>V. cholerae</I> competence exist. By probing the importance of putative competence factors that control transformation of <I>V. fischeri</I>, this work deepens our understanding of the competence process and advances our ability to genetically manipulate this important model organism.</p>
+]]></description>
+<dc:creator><![CDATA[Cohen, J. J., Eichinger, S. J., Witte, D. A., Cook, C. J., Fidopiastis, P. M., Tepavcevic, J., Visick, K. L.]]></dc:creator>
+<dc:date>2021-02-26T08:00:56-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.01962-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.01962-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Control of Competence in Vibrio fischeri [Genetics and Molecular Biology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Genetics and Molecular Biology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e01962-20</prism:startingPage>
+<prism:endingPage>e01962-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e01962-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e01994-20?rss=1">
+<title><![CDATA[Genomic Insights into Methicillin-Resistant Staphylococcus aureus spa Type t899 Isolates Belonging to Different Sequence Types [Evolutionary and Genomic Microbiology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e01994-20?rss=1</link>
+<description><![CDATA[
+<p>Methicillin-resistant <I>Staphylococcus aureus</I> (MRSA) presenting <I>spa</I> type t899 is commonly associated with sequence type 9 (ST9) but is also increasingly linked to ST398. This study provides genomic insight into the diversity of t899 isolates using core genome multilocus sequence typing (cgMLST), single nucleotide polymorphism (SNP)-based phylogeny, and the description of selected antimicrobial resistance and virulence markers. The SNP-based phylogenic tree showed that isolates sharing the same <I>spa</I> type (t899) but different STs highly diverged in their core and accessory genomes, revealing discriminant antimicrobial resistance (AMR) and virulence markers. Our results highlighted the idea that in a surveillance context where only <I>spa</I> typing is used, an additional multiplex PCR for the detection of the <I>tet</I>(M), <I>sak</I>, and <I>seg</I> genes would be valuable in helping distinguish ST9 from ST398 isolates on a routine basis.</p>
+<p><b>IMPORTANCE</b> This study showed the genetic diversity and population structure of <I>S. aureus</I> presenting the same <I>spa</I> type, t899, but belonging to different STs. Our findings revealed that these isolates vary deeply in their core and accessory genomes, contrary to what is regularly inferred from studies using <I>spa</I> typing only. Given that identical <I>spa</I> types can be associated with different STs and that <I>spa</I> typing only is not appropriate for <I>S. aureus</I> isolates that have undergone major recombination events which include the passage of the <I>spa</I> gene (such as in t899-positive MRSA), the combination of both MLST and <I>spa</I> typing methods is recommended. However, <I>spa</I> typing alone is still largely used in surveillance studies and basic characterization. Our data suggest that additional markers, such as <I>tet</I>(M), <I>sak</I>, and <I>seg</I> genes, could be implemented in an easy and inexpensive manner in order to identify <I>S. aureus</I> lineages with a higher accuracy.</p>
+]]></description>
+<dc:creator><![CDATA[Tegegne, H. A., Kolackova, I., Florianova, M., Wattiau, P., Gelbicova, T., Boland, C., Madec, J.-Y., Haenni, M., Karpiskova, R.]]></dc:creator>
+<dc:date>2021-02-26T08:00:56-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.01994-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.01994-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Genomic Insights into Methicillin-Resistant Staphylococcus aureus spa Type t899 Isolates Belonging to Different Sequence Types [Evolutionary and Genomic Microbiology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Evolutionary and Genomic Microbiology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e01994-20</prism:startingPage>
+<prism:endingPage>e01994-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e01994-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02189-20?rss=1">
+<title><![CDATA[Dichotomy between Regulation of Coral Bacterial Communities and Calcification Physiology under Ocean Acidification Conditions [Invertebrate Microbiology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02189-20?rss=1</link>
+<description><![CDATA[
+<p>Ocean acidification (OA) threatens the growth and function of coral reef ecosystems. A key component to coral health is the microbiome, but little is known about the impact of OA on coral microbiomes. A submarine CO<SUB>2</SUB> vent at Maug Island in the Northern Mariana Islands provides a natural pH gradient to investigate coral responses to long-term OA conditions. Three coral species (<I>Pocillopora eydouxi</I>, <I>Porites lobata</I>, and <I>Porites rus</I>) were sampled from three sites where the mean seawater pH is 8.04, 7.98, and 7.94. We characterized coral bacterial communities (using 16S rRNA gene sequencing) and determined pH of the extracellular calcifying fluid (ECF) (using skeletal boron isotopes) across the seawater pH gradient. Bacterial communities of both <I>Porites</I> species stabilized (decreases in community dispersion) with decreased seawater pH, coupled with large increases in the abundance of <I>Endozoicomonas</I>, an endosymbiont. <I>P. lobata</I> experienced a significant decrease in ECF pH near the vent, whereas <I>P. rus</I> experienced a trending decrease in ECF pH near the vent. In contrast, <I>Pocillopora</I> exhibited bacterial community destabilization (increases in community dispersion), with significant decreases in <I>Endozoicomonas</I> abundance, while its ECF pH remained unchanged across the pH gradient. Our study shows that OA has multiple consequences on <I>Endozoicomonas</I> abundance and suggests that <I>Endozoicomonas</I> abundance may be an indicator of coral response to OA. We reveal an interesting dichotomy between two facets of coral physiology (regulation of bacterial communities and regulation of calcification), highlighting the importance of multidisciplinary approaches to understanding coral health and function in a changing ocean.</p>
+<p><b>IMPORTANCE</b> Ocean acidification (OA) is a consequence of anthropogenic CO<SUB>2</SUB> emissions that is negatively impacting marine ecosystems such as coral reefs. OA affects many aspects of coral physiology, including growth (i.e., calcification) and disrupting associated bacterial communities. Coral-associated bacteria are important for host health, but it remains unclear how coral-associated bacterial communities will respond to future OA conditions. We document changes in coral-associated bacterial communities and changes to calcification physiology with long-term exposure to decreases in seawater pH that are environmentally relevant under midrange IPCC emission scenarios (0.1 pH units). We also find species-specific responses that may reflect different responses to long-term OA. In <I>Pocillopora</I>, calcification physiology was highly regulated despite changing seawater conditions. In <I>Porites</I> spp., changes in bacterial communities do not reflect a breakdown of coral-bacterial symbiosis. Insights into calcification and host-microbe interactions are critical to predicting the health and function of different coral taxa to future OA conditions.</p>
+]]></description>
+<dc:creator><![CDATA[Shore, A., Day, R. D., Stewart, J. A., Burge, C. A.]]></dc:creator>
+<dc:date>2021-02-26T08:00:56-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02189-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02189-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Dichotomy between Regulation of Coral Bacterial Communities and Calcification Physiology under Ocean Acidification Conditions [Invertebrate Microbiology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Invertebrate Microbiology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02189-20</prism:startingPage>
+<prism:endingPage>e02189-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02189-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02201-20?rss=1">
+<title><![CDATA[Fecal Microbiota Nutrient Utilization Potential Suggests Mucins as Drivers for Initial Gut Colonization of Mother-Child-Shared Bacteria [Microbial Ecology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02201-20?rss=1</link>
+<description><![CDATA[
+<p>The nutritional drivers for mother-child sharing of bacteria and the corresponding longitudinal trajectory of the infant gut microbiota development are not yet completely settled. We therefore aimed to characterize the mother-child sharing and the inferred nutritional utilization potential for the gut microbiota from a large unselected cohort. We analyzed in depth gut microbiota in 100 mother-child pairs enrolled antenatally from the general population-based Preventing Atopic Dermatitis and Allergies in Children (PreventADALL) cohort. Fecal samples collected at gestational week 18 for mothers and at birth (meconium), 3, 6, and 12 months for infants were analyzed by reduced metagenome sequencing to determine metagenome size and taxonomic composition. The nutrient utilization potential was determined based on the Virtual Metabolic Human (VMH, <A HREF="http://www.vmh.life">www.vmh.life</A>) database. The estimated median metagenome size was ~150 million base pairs (bp) for mothers and ~20 million bp at birth for the children. Longitudinal analyses revealed mother-child sharing (<I>P</I> &lt; 0.05, chi-square test) from birth up to 6 months for 3 prevalent <I>Bacteroides</I> species (prevalence, &gt;25% for all age groups). In a multivariate analysis of variance (ANOVA), the mother-child-shared <I>Bacteroides</I> were associated with vaginal delivery (1.7% explained variance, <I>P</I> = 0.0001). Both vaginal delivery and mother-child sharing were associated with host-derived mucins as nutrient sources. The age-related increase in metagenome size corresponded to an increased diversity in nutrient utilization, with dietary polysaccharides as the main age-related factor. Our results support host-derived mucins as potential selection means for mother-child sharing of initial colonizers, while the age-related increase in diversity was associated with dietary polysaccharides.</p>
+<p><b>IMPORTANCE</b> The initial bacterial colonization of human infants is crucial for lifelong health. Understanding the factors driving this colonization will therefore be of great importance. Here, we used a novel high-taxonomic-resolution approach to deduce the nutrient utilization potential of the infant gut microbiota in a large longitudinal mother-child cohort. We found mucins as potential selection means for the initial colonization of mother-child-shared bacteria, while the transition to a more adult-like microbiota was associated with dietary polysaccharide utilization potential. This knowledge will be important for a future understanding of the importance of diet in shaping the gut microbiota composition and development during infancy.</p>
+]]></description>
+<dc:creator><![CDATA[Nilsen, M., Lokmic, A., Angell, I. L., Lodrup Carlsen, K. C., Carlsen, K.-H., Haugen, G., Hedlin, G., Jonassen, C. M., Marsland, B. J., Nordlund, B., Rehbinder, E. M., Saunders, C. M., Skjerven, H. O., Snipen, L., Staff, A. C., So&#x0308;derha&#x0308;ll, C., Vettukattil, R., Rudi, K.]]></dc:creator>
+<dc:date>2021-02-26T08:00:56-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02201-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02201-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Fecal Microbiota Nutrient Utilization Potential Suggests Mucins as Drivers for Initial Gut Colonization of Mother-Child-Shared Bacteria [Microbial Ecology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Microbial Ecology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02201-20</prism:startingPage>
+<prism:endingPage>e02201-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02201-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02241-20?rss=1">
+<title><![CDATA[Signal Synthase-Type versus Catabolic Monooxygenases: Retracing 3-Hydroxylation of 2-Alkylquinolones and Their N-Oxides by Pseudomonas aeruginosa and Other Pulmonary Pathogens [Environmental Microbiology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02241-20?rss=1</link>
+<description><![CDATA[
+<p>The multiple biological activities of 2-alkylquinolones (AQs) are crucial for virulence of <I>Pseudomonas aeruginosa</I>, conferring advantages during infection and in polymicrobial communities. Whereas 2-heptyl-3-hydroxyquinolin-4(1<I>H</I>)-one (the "<I>Pseudomonas</I> quinolone signal" [PQS]) is an important quorum sensing signal molecule, 2-alkyl-1-hydroxyquinolin-4(1<I>H</I>)-ones (also known as 2-alkyl-4-hydroxyquinoline <I>N</I>-oxides [AQNOs]) are antibiotics inhibiting respiration. Hydroxylation of the PQS precursor 2-heptylquinolin-4(1<I>H</I>)-one (HHQ) by the signal synthase PqsH boosts AQ quorum sensing. Remarkably, the same reaction, catalyzed by the ortholog AqdB, is used by <I>Mycobacteroides abscessus</I> to initiate degradation of AQs. The antibiotic 2-heptyl-1-hydroxyquinolin-4(1<I>H</I>)-one (HQNO) is hydroxylated by <I>Staphylococcus aureus</I> to the less toxic derivative PQS-<I>N</I>-oxide (PQS-NO), a reaction probably also catalyzed by a PqsH/AqdB ortholog. In this study, we provide a comparative analysis of four AQ 3-monooxygenases of different organisms. Due to the major impact of AQ/AQNO 3-hydroxylation on the biological activities of the compounds, we surmised adaptations on the enzymatic and/or physiological level to serve either the producer or target organisms. Our results indicate that all enzymes share similar features and are incapable of discriminating between AQs and AQNOs. PQS-NO, hence, occurs as a native metabolite of <I>P. aeruginosa</I> although the unfavorable AQNO 3-hydroxylation is minimized by export as shown for HQNO, involving at least one multidrug efflux pump. Moreover, <I>M. abscessus</I> is capable of degrading the AQNO heterocycle by concerted action of AqdB and dioxygenase AqdC. However, <I>S. aureus</I> and <I>M. abscessus</I> orthologs disfavor AQNOs despite their higher toxicity, suggesting that catalytic constraints restrict evolutionary adaptation and lead to the preference of non-<I>N</I>-oxide substrates by AQ 3-monooxygenases.</p>
+<p><b>IMPORTANCE</b> <I>Pseudomonas aeruginosa</I>, <I>Staphylococcus aureus</I>, and <I>Mycobacteroides abscessus</I> are major players in bacterial chronic infections and particularly common colonizers of cystic fibrosis (CF) lung tissue. Whereas <I>S. aureus</I> is an early onset pathogen in CF, <I>P. aeruginosa</I> establishes at later stages. <I>M. abscessus</I> occurs at all stages but has a lower epidemiological incidence. The dynamics of how these pathogens interact can affect survival and therapeutic success. 2-Alkylquinolone (AQ) and 2-alkylhydroxyquinoline <I>N</I>-oxide (AQNO) production is a major factor of <I>P. aeruginosa</I> virulence. The 3-position of the AQ scaffold is critical, both for attenuation of AQ toxicity or degradation by competitors, as well as for full unfolding of quorum sensing. Despite lacking signaling functionality, AQNOs have the strongest impact on suppression of Gram-positives. Because evidence for 3-hydroxylation of AQNOs has been reported, it is desirable to understand the extent by which AQ 3-monooxygenases contribute to manipulation of AQ/AQNO equilibrium, resistance, and degradation.</p>
+]]></description>
+<dc:creator><![CDATA[Ritzmann, N. H., Drees, S. L., Fetzner, S.]]></dc:creator>
+<dc:date>2021-02-26T08:00:56-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02241-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02241-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Signal Synthase-Type versus Catabolic Monooxygenases: Retracing 3-Hydroxylation of 2-Alkylquinolones and Their N-Oxides by Pseudomonas aeruginosa and Other Pulmonary Pathogens [Environmental Microbiology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Environmental Microbiology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02241-20</prism:startingPage>
+<prism:endingPage>e02241-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02241-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02261-20?rss=1">
+<title><![CDATA[Arsenate-Induced Changes in Bacterial Metabolite and Lipid Pools during Phosphate Stress [Environmental Microbiology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02261-20?rss=1</link>
+<description><![CDATA[
+<p><I>Agrobacterium tumefaciens</I> GW4 is a heterotrophic arsenite-oxidizing bacterium with a high resistance to arsenic toxicity. It is now a model organism for studying the processes of arsenic detoxification and utilization. Previously, we demonstrated that under low-phosphate conditions, arsenate [As(V)] could enhance bacterial growth and be incorporated into biomolecules, including lipids. While the basic microbial As(V) resistance mechanisms have been characterized, global metabolic responses under low phosphate remain largely unknown. In the present work, the impacts of As(V) and low phosphate on intracellular metabolite and lipid profiles of GW4 were quantified using liquid chromatography-mass spectroscopy (LC-MS) in combination with transcriptional assays and the analysis of intracellular ATP and NADH levels. Metabolite profiling revealed that oxidative stress response pathways were altered and suggested an increase in DNA repair. Changes in metabolite levels in the tricarboxylic acid (TCA) cycle along with increased ATP are consistent with As(V)-enhanced growth of <I>A. tumefaciens</I> GW4. Lipidomics analysis revealed that most glycerophospholipids decreased in abundance when As(V) was available. However, several glycerolipid classes increased, an outcome that is consistent with maximizing growth via a phosphate-sparing phenotype. Differentially regulated lipids included phosphotidylcholine and lysophospholipids, which have not been previously reported in <I>A. tumefaciens</I>. The metabolites and lipids identified in this study deepen our understanding of the interplay between phosphate and arsenate on chemical and metabolic levels.</p>
+<p><b>IMPORTANCE</b> Arsenic is widespread in the environment and is one of the most ubiquitous environmental pollutants. Parodoxically, the growth of certain bacteria is enhanced by arsenic when phosphate is limited. Arsenate and phosphate are chemically similar, and this behavior is believed to represent a phosphate-sparing phenotype in which arsenate is used in place of phosphate in certain biomolecules. The research presented here uses a global approach to track metabolic changes in an environmentally relevant bacterium during exposure to arsenate when phosphate is low. Our findings are relevant for understanding the environmental fate of arsenic as well as how human-associated microbiomes respond to this common toxin.</p>
+]]></description>
+<dc:creator><![CDATA[Zhuang, W., Balasubramanian, N., Wang, L., Wang, Q., McDermott, T. R., Copie, V., Wang, G., Bothner, B.]]></dc:creator>
+<dc:date>2021-02-26T08:00:56-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02261-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02261-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Arsenate-Induced Changes in Bacterial Metabolite and Lipid Pools during Phosphate Stress [Environmental Microbiology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Environmental Microbiology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02261-20</prism:startingPage>
+<prism:endingPage>e02261-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02261-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02275-20?rss=1">
+<title><![CDATA[Hidden Diversity within Common Protozoan Parasites as Revealed by a Novel Genomotyping Scheme [Environmental Microbiology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02275-20?rss=1</link>
+<description><![CDATA[
+<p><I>Giardia duodenalis</I> (syn. <I>Giardia lamblia</I>, <I>Giardia intestinalis</I>) is the causative agent of giardiasis, one of the most common diarrheal infections in humans. Evolutionary relationships among <I>G. duodenalis</I> genotypes (or subtypes) of assemblage B, one of two genetic assemblages causing the majority of human infections, remain unclear due to poor phylogenetic resolution of current typing methods. In this study, we devised a methodology to identify new markers for a streamlined multilocus sequence typing (MLST) scheme based on comparisons of all core genes against the phylogeny of whole-genome sequences (WGS). Our analysis identified three markers with resolution comparable to that of WGS data. Using newly designed PCR primers for our novel MLST loci, we typed an additional 68 strains of assemblage B. Analyses of these strains and previously determined genome sequences showed that genomes of this assemblage can be assigned to 16 clonal complexes, each with unique gene content that is apparently tuned to differential virulence and ecology. Obtaining new genomes of <I>Giardia</I> spp. and other eukaryotic microbial pathogens remains challenging due to difficulties in culturing the parasites in the laboratory. Hence, the methods described here are expected to be widely applicable to other pathogens of interest and advance our understanding of their ecology and evolution.</p>
+<p><b>IMPORTANCE</b> <I>Giardia duodenalis</I> assemblage B is a major waterborne pathogen and the most commonly identified genotype causing human giardiasis worldwide. The lack of morphological characters for classification requires the use of molecular techniques for strain differentiation; however, the absence of scalable and affordable next-generation sequencing (NGS)-based typing methods has prevented meaningful advancements in high-resolution molecular typing for further understanding of the evolution and epidemiology of assemblage B. Prior studies have reported high sequence diversity but low phylogenetic resolution at standard loci in assemblage B, highlighting the necessity of identifying new markers for accurate and robust molecular typing. Data from comparative analyses of available genomes in this study identified three loci that together form a novel high-resolution typing scheme with high concordance to whole-genome-based phylogenomics and which should aid in future public health endeavors related to this parasite. In addition, data from newly characterized strains suggest evidence of biogeographic and ecologic endemism.</p>
+]]></description>
+<dc:creator><![CDATA[Seabolt, M. H., Konstantinidis, K. T., Roellig, D. M.]]></dc:creator>
+<dc:date>2021-02-26T08:00:56-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02275-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02275-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Hidden Diversity within Common Protozoan Parasites as Revealed by a Novel Genomotyping Scheme [Environmental Microbiology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Environmental Microbiology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02275-20</prism:startingPage>
+<prism:endingPage>e02275-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02275-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02330-20?rss=1">
+<title><![CDATA[Microbe-Mineral Interaction and Novel Proteins for Iron Oxide Mineral Reduction in the Hyperthermophilic Crenarchaeon Pyrodictium delaneyi [Geomicrobiology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02330-20?rss=1</link>
+<description><![CDATA[
+<p>Dissimilatory iron reduction by hyperthermophilic archaea occurs in many geothermal environments and generally relies on microbe-mineral interactions that transform various iron oxide minerals. In this study, the physiology of dissimilatory iron and nitrate reduction was examined in the hyperthermophilic crenarchaeon type strain <I>Pyrodictium delaneyi</I> Su06. Iron barrier experiments showed that <I>P. delaneyi</I> required direct contact with the Fe(III) oxide mineral ferrihydrite for reduction. The separate addition of an exogenous electron shuttle (anthraquinone-2,6-disulfonate), a metal chelator (nitrilotriacetic acid), and 75% spent cell-free supernatant did not stimulate growth with or without the barrier. Protein electrophoresis showed that the <I>c</I>-type cytochrome and general protein compositions of <I>P. delaneyi</I> changed when grown on ferrihydrite relative to nitrate. Differential proteomic analyses using tandem mass tagged protein fragments and mass spectrometry detected 660 proteins and differential production of 127 proteins. Among these, two putative membrane-bound molybdopterin-dependent oxidoreductase complexes increased in relative abundance 60- to 3,000-fold and 50- to 100-fold in cells grown on iron oxide. A putative 8-heme <I>c</I>-type cytochrome was 60-fold more abundant in iron-grown cells and was unique to the <I>Pyrodictiaceae</I>. There was also a &gt;14,700-fold increase in a membrane transport protein in iron-grown cells. For flagellin proteins and a putative nitrate reductase, there were no changes in abundance, but a membrane nitric oxide reductase was more abundant on nitrate. These data help to elucidate the mechanisms by which hyperthermophilic crenarchaea generate energy and transfer electrons across the membrane to iron oxide minerals.</p>
+<p><b>IMPORTANCE</b> Understanding iron reduction in the hyperthermophilic crenarchaeon <I>Pyrodictium delaneyi</I> provides insight into the diversity of mechanisms used for this process and its potential impact in geothermal environments. The ability of <I>P. delaneyi</I> to reduce Fe(III) oxide minerals through direct contact potentially using a novel cytochrome respiratory complex and a membrane-bound molybdopterin respiratory complex sets iron reduction in this organism apart from previously described iron reduction processes. A model is presented where obligatory H<SUB>2</SUB> oxidation on the membrane coupled with electron transport and either Fe(III) oxide or nitrate reduction leads to the generation of a proton motive force and energy generation by oxidative phosphorylation. However, <I>P. delaneyi</I> cannot fix CO<SUB>2</SUB> and relies on organic compounds from its environment for biosynthesis.</p>
+]]></description>
+<dc:creator><![CDATA[Kashyap, S., Holden, J. F.]]></dc:creator>
+<dc:date>2021-02-26T08:00:56-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02330-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02330-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Microbe-Mineral Interaction and Novel Proteins for Iron Oxide Mineral Reduction in the Hyperthermophilic Crenarchaeon Pyrodictium delaneyi [Geomicrobiology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Geomicrobiology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02330-20</prism:startingPage>
+<prism:endingPage>e02330-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02330-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02353-20?rss=1">
+<title><![CDATA[Acquired Resistance to Severe Ethanol Stress in Saccharomyces cerevisiae Protein Quality Control [Physiology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02353-20?rss=1</link>
+<description><![CDATA[
+<p>Acute severe ethanol stress (10% [vol/vol]) damages proteins and causes the intracellular accumulation of insoluble proteins in <I>Saccharomyces cerevisiae</I>. On the other hand, a pretreatment with mild stress increases tolerance to subsequent severe stress, which is called acquired stress resistance. It currently remains unclear whether the accumulation of insoluble proteins under severe ethanol stress may be mitigated by increasing protein quality control (PQC) activity in cells pretreated with mild stress. In the present study, we examined the induction of resistance to severe ethanol stress in PQC and confirmed that a pretreatment with 6% (vol/vol) ethanol or mild thermal stress at 37&deg;C significantly reduced insoluble protein levels and the aggregation of Lsg1, which is prone to denaturation and aggregation by stress, in yeast cells under 10% (vol/vol) ethanol stress. The induction of this stress resistance required the new synthesis of proteins; the expression of proteins comprising the bichaperone system (Hsp104, Ssa3, and Fes1), Sis1, and Hsp42 was upregulated during the pretreatment and maintained under subsequent severe ethanol stress. Since the pretreated cells of deficient mutants in the bichaperone system (<I>fes1</I> <I>hsp104</I> and <I>ssa2</I> <I>ssa3</I> <I>ssa4</I>) failed to sufficiently reduce insoluble protein levels and Lsg1 aggregation, the enhanced activity of the bichaperone system appears to be important for the induction of adequate stress resistance. In contrast, the importance of proteasomes and aggregases (Btn2 and Hsp42) in the induction of stress resistance has not been confirmed. These results provide further insights into the PQC activity of yeast cells under severe ethanol stress, including the brewing process.</p>
+<p><b>IMPORTANCE</b> Although the budding yeast <I>S. cerevisiae</I>, which is used in the production of alcoholic beverages and bioethanol, is highly tolerant of ethanol, high concentrations of ethanol are also stressful to the yeast and cause various adverse effects, including protein denaturation. A pretreatment with mild stress improves the ethanol tolerance of yeast cells; however, it currently remains unclear whether it increases PQC activity and reduces the levels of denatured proteins. In the present study, we found that a pretreatment with mild ethanol upregulated the expression of proteins involved in PQC and mitigated the accumulation of insoluble proteins, even under severe ethanol stress. These results provide novel insights into ethanol tolerance and the adaptive capacity of yeast. They may also contribute to research on the physiology of yeast cells during the brewing process, in which the concentration of ethanol gradually increases.</p>
+]]></description>
+<dc:creator><![CDATA[Yoshida, M., Kato, S., Fukuda, S., Izawa, S.]]></dc:creator>
+<dc:date>2021-02-26T08:00:56-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02353-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02353-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Acquired Resistance to Severe Ethanol Stress in Saccharomyces cerevisiae Protein Quality Control [Physiology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Physiology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02353-20</prism:startingPage>
+<prism:endingPage>e02353-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02353-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02399-20?rss=1">
+<title><![CDATA[Alginate Degradation: Insights Obtained through Characterization of a Thermophilic Exolytic Alginate Lyase [Enzymology and Protein Engineering]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02399-20?rss=1</link>
+<description><![CDATA[
+<p>Enzymatic depolymerization of seaweed polysaccharides is gaining interest for the production of functional oligosaccharides and fermentable sugars. Herein, we describe a thermostable alginate lyase that belongs to polysaccharide lyase family 17 (PL17) and was derived from an Arctic Mid-Ocean Ridge (AMOR) metagenomics data set. This enzyme, AMOR_PL17A, is a thermostable exolytic oligoalginate lyase (EC 4.2.2.26), which can degrade alginate, poly-&beta;-<scp>d</scp>-mannuronate, and poly-&alpha;-<scp>l</scp>-guluronate within a broad range of pHs, temperatures, and salinity conditions. Site-directed mutagenesis showed that tyrosine Y251, previously suggested to act as a catalytic acid, indeed is essential for catalysis, whereas mutation of tyrosine Y446, previously proposed to act as a catalytic base, did not affect enzyme activity. The observed reaction products are protonated and deprotonated forms of the 4,5-unsaturated uronic acid monomer, , two hydrates of DEH (4-deoxy-<scp>l</scp>-<I>erythro</I>-5-hexulosuronate), which are formed after ring opening, and, finally, two epimers of a 5-member hemiketal called 4-deoxy-<scp>d</scp>-<I>manno</I>-hexulofuranosidonate (DHF), formed through intramolecular cyclization of hydrated DEH. The detection and nuclear magnetic resonance (NMR) assignment of these hemiketals refine our current understanding of alginate degradation.</p>
+<p><b>IMPORTANCE</b> The potential markets for seaweed-derived products and seaweed processing technologies are growing, yet commercial enzyme cocktails for complete conversion of seaweed to fermentable sugars are not available. Such an enzyme cocktail would require the catalytic properties of a variety of different enzymes, where fucoidanases, laminarinases, and cellulases together with endo- and exo-acting alginate lyases would be the key enzymes. Here, we present an exo-acting alginate lyase that efficiently produces monomeric sugars from alginate. Since it is only the second characterized exo-acting alginate lyase capable of degrading alginate at a high industrially relevant temperature (&ge;60&deg;C), this enzyme may be of great biotechnological and industrial interest. In addition, in-depth NMR-based structural elucidation revealed previously undescribed rearrangement products of the unsaturated monomeric sugars generated from exo-acting lyases. The insight provided by the NMR assignment of these products facilitates future assessment of product formation by alginate lyases.</p>
+]]></description>
+<dc:creator><![CDATA[Arntzen, M. O., Pedersen, B., Klau, L. J., Stokke, R., Oftebro, M., Antonsen, S. G., Fredriksen, L., Sletta, H., Aarstad, O. A., Aachmann, F. L., Horn, S. J., Eijsink, V. G. H.]]></dc:creator>
+<dc:date>2021-02-26T08:00:56-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02399-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02399-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Alginate Degradation: Insights Obtained through Characterization of a Thermophilic Exolytic Alginate Lyase [Enzymology and Protein Engineering]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Enzymology and Protein Engineering</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02399-20</prism:startingPage>
+<prism:endingPage>e02399-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02399-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02417-20?rss=1">
+<title><![CDATA[Anaerobic Production of Isoprene by Engineered Methanosarcina Species Archaea [Physiology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02417-20?rss=1</link>
+<description><![CDATA[
+<p>Isoprene is a valuable petrochemical used for a wide variety of consumer goods, such as adhesives and synthetic rubber. We were able to achieve a high yield of renewable isoprene by taking advantage of the naturally high-flux mevalonate lipid synthesis pathway in anaerobic methane-producing archaea (methanogens). Our study illustrates that by genetically manipulating <I>Methanosarcina</I> species methanogens, it is possible to create organisms that grow by producing the hemiterpene isoprene. Mass balance measurements show that engineered methanogens direct up to 4% of total carbon flux to isoprene, demonstrating that methanogens produce higher isoprene yields than engineered yeast, bacteria, or cyanobacteria, and from inexpensive feedstocks. Expression of isoprene synthase resulted in increased biomass and changes in gene expression that indicate that isoprene synthesis depletes membrane precursors and redirects electron flux, enabling isoprene to be a major metabolic product. Our results demonstrate that methanogens are a promising engineering chassis for renewable isoprene synthesis.</p>
+<p><b>IMPORTANCE</b> A significant barrier to implementing renewable chemical technologies is high production costs relative to those for petroleum-derived products. Existing technologies using engineered organisms have difficulty competing with petroleum-derived chemicals due to the cost of feedstocks (such as glucose), product extraction, and purification. The hemiterpene monomer isoprene is one such chemical that cannot currently be produced using cost-competitive renewable biotechnologies. To reduce the cost of renewable isoprene, we have engineered methanogens to synthesize it from inexpensive feedstocks such as methane, methanol, acetate, and carbon dioxide. The "isoprenogen" strains we developed have potential to be used for industrial production of inexpensive renewable isoprene.</p>
+]]></description>
+<dc:creator><![CDATA[Aldridge, J., Carr, S., Weber, K. A., Buan, N. R.]]></dc:creator>
+<dc:date>2021-02-26T08:00:56-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02417-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02417-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Anaerobic Production of Isoprene by Engineered Methanosarcina Species Archaea [Physiology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Physiology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02417-20</prism:startingPage>
+<prism:endingPage>e02417-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02417-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02429-20?rss=1">
+<title><![CDATA[Swimming Escherichia coli Cells Explore the Environment by Levy Walk [Physiology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02429-20?rss=1</link>
+<description><![CDATA[
+<p><I>Escherichia coli</I> cells swim in aqueous environment in a random walk of alternating runs and tumbles. The diffusion characteristics of this random walk remains unclear. In this study, by tracking the swimming of wild-type cells in a three-dimensional (3D) homogeneous environment, we found that their trajectories are superdiffusive, consistent with L&eacute;vy walk behavior. For comparison, we tracked the swimming of mutant cells that lack the chemotaxis signaling noise (the steady-state fluctuation of the concentration of the chemotaxis response regulator CheY-P) and found that their trajectories are normal diffusive. Therefore, wild-type <I>E. coli</I> cells explore the environment by L&eacute;vy walk, which originates from the chemotaxis signaling noise. This L&eacute;vy walk pattern enhances their efficiency in environmental exploration.</p>
+<p><b>IMPORTANCE</b> <I>E. coli</I> cells explore the environment in a random walk of alternating runs and tumbles. By tracking the 3D trajectories of <I>E. coli</I> cells in an aqueous environment, we found that their trajectories are superdiffusive, with a power-law shape for the distribution of run lengths, which is characteristics of L&eacute;vy walk. We further show that this L&eacute;vy walk behavior is due to the random fluctuation of the output level of the bacterial chemotaxis pathway, and it enhances the efficiency of the bacteria in exploring the environment.</p>
+]]></description>
+<dc:creator><![CDATA[Huo, H., He, R., Zhang, R., Yuan, J.]]></dc:creator>
+<dc:date>2021-02-26T08:00:56-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02429-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02429-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Swimming Escherichia coli Cells Explore the Environment by Levy Walk [Physiology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Physiology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02429-20</prism:startingPage>
+<prism:endingPage>e02429-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02429-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02440-20?rss=1">
+<title><![CDATA[Bacteria and Metabolic Potential in Karst Caves Revealed by Intensive Bacterial Cultivation and Genome Assembly [Geomicrobiology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02440-20?rss=1</link>
+<description><![CDATA[
+<p>Karst caves are widely distributed subsurface systems, and the microbiomes therein are proposed to be the driving force for cave evolution and biogeochemical cycling. In past years, culture-independent studies on the microbiomes of cave systems have been conducted, yet intensive microbial cultivation is still needed to validate the sequence-derived hypothesis and to disclose the microbial functions in cave ecosystems. In this study, the microbiomes of two karst caves in Guizhou Province in southwest China were examined. A total of 3,562 bacterial strains were cultivated from rock, water, and sediment samples, and 329 species (including 14 newly described species) of 102 genera were found. We created a cave bacterial genome collection of 218 bacterial genomes from a karst cave microbiome through the extraction of 204 database-derived genomes and <I>de novo</I> sequencing of 14 new bacterial genomes. The cultivated genome collection obtained in this study and the metagenome data from previous studies were used to investigate the bacterial metabolism and potential involvement in the carbon, nitrogen, and sulfur biogeochemical cycles in the cave ecosystem. New N<SUB>2</SUB>-fixing <I>Azospirillum</I> and alkane-oxidizing <I>Oleomonas</I> species were documented in the karst cave microbiome. Two <I>pcaIJ</I> clusters of the &beta;-ketoadipate pathway that were abundant in both the cultivated microbiomes and the metagenomic data were identified, and their representatives from the cultivated bacterial genomes were functionally demonstrated. This large-scale cultivation of a cave microbiome represents the most intensive collection of cave bacterial resources to date and provides valuable information and diverse microbial resources for future cave biogeochemical research.</p>
+<p><b>IMPORTANCE</b> Karst caves are oligotrophic environments that are dark and humid and have a relatively stable annual temperature. The diversity of bacteria and their metabolisms are crucial for understanding the biogeochemical cycling in cave ecosystems. We integrated large-scale bacterial cultivation with metagenomic data mining to explore the compositions and metabolisms of the microbiomes in two karst cave systems. Our results reveal the presence of a highly diversified cave bacterial community, and 14 new bacterial species were described and their genomes sequenced. In this study, we obtained the most intensive collection of cultivated microbial resources from karst caves to date and predicted the various important routes for the biogeochemical cycling of elements in cave ecosystems.</p>
+]]></description>
+<dc:creator><![CDATA[Zhu, H.-Z., Zhang, Z.-F., Zhou, N., Jiang, C.-Y., Wang, B.-J., Cai, L., Wang, H.-M., Liu, S.-J.]]></dc:creator>
+<dc:date>2021-02-26T08:00:56-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02440-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02440-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Bacteria and Metabolic Potential in Karst Caves Revealed by Intensive Bacterial Cultivation and Genome Assembly [Geomicrobiology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Geomicrobiology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02440-20</prism:startingPage>
+<prism:endingPage>e02440-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02440-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02441-20?rss=1">
+<title><![CDATA[The Ethanologenic Bacterium Zymomonas mobilis Divides Asymmetrically and Exhibits Heterogeneity in DNA Content [Genetics and Molecular Biology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02441-20?rss=1</link>
+<description><![CDATA[
+<p>The alphaproteobacterium <I>Zymomonas mobilis</I> exhibits extreme ethanologenic physiology, making this species a promising biofuel producer. Numerous studies have investigated its biology relevant to industrial applications and mostly at the population level. However, the organization of single cells in this industrially important polyploid species has been largely uncharacterized. In the present study, we characterized basic cellular behavior of <I>Z. mobilis</I> strain Zm6 under anaerobic conditions at the single-cell level. We observed that growing <I>Z. mobilis</I> cells often divided at a nonmidcell position, which contributed to variant cell size at birth. However, the cell size variance was regulated by a modulation of cell cycle span, mediated by a correlation of bacterial tubulin homologue FtsZ ring accumulation with cell growth. The <I>Z. mobilis</I> culture also exhibited heterogeneous cellular DNA content among individual cells, which might have been caused by asynchronous replication of chromosome that was not coordinated with cell growth. Furthermore, slightly angled divisions might have resulted in temporary curvatures of attached <I>Z. mobilis</I> cells. Overall, the present study uncovers a novel bacterial cell organization in <I>Z. mobilis</I>.</p>
+<p><b>IMPORTANCE</b> With increasing environmental concerns about the use of fossil fuels, development of a sustainable biofuel production platform has been attracting significant public attention. Ethanologenic <I>Z. mobilis</I> species are endowed with an efficient ethanol fermentation capacity that surpasses, in several respects, that of baker&rsquo;s yeast (<I>Saccharomyces cerevisiae</I>), the most-used microorganism for ethanol production. For development of a <I>Z. mobilis</I> culture-based biorefinery, an investigation of its uncharacterized cell biology is important, because bacterial cellular organization and metabolism are closely associated with each other in a single cell compartment. In addition, the current work demonstrates that the polyploid bacterium <I>Z. mobilis</I> exhibits a distinctive mode of bacterial cell organization, likely reflecting its unique metabolism that does not prioritize incorporation of nutrients for cell growth. Thus, another significant result of this work is to advance our general understanding in the diversity of bacterial cell architecture.</p>
+]]></description>
+<dc:creator><![CDATA[Fuchino, K., Chan, H., Hwang, L. C., Bruheim, P.]]></dc:creator>
+<dc:date>2021-02-26T08:00:56-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02441-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02441-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[The Ethanologenic Bacterium Zymomonas mobilis Divides Asymmetrically and Exhibits Heterogeneity in DNA Content [Genetics and Molecular Biology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Genetics and Molecular Biology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02441-20</prism:startingPage>
+<prism:endingPage>e02441-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02441-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02516-20?rss=1">
+<title><![CDATA[Adjacent Terrestrial Landscapes Impact the Biogeographical Pattern of Soil Escherichia coli Strains in Produce Fields by Modifying the Importance of Environmental Selection and Dispersal [Microbial Ecology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02516-20?rss=1</link>
+<description><![CDATA[
+<p>High-quality habitats for wildlife (e.g., forest) provide essential ecosystem services while increasing species diversity and habitat connectivity. Unfortunately, the presence of such habitats adjacent to produce fields may increase risk for contamination of fruits and vegetables by enteric bacteria, including <I>Escherichia coli</I>. <I>E. coli</I> survives in extrahost environments (e.g., soil) and could be dispersed across landscapes by wildlife. Understanding how terrestrial landscapes impact the distribution of soil <I>E. coli</I> strains is of importance in assessing the contamination risk of agricultural products. Here, using multilocus sequence typing, we characterized 938 <I>E. coli</I> soil isolates collected from two watersheds with different landscape patterns in New York State, USA, and compared the distribution of <I>E. coli</I> and the influence that environmental selection and dispersal have on the distribution between these two watersheds. Results showed that for the watershed with widespread produce fields, sparse forests, and limited interaction between the two land use types, <I>E. coli</I> composition was significantly different between produce field sites and forest sites; this distribution appears to be shaped by relatively strong environmental selection, likely from soil phosphorus, and slight dispersal limitation. For the watershed with more forested areas and stronger interaction between produce field sites and forest sites, <I>E. coli</I> composition between these two land use types was relatively homogeneous; this distribution appeared to be a consequence of wildlife-driven dispersal, inferred by competing models. Collectively, our results suggest that terrestrial landscape attributes could impact the biogeographic pattern of enteric bacteria by adjusting the importance of environmental selection and dispersal.</p>
+<p><b>IMPORTANCE</b> Understanding the ecology of enteric bacteria in extrahost environments is important for the development and implementation of strategies to minimize preharvest contamination of produce with enteric pathogens. Our findings suggest that watershed landscape is an important factor influencing the importance of ecological drivers and dispersal patterns of <I>E. coli</I>. Agricultural areas in such watersheds may have a higher risk of produce contamination due to fewer environmental constraints and higher potential of dispersal of enteric bacteria between locations. Thus, there is a perceived trade-off between priorities of environmental conservation and public health in on-farm food safety, with limited ecological data supporting or refuting the role of wildlife in dispersing pathogens under normal operating conditions. By combining field sampling and spatial modeling, we explored ecological principles underlying the biogeographic pattern of enteric bacteria at the regional level, which can benefit agricultural, environmental, and public health scientists who aim to reduce the risk of food contamination by enteric bacteria while minimizing negative impacts on wildlife habitats.</p>
+]]></description>
+<dc:creator><![CDATA[Liao, J., Bergholz, P., Wiedmann, M.]]></dc:creator>
+<dc:date>2021-02-26T08:00:56-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02516-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02516-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Adjacent Terrestrial Landscapes Impact the Biogeographical Pattern of Soil Escherichia coli Strains in Produce Fields by Modifying the Importance of Environmental Selection and Dispersal [Microbial Ecology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Microbial Ecology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02516-20</prism:startingPage>
+<prism:endingPage>e02516-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02516-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02522-20?rss=1">
+<title><![CDATA[The Golgin Protein RUD3 Regulates Fusarium graminearum Growth and Virulence [Plant Microbiology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02522-20?rss=1</link>
+<description><![CDATA[
+<p>Golgins are coiled-coil proteins that play prominent roles in maintaining the structure and function of the Golgi complex. However, the role of golgin proteins in phytopathogenic fungi remains poorly understood. In this study, we functionally characterized the <I>Fusarium graminearum</I> golgin protein RUD3, a homolog of <SUB>Sc</SUB>RUD3/GMAP-210 in <I>Saccharomyces cerevisiae</I> and mammalian cells. Cellular localization observation revealed that RUD3 is located in the <I>cis</I>-Golgi. Deletion of RUD3 caused defects in vegetative growth, ascospore discharge, deoxynivalenol (DON) production, and virulence. Moreover, the <I>rud3</I> mutant showed reduced expression of <I>tri</I> genes and impairment of the formation of toxisomes, both of which play essential roles in DON biosynthesis. We further used green fluorescent protein (GFP)-tagged SNARE protein SEC22 (SEC22-GFP) as a tool to study the transport between the endoplasmic reticulum (ER) and Golgi and observed that SEC22-GFP was retained in the <I>cis</I>-Golgi in the <I>rud3</I> mutant. RUD3 contains the coiled coil (CC), GRAB-associated 2 (GA2), GRIP-related Arf binding (GRAB), and GRAB-associated 1 (GA1) domains, which except for GA1, are indispensable for normal localization and function of RUD3, whereas only CC is essential for normal RUD3-RUD3 interaction. Together, these results demonstrate how the golgin protein RUD3 mediates retrograde trafficking in the ER-to-Golgi pathway and is necessary for growth, ascospore discharge, DON biosynthesis, and pathogenicity in <I>F. graminearum</I>.</p>
+<p><b>IMPORTANCE</b> <I>Fusarium</I> head blight (FHB) caused by the fungal pathogen <I>Fusarium graminearum</I> is an economically important disease of wheat and other small grain cereal crops worldwide, and limited effective control strategies are available. A better understanding of the regulation mechanisms of <I>F. graminearum</I> development, deoxynivalenol (DON) biosynthesis, and pathogenicity is therefore important for the development of effective control management of this disease. Golgins are attached via their extreme carboxy terminus to the Golgi membrane and are involved in vesicle trafficking and organelle maintenance in eukaryotic cells. In this study, we systematically characterized a highly conserved Golgin protein, RUD3, and found that it is required for vegetative growth, ascospore discharge, DON production, and pathogenicity in <I>F. graminearum</I>. Our findings provide a comprehensive characterization of the golgin family protein RUD3 in plant-pathogenic fungus, which could help to identify a new potential target for effective control of this devastating disease.</p>
+]]></description>
+<dc:creator><![CDATA[Wang, C., Wang, Y., Zhang, L., Yin, Z., Liang, Y., Chen, L., Zou, S., Dong, H.]]></dc:creator>
+<dc:date>2021-02-26T08:00:56-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02522-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02522-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[The Golgin Protein RUD3 Regulates Fusarium graminearum Growth and Virulence [Plant Microbiology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Plant Microbiology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02522-20</prism:startingPage>
+<prism:endingPage>e02522-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02522-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02541-20?rss=1">
+<title><![CDATA[Colonization of Naive Roots from Populus tremula x alba Involves Successive Waves of Fungi and Bacteria with Different Trophic Abilities [Plant Microbiology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02541-20?rss=1</link>
+<description><![CDATA[
+<p>Through their roots, trees interact with a highly complex community of microorganisms belonging to various trophic guilds and contributing to tree nutrition, development, and protection against stresses. Tree roots select for specific microbial species from the bulk soil communities. The root microbiome formation is a dynamic process, but little is known on how the different microorganisms colonize the roots and how the selection occurs. To decipher whether the final composition of the root microbiome is the product of several waves of colonization by different guilds of microorganisms, we planted sterile rooted cuttings of gray poplar obtained from plantlets propagated in axenic conditions in natural poplar stand soil. We analyzed the root microbiome at different time points between 2 and 50 days of culture by combining high-throughput Illumina MiSeq sequencing of the fungal ribosomal DNA internal transcribed spacer and bacterial 16S rRNA amplicons with confocal laser scanning microscopy observations. The microbial colonization of poplar roots took place in three stages, but bacteria and fungi had different dynamics. Root bacterial communities were clearly different from those in the soil after 2 days of culture. In contrast, if fungi were also already colonizing roots after 2 days, the initial communities were very close to that in the soil and were dominated by saprotrophs. They were slowly replaced by endophytes and ectomycorhizal fungi. The replacement of the most abundant fungal and bacterial community members observed in poplar roots over time suggest potential competition effect between microorganisms and/or a selection by the host.</p>
+<p><b>IMPORTANCE</b> The tree root microbiome is composed of a very diverse set of bacterial and fungal communities. These microorganisms have a profound impact on tree growth, development, and protection against different types of stress. They mainly originate from the bulk soil and colonize the root system, which provides a unique nutrient-rich environment for a diverse assemblage of microbial communities. In order to better understand how the tree root microbiome is shaped over time, we observed the composition of root-associated microbial communities of naive plantlets of poplar transferred in natural soil. The composition of the final root microbiome relies on a series of colonization stages characterized by the dominance of different fungal guilds and bacterial community members over time. Our observations suggest an early stabilization of bacterial communities, whereas fungal communities are established following a more gradual pattern.</p>
+]]></description>
+<dc:creator><![CDATA[Fracchia, F., Mangeot-Peter, L., Jacquot, L., Martin, F., Veneault-Fourrey, C., Deveau, A.]]></dc:creator>
+<dc:date>2021-02-26T08:00:56-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02541-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02541-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Colonization of Naive Roots from Populus tremula x alba Involves Successive Waves of Fungi and Bacteria with Different Trophic Abilities [Plant Microbiology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Plant Microbiology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02541-20</prism:startingPage>
+<prism:endingPage>e02541-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02541-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02545-20?rss=1">
+<title><![CDATA[Essential Roles of Two FRQ Proteins (Frq1 and Frq2) in Beauveria bassianas Virulence, Infection Cycle, and Calcofluor-Specific Signaling [Invertebrate Microbiology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02545-20?rss=1</link>
+<description><![CDATA[
+<p>Two FRQ proteins (Frq1 and Frq2) distinct in molecular mass and structure coexist in <I>Beauveria bassiana</I>, an asexual insect-pathogenic fungus. Frq1 and Frq2 have been proven to have opposite nuclear rhythms that can persistently activate developmental activator genes and hence orchestrate nonrhythmic conidiation <I>in vitro</I> under light or in darkness. Here, we report the essentiality of either FRQ, but Frq2 being more important than Frq1, for the fungal virulence and infection cycle. The fungal virulence was attenuated significantly more in the absence of <I>frq2</I> than in the absence of <I>frq1</I> through either normal cuticle infection or cuticle-bypassing infection by intrahemocoel injection, accompanied by differentially reduced secretion of Pr1 proteases required for the cuticle infection and delayed development of hyphal bodies <I>in vivo</I>, which usually propagate by yeast-like budding in the host hemocoel to accelerate insect death from mycosis. Despite insignificant changes in radial growth under normal, oxidative, and hyperosmotic culture conditions, conidial yields of the <I>frq1</I> and <I>frq2</I> mutants on insect cadavers were sharply reduced, and the reduction increased with shortening daylight length on day 9 or 12 after death, indicating that both Frq1 and Frq2 are required for the fungal infection cycle in host habitats. Intriguingly, the <I>frq1</I> and <I>frq2</I> mutants showed hypersensitivity and high resistance to cell wall-perturbing calcofluor white, coinciding respectively with the calcofluor-triggered cells' hypo- and hyperphosphorylated signals of Slt2, a mitogen-activated protein kinase (MAPK) required for mediation of cell wall integrity. This finding offers a novel insight into opposite roles of Frq1 and Frq2 in calcofluor-specific signal transduction via the fungal Slt2 cascade.</p>
+<p><b>IMPORTANCE</b> Opposite nuclear rhythms of two distinct FRQ proteins (Frq1 and Frq2) coexisting in an asexual fungal insect pathogen have been shown to orchestrate the fungal nonrhythmic conidiation <I>in vitro</I> in a circadian day independent of photoperiod change. This paper reports essential roles of both Frq1 and Frq2, but a greater role for Frq2, in sustaining the fungal virulence and infection cycle since either <I>frq1</I> or <I>frq2</I> deletion led to marked delay of lethal action against a model insect and drastic reduction of conidial yield on insect cadavers. Moreover, the <I>frq1</I> and <I>frq2</I> mutants display hypersensitivity and high resistance to cell wall perturbation and have hypo- and hyperphosphorylated MAPK/Slt2 in calcofluor white-triggered cells, respectively. These findings uncover a requirement of Frq1 and Frq2 for the fungal infection cycle in host habitats and provide a novel insight into their opposite roles in calcofluor-specific signal transduction through the MAPK/Slt2 cascade.</p>
+]]></description>
+<dc:creator><![CDATA[Tong, S.-M., Gao, B.-J., Peng, H., Feng, M.-G.]]></dc:creator>
+<dc:date>2021-02-26T08:00:56-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02545-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02545-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Essential Roles of Two FRQ Proteins (Frq1 and Frq2) in Beauveria bassianas Virulence, Infection Cycle, and Calcofluor-Specific Signaling [Invertebrate Microbiology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Invertebrate Microbiology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02545-20</prism:startingPage>
+<prism:endingPage>e02545-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02545-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02546-20?rss=1">
+<title><![CDATA[Changes in Bacterial and Chemical Components and Growth Prediction for Lactobacillus sakei during Kimoto-Style Fermentation Starter Preparation in Sake Brewing: a Comprehensive Analysis [Food Microbiology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02546-20?rss=1</link>
+<description><![CDATA[
+<p>Kimoto-style seed mash is a traditional preparation method for sake that takes advantage of spontaneous lactic acid fermentation before the growth of yeast. Lactic acid helps decrease the pH in seed mash and control the growth of unfavorable microorganisms. In this study, we carried out a comprehensive analysis of the change in the bacterial community and chemical composition during the lactic acid fermentation stage in kimoto-style seed mash preparation. The bacterial transitions were diverse at five sake breweries, but they exhibited three patterns. <I>Lactobacillus sakei</I> was the dominant species in the later stage of lactic acid fermentation in all sake breweries. This species was found to be the most important bacterium for the accumulation of lactic acid, because its average production rate of lactic acid in seed mash reached 4.44 <FONT FACE="arial,helvetica">x</FONT> 10<sup>&ndash;11 </sup>mg cell<sup>&ndash;1</sup> h<sup>&ndash;1</sup>, which is 10 times higher than those of other species. As a result of specific growth rate analysis, it was revealed that the growth rate of <I>L. sakei</I> was influenced by the strain, pH, and temperature. The effects of pH and temperature were explained by the square root model, and the result indicates that the strains isolated in this study were incapable of growth below pH 3.9. The growth curve predicted using the growth model fit the actual cell density in two out of five sake breweries; however, our model did not work well for the remaining three sake breweries, and we presume that the error was caused by the strain or an unknown factor.</p>
+<p><b>IMPORTANCE</b> It is important to produce lactic acid in kimoto-style seed mash; however, the bacterial transition is different depending on the sake brewery. The reason why there are diverse bacterial transitions during kimoto-style seed mash preparation for each sake brewery is unclear so far, and it causes difficulty in starting kimoto-style seed mash. Our findings indicate that the changes in pH caused by lactic acid bacteria grown prior to <I>L. sakei</I> in seed mash influence the growth of <I>L. sakei</I> and are related to the diversity of the bacterial transition. This study uses comprehensive analytical methods to reveal that there is a diversity of bacterial transition and chemical compositions in kimoto-style seed mash depending on the sake brewery and to explain the differences in bacterial transition depending on the characteristics of <I>L. sakei</I>.</p>
+]]></description>
+<dc:creator><![CDATA[Takahashi, M., Morikawa, K., Kita, Y., Shimoda, T., Akao, T., Goto-Yamamoto, N.]]></dc:creator>
+<dc:date>2021-02-26T08:00:56-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02546-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02546-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Changes in Bacterial and Chemical Components and Growth Prediction for Lactobacillus sakei during Kimoto-Style Fermentation Starter Preparation in Sake Brewing: a Comprehensive Analysis [Food Microbiology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Food Microbiology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02546-20</prism:startingPage>
+<prism:endingPage>e02546-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02546-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02593-20?rss=1">
+<title><![CDATA[The Reliability of Metagenome-Assembled Genomes (MAGs) in Representing Natural Populations: Insights from Comparing MAGs against Isolate Genomes Derived from the Same Fecal Sample [Microbial Ecology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02593-20?rss=1</link>
+<description><![CDATA[
+<p>The recovery of metagenome-assembled genomes (MAGs) from metagenomic data has recently become a common task for microbial studies. The strengths and limitations of the underlying bioinformatics algorithms are well appreciated by now based on performance tests with mock data sets of known composition. However, these mock data sets do not capture the complexity and diversity often observed within natural populations, since their construction typically relies on only a single genome of a given organism. Further, it remains unclear if MAGs can recover population-variable genes (those shared by &gt;10% but &lt;90% of the members of the population) as efficiently as core genes (those shared by &gt;90% of the members). To address these issues, we compared the gene variabilities of pathogenic <I>Escherichia coli</I> isolates from eight diarrheal samples, for which the isolate was the causative agent, against their corresponding MAGs recovered from the companion metagenomic data set. Our analysis revealed that MAGs with completeness estimates near 95% captured only 77% of the population core genes and 50% of the variable genes, on average. Further, about 5% of the genes of these MAGs were conservatively identified as missing in the isolate and were of different (non-<I>Enterobacteriaceae</I>) taxonomic origin, suggesting errors at the genome-binning step, even though contamination estimates based on commonly used pipelines were only 1.5%. Therefore, the quality of MAGs may often be worse than estimated, and we offer examples of how to recognize and improve such MAGs to sufficient quality by (for instance) employing only contigs longer than 1,000 bp for binning.</p>
+<p><b>IMPORTANCE</b> Metagenome assembly and the recovery of metagenome-assembled genomes (MAGs) have recently become common tasks for microbiome studies across environmental and clinical settings. However, the extent to which MAGs can capture the genes of the population they represent remains speculative. Current approaches to evaluating MAG quality are limited to the recovery and copy number of universal housekeeping genes, which represent a small fraction of the total genome, leaving the majority of the genome essentially inaccessible. If MAG quality in reality is lower than these approaches would estimate, this could have dramatic consequences for all downstream analyses and interpretations. In this study, we evaluated this issue using an approach that employed comparisons of the gene contents of MAGs to the gene contents of isolate genomes derived from the same sample. Further, our samples originated from a diarrhea case-control study, and thus, our results are relevant for recovering the virulence factors of pathogens from metagenomic data sets.</p>
+]]></description>
+<dc:creator><![CDATA[Meziti, A., Rodriguez-R, L. M., Hatt, J. K., Pena-Gonzalez, A., Levy, K., Konstantinidis, K. T.]]></dc:creator>
+<dc:date>2021-02-26T08:00:56-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02593-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02593-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[The Reliability of Metagenome-Assembled Genomes (MAGs) in Representing Natural Populations: Insights from Comparing MAGs against Isolate Genomes Derived from the Same Fecal Sample [Microbial Ecology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Microbial Ecology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02593-20</prism:startingPage>
+<prism:endingPage>e02593-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02593-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02594-20?rss=1">
+<title><![CDATA[Salmonella Genomics and Population Analyses Reveal High Inter- and Intraserovar Diversity in Freshwater [Microbial Ecology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02594-20?rss=1</link>
+<description><![CDATA[
+<p>Freshwater can support the survival of the enteric pathogen <I>Salmonella</I>, though temporal <I>Salmonella</I> diversity in a large watershed has not been assessed. At 28 locations within the Susquehanna River basin, 10-liter samples were assessed in spring and summer over 2 years. <I>Salmonella</I> prevalence was 49%, and increased river discharge was the main driver of <I>Salmonella</I> presence. The amplicon-based sequencing tool, CRISPR-SeroSeq, was used to determine serovar population diversity and detected 25 different <I>Salmonella</I> serovars, including up to 10 serovars from a single water sample. On average, there were three serovars per sample, and 80% of <I>Salmonella</I>-positive samples contained more than one serovar. Serovars Give, Typhimurium, Thompson, and Infantis were identified throughout the watershed and over multiple collections. Seasonal differences were evident: serovar Give was abundant in the spring, whereas serovar Infantis was more frequently identified in the summer. Eight of the ten serovars most commonly associated with human illness were detected in this study. Crucially, six of these serovars often existed in the background, where they were masked by a more abundant serovar(s) in a sample. Serovars Enteritidis and Typhimurium, especially, were masked in 71 and 78% of samples where they were detected, respectively. Whole-genome sequencing-based phylogeny demonstrated that strains within the same serovar collected throughout the watershed were also very diverse. The Susquehanna River basin is the largest system where <I>Salmonella</I> prevalence and serovar diversity have been temporally and spatially investigated, and this study reveals an extraordinary level of inter- and intraserovar diversity.</p>
+<p><b>IMPORTANCE</b> <I>Salmonella</I> is a leading cause of bacterial foodborne illness in the United States, and outbreaks linked to fresh produce are increasing. Understanding <I>Salmonella</I> ecology in freshwater is of importance, especially where irrigation practices or recreational use occur. As the third largest river in the United States east of the Mississippi, the Susquehanna River is the largest freshwater contributor to the Chesapeake Bay, and it is the largest river system where <I>Salmonella</I> diversity has been studied. Rainfall and subsequent high river discharge rates were the greatest indicators of <I>Salmonella</I> presence in the Susquehanna and its tributaries. Several <I>Salmonella</I> serovars were identified, including eight commonly associated with foodborne illness. Many clinically important serovars were present at a low frequency within individual samples and so could not be detected by conventional culture methods. The technologies employed here reveal an average of three serovars in a 10-liter sample of water and up to 10 serovars in a single sample.</p>
+]]></description>
+<dc:creator><![CDATA[Deaven, A. M., Ferreira, C. M., Reed, E. A., Chen See, J. R., Lee, N. A., Almaraz, E., Rios, P. C., Marogi, J. G., Lamendella, R., Zheng, J., Bell, R. L., Shariat, N. W.]]></dc:creator>
+<dc:date>2021-02-26T08:00:56-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02594-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02594-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Salmonella Genomics and Population Analyses Reveal High Inter- and Intraserovar Diversity in Freshwater [Microbial Ecology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Microbial Ecology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02594-20</prism:startingPage>
+<prism:endingPage>e02594-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02594-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02604-20?rss=1">
+<title><![CDATA[A Pseudoalteromonas Clade with Remarkable Biosynthetic Potential [Genetics and Molecular Biology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02604-20?rss=1</link>
+<description><![CDATA[
+<p><I>Pseudoalteromonas</I> species produce a diverse range of biologically active compounds, including those biosynthesized by nonribosomal peptide synthetases (NRPSs) and polyketide synthases (PKSs). Here, we report the biochemical and genomic analysis of <I>Pseudoalteromonas</I> sp. strain HM-SA03, isolated from the blue-ringed octopus, <I>Hapalochlaena</I> sp. Genome mining for secondary metabolite pathways revealed seven putative NRPS/PKS biosynthesis gene clusters, including those for the biosynthesis of alterochromides, pseudoalterobactins, alteramides, and four novel compounds. Among these was a novel siderophore biosynthesis gene cluster with unprecedented architecture (NRPS-PKS-NRPS-PKS-NRPS-PKS-NRPS). Alterochromide production in HM-SA03 was also confirmed by liquid chromatography-mass spectrometry. An investigation of the biosynthetic potential of 42 publicly available <I>Pseudoalteromonas</I> genomes indicated that some of these gene clusters are distributed throughout the genus. Through the phylogenetic analysis, a particular subset of strains formed a clade with extraordinary biosynthetic potential, with an average density of 10 biosynthesis gene clusters per genome. In contrast, the majority of <I>Pseudoalteromonas</I> strains outside this clade contained an average of three clusters encoding complex biosynthesis. These results highlight the underexplored potential of <I>Pseudoalteromonas</I> as a source of new natural products.</p>
+<p><b>IMPORTANCE</b> This study demonstrates that the <I>Pseudoalteromonas</I> strain HM-SA03, isolated from the venomous blue-ringed octopus, <I>Hapalochalaena</I> sp., is a biosynthetically talented organism, capable of producing alterochromides and potentially six other specialized metabolites. We identified a pseudoalterobactin biosynthesis gene cluster and proposed a pathway for the production of the associated siderophore. A novel siderophore biosynthesis gene cluster with unprecedented architecture was also identified in the HM-SA03 genome. Finally, we demonstrated that HM-SA03 belongs to a phylogenetic clade of strains with extraordinary biosynthetic potential. While our results do not support a role of HM-SA03 in <I>Hapalochalaena</I> sp. venom (tetrodotoxin) production, they emphasize the untapped potential of <I>Pseudoalteromonas</I> as a source of novel natural products.</p>
+]]></description>
+<dc:creator><![CDATA[Chau, R., Pearson, L. A., Cain, J., Kalaitzis, J. A., Neilan, B. A.]]></dc:creator>
+<dc:date>2021-02-26T08:00:56-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02604-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02604-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[A Pseudoalteromonas Clade with Remarkable Biosynthetic Potential [Genetics and Molecular Biology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Genetics and Molecular Biology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02604-20</prism:startingPage>
+<prism:endingPage>e02604-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02604-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02651-20?rss=1">
+<title><![CDATA[Listeria spp. Isolated from Tonsils of Wild Deer and Boars: Genomic Characterization [Public and Environmental Health Microbiology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02651-20?rss=1</link>
+<description><![CDATA[
+<p><I>Listeria monocytogenes</I> is a major human and animal foodborne pathogen. However, data from environmental reservoirs remain scarce. Here, we used whole-genome sequencing to characterize <I>Listeria</I> species isolates recovered over 1 year from wild animals in their natural habitats in Spain. Three different <I>Listeria</I> spp. (<I>L. monocytogenes</I> [<I>n</I> = 19], <I>Listeria ivanovii</I> subsp. <I>londoniensis</I> [<I>n</I> = 4], and <I>Listeria innocua</I> [<I>n</I> = 3]) were detected in 23 animal tonsils (9 deer, 14 wild boars) and 2 feeding troughs. No <I>Listeria</I> species was detected in feces. <I>L. monocytogenes</I> was detected in tonsils of 44.4% (8 out of 18) of deer and 40.7% (11 out of 27) of wild boars. <I>L. monocytogenes</I> isolates belonged to 3 different core genome multilocus sequence typing (cgMLST) types (CTs) of 3 distinct sublineages (SL1, SL387, and SL155) from lineages I and II. While cgMLST type L1-SL1-ST1-CT5279 (IVb; clonal complex 1 [CC1]) occurred only in one animal, types L1-SL387-ST388-CT5239 (IVb; CC388) and L2-SL155-ST155-CT1170 (IIa; CC155) were retrieved from multiple animals. In addition, L1-SL387-ST388-CT5239 (IVb; CC388) isolates were collected 1 year apart, revealing their long-term occurrence within the animal population and/or environmental reservoir. The presence of identical <I>L. monocytogenes</I> strains in deer and wild boars suggests contamination from a common food or environmental source, although interhost transmission cannot be excluded. Pathogenicity islands LIPI-1, LIPI-3, and LIPI-4 were present in 100%, 5%, and 79% of the <I>L. monocytogenes</I> isolates, respectively, and all <I>L. monocytogenes</I> lineage II isolates (<I>n</I> = 3) carried SSI-1 stress islands. This study highlights the need for monitoring <I>L. monocytogenes</I> environmental contamination and the importance of tonsils as a possible <I>L. monocytogenes</I> intrahost reservoir.</p>
+<p><b>IMPORTANCE</b> <I>Listeria monocytogenes</I> is a foodborne bacterial pathogen responsible for listeriosis. Whole-genome sequencing has been extensively used in public health and food industries to characterize circulating <I>Listeria</I> isolates, but genomic data on isolates occurring in natural environments and wild animals are still scarce. Here, we show that wild animals carry pathogenic <I>Listeria</I> and that the same genotypes can be found at different time points in different host species. This work highlights the need of <I>Listeria</I> species monitoring of environmental contamination and the importance of tonsils as a possible <I>L. monocytogenes</I> intrahost reservoir.</p>
+]]></description>
+<dc:creator><![CDATA[Palacios-Gorba, C., Moura, A., Leclercq, A., Gomez-Martin, A., Gomis, J., Jimenez-Trigos, E., Moce, M. L., Lecuit, M., Quereda, J. J.]]></dc:creator>
+<dc:date>2021-02-26T08:00:57-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02651-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02651-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Listeria spp. Isolated from Tonsils of Wild Deer and Boars: Genomic Characterization [Public and Environmental Health Microbiology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Public and Environmental Health Microbiology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02651-20</prism:startingPage>
+<prism:endingPage>e02651-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02651-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02652-20?rss=1">
+<title><![CDATA[The Operon Encoding Hydrolytic Dehalogenation of 4-Chlorobenzoate Is Transcriptionally Regulated by the TetR-Type Repressor FcbR and Its Ligand 4-Chlorobenzoyl Coenzyme A [Biodegradation]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02652-20?rss=1</link>
+<description><![CDATA[
+<p>The bacterial hydrolytic dehalogenation of 4-chlorobenzoate (4CBA) is a coenzyme A (CoA)-activation-type catabolic pathway that is usually a common part of the microbial mineralization of chlorinated aromatic compounds. Previous studies have shown that the transport and dehalogenation genes for 4CBA are typically clustered as an <I>fcbBAT1T2T3C</I> operon and inducibly expressed in response to 4CBA. However, the associated molecular mechanism remains unknown. In this study, a gene (<I>fcbR</I>) adjacent to the <I>fcb</I> operon was predicted to encode a TetR-type transcriptional regulator in <I>Comamonas sediminis</I> strain CD-2. The <I>fcbR</I> knockout strain exhibited constitutive expression of the <I>fcb</I> cluster. In the host <I>Escherichia coli</I>, the expression of the <I>P<SUB>fcb</SUB></I>-fused green fluorescent protein (<I>gfp</I>) reporter was repressed by the introduction of the <I>fcbR</I> gene, and genetic studies combining various catabolic genes suggest that the ligand for FcbR may be an intermediate metabolite. Purified FcbR could bind to the <I>P<SUB>fcb</SUB></I> DNA probe <I>in vitro</I>, and the metabolite 4-chlorobenzyl-CoA (4CBA-CoA) prevented FcbR binding to the P<I><SUB>fcb</SUB></I> DNA probe. Isothermal titration calorimetry (ITC) measurements showed that 4CBA-CoA could bind to FcbR at a 1:1 molar ratio. DNase I footprinting showed that FcbR protected a 42-bp DNA motif (5'-GGAAATCAATAGGTCCATAGAAAATCTATTGACTAATCGAAT-3') that consists of two sequence repeats containing four pseudopalindromic sequences (5'-TCNATNGA-3'). This binding motif overlaps with the &ndash;35 box of <I>P<SUB>fcb</SUB></I> and was proposed to prevent the binding of RNA polymerase. This study characterizes a transcriptional repressor of the <I>fcb</I> operon, together with its ligand, thus identifying halogenated benzoyl-CoA as belonging to the class of ligands of transcriptional regulators.</p>
+<p><b>IMPORTANCE</b> The bacterial hydrolytic dehalogenation of 4CBA is a special CoA-activation-type catabolic pathway that plays an important role in the biodegradation of polychlorinated biphenyls and some herbicides. With genetic and biochemical approaches, the present study identified the transcriptional repressor and its cognate effector of a 4CBA hydrolytic dehalogenation operon. This work extends halogenated benzoyl-CoA as a new member of CoA-derived effector compounds that mediate allosteric regulation of transcriptional regulators.</p>
+]]></description>
+<dc:creator><![CDATA[Cheng, M., Pei, D., He, X., Liu, Y., Zhu, P., Yan, X.]]></dc:creator>
+<dc:date>2021-02-26T08:00:57-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02652-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02652-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[The Operon Encoding Hydrolytic Dehalogenation of 4-Chlorobenzoate Is Transcriptionally Regulated by the TetR-Type Repressor FcbR and Its Ligand 4-Chlorobenzoyl Coenzyme A [Biodegradation]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Biodegradation</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02652-20</prism:startingPage>
+<prism:endingPage>e02652-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02652-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02659-20?rss=1">
+<title><![CDATA[In Vitro Assessment of Antimicrobial Resistance Dissemination Dynamics during Multidrug-Resistant-Bacterium Invasion Events by Using a Continuous-Culture Device [Environmental Microbiology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02659-20?rss=1</link>
+<description><![CDATA[
+<p>Antimicrobial-resistant pathogens display significant public health threats by causing difficulties in clinical treatment of bacterial infection. Antimicrobial resistance (AMR) is transmissible between bacteria, significantly increasing the appearance of antimicrobial-resistant pathogens and aggravating the AMR problem. In this work, the dissemination dynamics of AMR from invading multidrug-resistant (MDR) <I>Escherichia coli</I> to a community of pathogenic <I>Salmonella enterica</I> was investigated using a continuous-culture device, and the behaviors of dissemination dynamics under different levels of antibiotic stress were investigated. Three MDR <I>E. coli</I> invasion events were analyzed in this work: MDR <I>E. coli</I>-<I>S. enterica</I> cocolonization, MDR <I>E. coli</I> invasion after antibiotic treatment of <I>S. enterica</I>, and MDR <I>E. coli</I> invasion before antibiotic treatment of <I>S. enterica</I>. It was found that both horizontal gene transfer (HGT) and vertical gene transfer (VGT) play significant roles in AMR dissemination, although different processes contribute differently under different circumstances, that environmental levels of antibiotics promote AMR dissemination by enhancing HGT rather than leading to selective advantage for resistant bacteria, and that early invasion of MDR <I>E. coli</I> completely and quickly sabotages the effectiveness of antibiotic treatment. These findings contribute to understanding the drivers of AMR dissemination under different antibiotic stresses, the detrimental impact of environmental tetracycline contamination, and the danger of nosocomial presence and dissemination of MDR nonpathogens.</p>
+<p><b>IMPORTANCE</b> Antimicrobial resistance poses a grave threat to public health and reduces the effectiveness of antimicrobial drugs in treating bacterial infections. Antimicrobial resistance is transmissible, either by horizontal gene transfer between bacteria or by vertical gene transfer following inheritance of genetic traits. The dissemination dynamics and behaviors of this threat, however, have not been rigorously investigated. In this work, with a continuous-culture device, we studied antimicrobial resistance dissemination processes by simulating antimicrobial-resistant <I>Escherichia coli</I> invasion to a pathogenic <I>Salmonella enterica</I> community. Using this novel tool, we provide evidence on the drivers of antimicrobial resistance dissemination, on the detrimental impact of environmental antibiotic contamination, and on the danger of antimicrobial resistance in hospitals, even if what harbors the antimicrobial resistance is not a pathogen. This work furthers our understanding of antimicrobial resistance and its dissemination between bacteria and of antibiotic therapy, our most powerful tool against bacterial infection.</p>
+]]></description>
+<dc:creator><![CDATA[Li, Z., Shi, L., Wang, B., Wei, X., Zhang, J., Guo, T., Kong, J., Wang, M., Xu, H.]]></dc:creator>
+<dc:date>2021-02-26T08:00:57-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02659-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02659-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[In Vitro Assessment of Antimicrobial Resistance Dissemination Dynamics during Multidrug-Resistant-Bacterium Invasion Events by Using a Continuous-Culture Device [Environmental Microbiology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Environmental Microbiology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02659-20</prism:startingPage>
+<prism:endingPage>e02659-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02659-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02666-20?rss=1">
+<title><![CDATA[A CRISPR/Cas9-Mediated, Homology-Independent Tool Developed for Targeted Genome Integration in Yarrowia lipolytica [Biotechnology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02666-20?rss=1</link>
+<description><![CDATA[
+<p><I>Yarrowia lipolytica</I> has been extensively used to produce essential chemicals and enzymes. As in most other eukaryotes, nonhomologous end joining (NHEJ) is the major repair pathway for DNA double-strand breaks in <I>Y. lipolytica</I>. Although numerous studies have attempted to achieve targeted genome integration through homologous recombination (HR), this process requires the construction of homologous arms, which is time-consuming. This study aimed to develop a homology-independent and CRISPR/Cas9-mediated targeted genome integration tool in <I>Y. lipolytica</I>. Through optimization of the cleavage efficiency of Cas9, targeted integration of a <I>hyg</I> fragment was achieved with 12.9% efficiency, which was further improved by manipulation of the fidelity of NHEJ repair, the cell cycle, and the integration sites. Thus, the targeted integration rate reached 55% through G<SUB>1</SUB> phase synchronization. This tool was successfully applied for the rapid verification of intronic promoters and iterative integration of four genes in the pathway for canthaxanthin biosynthesis. This homology-independent integration tool does not require homologous templates and selection markers and achieves one-step targeted genome integration of the 8,417-bp DNA fragment, potentially replacing current HR-dependent genome-editing methods for <I>Y. lipolytica</I>.</p>
+<p><b>IMPORTANCE</b> This study describes the development and optimization of a homology-independent targeted genome integration tool mediated by CRISPR/Cas9 in <I>Yarrowia lipolytica</I>. This tool does not require the construction of homologous templates and can be used to rapidly verify genetic elements and to iteratively integrate multiple-gene pathways in <I>Y. lipolytica</I>. This tool may serve as a potential supplement to current HR-dependent genome-editing methods for eukaryotes.</p>
+]]></description>
+<dc:creator><![CDATA[Cui, Z., Zheng, H., Zhang, J., Jiang, Z., Zhu, Z., Liu, X., Qi, Q., Hou, J.]]></dc:creator>
+<dc:date>2021-02-26T08:00:57-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02666-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02666-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[A CRISPR/Cas9-Mediated, Homology-Independent Tool Developed for Targeted Genome Integration in Yarrowia lipolytica [Biotechnology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Biotechnology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02666-20</prism:startingPage>
+<prism:endingPage>e02666-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02666-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02669-20?rss=1">
+<title><![CDATA[Portable CRISPR-Cas9N System for Flexible Genome Engineering in Lactobacillus acidophilus, Lactobacillus gasseri, and Lactobacillus paracasei [Methods]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02669-20?rss=1</link>
+<description><![CDATA[
+<p>Diverse <I>Lactobacillus</I> strains are widely used as probiotic cultures in the dairy and dietary supplement industries, and specific strains, such as <I>Lactobacillus acidophilus</I> NCFM, have been engineered for the development of biotherapeutics. To expand the <I>Lactobacillus</I> manipulation toolbox with enhanced efficiency and ease, we present here a CRISPR (clustered regularly interspaced palindromic repeats)-SpyCas9<sup>D10A</sup> nickase (Cas9<sup>N</sup>)-based system for programmable engineering of <I>L. acidophilus</I> NCFM, a model probiotic bacterium. Successful single-plasmid delivery system was achieved with the engineered pLbCas9<sup>N</sup> vector harboring <I>cas9</I><sup>N</sup> under the regulation of a <I>Lactobacillus</I> promoter and a cloning region for a customized single guide RNA (sgRNA) and editing template. The functionality of the pLbCas9<sup>N</sup> system was validated in NCFM with targeted chromosomal deletions ranging between 300 bp and 1.9 kb at various loci (<I>rafE</I>, <I>lacS</I>, and <I>ltaS</I>), yielding 35 to 100% mutant recovery rates. Genome analysis of the mutants confirmed precision and specificity of the pLbCas9<sup>N</sup> system. To showcase the versatility of this system, we also inserted an mCherry fluorescent-protein gene downstream of the <I>pgm</I> gene to create a polycistronic transcript. The pLbCas9<sup>N</sup> system was further deployed in other species to generate a concurrent single-base substitution and gene deletion in <I>Lactobacillus gasseri</I> ATCC 33323 and an in-frame gene deletion in <I>Lactobacillus paracasei</I> Lpc-37, highlighting the portability of the system in phylogenetically distant <I>Lactobacillus</I> species, where its targeting activity was not interfered with by endogenous CRISPR-Cas systems. Collectively, these editing outcomes illustrate the robustness and versatility of the pLbCas9<sup>N</sup> system for genome manipulations in diverse lactobacilli and open new avenues for the engineering of health-promoting lactic acid bacteria.</p>
+<p><b>IMPORTANCE</b> This work describes the development of a lactobacillus CRISPR-based editing system for genome manipulations in three <I>Lactobacillus</I> species belonging to the lactic acid bacteria (LAB), which are commonly known for their long history of use in food fermentations and as indigenous members of healthy microbiotas and for their emerging roles in human and animal commercial health-promoting applications. We exploited the established CRISPR-SpyCas9 nickase for flexible and precise genome editing applications in <I>Lactobacillus acidophilus</I> and further demonstrated the efficacy of this universal system in two distantly related <I>Lactobacillus</I> species. This versatile Cas9-based system facilitates genome engineering compared to conventional gene replacement systems and represents a valuable gene editing modality in species that do not possess native CRISPR-Cas systems. Overall, this portable tool contributes to expanding the genome editing toolbox of LAB for studying their health-promoting mechanisms and engineering of these beneficial microbes as next-generation vaccines and designer probiotics.</p>
+]]></description>
+<dc:creator><![CDATA[Goh, Y. J., Barrangou, R.]]></dc:creator>
+<dc:date>2021-02-26T08:00:57-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02669-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02669-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Portable CRISPR-Cas9N System for Flexible Genome Engineering in Lactobacillus acidophilus, Lactobacillus gasseri, and Lactobacillus paracasei [Methods]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Methods</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02669-20</prism:startingPage>
+<prism:endingPage>e02669-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02669-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02695-20?rss=1">
+<title><![CDATA[Lighting Effects on the Development and Diversity of Photosynthetic Biofilm Communities in Carlsbad Cavern, New Mexico [Environmental Microbiology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02695-20?rss=1</link>
+<description><![CDATA[
+<p>Photosynthetic cave communities ("lampenflora") proliferate in Carlsbad Cavern and other show caves worldwide due to artificial lighting. These biofilms mar the esthetics and can degrade underlying cave surfaces. The National Park Service recently modernized the lighting in Carlsbad Cavern to a light-emitting diode (LED) system that allows adjustment of the color temperature and intensity. We hypothesized that lowering the color temperature would reduce photopigment development. We therefore assessed lampenflora responses to changes in lighting by monitoring photosynthetic communities over the course of a year. We measured photopigments using reflected-light spectrophotometric observations and analyzed microbial community composition with 16S and 18S rRNA gene amplicon sequencing. Reflected-light spectrophotometry revealed that photosynthetic biofilm development is affected by lighting intensity, color temperature, substrate type, and cleaning of the substrate. Gene sequencing showed that the most abundant phototrophs were <I>Cyanobacteria</I> and members of the algal phyla <I>Chlorophyta</I> and <I>Ochrophyta</I>. At the end of the study, visible growth of lampenflora was seen at all sites. At sites that had no established biofilm at the start of the study period, <I>Cyanobacteria</I> became abundant and outpaced an increase in eukaryotic algae. Microbial diversity also increased over time at these sites, suggesting a possible pattern of early colonization and succession. Bacterial community structure showed significant effects of all variables: color temperature, light intensity, substrate type, site, and previous cleaning of the substrate. These findings provide fundamental information that can inform management practices; they suggest that altering lighting conditions alone may be insufficient to prevent lampenflora growth.</p>
+<p><b>IMPORTANCE</b> Artificial lighting in caves visited by tourists ("show caves") can stimulate photosynthetic algae and cyanobacteria, called "lampenflora," which are unsightly and damage speleothems and other cave surfaces. The most common mitigation strategy employs bleach, but altering intensities and wavelengths of light might be effective and less harsh. Carlsbad Cavern in New Mexico, a U.S. National Park and UNESCO World Heritage Site, has visible lampenflora despite adjustment of LED lamps to decrease the energetic blue light. This study characterized the lampenflora communities and tested the effects of color temperature, light intensity, rock or sediment texture, and time on lampenflora development. DNA amplicon sequence data show a variety of algae and cyanobacteria and also heterotrophic bacteria. This study reveals microbial dynamics during colonization of artificially lit surfaces and indicates that while lowering the color temperature may have an effect, management of lampenflora will likely require additional chemical or UV treatment.</p>
+]]></description>
+<dc:creator><![CDATA[Havlena, Z., Kieft, T. L., Veni, G., Horrocks, R. D., Jones, D. S.]]></dc:creator>
+<dc:date>2021-02-26T08:00:57-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02695-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02695-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Lighting Effects on the Development and Diversity of Photosynthetic Biofilm Communities in Carlsbad Cavern, New Mexico [Environmental Microbiology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Environmental Microbiology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02695-20</prism:startingPage>
+<prism:endingPage>e02695-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02695-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02698-20?rss=1">
+<title><![CDATA[Formate-Dependent Heterodisulfide Reduction in a Methanomicrobiales Archaeon [Physiology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02698-20?rss=1</link>
+<description><![CDATA[
+<p>Hydrogenotrophic methanogens produce CH<SUB>4</SUB> using H<SUB>2</SUB> as an electron donor to reduce CO<SUB>2</SUB>. In the absence of H<SUB>2</SUB>, many are able to use formate or alcohols as alternate electron donors. Methanogens from the order <I>Methanomicrobiales</I> are capable of growth with H<SUB>2</SUB>, but many lack genes encoding hydrogenases that are typically found in other hydrogenotrophic methanogens. In an effort to better understand electron flow in methanogens from the <I>Methanomicrobiales</I>, we undertook a genetic and biochemical study of heterodisulfide reductase (Hdr) in <I>Methanoculleus thermophilus</I>. Hdr catalyzes an essential reaction by coupling the first and last steps of methanogenesis through flavin-based electron bifurcation. Hdr from <I>M. thermophilus</I> copurified with formate dehydrogenase (Fdh) and only displayed activity when formate was supplied as an electron donor. We found no evidence of an Hdr-associated hydrogenase, and H<SUB>2</SUB> could not function as an electron donor, even with Hdr purified from cells grown on H<SUB>2</SUB>. We found that cells catalyze a formate hydrogenlyase activity that is likely essential for generating the formate needed for the Hdr reaction. Together, these results highlight the importance of formate as an electron donor for methanogenesis and suggest the ability to use formate is closely integrated into the methanogenic pathway in organisms from the order <I>Methanomicrobiales</I>.</p>
+<p><b>IMPORTANCE</b> Methanogens from the order <I>Methanomicrobiales</I> are thought to prefer H<SUB>2</SUB> as an electron donor for growth. They are ubiquitous in anaerobic environments, such as in wastewater treatment facilities, anaerobic digesters, and the rumen, where they catalyze the terminal steps in the breakdown of organic matter. However, despite their importance, the metabolism of these organisms remains understudied. Using a genetic and biochemical approach, we show that formate metabolism is closely integrated into methanogenesis in <I>Methanoculleus thermophilus</I>. This is due to a requirement for formate as the electron donor to heterodisulfide reductase (Hdr), an enzyme responsible for catalyzing essential reactions in methanogenesis by linking the initial CO<SUB>2</SUB> fixing step to the exergonic terminal reaction of the pathway. These results suggest that hydrogen is not necessarily the preferred electron donor for all hydrogenotrophic methanogens and provide insight into the metabolism of methanogens from the order <I>Methanomicrobiales</I>.</p>
+]]></description>
+<dc:creator><![CDATA[Abdul Halim, M. F., Day, L. A., Costa, K. C.]]></dc:creator>
+<dc:date>2021-02-26T08:00:57-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02698-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02698-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Formate-Dependent Heterodisulfide Reduction in a Methanomicrobiales Archaeon [Physiology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Physiology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02698-20</prism:startingPage>
+<prism:endingPage>e02698-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02698-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02701-20?rss=1">
+<title><![CDATA[Discovery and Functional Analysis of a Salicylic Acid Hydroxylase from Aspergillus niger [Biotechnology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02701-20?rss=1</link>
+<description><![CDATA[
+<p>Salicylic acid plays an important role in the plant immune response, and its degradation is therefore important for plant-pathogenic fungi. However, many nonpathogenic microorganisms can also degrade salicylic acid. In the filamentous fungus <I>Aspergillus niger</I>, two salicylic acid metabolic pathways have been suggested. The first pathway converts salicylic acid to catechol by a salicylate hydroxylase (ShyA). In the second pathway, salicylic acid is 3-hydroxylated to 2,3-dihydroxybenzoic acid, followed by decarboxylation to catechol by 2,3-dihydroxybenzoate decarboxylase (DhbA). <I>A. niger</I> cleaves the aromatic ring of catechol catalyzed by catechol 1,2-dioxygenase (CrcA) to form <I>cis</I>,<I>cis</I>-muconic acid. However, the identification and role of the genes and characterization of the enzymes involved in these pathways are lacking. In this study, we used transcriptome data of <I>A. niger</I> grown on salicylic acid to identify genes (<I>shyA</I> and <I>crcA</I>) involved in salicylic acid metabolism. Heterologous production in <I>Escherichia coli</I> followed by biochemical characterization confirmed the function of ShyA and CrcA. The combination of ShyA and CrcA demonstrated that <I>cis,cis</I>-muconic acid can be produced from salicylic acid. In addition, the <I>in vivo</I> roles of <I>shyA</I>, <I>dhbA</I>, and <I>crcA</I> were studied by creating <I>A. niger</I> deletion mutants which revealed the role of these genes in the fungal metabolism of salicylic acid.</p>
+<p><b>IMPORTANCE</b> Nonrenewable petroleum sources are being depleted, and therefore, alternative sources are needed. Plant biomass is one of the most abundant renewable sources on Earth and is efficiently degraded by fungi. In order to utilize plant biomass efficiently, knowledge about the fungal metabolic pathways and the genes and enzymes involved is essential to create efficient strategies for producing valuable compounds such as <I>cis</I>,<I>cis</I>-muconic acid. <I>cis</I>,<I>cis</I>-Muconic acid is an important platform chemical that is used to synthesize nylon, polyethylene terephthalate (PET), polyurethane, resins, and lubricants. Currently, <I>cis</I>,<I>cis</I>-muconic acid is mainly produced through chemical synthesis from petroleum-based chemicals. Here, we show that two enzymes from fungi can be used to produce <I>cis</I>,<I>cis</I>-muconic acid from salicylic acid and contributes in creating alternative methods for the production of platform chemicals.</p>
+]]></description>
+<dc:creator><![CDATA[Lubbers, R. J. M., Dilokpimol, A., Visser, J., Hilden, K. S., Ma&#x0308;kela&#x0308;, M. R., de Vries, R. P.]]></dc:creator>
+<dc:date>2021-02-26T08:00:57-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02701-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02701-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Discovery and Functional Analysis of a Salicylic Acid Hydroxylase from Aspergillus niger [Biotechnology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Biotechnology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02701-20</prism:startingPage>
+<prism:endingPage>e02701-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02701-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02713-20?rss=1">
+<title><![CDATA[Long-Term Survival of Virulent Tularemia Pathogens outside a Host in Conditions That Mimic Natural Aquatic Environments [Public and Environmental Health Microbiology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02713-20?rss=1</link>
+<description><![CDATA[
+<p><I>Francisella tularensis</I>, the causative agent of the zoonotic disease tularemia, can cause seasonal outbreaks of acute febrile illness in humans with disease peaks in late summer to autumn. Interestingly, its mechanisms for environmental persistence between outbreaks are poorly understood. One hypothesis is that <I>F. tularensis</I> forms biofilms in aquatic environments. We utilized two fully virulent wild-type strains: FSC200 (<I>Francisella tularensis</I> subsp. <I>holarctica</I>) and Schu S4 (<I>Francisella tularensis</I> subsp. <I>tularensis</I>) and three control strains, the attenuated live vaccine strain (LVS; <I>F. tularensis</I> subsp. <I>holarctica</I>), a Schu S4 <I>wbtI</I> mutant that is documented to form biofilms, and the low-virulence strain U112 of the closely related species <I>Francisella novicida</I>. Strains were incubated in saline solution (0.9% NaCl) microcosms for 24 weeks at both 4&deg;C and 20&deg;C, whereupon viability and biofilm formation were measured. These temperatures were selected to approximate winter and summer temperatures of fresh water in Scandinavia, respectively. U112 and Schu S4 <I>wbtI</I> formed biofilms, but <I>F. tularensis</I> strains FSC200 and Schu S4 and the LVS did not. All strains exhibited prolonged viability at 4&deg;C compared to 20&deg;C. U112 and FSC200 displayed remarkable long-term persistence at 4&deg;C, with only 1- and 2-fold log reductions, respectively, of viable cells after 24 weeks. Schu S4 exhibited lower survival, yielding no viable cells by week 20. At 24 weeks, cells from FSC200, but not from Schu S4, were still fully virulent in mice. Taken together, these results demonstrate biofilm-independent, long-term survival of pathogenic <I>F. tularensis</I> subsp. <I>holarctica</I> in conditions that mimic overwinter survival in aquatic environments.</p>
+<p><b>IMPORTANCE</b> Tularemia, a disease caused by the environmental bacterium <I>Francisella tularensis</I>, is characterized by acute febrile illness. <I>F. tularensis</I> is highly infectious: as few as 10 organisms can cause human disease. Tularemia is not known to be spread from person to person. Rather, all human infections are independently acquired from the environment via the bite of blood-feeding arthropods, ingestion of infected food or water, or inhalation of aerosolized bacteria. Despite the environmental origins of human disease events, the ecological factors governing the long-term persistence of <I>F. tularensis</I> in nature between seasonal human outbreaks are poorly understood. The significance of our research is in identifying conditions that promote long-term survival of fully virulent <I>F. tularensis</I> outside a mammalian host or insect vector. These conditions are similar to those found in natural aquatic environments in winter and provide important new insights on how <I>F. tularensis</I> may persist long-term in the environment.</p>
+]]></description>
+<dc:creator><![CDATA[Golovliov, I., Ba&#x0308;ckman, S., Granberg, M., Salomonsson, E., Lundmark, E., Na&#x0308;slund, J., Busch, J. D., Birdsell, D., Sahl, J. W., Wagner, D. M., Johansson, A., Forsman, M., Thelaus, J.]]></dc:creator>
+<dc:date>2021-02-26T08:00:57-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02713-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02713-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Long-Term Survival of Virulent Tularemia Pathogens outside a Host in Conditions That Mimic Natural Aquatic Environments [Public and Environmental Health Microbiology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Public and Environmental Health Microbiology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02713-20</prism:startingPage>
+<prism:endingPage>e02713-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02713-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02740-20?rss=1">
+<title><![CDATA[Additional Role of Nicotinic Acid Hydroxylase for the Transformation of 3-Succinoyl-Pyridine by Pseudomonas sp. Strain JY-Q [Environmental Microbiology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02740-20?rss=1</link>
+<description><![CDATA[
+<p>Nicotine and nicotinic acid (NA) are both considered to be representatives of <I>N</I>-heterocyclic aromatic compounds, and their degradation pathways have been revealed in <I>Pseudomonas</I> species. However, the cooccurrence of these two pathways has only been observed in <I>Pseudomonas</I> sp. strain JY-Q. The nicotine pyrrolidine catabolism pathway of strain JY-Q consists of the functional modules Nic1, Spm, and Nic2. The module enzyme, 3-succinoylpyridine monooxygenase (Spm), catalyzes transformation of 3-succinoyl-pyridine (SP) to 6-hydroxy-3-succinoyl-pyridine (HSP). There exist two homologous but not identical Spm enzymes (namely, Spm1 and Spm2) in JY-Q. However, when <I>spm1</I> and <I>spm2</I> were both in-frame deleted, the mutant still grew well in basic salt medium (BSM) supplemented with nicotine as the sole carbon/nitrogen nutrition, suggesting that there exists an alternative pathway responsible for SP catabolism in JY-Q. NicAB, an enzyme accounting for NA hydroxylation, contains reorganized domains similar to those of Spm. When the JY-Q_<I>nicAB</I> gene (<I>nicAB</I> in strain JY-Q) was introduced into another <I>Pseudomonas</I> strain, one that is unable to degrade NA, the resultant recombinant strain exhibited the ability to transform SP to HSP, but without the ability to metabolize NA. Here, we conclude that NicAB in strain JY-Q exhibits an additional role in SP transformation. The other genes in the NA cluster, NicXDFE (Nic2 homolog), then also exhibit a role in subsequent HSP metabolism for energy yield. This finding also suggests that the cooccurrence of nicotine and NA degradation genes in strain JY-Q represents an advantage for JY-Q, making it more effective and flexible for the degradation of nicotine.</p>
+<p><b>IMPORTANCE</b> 3-Succinoyl-pyridine (SP) and 6-hydroxy-3-succinoyl-pyridine (HSP) are both valuable chemical precursors to produce insecticides and hypotensive agents. SP and HSP could be renewable through the nicotine microbial degradation pathway, in which 3-succinoylpyridine monooxygenases (Spm) account for transforming SP into HSP in <I>Pseudomonas</I> sp. strain JY-Q. However, when two homologous Spm genes (<I>spm1</I> and <I>spm2</I>) were knocked out, the mutant retained the ability to degrade nicotine. Thus, in addition to Spm, JY-Q should have an alternative pathway for SP conversion. In this research, we showed that JY-Q_NicAB was responsible for this alternative SP conversion. Both of the primary functions for nicotinic acid dehydrogenation and the additional function for SP metabolism were detected in a recombinant strain harboring JY-Q_NicAB. As a result, both nicotinic acid and nicotine degradation pathways in JY-Q contribute to its remarkable nicotine tolerance and nicotine degradation availability. These findings also provide one more metabolic engineering strategy for accumulation for value-added intermediates.</p>
+]]></description>
+<dc:creator><![CDATA[Li, J., Li, S., Xie, L., Chen, G., Shen, M., Pan, F., Shu, M., Yang, Y., Jiao, Y., Zhang, F., Linhardt, R. J., Zhong, W.]]></dc:creator>
+<dc:date>2021-02-26T08:00:57-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02740-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02740-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Additional Role of Nicotinic Acid Hydroxylase for the Transformation of 3-Succinoyl-Pyridine by Pseudomonas sp. Strain JY-Q [Environmental Microbiology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Environmental Microbiology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02740-20</prism:startingPage>
+<prism:endingPage>e02740-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02740-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02757-20?rss=1">
+<title><![CDATA[Modulating the Gut Microbiota of Humans by Dietary Intervention with Plant Glycans [Minireviews]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02757-20?rss=1</link>
+<description><![CDATA[
+<p>The human colon contains a community of microbial species, mostly bacteria, which is often referred to as the gut microbiota. The community is considered essential to human well-being by conferring additional energy-harvesting capacity, niche exclusion of pathogens, and molecular signaling activities that are integrated into human physiological processes. Plant polysaccharides (glycans, dietary fiber) are an important source of carbon and energy that supports the maintenance and functioning of the gut microbiota. Therefore, the daily quantity and quality of plant glycans consumed by the human host have the potential to influence health. Members of the gut microbiota differ in ability to utilize different types of plant glycans. Dietary interventions with specific glycans could modulate the microbiota, counteracting ecological perturbations that disrupt the intricate relationships between microbiota and host (dysbiosis). This review considers prospects and research options for modulation of the gut microbiota by the formulation of diets that, when consumed habitually, would correct dysbiosis by building diverse consortia that boost functional resilience. Traditional "prebiotics" favor bifidobacteria and lactobacilli, whereas dietary mixtures of plant glycans that are varied in chemical complexity would promote high-diversity microbiotas. It is concluded that research should aim at improving knowledge of bacterial consortia that, through shared nourishment, degrade and ferment plant glycans. The consortia may vary in composition from person to person, but functional outputs will be consistent in a given context because of metabolic redundancy among bacteria. Thus, the individuality of gut microbiotas could be encompassed, functional resilience encouraged, and correction of dysbiosis achieved.</p>
+]]></description>
+<dc:creator><![CDATA[Tannock, G. W.]]></dc:creator>
+<dc:date>2021-02-26T08:00:57-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02757-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02757-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Modulating the Gut Microbiota of Humans by Dietary Intervention with Plant Glycans [Minireviews]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Minireviews</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02757-20</prism:startingPage>
+<prism:endingPage>e02757-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02757-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02762-20?rss=1">
+<title><![CDATA[Harnessing CRISPR-Cas9 for Genome Editing in Streptococcus pneumoniae D39V [Methods]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02762-20?rss=1</link>
+<description><![CDATA[
+<p>CRISPR-Cas systems provide bacteria and archaea with adaptive immunity against viruses and plasmids by the detection and cleavage of invading foreign DNA. Modified versions of this system can be exploited as a biotechnological tool for precise genome editing at a targeted locus. Here, we developed a replicative plasmid that carries the CRISPR-Cas9 system for RNA-programmable genome editing by counterselection in the opportunistic human pathogen <I>Streptococcus pneumoniae</I>. Specifically, we demonstrate an approach for making targeted markerless gene knockouts and large genome deletions. After a precise double-stranded break (DSB) is introduced, the cells&rsquo; DNA repair mechanism of homology-directed repair (HDR) is exploited to select successful transformants. This is achieved through the transformation of a template DNA fragment that will recombine in the genome and eliminate recognition of the target of the Cas9 endonuclease. Next, the newly engineered strain can be easily cured from the plasmid, which is temperature sensitive for replication, by growing it at the nonpermissive temperature. This allows for consecutive rounds of genome editing. Using this system, we engineered a strain with three major virulence factors deleted. The approaches developed here could potentially be adapted for use with other Gram-positive bacteria.</p>
+<p><b>IMPORTANCE</b> <I>Streptococcus pneumoniae</I> (the pneumococcus) is an important opportunistic human pathogen killing more than 1 million people each year. Having the availability of a system capable of easy genome editing would significantly facilitate drug discovery and efforts to identify new vaccine candidates. Here, we introduced an easy-to-use system to perform multiple rounds of genome editing in the pneumococcus by putting the CRISPR-Cas9 system on a temperature-sensitive replicative plasmid. The approaches used here will advance genome editing projects in this important human pathogen.</p>
+]]></description>
+<dc:creator><![CDATA[Synefiaridou, D., Veening, J.-W.]]></dc:creator>
+<dc:date>2021-02-26T08:00:57-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02762-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02762-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Harnessing CRISPR-Cas9 for Genome Editing in Streptococcus pneumoniae D39V [Methods]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Methods</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02762-20</prism:startingPage>
+<prism:endingPage>e02762-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02762-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02798-20?rss=1">
+<title><![CDATA[LysR Family Regulator LttR Controls Production of Conjugated Linoleic Acid in Lactobacillus plantarum by Directly Activating the cla Operon [Food Microbiology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02798-20?rss=1</link>
+<description><![CDATA[
+<p>Conjugated linoleic acids (CLAs) have attracted more attention as functional lipids due to their potential physiological activities, including anticancer, anti-inflammatory, anti-cardiovascular disease, and antidiabetes activities. Microbiological synthesis of CLA has become a compelling method due to its high isomer selectivity and convenient separation and purification processes. In <I>Lactobacillus plantarum</I>, the generation of CLA from linoleic acids (LAs) requires the combination of CLA oleate hydratase (CLA-HY), CLA short-chain dehydrogenase (CLA-DH), and CLA acetoacetate decarboxylase (CLA-DC), which are separately encoded by <I>cla</I>-hy, <I>cla</I>-dh, and <I>cla</I>-dc. However, the regulatory mechanisms of CLA synthesis remain unknown. In this study, we found that a LysR family transcriptional regulator, LTTR, directly bound to the promoter region of the <I>cla</I> operon and activated the transcription of <I>cla</I>-dh and <I>cla</I>-dc. The binding motif was also predicted by bioinformatics analysis and verified by electrophoretic mobility shift assays (EMSAs) and DNase I footprinting assays. The <I>lttR</I> overexpression strain showed a 5-fold increase in CLA production. Moreover, we uncovered that the transcription of <I>lttR</I> is activated by LA. These results indicate that LttR senses LA and promotes CLA production by activating the transcription of <I>cla</I>-dh and <I>cla</I>-dc. This study reveals a new regulatory mechanism in CLA biotransformation and provides a new potential metabolic engineering strategy to increase the yield of CLA.</p>
+<p><b>IMPORTANCE</b> Our work has identified a novel transcriptional regulator, LTTR, that regulates the production of CLA by activating the transcription of <I>cla</I>-dh and <I>cla</I>-dc, essential genes participating in CLA synthesis in <I>Lactobacillus plantarum</I>. This study provides insight into the regulatory mechanism of CLA synthesis and broadens our understanding of the synthesis and regulatory mechanisms of the biosynthesis of CLA.</p>
+]]></description>
+<dc:creator><![CDATA[Liu, X.-X., Xiong, Z.-Q., Wang, G.-Q., Wang, L.-F., Xia, Y.-J., Song, X., Ai, L.-Z.]]></dc:creator>
+<dc:date>2021-02-26T08:00:57-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02798-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02798-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[LysR Family Regulator LttR Controls Production of Conjugated Linoleic Acid in Lactobacillus plantarum by Directly Activating the cla Operon [Food Microbiology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Food Microbiology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02798-20</prism:startingPage>
+<prism:endingPage>e02798-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02798-20</prism:object>
+</item>
+<item rdf:about="http://aem.asm.org/cgi/content/short/87/6/e02957-20?rss=1">
+<title><![CDATA[Generation of Lactose- and Protease-Positive Probiotic Lacticaseibacillus rhamnosus GG by Conjugation with Lactococcus lactis NCDO 712 [Food Microbiology]]]></title>
+<link>http://aem.asm.org/cgi/content/short/87/6/e02957-20?rss=1</link>
+<description><![CDATA[
+<p><I>Lacticaseibacillus rhamnosus</I> GG (LGG) is the most studied probiotic bacterium in the world. It is used as a probiotic supplement in many foods, including various dairy products. However, LGG grows poorly in milk, as it neither metabolizes the main milk carbohydrate lactose nor degrades the major milk protein casein effectively. In this study, we made <I>L. rhamnosus</I> GG lactose and protease positive by conjugation with the dairy <I>Lactococcus lactis</I> strain NCDO 712 carrying the lactose-protease plasmid pLP712. A lactose-hydrolyzing transconjugant colony was obtained on agar containing lactose as the sole source of carbohydrates. By microscopic analysis and PCR with LGG- and pLP712-specific primers, the transconjugant was confirmed to have originated from LGG and to carry the plasmid pLP712. The transconjugant was named <I>L. rhamnosus</I> LAB49. The isolation of plasmids revealed that not only pLP712 but also other plasmids had been transferred from <I>L. lactis</I> into LGG during conjugation. With plasmid-specific PCR primers, four additional lactococcal plasmids were detected in LAB49. Proteolytic activity assay and SDS-PAGE analysis verified that <I>L. rhamnosus</I> LAB49 effectively degraded &beta;-casein. In contrast to its parental strain, LGG, the ability of LAB49 to metabolize lactose and degrade casein enabled strong and fast growth in milk. As strains with new properties made by conjugation are not regarded as genetically modified organisms (GMOs), <I>L. rhamnosus</I> LAB49 could be beneficial in dairy fermentations as a probiotic starter culture.</p>
+<p><b>IMPORTANCE</b> Probiotic strain <I>Lacticaseibacillus rhamnosus</I> GG (LGG) is widely sold on the market as a probiotic or added as a supplement in dairy foods because of its benefits in human health. However, due to the deficiency of lactose and casein utilization, LGG does not grow well in milk. On the other hand, lactose intolerance and cow&rsquo;s milk protein allergy are the two major problems related to milk consumption. One option to help with these two conditions is the use of probiotic or lactose- and casein-hydrolyzing bacteria in dairy products. The purpose of this study was to equip LGG with lactose/casein-hydrolyzing ability by bacterial conjugation. As a result, we generated a non-GMO LGG derivative with improved properties and better growth in milk.</p>
+]]></description>
+<dc:creator><![CDATA[Hussain, N., Li, R., Takala, T. M., Tariq, M., Zaidi, A. H., Saris, P. E. J.]]></dc:creator>
+<dc:date>2021-02-26T08:00:57-08:00</dc:date>
+<dc:identifier>info:doi/10.1128/AEM.02957-20</dc:identifier>
+<dc:identifier>hwp:master-id:aem;AEM.02957-20</dc:identifier>
+<dc:publisher>American Society for Microbiology</dc:publisher>
+<dc:title><![CDATA[Generation of Lactose- and Protease-Positive Probiotic Lacticaseibacillus rhamnosus GG by Conjugation with Lactococcus lactis NCDO 712 [Food Microbiology]]]></dc:title>
+<prism:publicationDate>2021-02-26</prism:publicationDate>
+<prism:section>Food Microbiology</prism:section>
+<prism:volume>87</prism:volume>
+<prism:number>6</prism:number>
+<prism:startingPage>e02957-20</prism:startingPage>
+<prism:endingPage>e02957-20</prism:endingPage>
+<prism:object>hw_mjid:aem;87/6/e02957-20</prism:object>
+</item>
+</rdf:RDF>
