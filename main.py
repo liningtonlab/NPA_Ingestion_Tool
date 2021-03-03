@@ -6,6 +6,7 @@ import sqlite3
 def rss_feed_2_doi():
     """ Open up file, loop through each line in the file to get each url to parse RSS feed and Append list of DOIs to
     list for each journal. Saves a raw XML file for archive of RSS feed. Lastly, added new DOI's into SQLite3 database.
+        :return: Count of added DOIs
                         """
     with open("rss_feed_with_doi.txt", "r") as my_file:
         '''doi_list = [npa_ingestion_tool.parse_rss(line, str(npa_ingestion_tool.no_newline(line) + "_" + datetime.now(
@@ -22,18 +23,24 @@ def rss_feed_2_doi():
     # SQLite3 Database entry
     connection = npa_ingestion_tool.sqlite3_db_initialization("npa_database_feb_22_current.db")
     npa_ingestion_tool.sqlite3_table_creation(connection)
-
+    doi_insert_count = 0
     for journal in doi_list:
         archive_filename = journal[0]
         for doi in journal[1]:
-            npa_ingestion_tool.sqlite3_insertion_only_doi(connection, doi, archive_filename)
-
+            doi_insert_success = npa_ingestion_tool.sqlite3_insertion_only_doi(connection, doi, archive_filename)
+            if doi_insert_success:
+                doi_insert_count += 1
     # Database Viewing; In terminal type: sqlite3 + database name
     # Then, SELECT * from DOIs;
     connection.commit()
+    return doi_insert_count
 
 
 def rss_feed_2_doi_elsevier():
+    """ Open up file, loop through each line in the file to get each url to parse RSS feed for article title to search CrossRef for DOI; Append list of DOIs to
+    list for each journal. Saves a raw XML file for archive of RSS feed. Lastly, added new DOI's into SQLite3 database.
+            :return: Count of added DOIs
+                        """
     with open("rss_feed_no_doi.txt", "r") as my_file:
         doi_lists = []
         for line in my_file:
@@ -46,14 +53,17 @@ def rss_feed_2_doi_elsevier():
     # SQLite3 Database entry
     connection = npa_ingestion_tool.sqlite3_db_initialization("npa_database_feb_22_current.db")
     npa_ingestion_tool.sqlite3_table_creation(connection)
-
+    doi_insert_count_2 = 0
     for journal in doi_lists:
         archive_filename = journal[0]
         for doi in journal[1]:
-            npa_ingestion_tool.sqlite3_insertion_only_doi(connection, doi, archive_filename)
+            doi_insert_success_2 = npa_ingestion_tool.sqlite3_insertion_only_doi(connection, doi, archive_filename)
+            if doi_insert_success_2:
+                doi_insert_count_2 += 1
             #TODO: Also add titles
             #npa_ingestion_tool.sqlite3_insertion_no_abstract(connection, doi, archive_filename)
     connection.commit()
+    return doi_insert_count_2
 
 
 def database_query_pubmed():
@@ -109,7 +119,23 @@ def database_query_pubmed():
     # if len of return 2, only title; if 3 both title/abstract. If 1, nothing parsed
 
 
+def database_stats_query():
+    """ Query database for stats to return.
+                :return: Count total DOI's, How many with titles and how many with both title/abstract
+                            """
+    conn = npa_ingestion_tool.sqlite3_db_initialization("npa_database_feb_22_current.db")
+    curse = conn.cursor()
+    total_doi_number = curse.execute("SELECT COUNT(*) FROM DOIs")
+    doi_with_title = curse.execute("SELECT COUNT(*) FROM DOIs WHERE Title is NOT NULL")
+    doi_with_abstract_title = curse.execute("SELECT COUNT(*) FROM DOIs WHERE Abstract is NOT NULL")
+    # TODO: Fix to return integers, not Cursor objects
+    return total_doi_number, doi_with_title, doi_with_abstract_title
+
+
 if __name__ == "__main__":
-    rss_feed_2_doi()
-    rss_feed_2_doi_elsevier()
+    first = rss_feed_2_doi()
+    print(first)
+    second = rss_feed_2_doi_elsevier()
+    print(second)
     database_query_pubmed()
+    print(database_stats_query())

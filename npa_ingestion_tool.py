@@ -21,6 +21,11 @@ from Levenshtein import ratio
 
 
 def cross_ref_query_title(title):
+    """ Open up file, loop through each line in the file to get each url to parse RSS feed for article title to search CrossRef for DOI; Append list of DOIs to
+        list for each journal. Saves a raw XML file for archive of RSS feed. Lastly, added new DOI's into SQLite3 database.
+                :param: string of title
+                :return: True/False for success; if success has title, DOI and similarity match. Otherwise, returns exception.
+                            """
     EMPTY_RESULT = {
     "crossref_title": "",
     "similarity": 0,
@@ -49,7 +54,10 @@ def cross_ref_query_title(title):
             }
             if most_similar["similarity"] < result["similarity"]:
                 most_similar = result
-        return {"success": True, "result": most_similar}
+        if most_similar["similarity"] < 0.75:
+            return {"success": False, "result": most_similar, "exception": "Low Similarity"}
+        else:
+            return {"success": True, "result": most_similar}
     except HTTPError as httpe:
         return {"success": False, "result": EMPTY_RESULT, "exception": httpe}
 
@@ -105,7 +113,7 @@ def get_xml(url, archive_filename):
     else:
         with open(path, "r", encoding='utf-8') as f:
             xml = f.read()
-        xml, archive_filename
+        return xml, archive_filename
 
     # Archiving of RSS feed xml file to output directory
     '''path = 'C:/Users/maras/Desktop/NPA_Ingestion_Tool/raw_xml_archive/' + archive_filename
@@ -145,9 +153,10 @@ def parse_rss(string_input):
 
     return unique_doi_list
 
+
 def parse_rss_no_doi(string_input):
     """ parse a xml file retrieved with requests using feedparser to the gather list of DOIs from the
-                specified xml
+                specified xml, by searching RSS feeds for titles to query on CrossRef for DOIs.
             :param string_input: raw string of text from requests.get(url)
             :return: list of unique DOIs
             """
@@ -172,7 +181,11 @@ def parse_rss_no_doi(string_input):
         title_string = ''.join(unique_title)
         crossref_query = cross_ref_query_title(title_string)
         found_doi = crossref_query["result"]["doi"]
-        crossref_doi_list.append(found_doi)
+        if crossref_query["success"]:
+            crossref_doi_list.append(found_doi)
+        elif not crossref_query["success"]:
+            print((key["title"], crossref_query["result"]["crossref_title"],crossref_query["exception"]))
+            continue
 
     # Remove duplicate DOIs from list
     unique_doi_list = list(set(crossref_doi_list))
@@ -238,14 +251,16 @@ def sqlite3_insertion_only_doi(connection_object, doi, filename):
             :return: None
             """
     # Data insertion into the database
+
     try:
         with connection_object:
             connection_object.execute("INSERT INTO DOIs(Doi, PMID, Title, Abstract, Source, Filename, Created) VALUES(?, NULL, NULL, NULL, NULL, ?, ?)",
                                       (doi, filename, datetime.now()))
             print("Successful DOI entry recorded!")
+            return True
     except sqlite3.IntegrityError:
         print("Warning: Duplicate entry detected!")
-        pass
+        return False
 
 
 # Archive parsing, not yet used

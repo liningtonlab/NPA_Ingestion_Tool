@@ -1,0 +1,1033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     version="2.0">
+   <channel>
+      <title>Wiley: Lipids: Table of Contents</title>
+      <link>https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R</link>
+      <description>Table of Contents for Lipids. List of articles from both the latest and EarlyView issues.</description>
+      <language>en-US</language>
+      <copyright>© American Oil Chemists' Society</copyright>
+      <managingEditor>wileyonlinelibrary@wiley.com (American Oil Chemists Society)</managingEditor>
+      <pubDate>Mon, 01 Mar 2021 18:13:09 +0000</pubDate>
+      <lastBuildDate>Mon, 01 Mar 2021 18:13:09 +0000</lastBuildDate>
+      <generator>Atypon® Literatum™</generator>
+      <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+      <ttl>10080</ttl>
+      <dc:title>Wiley: Lipids: Table of Contents</dc:title>
+      <dc:publisher>Wiley</dc:publisher>
+      <prism:publicationName>Lipids</prism:publicationName>
+      <atom:link href="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R"
+                 rel="self"
+                 type="application/atom+xml"/>
+      <image>
+         <title>Wiley: Lipids: Table of Contents</title>
+         <url>https://aocs.onlinelibrary.wiley.com/pb-assets/journal-banners/15589307.jpg</url>
+         <link>https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R</link>
+      </image>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12301?af=R</link>
+         <pubDate>Wed, 24 Feb 2021 00:29:51 -0800</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1002/lipd.12301</guid>
+         <title>Diacylglycerol Kinase η Activity in Cells Using Protein Myristoylation and Cellular Phosphatidic Acid Sensor</title>
+         <description>Lipids, EarlyView. </description>
+         <dc:description>
+Abstract
+Diacylglycerol kinase (DGK) phosphorylates diacylglycerol to produce phosphatidic acid (PtdOH) and regulates the balance between two lipid second messengers: diacylglycerol and PtdOH. Several lines of evidence suggest that the η isozyme of DGK is involved in the pathogenesis of bipolar disorder. However, the detailed molecular mechanisms regulating the pathophysiological functions remain unclear. One reason is that it is difficult to detect the cellular activity of DGKη. To overcome this difficulty, we utilized protein myristoylation and a cellular PtdOH sensor, the N‐terminal region of α‐synuclein (α‐Syn‐N). Although DGKη expressed in COS‐7 cells was broadly distributed in the cytoplasm, myristoylated (Myr)‐AcGFP‐DGKη and Myr‐AcGFP‐DGKη‐KD (inactive (kinase‐dead) mutant) were substantially localized in the plasma membrane. Moreover, DsRed monomer‐α‐Syn‐N significantly colocalized with Myr‐AcGFP‐DGKη but not Myr‐AcGFP‐DGKη‐KD at the plasma membrane. When COS‐7 cells were osmotically shocked, all DGKη constructs were exclusively translocated to osmotic shock‐responsive granules (OSRG). DsRed monomer‐α‐Syn‐N markedly colocalized with only Myr‐AcGFP‐DGKη at OSRG and exhibited a higher signal/background ratio (3.4) than Myr‐AcGFP‐DGKη at the plasma membrane in unstimulated COS‐7 cells (2.5), indicating that α‐Syn‐N more effectively detects Myr‐AcGFP‐DGKη activity in OSRG. Therefore, these results demonstrated that the combination of myristoylation and the PtdOH sensor effectively detects DGKη activity in cells and that this method is convenient to examine the molecular functions of DGKη. Moreover, this method will be useful for the development of drugs targeting DGKη. Furthermore, the combination of myristoylation (intensive accumulation in membranes) and α‐Syn‐N can be applicable to assays for various cytosolic PtdOH‐generating enzymes.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Diacylglycerol kinase (DGK) phosphorylates diacylglycerol to produce phosphatidic acid (PtdOH) and regulates the balance between two lipid second messengers: diacylglycerol and PtdOH. Several lines of evidence suggest that the η isozyme of DGK is involved in the pathogenesis of bipolar disorder. However, the detailed molecular mechanisms regulating the pathophysiological functions remain unclear. One reason is that it is difficult to detect the cellular activity of DGKη. To overcome this difficulty, we utilized protein myristoylation and a cellular PtdOH sensor, the N‐terminal region of α‐synuclein (α‐Syn‐N). Although DGKη expressed in COS‐7 cells was broadly distributed in the cytoplasm, myristoylated (Myr)‐AcGFP‐DGKη and Myr‐AcGFP‐DGKη‐KD (inactive (kinase‐dead) mutant) were substantially localized in the plasma membrane. Moreover, DsRed monomer‐α‐Syn‐N significantly colocalized with Myr‐AcGFP‐DGKη but not Myr‐AcGFP‐DGKη‐KD at the plasma membrane. When COS‐7 cells were osmotically shocked, all DGKη constructs were exclusively translocated to osmotic shock‐responsive granules (OSRG). DsRed monomer‐α‐Syn‐N markedly colocalized with only Myr‐AcGFP‐DGKη at OSRG and exhibited a higher signal/background ratio (3.4) than Myr‐AcGFP‐DGKη at the plasma membrane in unstimulated COS‐7 cells (2.5), indicating that α‐Syn‐N more effectively detects Myr‐AcGFP‐DGKη activity in OSRG. Therefore, these results demonstrated that the combination of myristoylation and the PtdOH sensor effectively detects DGKη activity in cells and that this method is convenient to examine the molecular functions of DGKη. Moreover, this method will be useful for the development of drugs targeting DGKη. Furthermore, the combination of myristoylation (intensive accumulation in membranes) and α‐Syn‐N can be applicable to assays for various cytosolic PtdOH‐generating enzymes.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Ayuka Ishizaki, 
+Chiaki Murakami, 
+Haruka Yamada, 
+Fumio Sakane
+</dc:creator>
+         <category>METHODS</category>
+         <dc:title>Diacylglycerol Kinase η Activity in Cells Using Protein Myristoylation and Cellular Phosphatidic Acid Sensor</dc:title>
+         <dc:identifier>10.1002/lipd.12301</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12301</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12301?af=R</prism:url>
+         <prism:section>METHODS</prism:section>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12296?af=R</link>
+         <pubDate>Sun, 21 Feb 2021 09:14:16 -0800</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1002/lipd.12296</guid>
+         <title>Comparison of the Effects of Statins on A549 Nonsmall‐Cell Lung Cancer Cell Line Lipids Using Fourier Transform Infrared Spectroscopy: Rosuvastatin Stands Out</title>
+         <description>Lipids, EarlyView. </description>
+         <dc:description>
+Abstract
+Statins are commonly prescribed antilipidemic and anticholesterol class of drugs. In addition to their major role, they have been found to have anticancer effects on in vitro, animal and clinical studies. The aim of this study was to investigate the effects of six different statins (rosuvastatin, pravastatin, simvastatin, lovastatin, fluvastatin, and atorvastatin) on A549 cancer cells lipids by Fourier transform infrared (FTIR) spectroscopy. Proliferation tests were carried out to detect the half‐maximal inhibitory concentrations (IC50) of each statin on A549 cells. The IC50 values were 50 μM for simvastatin, 150 μM for atorvastatin and pravastatin, and 170 μM for fluvastatin, 200 μM for rosuvastatin and lovastatin on A549 cells. No correlation was found between the antiproliferative effects of the statins and lipid‐lowering effect. The cells were treated with IC5, IC10, and IC50 values of each statins concentration and lipid extracts were compared using FTIR spectroscopy. The results indicated that different statins had different effects on the lipid content of A549 cells. The FTIR spectra of the lipid exctracts of statin‐treated A549 cells indicated that the value of hydrocarbon chain length, unsaturation index, oxidative stress level, and phospholipid containing lipids increased except for rosuvastatin‐treated A549 cells. In addition, rosuvastatin significantly lowered cholesterol ester levels. In conclusion, the contrasting effects of rosuvastatin should be further investigated.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Statins are commonly prescribed antilipidemic and anticholesterol class of drugs. In addition to their major role, they have been found to have anticancer effects on &lt;i&gt;in vitro&lt;/i&gt;, animal and clinical studies. The aim of this study was to investigate the effects of six different statins (rosuvastatin, pravastatin, simvastatin, lovastatin, fluvastatin, and atorvastatin) on A549 cancer cells lipids by Fourier transform infrared (FTIR) spectroscopy. Proliferation tests were carried out to detect the half‐maximal inhibitory concentrations (IC&lt;sub&gt;50&lt;/sub&gt;) of each statin on A549 cells. The IC&lt;sub&gt;50&lt;/sub&gt; values were 50 μM for simvastatin, 150 μM for atorvastatin and pravastatin, and 170 μM for fluvastatin, 200 μM for rosuvastatin and lovastatin on A549 cells. No correlation was found between the antiproliferative effects of the statins and lipid‐lowering effect. The cells were treated with IC&lt;sub&gt;5&lt;/sub&gt;, IC&lt;sub&gt;10&lt;/sub&gt;, and IC&lt;sub&gt;50&lt;/sub&gt; values of each statins concentration and lipid extracts were compared using FTIR spectroscopy. The results indicated that different statins had different effects on the lipid content of A549 cells. The FTIR spectra of the lipid exctracts of statin‐treated A549 cells indicated that the value of hydrocarbon chain length, unsaturation index, oxidative stress level, and phospholipid containing lipids increased except for rosuvastatin‐treated A549 cells. In addition, rosuvastatin significantly lowered cholesterol ester levels. In conclusion, the contrasting effects of rosuvastatin should be further investigated.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Hatice Nurdan Aksoy, 
+Cagatay Ceylan
+</dc:creator>
+         <category>ORIGINAL ARTICLE</category>
+         <dc:title>Comparison of the Effects of Statins on A549 Nonsmall‐Cell Lung Cancer Cell Line Lipids Using Fourier Transform Infrared Spectroscopy: Rosuvastatin Stands Out</dc:title>
+         <dc:identifier>10.1002/lipd.12296</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12296</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12296?af=R</prism:url>
+         <prism:section>ORIGINAL ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12300?af=R</link>
+         <pubDate>Sat, 20 Feb 2021 02:59:36 -0800</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1002/lipd.12300</guid>
+         <title>Assessment of the effects of sex and harvesting season on lipid and fatty acid composition of Sparidae species</title>
+         <description>Lipids, EarlyView. </description>
+         <dc:description>
+Abstract
+In the present study, the lipid amount and fatty acid profile of different Sparidae species, including gilthead seabream, juvenile gilthead seabream, annular seabream, white seabream, common two‐banded seabream were evaluated. Fish were seasonally collected from Köyceğiz Lagoon (Muğla, South Western Turkey) from June 2018 to June 2019 and after collection, the sex of each specimen was recorded. According to the results of the study, the highest lipid amount was found in female annular seabream individuals as 8.09 ± 0.78% in November and the lowest lipid amount was found in male juvenile gilthead seabream as 0.98 ± 0.12% in March. Palmitic acid and oleic acid were determined as the most abundant SFA and MUFA for all species, respectively. The highest value of DHA, which was the predominant PUFA was assessed as 15.33 ± 0.26% in female white seabream in November whereas the lowest value (3.83 ± 0.36%) was found in gilthead seabream in December. The n‐6/n‐3 ratio was determined between 0.27 ± 0.00 (for male common two‐banded seabream in July)‐1.20 ± 0.03 (for male gilthead seabream in December) and it followed within the range of healthy values for all species. As a conclusion, it was found that values of lipid and fatty acid profiles among the examined Sparidae species vary among the season of collection. The results of the study gave the seasonal nutritional values of four economically‐important Sparidae species that being rich in healthy polyunsaturated fatty acids such as DHA, have beneficial in human nutrition.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In the present study, the lipid amount and fatty acid profile of different Sparidae species, including gilthead seabream, juvenile gilthead seabream, annular seabream, white seabream, common two‐banded seabream were evaluated. Fish were seasonally collected from Köyceğiz Lagoon (Muğla, South Western Turkey) from June 2018 to June 2019 and after collection, the sex of each specimen was recorded. According to the results of the study, the highest lipid amount was found in female annular seabream individuals as 8.09 ± 0.78% in November and the lowest lipid amount was found in male juvenile gilthead seabream as 0.98 ± 0.12% in March. Palmitic acid and oleic acid were determined as the most abundant SFA and MUFA for all species, respectively. The highest value of DHA, which was the predominant PUFA was assessed as 15.33 ± 0.26% in female white seabream in November whereas the lowest value (3.83 ± 0.36%) was found in gilthead seabream in December. The n‐6/n‐3 ratio was determined between 0.27 ± 0.00 (for male common two‐banded seabream in July)‐1.20 ± 0.03 (for male gilthead seabream in December) and it followed within the range of healthy values for all species. As a conclusion, it was found that values of lipid and fatty acid profiles among the examined Sparidae species vary among the season of collection. The results of the study gave the seasonal nutritional values of four economically‐important Sparidae species that being rich in healthy polyunsaturated fatty acids such as DHA, have beneficial in human nutrition.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Cansu Metin, 
+Yunus Alparslan, 
+Hatice H. Yapıcı, 
+Zerrin Ekşi, 
+Taçnur Baygar
+</dc:creator>
+         <category>ORIGINAL ARTICLE</category>
+         <dc:title>Assessment of the effects of sex and harvesting season on lipid and fatty acid composition of Sparidae species</dc:title>
+         <dc:identifier>10.1002/lipd.12300</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12300</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12300?af=R</prism:url>
+         <prism:section>ORIGINAL ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12298?af=R</link>
+         <pubDate>Wed, 17 Feb 2021 10:23:55 -0800</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1002/lipd.12298</guid>
+         <title>Consumption of High‐Oleic Soybean Oil Improves Lipid and Lipoprotein Profile in Humans Compared to a Palm Oil Blend: A Randomized Controlled Trial</title>
+         <description>Lipids, EarlyView. </description>
+         <dc:description>
+Abstract
+Partially hydrogenated oils (PHO) have been removed from the food supply due to adverse effects on risk for coronary heart disease (CHD). High‐oleic soybean oils (HOSBO) are alternatives that provide functionality for different food applications. The objective of this study was to determine how consumption of diets containing HOSBO compared to other alternative oils, with similar functional properties, modifies LDL cholesterol (LDLc) and other risk factors and biomarkers of CHD. A triple‐blind, crossover, randomized controlled trial was conducted in humans (n = 60) with four highly‐controlled diets containing (1) HOSBO, (2) 80:20 blend of HOSBO and fully hydrogenated soybean oil (HOSBO+FHSBO), (3) soybean oil (SBO), and (4) 50:50 blend of palm oil and palm kernel oil (PO + PKO). Before and after 29 days of feeding, lipids/lipoproteins, blood pressure, body composition, and markers of inflammation, oxidation, and hemostasis were measured. LDLc, apolipoprotein B (apoB), NonHDL‐cholesterol (HDLc), ratios of total cholesterol (TC)‐to‐HDLc and LDLc‐to‐HDL cholesterol, and LDL particle number and small LDL particles concentration were lower after HOSBO and HOSBO+FHSBO compared to PO (specific comparisons p &lt; 0.05). Other than TC:HDL, there were no differences in lipid/lipoprotein markers when comparing HOSBO+FHSBO with HOSBO. LDLc and apoB were higher after HOSBO compared to SBO (p &lt; 0.05). PO + PKO increased HDLc (p &lt; 0.001) and apolipoprotein AI (p &lt; 0.03) compared to HOSBO and HOSBO+FHSBO. With the exception of lipid hydroperoxides, dietary treatments did not affect other CHD markers. HOSBO, and blends thereof, is a PHO replacement that results in more favorable lipid/lipoprotein profiles compared to PO + PKO (an alternative fat with similar functional properties).
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Partially hydrogenated oils (PHO) have been removed from the food supply due to adverse effects on risk for coronary heart disease (CHD). High‐oleic soybean oils (HOSBO) are alternatives that provide functionality for different food applications. The objective of this study was to determine how consumption of diets containing HOSBO compared to other alternative oils, with similar functional properties, modifies LDL cholesterol (LDLc) and other risk factors and biomarkers of CHD. A triple‐blind, crossover, randomized controlled trial was conducted in humans (n = 60) with four highly‐controlled diets containing (1) HOSBO, (2) 80:20 blend of HOSBO and fully hydrogenated soybean oil (HOSBO+FHSBO), (3) soybean oil (SBO), and (4) 50:50 blend of palm oil and palm kernel oil (PO + PKO). Before and after 29 days of feeding, lipids/lipoproteins, blood pressure, body composition, and markers of inflammation, oxidation, and hemostasis were measured. LDLc, apolipoprotein B (apoB), NonHDL‐cholesterol (HDLc), ratios of total cholesterol (TC)‐to‐HDLc and LDLc‐to‐HDL cholesterol, and LDL particle number and small LDL particles concentration were lower after HOSBO and HOSBO+FHSBO compared to PO (specific comparisons &lt;i&gt;p&lt;/i&gt; &amp;lt; 0.05). Other than TC:HDL, there were no differences in lipid/lipoprotein markers when comparing HOSBO+FHSBO with HOSBO. LDLc and apoB were higher after HOSBO compared to SBO (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.05). PO + PKO increased HDLc (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001) and apolipoprotein AI (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.03) compared to HOSBO and HOSBO+FHSBO. With the exception of lipid hydroperoxides, dietary treatments did not affect other CHD markers. HOSBO, and blends thereof, is a PHO replacement that results in more favorable lipid/lipoprotein profiles compared to PO + PKO (an alternative fat with similar functional properties).&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+David J. Baer, 
+Theresa Henderson, 
+Sarah K. Gebauer
+</dc:creator>
+         <category>ORIGINAL ARTICLE</category>
+         <dc:title>Consumption of High‐Oleic Soybean Oil Improves Lipid and Lipoprotein Profile in Humans Compared to a Palm Oil Blend: A Randomized Controlled Trial</dc:title>
+         <dc:identifier>10.1002/lipd.12298</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12298</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12298?af=R</prism:url>
+         <prism:section>ORIGINAL ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12299?af=R</link>
+         <pubDate>Sat, 06 Feb 2021 00:15:40 -0800</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1002/lipd.12299</guid>
+         <title>Production of C6–C14 Medium‐Chain Fatty Acids in Seeds and Leaves via Overexpression of Single Hotdog‐Fold Acyl‐Lipid Thioesterases</title>
+         <description>Lipids, EarlyView. </description>
+         <dc:description>
+Abstract
+ACYL‐LIPID THIOESTERASES (ALT) are a type of plant acyl–acyl carrier protein thioesterase that generate a wide range of medium‐chain fatty acids and methylketone (MK) precursors when expressed heterologously in Escherichia coli. While this makes ALT‐type thioesterases attractive as metabolic engineering targets to increase production of high‐value medium‐chain fatty acids and MKs in plant systems, the behavior of ALT enzymes in planta was not well understood before this study. To profile the substrate specificities of ALT‐type thioesterases in different plant tissue types, AtALT1‐4 from Arabidopsis thaliana, which have widely varied chain length and oxidation state preferences in E. coli, were overexpressed in Arabidopsis seeds, Camelina sativa seeds, and Nicotiana benthamiana leaves. Seed‐specific overexpression of ALT enzymes led to medium‐chain fatty acid accumulation in Arabidopsis and Camelina seed triacylglycerols, and transient overexpression in N. benthamiana demonstrated that the substrate preferences of ALT‐type thioesterases in planta generally agree with those previously determined in E. coli. AtALT1 and AtALT4 overexpression in leaves and seeds resulted in the accumulation of 12–14 carbon‐length fatty acids and 6–8 carbon‐length fatty acids, respectively. While it was difficult to completely profile the products of ALT‐type thioesterases that generate MK precursors (i.e. β‐keto fatty acids), our results nonetheless demonstrate that ALT enzymes are catalytically diverse in planta. The knowledge gained from this study is a significant step towards being able to use ALT‐type thioesterases as metabolic engineering tools to modify the fatty acid profiles of oilseed crops, other plants, and microorganisms.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;ACYL‐LIPID THIOESTERASES (ALT) are a type of plant acyl–acyl carrier protein thioesterase that generate a wide range of medium‐chain fatty acids and methylketone (MK) precursors when expressed heterologously in &lt;i&gt;Escherichia coli&lt;/i&gt;. While this makes ALT‐type thioesterases attractive as metabolic engineering targets to increase production of high‐value medium‐chain fatty acids and MKs in plant systems, the behavior of ALT enzymes &lt;i&gt;in planta&lt;/i&gt; was not well understood before this study. To profile the substrate specificities of ALT‐type thioesterases in different plant tissue types, &lt;i&gt;AtALT1‐4&lt;/i&gt; from &lt;i&gt;Arabidopsis thaliana&lt;/i&gt;, which have widely varied chain length and oxidation state preferences in &lt;i&gt;E. coli&lt;/i&gt;, were overexpressed in &lt;i&gt;Arabidopsis&lt;/i&gt; seeds, &lt;i&gt;Camelina sativa&lt;/i&gt; seeds, and &lt;i&gt;Nicotiana benthamiana&lt;/i&gt; leaves. Seed‐specific overexpression of ALT enzymes led to medium‐chain fatty acid accumulation in &lt;i&gt;Arabidopsis&lt;/i&gt; and &lt;i&gt;Camelina&lt;/i&gt; seed triacylglycerols, and transient overexpression in &lt;i&gt;N. benthamiana&lt;/i&gt; demonstrated that the substrate preferences of ALT‐type thioesterases &lt;i&gt;in planta&lt;/i&gt; generally agree with those previously determined in &lt;i&gt;E. coli&lt;/i&gt;. &lt;i&gt;AtALT1&lt;/i&gt; and &lt;i&gt;AtALT4&lt;/i&gt; overexpression in leaves and seeds resulted in the accumulation of 12–14 carbon‐length fatty acids and 6–8 carbon‐length fatty acids, respectively. While it was difficult to completely profile the products of ALT‐type thioesterases that generate MK precursors (&lt;i&gt;i.e&lt;/i&gt;. β‐keto fatty acids), our results nonetheless demonstrate that ALT enzymes are catalytically diverse &lt;i&gt;in planta&lt;/i&gt;. The knowledge gained from this study is a significant step towards being able to use ALT‐type thioesterases as metabolic engineering tools to modify the fatty acid profiles of oilseed crops, other plants, and microorganisms.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Rebecca S. Kalinger, 
+Danielle Williams, 
+Ali Ahmadi Pirshahid, 
+Ian P. Pulsifer, 
+Owen Rowland
+</dc:creator>
+         <category>ORIGINAL ARTICLE</category>
+         <dc:title>Production of C6–C14 Medium‐Chain Fatty Acids in Seeds and Leaves via Overexpression of Single Hotdog‐Fold Acyl‐Lipid Thioesterases</dc:title>
+         <dc:identifier>10.1002/lipd.12299</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12299</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12299?af=R</prism:url>
+         <prism:section>ORIGINAL ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12271?af=R</link>
+         <pubDate>Mon, 11 Jan 2021 20:13:07 -0800</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/lipd.12271</guid>
+         <title>Cholesteryl Ester Transfer Protein Impairs Triglyceride Clearance via Androgen Receptor in Male Mice</title>
+         <description>Lipids, Volume 56, Issue 1, Page 17-29, January 2021. </description>
+         <dc:description>
+Abstract
+Elevated postprandial triacylglycerols (TAG) are an important risk factor for cardiovascular disease. Men have higher plasma TAG and impaired TAG clearance compared to women, which may contribute to sex differences in risk of cardiovascular disease. Understanding mechanisms of sex differences in TAG metabolism may yield novel therapeutic targets to prevent cardiovascular disease. Cholesteryl ester transfer protein (CETP) is a lipid shuttling protein known for its effects on high‐density lipoprotein (HDL) cholesterol levels. Although mice lack CETP, we previously demonstrated that transgenic CETP expression in female mice alters TAG metabolism. The impact of CETP on TAG metabolism in males, however, is not well understood. Here, we demonstrate that CETP expression increases plasma TAG in males, especially in very‐low density lipoprotein (VLDL), by impairing postprandial plasma TAG clearance compared to wild‐type (WT) males. Gonadal hormones were required for CETP to impair TAG clearance, suggesting a role for sex hormones for this effect. Testosterone replacement in the setting of gonadectomy was sufficient to restore the effect of CETP on TAG. Lastly, liver androgen receptor (AR) was required for CETP to increase plasma TAG. Thus, expression of CETP in males raises plasma TAG by impairing TAG clearance via testosterone signaling to AR. Further understanding of how CETP and androgen signaling impair TAG clearance may lead to novel approaches to reduce TAG and mitigate risk of cardiovascular disease.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Elevated postprandial triacylglycerols (TAG) are an important risk factor for cardiovascular disease. Men have higher plasma TAG and impaired TAG clearance compared to women, which may contribute to sex differences in risk of cardiovascular disease. Understanding mechanisms of sex differences in TAG metabolism may yield novel therapeutic targets to prevent cardiovascular disease. Cholesteryl ester transfer protein (CETP) is a lipid shuttling protein known for its effects on high‐density lipoprotein (HDL) cholesterol levels. Although mice lack CETP, we previously demonstrated that transgenic CETP expression in female mice alters TAG metabolism. The impact of CETP on TAG metabolism in males, however, is not well understood. Here, we demonstrate that CETP expression increases plasma TAG in males, especially in very‐low density lipoprotein (VLDL), by impairing postprandial plasma TAG clearance compared to wild‐type (WT) males. Gonadal hormones were required for CETP to impair TAG clearance, suggesting a role for sex hormones for this effect. Testosterone replacement in the setting of gonadectomy was sufficient to restore the effect of CETP on TAG. Lastly, liver androgen receptor (AR) was required for CETP to increase plasma TAG. Thus, expression of CETP in males raises plasma TAG by impairing TAG clearance &lt;i&gt;via&lt;/i&gt; testosterone signaling to AR. Further understanding of how CETP and androgen signaling impair TAG clearance may lead to novel approaches to reduce TAG and mitigate risk of cardiovascular disease.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Brian T. Palmisano, 
+Uche Anozie, 
+Sophia Yu, 
+Joshua C. Neuman, 
+Lin Zhu, 
+Emery M. Edington, 
+Thao Luu, 
+John M. Stafford
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Cholesteryl Ester Transfer Protein Impairs Triglyceride Clearance via Androgen Receptor in Male Mice</dc:title>
+         <dc:identifier>10.1002/lipd.12271</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12271</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12271?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+         <prism:volume>56</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12272?af=R</link>
+         <pubDate>Mon, 11 Jan 2021 20:13:07 -0800</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/lipd.12272</guid>
+         <title>Lipid Composition Differences of Periphyton, Crustaceans, and Small Fishes in Response to Eutrophication and Management in the Florida Everglades, USA</title>
+         <description>Lipids, Volume 56, Issue 1, Page 31-47, January 2021. </description>
+         <dc:description>
+Abstract
+Eutrophication of the Florida Everglades, USA, has altered the characteristics of the ecosystem, but management strategies are being implemented to accelerate recovery. In this study, we described lipid compositional similarities and differences between periphyton, fish, and crustaceans, and explored if eutrophication and creation of new open‐water sloughs in phosphorus (P)‐impacted regions of a Northern Everglades impoundment resulted in changes in periphyton biomass and lipid composition, and the lipid composition of a ubiquitous omnivore, Gambusia holbrooki. Lipid biomarker analysis provided insight into microbial community composition, quality of basal resources, and potential resources utilized by consumers. Periphyton biomass and phospholipid fatty acid (PLFA) composition differed in response to eutrophication, but not between P‐impacted control and treatment plots. Shifts in relative abundances of lipids indicative of diatoms and green algae mirrored known taxonomic shifts due to eutrophication. For fauna, PLFA were a small and relatively distinct component of the overall total lipid make‐up, and profiles were similar between control and treatment plots. However, the PLFA profile of G. holbrooki differed between oligotrophic and eutrophic regions. Fish and crustacean lipids contained significantly greater relative abundances of polyunsaturated fatty acids than were found in periphyton, and profiles differed between fish and crustaceans, suggesting organisms were selectively accumulating or elongating and desaturating lipids de novo, to meet physiological needs. This study builds on findings of microbial responses to eutrophication and recent observations that consumer PLFA profiles can also shift with P‐enrichment.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Eutrophication of the Florida Everglades, USA, has altered the characteristics of the ecosystem, but management strategies are being implemented to accelerate recovery. In this study, we described lipid compositional similarities and differences between periphyton, fish, and crustaceans, and explored if eutrophication and creation of new open‐water sloughs in phosphorus (P)‐impacted regions of a Northern Everglades impoundment resulted in changes in periphyton biomass and lipid composition, and the lipid composition of a ubiquitous omnivore, &lt;i&gt;Gambusia holbrooki&lt;/i&gt;. Lipid biomarker analysis provided insight into microbial community composition, quality of basal resources, and potential resources utilized by consumers. Periphyton biomass and phospholipid fatty acid (PLFA) composition differed in response to eutrophication, but not between P‐impacted control and treatment plots. Shifts in relative abundances of lipids indicative of diatoms and green algae mirrored known taxonomic shifts due to eutrophication. For fauna, PLFA were a small and relatively distinct component of the overall total lipid make‐up, and profiles were similar between control and treatment plots. However, the PLFA profile of &lt;i&gt;G. holbrooki&lt;/i&gt; differed between oligotrophic and eutrophic regions. Fish and crustacean lipids contained significantly greater relative abundances of polyunsaturated fatty acids than were found in periphyton, and profiles differed between fish and crustaceans, suggesting organisms were selectively accumulating or elongating and desaturating lipids &lt;i&gt;de novo&lt;/i&gt;, to meet physiological needs. This study builds on findings of microbial responses to eutrophication and recent observations that consumer PLFA profiles can also shift with P‐enrichment.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Brent J. Bellinger, 
+Mark I. Cook, 
+Scot E. Hagerthey, 
+Susan Newman, 
+Robert M. Kobza
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Lipid Composition Differences of Periphyton, Crustaceans, and Small Fishes in Response to Eutrophication and Management in the Florida Everglades, USA</dc:title>
+         <dc:identifier>10.1002/lipd.12272</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12272</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12272?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+         <prism:volume>56</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12273?af=R</link>
+         <pubDate>Mon, 11 Jan 2021 20:13:07 -0800</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/lipd.12273</guid>
+         <title>The Anionic Phospholipids of Bovine Pulmonary Surfactant</title>
+         <description>Lipids, Volume 56, Issue 1, Page 49-57, January 2021. </description>
+         <dc:description>
+Abstract
+The only known compositional change in the phospholipids (PL) of pulmonary surfactant in response to a physiologic stimulus occurs around the time of birth. In most species, the predominant anionic PL changes from phosphatidylinositol (PtdIns) to phosphatidylglycerol (PtdGro). Because prior studies have shown that the change in the headgroup itself is functionally insignificant, we tested the hypothesis that the PtdIns and PtdGro contain different diacyl pairs. Experiments used electrospray‐ionization mass spectrometry to determine the molecular species in PtdIns, PtdGro, and phosphatidylcholine (PtdCho) in surfactant from newborn calves and cows. The profiles for the two anionic PL were distinct. The PtdIns contained long, unsaturated fatty acid chains and no disaturated species. The PtdGro more closely resembled the profile from PtdCho. For each headgroup, the molecular species for calf and cow were similar. The differences between the two anionic PL indicate that the switch from PtdIns to PtdGro during maturation involves more than simple substitution of the headgroup, and suggest that the functional significance of the shift may reflect the different pool of diacyl pairs.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The only known compositional change in the phospholipids (PL) of pulmonary surfactant in response to a physiologic stimulus occurs around the time of birth. In most species, the predominant anionic PL changes from phosphatidylinositol (PtdIns) to phosphatidylglycerol (PtdGro). Because prior studies have shown that the change in the headgroup itself is functionally insignificant, we tested the hypothesis that the PtdIns and PtdGro contain different diacyl pairs. Experiments used electrospray‐ionization mass spectrometry to determine the molecular species in PtdIns, PtdGro, and phosphatidylcholine (PtdCho) in surfactant from newborn calves and cows. The profiles for the two anionic PL were distinct. The PtdIns contained long, unsaturated fatty acid chains and no disaturated species. The PtdGro more closely resembled the profile from PtdCho. For each headgroup, the molecular species for calf and cow were similar. The differences between the two anionic PL indicate that the switch from PtdIns to PtdGro during maturation involves more than simple substitution of the headgroup, and suggest that the functional significance of the shift may reflect the different pool of diacyl pairs.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Catherine J. Markin, 
+Stephen B. Hall
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>The Anionic Phospholipids of Bovine Pulmonary Surfactant</dc:title>
+         <dc:identifier>10.1002/lipd.12273</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12273</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12273?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+         <prism:volume>56</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12274?af=R</link>
+         <pubDate>Mon, 11 Jan 2021 20:13:07 -0800</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/lipd.12274</guid>
+         <title>Low‐Density Lipoprotein Cholesterol/High‐Density Lipoprotein Cholesterol Ratio and Carotid Intima‐Media Thickness: A Cohort Study in China</title>
+         <description>Lipids, Volume 56, Issue 1, Page 59-68, January 2021. </description>
+         <dc:description>
+Abstract
+Low‐density lipoprotein cholesterol to high‐density lipoprotein cholesterol (LDL‐C/HDL‐C) ratio may carry additional information and has been suggested as a better predictor for atherosclerosis progression and cardiovascular disease (CVD) than LDL‐C and HDL‐C alone. Therefore, we aim to explore the association between LDL‐C/HDL‐C ratio and high carotid intima‐media thickness (CIMT) risk in a large Cohort in Beijing, China. This cohort study included 13,612 adults without high CIMT at first entry and who attended the baseline examination and at least one follow‐up annual examination between 2009 and 2016. We used multivariable Cox regression to estimate hazard ratios (HR) with their 95% confidence intervals (CI) for the association between LDL‐C/HDL‐C ratio and risk of high CIMT. During 37,912 person‐years of follow‐up, 1996 (1268 men and 728 women) developed high CIMT. Compared with the first quartile of LDL‐C/HDL‐C ratio, the risk of high CIMT was significantly increased for the fourth quartile of LDL‐C/HDL‐C ratio (HR = 1.51, 95% CI: 1.29–1.78). We observed a significant association between LDL‐C/HDL‐C ratio and high CIMT risk comparing LDL‐C/HDL‐C ratio &gt;2.78 with LDL‐C/HDL‐C ratio ≤2.78 and significant dose–response relationship between LDL‐C/HDL‐C ratio and risk of high CIMT. The restricted cubic spline showed a significant nonlinear association between LDL‐C/HDL‐C ratio and the risk of high CIMT (pnon‐linearity = 0.009). We identify a significant association between LDL‐C/HDL‐C ratio and the risk of high CIMT in the Chinese Cohort study. Future studies are needed to evaluate the effectiveness of reducing LDL‐C/HDL‐C ratio treatment on the development of high CIMT.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Low‐density lipoprotein cholesterol to high‐density lipoprotein cholesterol (LDL‐C/HDL‐C) ratio may carry additional information and has been suggested as a better predictor for atherosclerosis progression and cardiovascular disease (CVD) than LDL‐C and HDL‐C alone. Therefore, we aim to explore the association between LDL‐C/HDL‐C ratio and high carotid intima‐media thickness (CIMT) risk in a large Cohort in Beijing, China. This cohort study included 13,612 adults without high CIMT at first entry and who attended the baseline examination and at least one follow‐up annual examination between 2009 and 2016. We used multivariable Cox regression to estimate hazard ratios (HR) with their 95% confidence intervals (CI) for the association between LDL‐C/HDL‐C ratio and risk of high CIMT. During 37,912 person‐years of follow‐up, 1996 (1268 men and 728 women) developed high CIMT. Compared with the first quartile of LDL‐C/HDL‐C ratio, the risk of high CIMT was significantly increased for the fourth quartile of LDL‐C/HDL‐C ratio (HR = 1.51, 95% CI: 1.29–1.78). We observed a significant association between LDL‐C/HDL‐C ratio and high CIMT risk comparing LDL‐C/HDL‐C ratio &amp;gt;2.78 with LDL‐C/HDL‐C ratio ≤2.78 and significant dose–response relationship between LDL‐C/HDL‐C ratio and risk of high CIMT. The restricted cubic spline showed a significant nonlinear association between LDL‐C/HDL‐C ratio and the risk of high CIMT (&lt;i&gt;p&lt;/i&gt;
+&lt;sub&gt;non‐linearity&lt;/sub&gt; = 0.009). We identify a significant association between LDL‐C/HDL‐C ratio and the risk of high CIMT in the Chinese Cohort study. Future studies are needed to evaluate the effectiveness of reducing LDL‐C/HDL‐C ratio treatment on the development of high CIMT.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Pei Qin, 
+Jing Shi, 
+Liming Cao, 
+Xue Li, 
+Yanmei Lou, 
+Changyi Wang, 
+Jianping Ma, 
+Li Wang, 
+Xiaolin Peng, 
+Hongen Chen, 
+Shan Xu, 
+Ping Zhao, 
+Dongsheng Hu, 
+Fulan Hu
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Low‐Density Lipoprotein Cholesterol/High‐Density Lipoprotein Cholesterol Ratio and Carotid Intima‐Media Thickness: A Cohort Study in China</dc:title>
+         <dc:identifier>10.1002/lipd.12274</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12274</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12274?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+         <prism:volume>56</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12276?af=R</link>
+         <pubDate>Mon, 11 Jan 2021 20:13:07 -0800</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/lipd.12276</guid>
+         <title>The Monocyte to High‐Density Lipoprotein Cholesterol Ratio in the Prediction for Atherosclerosis: A Retrospective Study in Adult Chinese Participants</title>
+         <description>Lipids, Volume 56, Issue 1, Page 69-80, January 2021. </description>
+         <dc:description>
+Abstract
+The ratio of monocyte to high‐density lipoprotein cholesterol level (MHR) was a newly proposed inflammatory and oxidative stress marker. This study aimed to explore the association between MHR and Brachial‐ankle pulse wave velocity (Ba‐PWV) in adult Chinese participants. A total of 2029 participants were divided into two groups according to the Ba‐PWV: a high Ba‐PWV group (Ba‐PWV ≥1400 cm/s) and a low Ba‐PWV group (Ba‐PWV &lt; 1400 cm/s). According to the cut‐off points of quartile of MHR, the participants were divided into four groups. The relationship between MHR and Ba‐PWV was analyzed. After adjusting for potential confounders, a non‐linear relationship between MHR and Ba‐PWV was found in the participants, and the inflection point was 7.78 in the non‐linear curve. On the left of the inflection point, MHR had a positive correlation with Ba‐PWV (OR = 1.17, 95% confidence interval (CI): 1.08 to 1.28, p &lt; 0.01). However, there was no obvious relationship between MHR and Ba‐PWV on the right of the inflection point (OR = 0.96, 95% CI: 0.90 to 1.01, p = 0.117). Further demographic analysis demonstrated that the positive relationship between MHR and Ba‐PWV was found in the female participants with hypertension family history, but without a current history of hypertension, smoking, or drinking (p &lt; 0.05). An increased MHR is a risk factor of atherosclerosis, which may predict the potential development of atherosclerosis. When the MHR is close to 7.78, it has the highest predictive value for the risk of atherosclerosis occurrence.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The ratio of monocyte to high‐density lipoprotein cholesterol level (MHR) was a newly proposed inflammatory and oxidative stress marker. This study aimed to explore the association between MHR and Brachial‐ankle pulse wave velocity (Ba‐PWV) in adult Chinese participants. A total of 2029 participants were divided into two groups according to the Ba‐PWV: a high Ba‐PWV group (Ba‐PWV ≥1400 cm/s) and a low Ba‐PWV group (Ba‐PWV &amp;lt; 1400 cm/s). According to the cut‐off points of quartile of MHR, the participants were divided into four groups. The relationship between MHR and Ba‐PWV was analyzed. After adjusting for potential confounders, a non‐linear relationship between MHR and Ba‐PWV was found in the participants, and the inflection point was 7.78 in the non‐linear curve. On the left of the inflection point, MHR had a positive correlation with Ba‐PWV (OR = 1.17, 95% confidence interval (CI): 1.08 to 1.28, &lt;i&gt;p&lt;/i&gt; &amp;lt; 0.01). However, there was no obvious relationship between MHR and Ba‐PWV on the right of the inflection point (OR = 0.96, 95% CI: 0.90 to 1.01, &lt;i&gt;p&lt;/i&gt; = 0.117). Further demographic analysis demonstrated that the positive relationship between MHR and Ba‐PWV was found in the female participants with hypertension family history, but without a current history of hypertension, smoking, or drinking (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.05). An increased MHR is a risk factor of atherosclerosis, which may predict the potential development of atherosclerosis. When the MHR is close to 7.78, it has the highest predictive value for the risk of atherosclerosis occurrence.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Yaqing Zhou, 
+Liyi Wang, 
+Limei Jia, 
+Baojin Lu, 
+Guoqiang Gu, 
+Long Bai, 
+Wei Cui
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>The Monocyte to High‐Density Lipoprotein Cholesterol Ratio in the Prediction for Atherosclerosis: A Retrospective Study in Adult Chinese Participants</dc:title>
+         <dc:identifier>10.1002/lipd.12276</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12276</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12276?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+         <prism:volume>56</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12277?af=R</link>
+         <pubDate>Mon, 11 Jan 2021 20:13:07 -0800</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/lipd.12277</guid>
+         <title>Quantification of Fatty Acids and their Regioisomeric Distribution in Triacylglycerols from Porcine and Bovine Sources Using 13C NMR Spectroscopy</title>
+         <description>Lipids, Volume 56, Issue 1, Page 111-122, January 2021. </description>
+         <dc:description>
+Abstract
+The uptake of specific fatty acids in humans is dependent on their position on the glycerol backbone. There is a great interest in methods that can access this information fast and accurately. By way of high‐resolution NMR, we have analyzed TAG extracted from pig and beef tissues and obtained quantitative data for the composition and regioisomeric distribution of all major unsaturated fatty acids usually found in these source materials, using a combination of manual integration and deconvolution of 13C NMR spectra. In addition, we have developed a method for determining composition and regioisomeric distribution of the two main saturated fatty acids found in pork (16:0, 18:0). The results are discussed in relation to species‐specific genetic characteristics of fatty acid and TAG biosynthesis. The developed method could support decisions related to breeding for desired fatty acid profiles, and stimulate further methodology developments using high field NMR.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The uptake of specific fatty acids in humans is dependent on their position on the glycerol backbone. There is a great interest in methods that can access this information fast and accurately. By way of high‐resolution NMR, we have analyzed TAG extracted from pig and beef tissues and obtained quantitative data for the composition and regioisomeric distribution of all major unsaturated fatty acids usually found in these source materials, using a combination of manual integration and deconvolution of &lt;sup&gt;13&lt;/sup&gt;C NMR spectra. In addition, we have developed a method for determining composition and regioisomeric distribution of the two main saturated fatty acids found in pork (16:0, 18:0). The results are discussed in relation to species‐specific genetic characteristics of fatty acid and TAG biosynthesis. The developed method could support decisions related to breeding for desired fatty acid profiles, and stimulate further methodology developments using high field NMR.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Geir Kildahl‐Andersen, 
+Eli Gjerlaug‐Enger, 
+Frode Rise, 
+Anna Haug, 
+Bjørg Egelandsdal
+</dc:creator>
+         <category>Methods</category>
+         <dc:title>Quantification of Fatty Acids and their Regioisomeric Distribution in Triacylglycerols from Porcine and Bovine Sources Using 13C NMR Spectroscopy</dc:title>
+         <dc:identifier>10.1002/lipd.12277</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12277</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12277?af=R</prism:url>
+         <prism:section>Methods</prism:section>
+         <prism:volume>56</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12279?af=R</link>
+         <pubDate>Mon, 11 Jan 2021 20:13:07 -0800</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/lipd.12279</guid>
+         <title>A Cross‐sectional Study on the Relationship Between Homocysteine and Lipid Profiles Among Chinese Population from Hunan</title>
+         <description>Lipids, Volume 56, Issue 1, Page 93-100, January 2021. </description>
+         <dc:description>
+Abstract
+Previous studies have explored the relationship between homocystein (Hcy) and lipid profiles. However, the results from these studies have been inconsistent. The current study investigated the correlation between Hcy and lipid profiles in Chinese community‐based population. The participants were composed of 4012 Chinese people aged 30–92 years old, who were recruited from rural and urban communities in the Hunan Province. Non‐parametric test and logistic regression were used to examine the distribution of Hcy and lipid profiles (triglyceride [TG], total cholesterol [TC], low‐density lipoprotein cholesterol [LDL‐C], high‐density lipoprotein cholesterol [HDL‐C]) and the relationship between them. The median age of subjects was 54.50 years old, and 40.98% were male. Median Hcy was 13.20 μmol/L, and 35.39% had hyperhomocysteinemia (HHcy). Median TG was 1.51 mmol/L, TC was 4.77 mmol/L, LDL‐C was 2.62 mmol/L, and HDL‐C was 1.27 mmol/L. In multivariable logistic regression analysis, HHcy was associated with high levels of TG (ORmale = 2.240, p &lt; 0.001; ORfemale = 2.539, p &lt; 0.001), TC (ORmale = 2.237, p &lt; 0.001; ORfemale = 2.202, p &lt; 0.001), and LDL‐C (ORmale = 1.413, p = 0.010; ORfemale = 1.617, p &lt; 0.001) in the different sexes population and low level of HDL‐C in females (OR = 1.326, p = 0.023) after adjusting for confounders. HHcy was independently associated with an increasing risk of low HDL‐C among females. The regression analysis showed that HHcy was also associated with hypertriglyceridemia, hypercholesterolemia, and high level of LDL‐C in males and females from Chinese community‐based population, which provides a basis for the treatment and prevention of abnormal lipid metabolism.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Previous studies have explored the relationship between homocystein (Hcy) and lipid profiles. However, the results from these studies have been inconsistent. The current study investigated the correlation between Hcy and lipid profiles in Chinese community‐based population. The participants were composed of 4012 Chinese people aged 30–92 years old, who were recruited from rural and urban communities in the Hunan Province. Non‐parametric test and logistic regression were used to examine the distribution of Hcy and lipid profiles (triglyceride [TG], total cholesterol [TC], low‐density lipoprotein cholesterol [LDL‐C], high‐density lipoprotein cholesterol [HDL‐C]) and the relationship between them. The median age of subjects was 54.50 years old, and 40.98% were male. Median Hcy was 13.20 μmol/L, and 35.39% had hyperhomocysteinemia (HHcy). Median TG was 1.51 mmol/L, TC was 4.77 mmol/L, LDL‐C was 2.62 mmol/L, and HDL‐C was 1.27 mmol/L. In multivariable logistic regression analysis, HHcy was associated with high levels of TG (OR&lt;sub&gt;male&lt;/sub&gt; = 2.240, &lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001; OR&lt;sub&gt;female&lt;/sub&gt; = 2.539, &lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001), TC (OR&lt;sub&gt;male&lt;/sub&gt; = 2.237, &lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001; OR&lt;sub&gt;female&lt;/sub&gt; = 2.202, &lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001), and LDL‐C (OR&lt;sub&gt;male&lt;/sub&gt; = 1.413, &lt;i&gt;p&lt;/i&gt; = 0.010; OR&lt;sub&gt;female&lt;/sub&gt; = 1.617, &lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001) in the different sexes population and low level of HDL‐C in females (OR = 1.326, &lt;i&gt;p&lt;/i&gt; = 0.023) after adjusting for confounders. HHcy was independently associated with an increasing risk of low HDL‐C among females. The regression analysis showed that HHcy was also associated with hypertriglyceridemia, hypercholesterolemia, and high level of LDL‐C in males and females from Chinese community‐based population, which provides a basis for the treatment and prevention of abnormal lipid metabolism.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Xiaona Niu, 
+Jian Chen, 
+Jia Wang, 
+Jing Li, 
+Dan Zeng, 
+Shuling Wang, 
+Xiuqin Hong
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>A Cross‐sectional Study on the Relationship Between Homocysteine and Lipid Profiles Among Chinese Population from Hunan</dc:title>
+         <dc:identifier>10.1002/lipd.12279</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12279</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12279?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+         <prism:volume>56</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12280?af=R</link>
+         <pubDate>Mon, 11 Jan 2021 20:13:07 -0800</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/lipd.12280</guid>
+         <title>Fat Distribution and Lipid Profile of Young Adults with Congenital Adrenal Hyperplasia Due to 21‐Hydroxylase Enzyme Deficiency</title>
+         <description>Lipids, Volume 56, Issue 1, Page 101-110, January 2021. </description>
+         <dc:description>
+Abstract
+We aimed to compare detailed fat distribution and lipid profile between young adults with congenital adrenal hyperplasia due to 21‐hydroxylase enzyme deficiency and a control group. We also verified independent associations of treatment duration and daily hydrocortisone dose equivalent (HDE) with lipid profile within patients. This case–control study included 23 patients (7 male and 16 female) matched by an age range of young adults (18–31 years) with 20 control subjects (8 male and 12 female). Dual energy X‐ray absorptiometry was used to measure the fat distribution. Male patients demonstrated elevated indices of fat mass for total (7.7 ± 2.1 vs. 4.5 ± 1.3 kg/m2, p = 0.003), trunk (4.0 ± 1.2 vs. 2.2 ± 0.8 kg/m2, p = 0.005), android (0.63 ± 0.24 vs. 0.32 ± 0.15 kg/m2, p = 0.008), gynoid (1.34 ± 0.43 vs. 0.74 ± 0.24 kg/m2, p = 0.005), arm (0.65 ± 0.16 vs. 0.39 ± 0.10 kg/m2, p = 0.009), and leg regions (2.7 ± 0.8 vs. 1.6 ± 0.4 kg/m2, p = 0.005) than the control group, but not in females. However, female patients demonstrated elevated ratio of low‐density lipoprotein cholesterol to high‐density lipoprotein cholesterol (1.90 ± 0.46 vs. 1.39 ± 0.47, p = 0.009) than the control group, but not in males. Total fat mass was inversely correlated with total testosterone (r = −0.64, p = 0.014) and positively correlated with leptin in males (r = 0.75, p = 0.002). An elevated daily HDE (β = 0.43, p = 0.038 and β = 0.47, p = 0.033) and trunk to total fat mass ratio (β = 0.46, p = 0.025, and β = 0.45, p = 0.037) were independently correlated with impaired lipid profile markers. Although there is no altered lipid profile, male patients demonstrated an increased fat distribution. However, female patients presented with an impaired lipid profile marker but demonstrated close values of normal fat distribution. Interestingly, the dose of glucocorticoid therapy can have some role in the lipid mechanisms.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;We aimed to compare detailed fat distribution and lipid profile between young adults with congenital adrenal hyperplasia due to 21‐hydroxylase enzyme deficiency and a control group. We also verified independent associations of treatment duration and daily hydrocortisone dose equivalent (HDE) with lipid profile within patients. This case–control study included 23 patients (7 male and 16 female) matched by an age range of young adults (18–31 years) with 20 control subjects (8 male and 12 female). Dual energy X‐ray absorptiometry was used to measure the fat distribution. Male patients demonstrated elevated indices of fat mass for total (7.7 ± 2.1 &lt;i&gt;vs.&lt;/i&gt; 4.5 ± 1.3 kg/m&lt;sup&gt;2&lt;/sup&gt;, &lt;i&gt;p&lt;/i&gt; = 0.003), trunk (4.0 ± 1.2 &lt;i&gt;vs.&lt;/i&gt; 2.2 ± 0.8 kg/m&lt;sup&gt;2&lt;/sup&gt;, &lt;i&gt;p&lt;/i&gt; = 0.005), android (0.63 ± 0.24 &lt;i&gt;vs.&lt;/i&gt; 0.32 ± 0.15 kg/m&lt;sup&gt;2&lt;/sup&gt;, &lt;i&gt;p&lt;/i&gt; = 0.008), gynoid (1.34 ± 0.43 &lt;i&gt;vs.&lt;/i&gt; 0.74 ± 0.24 kg/m&lt;sup&gt;2&lt;/sup&gt;, &lt;i&gt;p&lt;/i&gt; = 0.005), arm (0.65 ± 0.16 &lt;i&gt;vs.&lt;/i&gt; 0.39 ± 0.10 kg/m&lt;sup&gt;2&lt;/sup&gt;, &lt;i&gt;p&lt;/i&gt; = 0.009), and leg regions (2.7 ± 0.8 &lt;i&gt;vs.&lt;/i&gt; 1.6 ± 0.4 kg/m&lt;sup&gt;2&lt;/sup&gt;, &lt;i&gt;p&lt;/i&gt; = 0.005) than the control group, but not in females. However, female patients demonstrated elevated ratio of low‐density lipoprotein cholesterol to high‐density lipoprotein cholesterol (1.90 ± 0.46 &lt;i&gt;vs.&lt;/i&gt; 1.39 ± 0.47, &lt;i&gt;p&lt;/i&gt; = 0.009) than the control group, but not in males. Total fat mass was inversely correlated with total testosterone (&lt;i&gt;r&lt;/i&gt; = −0.64, &lt;i&gt;p&lt;/i&gt; = 0.014) and positively correlated with leptin in males (&lt;i&gt;r&lt;/i&gt; = 0.75, &lt;i&gt;p&lt;/i&gt; = 0.002). An elevated daily HDE (&lt;i&gt;β&lt;/i&gt; = 0.43, &lt;i&gt;p&lt;/i&gt; = 0.038 and &lt;i&gt;β&lt;/i&gt; = 0.47, &lt;i&gt;p&lt;/i&gt; = 0.033) and trunk to total fat mass ratio (&lt;i&gt;β&lt;/i&gt; = 0.46, &lt;i&gt;p&lt;/i&gt; = 0.025, and &lt;i&gt;β&lt;/i&gt; = 0.45, &lt;i&gt;p&lt;/i&gt; = 0.037) were independently correlated with impaired lipid profile markers. Although there is no altered lipid profile, male patients demonstrated an increased fat distribution. However, female patients presented with an impaired lipid profile marker but demonstrated close values of normal fat distribution. Interestingly, the dose of glucocorticoid therapy can have some role in the lipid mechanisms.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Juliano Henrique Borges, 
+Daniel Minutti Oliveira, 
+Sofia Helena Valente Lemos‐Marini, 
+Bruno Geloneze, 
+Ezequiel Moreira Gonçalves, 
+Gil Guerra‐Júnior
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Fat Distribution and Lipid Profile of Young Adults with Congenital Adrenal Hyperplasia Due to 21‐Hydroxylase Enzyme Deficiency</dc:title>
+         <dc:identifier>10.1002/lipd.12280</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12280</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12280?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+         <prism:volume>56</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12278?af=R</link>
+         <pubDate>Mon, 11 Jan 2021 20:13:07 -0800</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/lipd.12278</guid>
+         <title>Lipid Composition and Utilization in Early Stage Leptocephalus Larvae of Bonefish (Albula vulpes)</title>
+         <description>Lipids, Volume 56, Issue 1, Page 81-91, January 2021. </description>
+         <dc:description>
+Abstract
+In order to encourage the survival of both captive and wild populations of bonefish (Albula vulpes), a deeper understanding of the species' early developmental characteristics is necessary. During ontogenesis, bonefish utilize lipids as a source of energy before the start of exogenous feeding. The goal of this study is to gain insight into the energetic needs of bonefish leptocephalus larvae in the post‐hatch larval stage. Broodstock were collected in the wild and hormone induced. Spawning yielded eggs that were fertilized and were then incubated until hatching. Larval development was monitored throughout the duration of the trial until all larvae perished. Samples of larval tissue were taken to the lab for lipid analysis and composition was compared at different developmental stages. Larval lipid composition was significantly different across sample groups showing a change in lipid content related to development. After hatching, larvae gradually depleted wax esters‐sterol ester (WE‐SE) reserves over a period of 4 days, while simultaneously increasing hydrocarbon (HC). The role of WE‐SE is seemingly tied to both buoyancy and energy reserves due to its high abundance immediately post‐hatch and selective catabolism. As larvae weaned off of the nutrition provided by the yolk, exogenous feeding began to diversify lipid composition and overall lipid reserves were depleted. Future directions included the development of optimal larval feeds based on this analysis in order to gain more insight into the nutritional needs and requirements during the critical leptocephalus stages.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;In order to encourage the survival of both captive and wild populations of bonefish (&lt;i&gt;Albula vulpes&lt;/i&gt;), a deeper understanding of the species' early developmental characteristics is necessary. During ontogenesis, bonefish utilize lipids as a source of energy before the start of exogenous feeding. The goal of this study is to gain insight into the energetic needs of bonefish leptocephalus larvae in the post‐hatch larval stage. Broodstock were collected in the wild and hormone induced. Spawning yielded eggs that were fertilized and were then incubated until hatching. Larval development was monitored throughout the duration of the trial until all larvae perished. Samples of larval tissue were taken to the lab for lipid analysis and composition was compared at different developmental stages. Larval lipid composition was significantly different across sample groups showing a change in lipid content related to development. After hatching, larvae gradually depleted wax esters‐sterol ester (WE‐SE) reserves over a period of 4 days, while simultaneously increasing hydrocarbon (HC). The role of WE‐SE is seemingly tied to both buoyancy and energy reserves due to its high abundance immediately post‐hatch and selective catabolism. As larvae weaned off of the nutrition provided by the yolk, exogenous feeding began to diversify lipid composition and overall lipid reserves were depleted. Future directions included the development of optimal larval feeds based on this analysis in order to gain more insight into the nutritional needs and requirements during the critical leptocephalus stages.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Sahar Mejri, 
+Aaron J. Adams, 
+Jonathan M. Shenker, 
+Anthony C. Cianciotto, 
+Christopher Robinson, 
+Victoria Uribe, 
+Paul S. Wills
+</dc:creator>
+         <category>Original Article</category>
+         <dc:title>Lipid Composition and Utilization in Early Stage Leptocephalus Larvae of Bonefish (Albula vulpes)</dc:title>
+         <dc:identifier>10.1002/lipd.12278</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12278</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12278?af=R</prism:url>
+         <prism:section>Original Article</prism:section>
+         <prism:volume>56</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12255?af=R</link>
+         <pubDate>Mon, 11 Jan 2021 20:13:07 -0800</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/lipd.12255</guid>
+         <title>Issue Information</title>
+         <description>Lipids, Volume 56, Issue 1, Page 1-1, January 2021. </description>
+         <dc:description/>
+         <content:encoded/>
+         <dc:creator/>
+         <category>Issue Information</category>
+         <dc:title>Issue Information</dc:title>
+         <dc:identifier>10.1002/lipd.12255</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12255</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12255?af=R</prism:url>
+         <prism:section>Issue Information</prism:section>
+         <prism:volume>56</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12263?af=R</link>
+         <pubDate>Mon, 11 Jan 2021 20:13:07 -0800</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Fri, 01 Jan 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/lipd.12263</guid>
+         <title>A Review of Efforts to Improve Lipid Stability during Sample Preparation and Standardization Efforts to Ensure Accuracy in the Reporting of Lipid Measurements</title>
+         <description>Lipids, Volume 56, Issue 1, Page 3-16, January 2021. </description>
+         <dc:description>
+Abstract
+Lipidomics is a rapidly growing field, fueled by developments in analytical instrumentation and bioinformatics. To date, most researchers and industries have employed their own lipidomics workflows without a consensus on best practices. Without a community‐wide consensus on best practices for the prevention of lipid degradation and transformations through sample collection and analysis, it is difficult to assess the quality of lipidomics data and hence trust results. Clinical studies often rely on samples being stored for weeks or months until they are analyzed, but inappropriate sampling techniques, storage temperatures, and analytical protocols can result in the degradation of complex lipids and the generation of oxidized or hydrolyzed metabolite artifacts. While best practices for lipid stability are sample dependent, it is generally recommended that strategies during sample preparation capable of quenching enzymatic activity and preventing oxidation should be considered. In addition, after sample preparation, lipid extracts should be stored in organic solvents with antioxidants at −20 °C or lower in an airtight container without exposure to light or oxygen. This will reduce or eliminate sublimation, and chemically and physically induced molecular transformations such as oxidation, enzymatic transformation, and photon/heat‐induced degradation. This review explores the available literature on lipid stability, with a particular focus on human health and/or clinical lipidomic applications. Specifically, this includes a description of known mechanisms of lipid degradation, strategies, and considerations for lipid storage, as well as current efforts for standardization and quality insurance of protocols.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Lipidomics is a rapidly growing field, fueled by developments in analytical instrumentation and bioinformatics. To date, most researchers and industries have employed their own lipidomics workflows without a consensus on best practices. Without a community‐wide consensus on best practices for the prevention of lipid degradation and transformations through sample collection and analysis, it is difficult to assess the quality of lipidomics data and hence trust results. Clinical studies often rely on samples being stored for weeks or months until they are analyzed, but inappropriate sampling techniques, storage temperatures, and analytical protocols can result in the degradation of complex lipids and the generation of oxidized or hydrolyzed metabolite artifacts. While best practices for lipid stability are sample dependent, it is generally recommended that strategies during sample preparation capable of quenching enzymatic activity and preventing oxidation should be considered. In addition, after sample preparation, lipid extracts should be stored in organic solvents with antioxidants at −20 °C or lower in an airtight container without exposure to light or oxygen. This will reduce or eliminate sublimation, and chemically and physically induced molecular transformations such as oxidation, enzymatic transformation, and photon/heat‐induced degradation. This review explores the available literature on lipid stability, with a particular focus on human health and/or clinical lipidomic applications. Specifically, this includes a description of known mechanisms of lipid degradation, strategies, and considerations for lipid storage, as well as current efforts for standardization and quality insurance of protocols.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Candice Z. Ulmer, 
+Jeremy P. Koelmel, 
+Christina M. Jones, 
+Timothy J. Garrett, 
+Juan J. Aristizabal‐Henao, 
+Hubert W. Vesper, 
+John A. Bowden
+</dc:creator>
+         <category>Review</category>
+         <dc:title>A Review of Efforts to Improve Lipid Stability during Sample Preparation and Standardization Efforts to Ensure Accuracy in the Reporting of Lipid Measurements</dc:title>
+         <dc:identifier>10.1002/lipd.12263</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12263</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12263?af=R</prism:url>
+         <prism:section>Review</prism:section>
+         <prism:volume>56</prism:volume>
+         <prism:number>1</prism:number>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12295?af=R</link>
+         <pubDate>Wed, 30 Dec 2020 14:59:05 -0800</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1002/lipd.12295</guid>
+         <title>Borage Oil Enhances Lamellar Body Content and Alters Fatty Acid Composition of Epidermal Ceramides in Essential Fatty Acid‐Deficient Guinea Pigs</title>
+         <description>Lipids, EarlyView. </description>
+         <dc:description>
+Abstract
+Borage oil [BO: 40.9% linoleic acid (LNA) and 24.0% γ‐linolenic acid (GLA)] reverses disrupted epidermal lipid barrier in essential fatty acid deficiency (EFAD). We determined the effects of BO on lamellar body (LB) content and LNA and GLA incorporation into epidermal ceramide 1 (CER1) and epidermal ceramide 2 (CER2), major barrier lipids. EFAD was induced in guinea pigs by a diet of 6% hydrogenated coconut oil (HCO) for 10 weeks (group HCO) or 8 weeks followed by 6% BO for 2 weeks (group HCO + BO). LB content and LNA and GLA incorporation into CER1 were higher in group HCO + BO than in group HCO. Small but significant levels of LNA, GLA, and their C20‐metabolized fatty acids [dihomo‐γ‐linolenic acid (DGLA) and arachidonic acid (ARA)] were incorporated into CER2, where ARA was detected at a level lower than LNA, but DGLA incorporation exceeded that for GLA in group HCO + BO. Dietary BO enhanced LB content and differential incorporation of GLA into CER1 and DGLA into CER2.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Borage oil [BO: 40.9% linoleic acid (LNA) and 24.0% γ‐linolenic acid (GLA)] reverses disrupted epidermal lipid barrier in essential fatty acid deficiency (EFAD). We determined the effects of BO on lamellar body (LB) content and LNA and GLA incorporation into epidermal ceramide 1 (CER1) and epidermal ceramide 2 (CER2), major barrier lipids. EFAD was induced in guinea pigs by a diet of 6% hydrogenated coconut oil (HCO) for 10 weeks (group HCO) or 8 weeks followed by 6% BO for 2 weeks (group HCO + BO). LB content and LNA and GLA incorporation into CER1 were higher in group HCO + BO than in group HCO. Small but significant levels of LNA, GLA, and their C20‐metabolized fatty acids [dihomo‐γ‐linolenic acid (DGLA) and arachidonic acid (ARA)] were incorporated into CER2, where ARA was detected at a level lower than LNA, but DGLA incorporation exceeded that for GLA in group HCO + BO. Dietary BO enhanced LB content and differential incorporation of GLA into CER1 and DGLA into CER2.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Kun‐Pyo Kim, 
+Kyong‐Oh Shin, 
+Kyungho Park, 
+Yunhi Cho
+</dc:creator>
+         <category>RAPID COMMUNICATION</category>
+         <dc:title>Borage Oil Enhances Lamellar Body Content and Alters Fatty Acid Composition of Epidermal Ceramides in Essential Fatty Acid‐Deficient Guinea Pigs</dc:title>
+         <dc:identifier>10.1002/lipd.12295</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12295</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12295?af=R</prism:url>
+         <prism:section>RAPID COMMUNICATION</prism:section>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12286?af=R</link>
+         <pubDate>Thu, 17 Dec 2020 22:56:55 -0800</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1002/lipd.12286</guid>
+         <title>Naked Mole‐Rat, a Rodent with an Apolipoprotein A‐I Dimer</title>
+         <description>Lipids, EarlyView. </description>
+         <dc:description>
+Abstract
+A variety of rodents have been used as experimental animals in metabolic studies of plasma lipids and lipoproteins. These studies have included understanding the functional role of apolipoprotein A‐I, the major protein on the surface of HDL. Reviewing the genomic database for entries for rodent apoA‐I genes, it was discovered that the naked mole‐rat (Heterocephalus glaber) gene encoded a protein with a cysteine at residue 28. Previously, two cases have been reported in which human heterozygotes had apoA‐I with cysteine at residues 173 (apoA‐I Milano) or at 151 (apoA‐I Paris). Interestingly, both groups, in spite of having low levels of HDL and moderately elevated plasma triacylglycerols, had no evidence of cardiovascular disease. Moreover, the presence of the cysteine enabled the apoA‐I to form both homodimers and heterodimers. Prior to this report, no other mammalian apoA‐I has been found with a cysteine in its sequence. In addition, the encoded naked mole‐rat protein had different amino acids at sites that were conserved in all other mammals. These differences resulted in naked mole‐rat apoA‐I having an unexpected neutral pI value, whereas other mammalian apoA‐I have negative pI values. To verify these sequence differences and to determine if the N‐terminal location of C28 precluded dimer formation, we conducted mass spectrometry analyses of apoA‐I and other proteins associated with HDL. Consistent with the genomic data, our analyses confirmed the presence of C28 and the formation of a homodimer. Analysis of plasma lipids surprisingly revealed a profile similar to the human heterozygotes.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;A variety of rodents have been used as experimental animals in metabolic studies of plasma lipids and lipoproteins. These studies have included understanding the functional role of apolipoprotein A‐I, the major protein on the surface of HDL. Reviewing the genomic database for entries for rodent &lt;i&gt;apoA‐I&lt;/i&gt; genes, it was discovered that the naked mole‐rat (&lt;i&gt;Heterocephalus glaber&lt;/i&gt;) gene encoded a protein with a cysteine at residue 28. Previously, two cases have been reported in which human heterozygotes had apoA‐I with cysteine at residues 173 (apoA‐I Milano) or at 151 (apoA‐I Paris). Interestingly, both groups, in spite of having low levels of HDL and moderately elevated plasma triacylglycerols, had no evidence of cardiovascular disease. Moreover, the presence of the cysteine enabled the apoA‐I to form both homodimers and heterodimers. Prior to this report, no other mammalian apoA‐I has been found with a cysteine in its sequence. In addition, the encoded naked mole‐rat protein had different amino acids at sites that were conserved in all other mammals. These differences resulted in naked mole‐rat apoA‐I having an unexpected neutral pI value, whereas other mammalian apoA‐I have negative pI values. To verify these sequence differences and to determine if the N‐terminal location of C28 precluded dimer formation, we conducted mass spectrometry analyses of apoA‐I and other proteins associated with HDL. Consistent with the genomic data, our analyses confirmed the presence of C28 and the formation of a homodimer. Analysis of plasma lipids surprisingly revealed a profile similar to the human heterozygotes.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Don L. Puppione, 
+Denise P. Tran, 
+Muhammad A. Zenaidee, 
+Sarada Charugundla, 
+Julian P. Whitelegge, 
+Rochelle Buffenstein
+</dc:creator>
+         <category>ORIGINAL ARTICLE</category>
+         <dc:title>Naked Mole‐Rat, a Rodent with an Apolipoprotein A‐I Dimer</dc:title>
+         <dc:identifier>10.1002/lipd.12286</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12286</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12286?af=R</prism:url>
+         <prism:section>ORIGINAL ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12294?af=R</link>
+         <pubDate>Thu, 10 Dec 2020 22:26:29 -0800</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1002/lipd.12294</guid>
+         <title>miR‐32‐5p Regulates Lipid Accumulation in Intramuscular Fat of Erhualian Pigs by Suppressing KLF3</title>
+         <description>Lipids, EarlyView. </description>
+         <dc:description>
+Abstract
+Intramuscular fat (IMF) and subcutaneous fat (SCF) are important traits affecting the economics of the pork industry, in which less SCF and more IMF content is desirable. However, the mechanisms that regulate IMF and SCF content are not clear yet. In this study, we demonstrate that KLF3 (Krüppel‐like factor 3) was negatively correlated with IMF content in the longissimus dorsi muscle of Erhualian pigs. In addition, the expression level of KLF3 was significantly higher in IMF than SCF. Overexpression and knockdown experiments revealed that KLF3 could suppress adipocyte differentiation in vitro by downregulating adipogenic markers, including PPARG, C/EBPA, and FABP4. Luciferase activity analysis proved that miR‐32‐5p was able to suppress KLF3. Notably, miR‐32‐5p level was negatively correlated to KLF3 mRNA level in both IMF and SCF tissues. The same relationship was proved in samples with different IMF content. Further studies showed that miR‐32‐5p could promote adipocyte differentiation via inhibiting KLF3. Our results suggest that the miR‐32‐5p‐KLF3 pathway is involved in the regulation of differential fat deposition of IMF and SCF tissues.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Intramuscular fat (IMF) and subcutaneous fat (SCF) are important traits affecting the economics of the pork industry, in which less SCF and more IMF content is desirable. However, the mechanisms that regulate IMF and SCF content are not clear yet. In this study, we demonstrate that &lt;i&gt;KLF3&lt;/i&gt; (Krüppel‐like factor 3) was negatively correlated with IMF content in the &lt;i&gt;longissimus dorsi&lt;/i&gt; muscle of Erhualian pigs. In addition, the expression level of &lt;i&gt;KLF3&lt;/i&gt; was significantly higher in IMF than SCF. Overexpression and knockdown experiments revealed that &lt;i&gt;KLF3&lt;/i&gt; could suppress adipocyte differentiation &lt;i&gt;in vitro&lt;/i&gt; by downregulating adipogenic markers, including &lt;i&gt;PPARG&lt;/i&gt;, &lt;i&gt;C/EBPA&lt;/i&gt;, and &lt;i&gt;FABP4&lt;/i&gt;. Luciferase activity analysis proved that miR‐32‐5p was able to suppress &lt;i&gt;KLF3&lt;/i&gt;. Notably, miR‐32‐5p level was negatively correlated to &lt;i&gt;KLF3&lt;/i&gt; mRNA level in both IMF and SCF tissues. The same relationship was proved in samples with different IMF content. Further studies showed that miR‐32‐5p could promote adipocyte differentiation &lt;i&gt;via&lt;/i&gt; inhibiting &lt;i&gt;KLF3&lt;/i&gt;. Our results suggest that the miR‐32‐5p‐&lt;i&gt;KLF3&lt;/i&gt; pathway is involved in the regulation of differential fat deposition of IMF and SCF tissues.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Hongcheng Liu, 
+Wei Wei, 
+Weimin Lin, 
+Wensai Yu, 
+Wu Luo, 
+Yingfang Niu, 
+Lifan Zhang, 
+Jie Chen
+</dc:creator>
+         <category>ORIGINAL ARTICLE</category>
+         <dc:title>miR‐32‐5p Regulates Lipid Accumulation in Intramuscular Fat of Erhualian Pigs by Suppressing KLF3</dc:title>
+         <dc:identifier>10.1002/lipd.12294</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12294</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12294?af=R</prism:url>
+         <prism:section>ORIGINAL ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12293?af=R</link>
+         <pubDate>Mon, 07 Dec 2020 08:13:18 -0800</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1002/lipd.12293</guid>
+         <title>Lipidomic Analysis of Plasma from Healthy Men and Women Shows Phospholipid Class and Molecular Species Differences between Sexes</title>
+         <description>Lipids, EarlyView. </description>
+         <dc:description>
+Abstract
+The phospholipid composition of lipoproteins is determined by the specificity of hepatic phospholipid biosynthesis. Plasma phospholipid 20:4n‐6 and 22:6n‐3 concentrations are higher in women than in men. We used this sex difference in a lipidomics analysis of the impact of endocrine factors on the phospholipid class and molecular species composition of fasting plasma from young men and women. Diester species predominated in all lipid classes measured. 20/54 Phosphatidylcholine (PtdCho) species were alkyl ester, 15/48 phosphatidylethanolamine (PtdEtn) species were alkyl ester, and 12/48 PtdEtn species were alkenyl ester. There were no significant differences between sexes in the proportions of alkyl PtdCho species. The proportion of alkyl ester PtdEtn species was greater in women than men, while the proportion of alkenyl ester PtdEtn species was greater in men than women. None of the phosphatidylinositol (PtdIns) or phosphatidylserine (PtdSer) molecular species contained ether‐linked fatty acids. The proportion of PtdCho16:0_22:6, and the proportions of PtdEtn O‐16:0_20:4 and PtdEtn O‐18:2_20:4 were greater in women than men. There were no sex differences in PtdIns and PtdSer molecular species compositions. These findings show that plasma phospholipids can be modified by sex. Such differences in lipoprotein phospholipid composition could contribute to sexual dimorphism in patterns of health and disease.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The phospholipid composition of lipoproteins is determined by the specificity of hepatic phospholipid biosynthesis. Plasma phospholipid 20:4n‐6 and 22:6n‐3 concentrations are higher in women than in men. We used this sex difference in a lipidomics analysis of the impact of endocrine factors on the phospholipid class and molecular species composition of fasting plasma from young men and women. Diester species predominated in all lipid classes measured. 20/54 Phosphatidylcholine (PtdCho) species were alkyl ester, 15/48 phosphatidylethanolamine (PtdEtn) species were alkyl ester, and 12/48 PtdEtn species were alkenyl ester. There were no significant differences between sexes in the proportions of alkyl PtdCho species. The proportion of alkyl ester PtdEtn species was greater in women than men, while the proportion of alkenyl ester PtdEtn species was greater in men than women. None of the phosphatidylinositol (PtdIns) or phosphatidylserine (PtdSer) molecular species contained ether‐linked fatty acids. The proportion of PtdCho16:0_22:6, and the proportions of PtdEtn O‐16:0_20:4 and PtdEtn O‐18:2_20:4 were greater in women than men. There were no sex differences in PtdIns and PtdSer molecular species compositions. These findings show that plasma phospholipids can be modified by sex. Such differences in lipoprotein phospholipid composition could contribute to sexual dimorphism in patterns of health and disease.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Annette L. West, 
+Louise V. Michaelson, 
+Elizabeth A. Miles, 
+Richard P. Haslam, 
+Karen A. Lillycrop, 
+Ramona Georgescu, 
+Lihua Han, 
+Johnathan A. Napier, 
+Philip C. Calder, 
+Graham C. Burdge
+</dc:creator>
+         <category>ORIGINAL ARTICLE</category>
+         <dc:title>Lipidomic Analysis of Plasma from Healthy Men and Women Shows Phospholipid Class and Molecular Species Differences between Sexes</dc:title>
+         <dc:identifier>10.1002/lipd.12293</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12293</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12293?af=R</prism:url>
+         <prism:section>ORIGINAL ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12291?af=R</link>
+         <pubDate>Tue, 10 Nov 2020 20:44:34 -0800</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1002/lipd.12291</guid>
+         <title>Higher Increase in Plasma DHA in Females Compared to Males Following EPA Supplementation May Be Influenced by a Polymorphism in ELOVL2: An Exploratory Study</title>
+         <description>Lipids, EarlyView. </description>
+         <dc:description>
+Abstract
+Young adult females have higher blood docosahexaenoic acid (DHA), 22:6n‐3 levels than males, and this is believed to be due to higher DHA synthesis rates, although DHA may also accumulate due to a longer half‐life or a combination of both. However, sex differences in blood fatty acid responses to eicosapentaenoic acid (EPA), 20:5n‐3 or DHA supplementation have not been fully investigated. In this exploratory analysis, females and males (n = 14–15 per group) were supplemented with 3 g/day EPA, 3 g/day DHA, or olive oil control for 12 weeks. Plasma was analyzed for sex effects at baseline and changes following 12 weeks' supplementation for fatty acid levels and carbon‐13 signature (δ13C). Following EPA supplementation, the increase in plasma DHA in females (+23.8 ± 11.8, nmol/mL ± SEM) was higher than males (−13.8 ± 9.2, p &lt; 0.01). The increase in plasma δ13C‐DHA of females (+2.79 ± 0.31, milliUrey (mUr ± SEM) compared with males (+1.88 ± 0.44) did not reach statistical significance (p = 0.10). The sex effect appears driven largely by increased plasma DHA in the AA genotype of females (+58.8 ± 11.5, nmol/mL ± SEM, n = 5) compared to GA + GG in females (+4.34 ± 13.5, n = 9) and AA in males (−29.1 ± 17.2, n = 6) for rs953413 in the ELOVL2 gene (p &lt; 0.001). In conclusion, EPA supplementation increases plasma DHA levels in females compared to males, which may be dependent on the AA genotype for rs953413 in ELOVL2.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Young adult females have higher blood docosahexaenoic acid (DHA), 22:6n‐3 levels than males, and this is believed to be due to higher DHA synthesis rates, although DHA may also accumulate due to a longer half‐life or a combination of both. However, sex differences in blood fatty acid responses to eicosapentaenoic acid (EPA), 20:5n‐3 or DHA supplementation have not been fully investigated. In this exploratory analysis, females and males (n = 14–15 per group) were supplemented with 3 g/day EPA, 3 g/day DHA, or olive oil control for 12 weeks. Plasma was analyzed for sex effects at baseline and changes following 12 weeks' supplementation for fatty acid levels and carbon‐13 signature (δ&lt;sup&gt;13&lt;/sup&gt;C). Following EPA supplementation, the increase in plasma DHA in females (+23.8 ± 11.8, nmol/mL ± SEM) was higher than males (−13.8 ± 9.2, &lt;i&gt;p&lt;/i&gt; &amp;lt; 0.01). The increase in plasma δ&lt;sup&gt;13&lt;/sup&gt;C‐DHA of females (+2.79 ± 0.31, milliUrey (mUr ± SEM) compared with males (+1.88 ± 0.44) did not reach statistical significance (&lt;i&gt;p&lt;/i&gt; = 0.10). The sex effect appears driven largely by increased plasma DHA in the AA genotype of females (+58.8 ± 11.5, nmol/mL ± SEM, n = 5) compared to GA + GG in females (+4.34 ± 13.5, n = 9) and AA in males (−29.1 ± 17.2, n = 6) for rs953413 in the &lt;i&gt;ELOVL2&lt;/i&gt; gene (&lt;i&gt;p&lt;/i&gt; &amp;lt; 0.001). In conclusion, EPA supplementation increases plasma DHA levels in females compared to males, which may be dependent on the AA genotype for rs953413 in &lt;i&gt;ELOVL2&lt;/i&gt;.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Adam H. Metherel, 
+Maha Irfan, 
+Shannon L. Klingel, 
+David M. Mutch, 
+Richard P. Bazinet
+</dc:creator>
+         <category>ORIGINAL ARTICLE</category>
+         <dc:title>Higher Increase in Plasma DHA in Females Compared to Males Following EPA Supplementation May Be Influenced by a Polymorphism in ELOVL2: An Exploratory Study</dc:title>
+         <dc:identifier>10.1002/lipd.12291</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12291</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12291?af=R</prism:url>
+         <prism:section>ORIGINAL ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12292?af=R</link>
+         <pubDate>Mon, 09 Nov 2020 21:37:29 -0800</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1002/lipd.12292</guid>
+         <title>Simple, Rapid Lipidomic Analysis of Triacylglycerols in Bovine Milk by Infusion‐Electrospray Mass Spectrometry</title>
+         <description>Lipids, EarlyView. </description>
+         <dc:description>
+Abstract
+Bovine milk is a complex mixture of lipids, proteins, carbohydrates, and other factors of which lipids comprise 3–5% of the total mass. Rapid analysis and characterization of the triacylglycerols (TAG) that comprise about 95% of the total lipid is daunting given the numerous TAG species. In the attached methods paper, we demonstrate an improved method for identifying and quantifying TAG species by infusion‐based “shotgun” lipidomics. Because of the broad range of TAG species in milk, a single internal standard was insufficient for the analysis and required sectioning the spectrum into three portions based upon mass range to provide accurate quantitation of TAG species. Isobaric phospholipid interferences were removed using a simple dispersive solid‐phase extraction step. Using this method, &gt; 100 TAG species were quantitated by acyl carbon number and desaturation level in a sample of commercially purchased bovine milk.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Bovine milk is a complex mixture of lipids, proteins, carbohydrates, and other factors of which lipids comprise 3–5% of the total mass. Rapid analysis and characterization of the triacylglycerols (TAG) that comprise about 95% of the total lipid is daunting given the numerous TAG species. In the attached methods paper, we demonstrate an improved method for identifying and quantifying TAG species by infusion‐based “shotgun” lipidomics. Because of the broad range of TAG species in milk, a single internal standard was insufficient for the analysis and required sectioning the spectrum into three portions based upon mass range to provide accurate quantitation of TAG species. Isobaric phospholipid interferences were removed using a simple dispersive solid‐phase extraction step. Using this method, &amp;gt; 100 TAG species were quantitated by acyl carbon number and desaturation level in a sample of commercially purchased bovine milk.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Michael R. Bukowski, 
+Matthew J. Picklo
+</dc:creator>
+         <category>METHODS</category>
+         <dc:title>Simple, Rapid Lipidomic Analysis of Triacylglycerols in Bovine Milk by Infusion‐Electrospray Mass Spectrometry</dc:title>
+         <dc:identifier>10.1002/lipd.12292</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12292</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12292?af=R</prism:url>
+         <prism:section>METHODS</prism:section>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12290?af=R</link>
+         <pubDate>Thu, 29 Oct 2020 00:49:53 -0700</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1002/lipd.12290</guid>
+         <title>Network Medicine Approach in Prevention and Personalized Treatment of Dyslipidemias</title>
+         <description>Lipids, EarlyView. </description>
+         <dc:description>
+Abstract
+Dyslipidemias can affect molecular networks underlying the metabolic homeostasis and vascular function leading to atherogenesis at early stages of development. Since disease‐related proteins often interact with each other in functional modules, many advanced network‐oriented algorithms were applied to patient‐derived big data to identify the complex gene–environment interactions underlying the early pathophysiology of dyslipidemias and atherosclerosis. Both the proprotein convertase subtilisin/kexin type 7 (PCSK7) and collagen type 1 alpha 1 chain (COL1A1) genes arose from the application of TFfit and WGCNA algorithms, respectively, as potential useful therapeutic targets in prevention of dyslipidemias. Moreover, the Seed Connector algorithm (SCA) algorithm suggested a putative role of the neuropilin‐1 (NRP1) protein as drug target, whereas a regression network analysis reported that niacin may provide benefits in mixed dyslipidemias. Dyslipidemias are highly heterogeneous at the clinical level; thus, it would be helpful to overcome traditional evidence‐based paradigm toward a personalized risk assessment and therapy. Network Medicine uses omics data, artificial intelligence (AI), imaging tools, and clinical information to design personalized therapy of dyslipidemias and atherosclerosis. Recently, a novel non‐invasive AI‐derived biomarker, named Fat Attenuation Index (FAI™) has been established to early detect clinical signs of atherosclerosis. Moreover, an integrated AI‐radiomics approach can detect fibrosis and microvascular remodeling improving the customized risk assessment. Here, we offer a network‐based roadmap ranging from novel molecular pathways to digital therapeutics which can improve personalized therapy of dyslipidemias.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Dyslipidemias can affect molecular networks underlying the metabolic homeostasis and vascular function leading to atherogenesis at early stages of development. Since disease‐related proteins often interact with each other in functional modules, many advanced network‐oriented algorithms were applied to patient‐derived big data to identify the complex gene–environment interactions underlying the early pathophysiology of dyslipidemias and atherosclerosis. &lt;i&gt;Both the&lt;/i&gt; proprotein convertase subtilisin/kexin type 7 (&lt;i&gt;PCSK7) and&lt;/i&gt; collagen type 1 alpha 1 chain (&lt;i&gt;COL1A1&lt;/i&gt;) &lt;i&gt;genes arose from the application of TFfit and WGCNA algorithms, respectively,&lt;/i&gt; as potential useful therapeutic targets in prevention of dyslipidemias. &lt;i&gt;Moreover, the&lt;/i&gt; Seed Connector algorithm (&lt;i&gt;SCA) algorithm suggested a putative role of the&lt;/i&gt; neuropilin‐1 (NRP1) protein as drug target, whereas a regression network analysis reported that niacin may provide benefits in mixed dyslipidemias. Dyslipidemias are highly heterogeneous at the clinical level; thus, it would be helpful to overcome traditional evidence‐based paradigm toward a personalized risk assessment and therapy. Network Medicine uses omics data, artificial intelligence (AI), imaging tools, and clinical information to design personalized therapy of dyslipidemias and atherosclerosis. Recently, a novel non‐invasive AI‐derived biomarker, named Fat Attenuation Index (FAI™) has been established to early detect clinical signs of atherosclerosis. Moreover, an integrated AI‐radiomics approach can detect fibrosis and microvascular remodeling improving the customized risk assessment. Here, we offer a network‐based roadmap ranging from novel molecular pathways to digital therapeutics which can improve personalized therapy of dyslipidemias.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Giuditta Benincasa, 
+Paola Candia, 
+Dario Costa, 
+Mario Faenza, 
+Gelsomina Mansueto, 
+Giuseppe Ambrosio, 
+Claudio Napoli
+</dc:creator>
+         <category>REVIEW</category>
+         <dc:title>Network Medicine Approach in Prevention and Personalized Treatment of Dyslipidemias</dc:title>
+         <dc:identifier>10.1002/lipd.12290</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12290</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12290?af=R</prism:url>
+         <prism:section>REVIEW</prism:section>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12289?af=R</link>
+         <pubDate>Mon, 19 Oct 2020 05:45:21 -0700</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1002/lipd.12289</guid>
+         <title>Role of n‐3 Fatty Acids on Bile Acid Metabolism and Transport in Dyslipidemia: A Review</title>
+         <description>Lipids, EarlyView. </description>
+         <dc:description>
+Abstract
+Dietary n‐3 fatty acids, especially of marine origin, eicosapentaenoic acid (20:5n‐3) and docosahexaenoic acid (22:6n‐3), have always been lauded for their profound effects on regulating the risk factors for major metabolic disorders. Yet, their consumption rate is poor compared to n‐6 fatty acids [linoleic acid (18:2n‐6)], which are predominantly consumed. Hence, the skewed n‐6 to n‐3 fatty acid ratio may have a bearing on the risk factors of various diseases, including dyslipidemia. Dyslipidemia and other lifestyle diseases associated with it, such as diabetes, obesity, hypertension, are a growing concern in both developed and developing countries. A common strategy for addressing dyslipidemia involves bile acid (BA) sequestration, to interrupt the enterohepatic circulation of BA, resulting in the modulation of lipid absorption in the intestine, thereby normalizing the levels of circulating lipids. The BA homeostasis is under the tight control of hepatic and enteric BA transporters. Many investigations have reported the effects of dietary constituents, including certain fatty acids on the reabsorption and transport of BA. However, a critical review of the effects of n‐3 fatty acids on BA metabolism and transport is not available. The present review attempts to explore certain unmapped facets of the n‐3 fatty acids on BA metabolism and transport in dyslipidemia, and their interplay with biological processes involving lipid rafts and gut microbiome.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Dietary n‐3 fatty acids, especially of marine origin, eicosapentaenoic acid (20:5n‐3) and docosahexaenoic acid (22:6n‐3), have always been lauded for their profound effects on regulating the risk factors for major metabolic disorders. Yet, their consumption rate is poor compared to n‐6 fatty acids [linoleic acid (18:2n‐6)], which are predominantly consumed. Hence, the skewed n‐6 to n‐3 fatty acid ratio may have a bearing on the risk factors of various diseases, including dyslipidemia. Dyslipidemia and other lifestyle diseases associated with it, such as diabetes, obesity, hypertension, are a growing concern in both developed and developing countries. A common strategy for addressing dyslipidemia involves bile acid (BA) sequestration, to interrupt the enterohepatic circulation of BA, resulting in the modulation of lipid absorption in the intestine, thereby normalizing the levels of circulating lipids. The BA homeostasis is under the tight control of hepatic and enteric BA transporters. Many investigations have reported the effects of dietary constituents, including certain fatty acids on the reabsorption and transport of BA. However, a critical review of the effects of n‐3 fatty acids on BA metabolism and transport is not available. The present review attempts to explore certain unmapped facets of the n‐3 fatty acids on BA metabolism and transport in dyslipidemia, and their interplay with biological processes involving lipid rafts and gut microbiome.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Pooja Acharya, 
+Vinayak Uppin, 
+Mehrdad Zarei, 
+Ramaprasad R. Talahalli
+</dc:creator>
+         <category>REVIEW</category>
+         <dc:title>Role of n‐3 Fatty Acids on Bile Acid Metabolism and Transport in Dyslipidemia: A Review</dc:title>
+         <dc:identifier>10.1002/lipd.12289</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12289</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12289?af=R</prism:url>
+         <prism:section>REVIEW</prism:section>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12287?af=R</link>
+         <pubDate>Tue, 13 Oct 2020 02:41:40 -0700</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1002/lipd.12287</guid>
+         <title>Hepatic Fatty Acid and Transcriptome Profiles during the Transition from Vegetable‐ to Fish Oil‐Based Diets in Rainbow Trout (Oncorhynchus mykiss)</title>
+         <description>Lipids, EarlyView. </description>
+         <dc:description>
+Abstract
+A finishing diet strategy is effective at increasing fillet long‐chain n‐3 fatty acid content in fish consuming sustainable plant oil‐based diets. This study investigates the outcomes of a fish oil finishing diet upon the hepatic fatty acid and transcriptome profile in rainbow trout (Oncorhynchus mykiss). Fish were placed on one of three feeding treatments: (1) FO: a fish oil (FO) diet for 20 weeks, (2) VO/FO: a vegetable oil (VO) diet during weeks 1–12 then the FO diet for 8 weeks, or (3) VO/fd/FO: the VO diet between weeks 1–12, 2 weeks of feed deprivation, then the FO diet for 6 weeks. Hepatic fatty acid and transcriptome profiles were analyzed at week 12, 14, and 20. Hepatic fatty acid profiles at week 12 were similar to dietary profiles; transcriptomic analyses indicated 131 differentially regulated genes (DEG) between VO‐ and FO‐fed fish, characterized by VO‐induced up‐regulation of cholesterol and long‐chain fatty acyl‐CoA synthesis and oxidation–reduction processes. At week 14, the hepatic fatty acid profile was similar between VO/FO and FO, although concentrations of 18:3n‐3 remained higher in the VO/FO group. Thirty‐three DEG were detected at week 14 with enrichment of genes associated with extracellular matrix assembly, supporting liver remodeling during the early finishing diet period. Only five DEG were detected at week 20 between VO/FO and FO. Collectively, these findings suggest that it takes several weeks for liver to reach a homeostatic state, even after the hepatic fatty acid equilibration following a finishing diet.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;A finishing diet strategy is effective at increasing fillet long‐chain n‐3 fatty acid content in fish consuming sustainable plant oil‐based diets. This study investigates the outcomes of a fish oil finishing diet upon the hepatic fatty acid and transcriptome profile in rainbow trout (&lt;i&gt;Oncorhynchus mykiss&lt;/i&gt;). Fish were placed on one of three feeding treatments: (1) FO: a fish oil (FO) diet for 20 weeks, (2) VO/FO: a vegetable oil (VO) diet during weeks 1–12 then the FO diet for 8 weeks, or (3) VO/fd/FO: the VO diet between weeks 1–12, 2 weeks of feed deprivation, then the FO diet for 6 weeks. Hepatic fatty acid and transcriptome profiles were analyzed at week 12, 14, and 20. Hepatic fatty acid profiles at week 12 were similar to dietary profiles; transcriptomic analyses indicated 131 differentially regulated genes (DEG) between VO‐ and FO‐fed fish, characterized by VO‐induced up‐regulation of cholesterol and long‐chain fatty acyl‐CoA synthesis and oxidation–reduction processes. At week 14, the hepatic fatty acid profile was similar between VO/FO and FO, although concentrations of 18:3n‐3 remained higher in the VO/FO group. Thirty‐three DEG were detected at week 14 with enrichment of genes associated with extracellular matrix assembly, supporting liver remodeling during the early finishing diet period. Only five DEG were detected at week 20 between VO/FO and FO. Collectively, these findings suggest that it takes several weeks for liver to reach a homeostatic state, even after the hepatic fatty acid equilibration following a finishing diet.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Beth M. Cleveland, 
+Guangtu Gao, 
+Lisa M. Radler, 
+Matthew J. Picklo
+</dc:creator>
+         <category>ORIGINAL ARTICLE</category>
+         <dc:title>Hepatic Fatty Acid and Transcriptome Profiles during the Transition from Vegetable‐ to Fish Oil‐Based Diets in Rainbow Trout (Oncorhynchus mykiss)</dc:title>
+         <dc:identifier>10.1002/lipd.12287</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12287</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12287?af=R</prism:url>
+         <prism:section>ORIGINAL ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12288?af=R</link>
+         <pubDate>Mon, 12 Oct 2020 19:34:37 -0700</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1002/lipd.12288</guid>
+         <title>The Fatty Acid Composition of Human Follicular Fluid Is Altered by a 6‐Week Dietary Intervention That Includes Marine Omega‐3 Fatty Acids</title>
+         <description>Lipids, EarlyView. </description>
+         <dc:description>
+Abstract
+The fatty acid composition of human follicular fluid is important for oocyte development and for pregnancy following in vitro fertilization (IVF). This study investigated whether a dietary intervention that included an increase in marine omega‐3 fatty acids, olive oil and vitamin D alters the fatty acid composition of human follicular fluid. The association of lifestyle factors with follicular fluid fatty acid composition was also investigated. Fifty‐five couples awaiting IVF were randomized to receive the 6‐week treatment intervention of olive oil for cooking, an olive oil‐based spread, and a daily supplement drink enriched with vitamin D and the marine omega‐3 fatty acids docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA) and 56 couples were randomized to receive placebo equivalents. Dietary questionnaires were completed, and samples of blood were taken before and after the intervention. Follicular fluid was collected at oocyte retrieval and the fatty acid profile assessed using gas chromatography. In the control group, individual fatty acids in red blood cells and follicular fluid were significantly correlated. Furthermore, a healthier diet was associated with a lower percentage of follicular fluid arachidonic acid. The follicular fluid of women in the treatment group contained significantly higher amounts of EPA and DHA compared to the control group, while the omega‐6 fatty acids linoleic, γ‐linolenic, dihomo‐γ‐linolenic, and arachidonic were lower. This is the first report of a dietary intervention altering the fatty acid composition of follicular fluid in humans. Further research is required to determine whether this intervention improves oocyte quality.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The fatty acid composition of human follicular fluid is important for oocyte development and for pregnancy following &lt;i&gt;in vitro&lt;/i&gt; fertilization (IVF). This study investigated whether a dietary intervention that included an increase in marine omega‐3 fatty acids, olive oil and vitamin D alters the fatty acid composition of human follicular fluid. The association of lifestyle factors with follicular fluid fatty acid composition was also investigated. Fifty‐five couples awaiting IVF were randomized to receive the 6‐week treatment intervention of olive oil for cooking, an olive oil‐based spread, and a daily supplement drink enriched with vitamin D and the marine omega‐3 fatty acids docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA) and 56 couples were randomized to receive placebo equivalents. Dietary questionnaires were completed, and samples of blood were taken before and after the intervention. Follicular fluid was collected at oocyte retrieval and the fatty acid profile assessed using gas chromatography. In the control group, individual fatty acids in red blood cells and follicular fluid were significantly correlated. Furthermore, a healthier diet was associated with a lower percentage of follicular fluid arachidonic acid. The follicular fluid of women in the treatment group contained significantly higher amounts of EPA and DHA compared to the control group, while the omega‐6 fatty acids linoleic, γ‐linolenic, dihomo‐γ‐linolenic, and arachidonic were lower. This is the first report of a dietary intervention altering the fatty acid composition of follicular fluid in humans. Further research is required to determine whether this intervention improves oocyte quality.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Alexandra J. Kermack, 
+Susan J. Wellstead, 
+Helena L. Fisk, 
+Ying Cheong, 
+Franchesca D. Houghton, 
+Nicholas S. Macklon, 
+Philip C. Calder
+</dc:creator>
+         <category>ORIGINAL ARTICLE</category>
+         <dc:title>The Fatty Acid Composition of Human Follicular Fluid Is Altered by a 6‐Week Dietary Intervention That Includes Marine Omega‐3 Fatty Acids</dc:title>
+         <dc:identifier>10.1002/lipd.12288</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12288</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12288?af=R</prism:url>
+         <prism:section>ORIGINAL ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12285?af=R</link>
+         <pubDate>Wed, 30 Sep 2020 01:09:53 -0700</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1002/lipd.12285</guid>
+         <title>Mass Spectrometric Analysis of Sphingomyelin with N‐α‐Hydroxy Fatty Acyl Residue in Mouse Tissues</title>
+         <description>Lipids, EarlyView. </description>
+         <dc:description>
+Abstract
+Sphingomyelin (SM) with N‐α‐hydroxy fatty acyl residues (hSM) has been shown to occur in mammalian skin and digestive epithelia. However, the metabolism and physiological relevance of this characteristic SM species have not been fully elucidated yet. Here, we show methods for mass spectrometric characterization and quantification of hSM. The hSM in mouse skin was isolated by TLC. The hydroxy hexadecanoyl residue was confirmed by electron impact ionization‐induced fragmentation in gas chromatography–mass spectrometry. Mass shift analysis of acetylated hSM by time of flight mass spectrometry revealed the number of hydroxyl groups in the molecule. After correcting the difference in detection efficacy, hSM in mouse skin and intestinal mucosa were quantified by liquid chromatography–tandem mass spectrometry, and found to be 16.5 ± 2.0 and 0.8 ± 0.4 nmol/μmol phospholipid, respectively. The methods described here are applicable to biological experiments on hSM in epithelia of the body surface and digestive tract.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Sphingomyelin (SM) with &lt;i&gt;N&lt;/i&gt;‐α‐hydroxy fatty acyl residues (hSM) has been shown to occur in mammalian skin and digestive epithelia. However, the metabolism and physiological relevance of this characteristic SM species have not been fully elucidated yet. Here, we show methods for mass spectrometric characterization and quantification of hSM. The hSM in mouse skin was isolated by TLC. The hydroxy hexadecanoyl residue was confirmed by electron impact ionization‐induced fragmentation in gas chromatography–mass spectrometry. Mass shift analysis of acetylated hSM by time of flight mass spectrometry revealed the number of hydroxyl groups in the molecule. After correcting the difference in detection efficacy, hSM in mouse skin and intestinal mucosa were quantified by liquid chromatography–tandem mass spectrometry, and found to be 16.5 ± 2.0 and 0.8 ± 0.4 nmol/μmol phospholipid, respectively. The methods described here are applicable to biological experiments on hSM in epithelia of the body surface and digestive tract.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Hanif Ali, 
+Ryouhei Yamashita, 
+Jun‐ichi Morishige, 
+Katsuya Morito, 
+Naoya Kakiuchi, 
+Junji Hayashi, 
+Mutsumi Aihara, 
+Ryushi Kawakami, 
+Koichiro Tsuchiya, 
+Tamotsu Tanaka
+</dc:creator>
+         <category>METHODS</category>
+         <dc:title>Mass Spectrometric Analysis of Sphingomyelin with N‐α‐Hydroxy Fatty Acyl Residue in Mouse Tissues</dc:title>
+         <dc:identifier>10.1002/lipd.12285</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12285</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12285?af=R</prism:url>
+         <prism:section>METHODS</prism:section>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12283?af=R</link>
+         <pubDate>Tue, 29 Sep 2020 00:06:51 -0700</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1002/lipd.12283</guid>
+         <title>Dietary PlsEtn Ameliorates Colon Mucosa Inflammatory Stress and ACF in DMH‐Induced Colon Carcinogenesis Mice: Protective Role of Vinyl Ether Linkage</title>
+         <description>Lipids, EarlyView. </description>
+         <dc:description>
+Abstract
+Ethanolamine plasmalogen (PlsEtn), a sub‐class of ethanolamine glycerophospholipids (EtnGpl), is a universal phospholipid in mammalian membranes. Several researchers are interested in the relationship between colon carcinogenesis and colon PlsEtn levels. Here, we evaluated the functional role of dietary purified EtnGpl from the ascidian muscle (87.3 mol% PlsEtn in EtnGpl) and porcine liver (7.2 mol% PlsEtn in EtnGpl) in 1,2‐dimethylhydrazine (DMH)‐induced aberrant crypt foci (ACF) in vivo, and elucidated the possible underlying mechanisms behind it. Dietary EtnGpl‐suppressed DMH‐induced aberrant crypt with one foci (AC1) and total ACF formation (P &lt; 0.05). ACF suppression by dietary ascidian muscle EtnGpl was higher compared with dietary porcine liver EtnGpl. Additionally, dietary EtnGpl decreased DMH‐induced oxidative damage, overproduction of TNF‐α, and expression of apoptosis‐related proteins in the colon mucosa. The effect of dietary ascidian muscle EtnGpl showed superiority compared with dietary porcine liver EtnGpl. Our results demonstrate the mechanisms by which dietary PlsEtn suppress ACF formation and apoptosis. Dietary PlsEtn attained this suppression by reducing colon inflammation and oxidative stress hence a reduction in DMH‐induced intestinal impairment. These findings provide new insights about the functional role of dietary PlsEtn during colon carcinogenesis.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Ethanolamine plasmalogen (PlsEtn), a sub‐class of ethanolamine glycerophospholipids (EtnGpl), is a universal phospholipid in mammalian membranes. Several researchers are interested in the relationship between colon carcinogenesis and colon PlsEtn levels. Here, we evaluated the functional role of dietary purified EtnGpl from the ascidian muscle (87.3 mol% PlsEtn in EtnGpl) and porcine liver (7.2 mol% PlsEtn in EtnGpl) in 1,2‐dimethylhydrazine (DMH)‐induced aberrant crypt foci (ACF) &lt;i&gt;in vivo,&lt;/i&gt; and elucidated the possible underlying mechanisms behind it. Dietary EtnGpl‐suppressed DMH‐induced aberrant crypt with one foci (AC1) and total ACF formation (&lt;i&gt;P&lt;/i&gt; &amp;lt; 0.05). ACF suppression by dietary ascidian muscle EtnGpl was higher compared with dietary porcine liver EtnGpl. Additionally, dietary EtnGpl decreased DMH‐induced oxidative damage, overproduction of TNF‐α, and expression of apoptosis‐related proteins in the colon mucosa. The effect of dietary ascidian muscle EtnGpl showed superiority compared with dietary porcine liver EtnGpl. Our results demonstrate the mechanisms by which dietary PlsEtn suppress ACF formation and apoptosis. Dietary PlsEtn attained this suppression by reducing colon inflammation and oxidative stress hence a reduction in DMH‐induced intestinal impairment. These findings provide new insights about the functional role of dietary PlsEtn during colon carcinogenesis.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Ephantus Nguma, 
+Yuki Tominaga, 
+Shinji Yamashita, 
+Yurika Otoki, 
+Ayaka Yamamoto, 
+Kiyotaka Nakagawa, 
+Teruo Miyazawa, 
+Mikio Kinoshita
+</dc:creator>
+         <category>ORIGINAL ARTICLE</category>
+         <dc:title>Dietary PlsEtn Ameliorates Colon Mucosa Inflammatory Stress and ACF in DMH‐Induced Colon Carcinogenesis Mice: Protective Role of Vinyl Ether Linkage</dc:title>
+         <dc:identifier>10.1002/lipd.12283</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12283</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12283?af=R</prism:url>
+         <prism:section>ORIGINAL ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12282?af=R</link>
+         <pubDate>Thu, 24 Sep 2020 16:20:15 -0700</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1002/lipd.12282</guid>
+         <title>S1P Lyase siRNA Dampens Malignancy of DLD‐1 Colorectal Cancer Cells</title>
+         <description>Lipids, EarlyView. </description>
+         <dc:description>
+Abstract
+Sphingosine‐1‐phosphate lyase 1 (S1P lyase or SGPL1) is an essential sphingosine‐1‐phosphate‐degrading enzyme. Its manipulation favors onset and progression of colorectal cancer and others in vivo. Thus, SGPL1 is an important modulator of cancer initiation. However, in established cancer, the impact of retrospective SGPL1 modulation is elusive. Herein, we analyzed how SGPL1 siRNA affects malignancy of the human colorectal cancer cells DLD‐1 and found that in parallel to the reduction of SGPL1 expression levels, migration, invasion, and differentiation status changed. Diminished SGPL1 expression was accompanied with reduced cell migration and cell invasion in scratch assays and transwell assays, whereas metabolic activity and proliferation was not altered. Decreased migration was attended by increased cell–cell‐adhesion through upregulation of E‐cadherin and formation of cadherin‐actin complexes. Spreading cell islets showed lower vimentin abundance in border cells. Furthermore, SGPL1 siRNA treatment induced expression of epithelial cell differentiation markers, such as intestinal alkaline phosphatase and cytokeratin 20. Hence, interference with SGPL1 expression augmented a partial redifferentiation of colorectal cancer cells toward normal colon epithelial cells. Our investigation showed that SGPL1 siRNA influenced tumorigenic activity of established colorectal cancer cells. We therefore suggest SGPL1 as a target for lowering malignant potential of already existing cancer.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Sphingosine‐1‐phosphate lyase 1 (S1P lyase or SGPL1) is an essential sphingosine‐1‐phosphate‐degrading enzyme. Its manipulation favors onset and progression of colorectal cancer and others &lt;i&gt;in vivo&lt;/i&gt;. Thus, SGPL1 is an important modulator of cancer initiation. However, in established cancer, the impact of retrospective SGPL1 modulation is elusive. Herein, we analyzed how SGPL1 siRNA affects malignancy of the human colorectal cancer cells DLD‐1 and found that in parallel to the reduction of SGPL1 expression levels, migration, invasion, and differentiation status changed. Diminished SGPL1 expression was accompanied with reduced cell migration and cell invasion in scratch assays and transwell assays, whereas metabolic activity and proliferation was not altered. Decreased migration was attended by increased cell–cell‐adhesion through upregulation of E‐cadherin and formation of cadherin‐actin complexes. Spreading cell islets showed lower vimentin abundance in border cells. Furthermore, SGPL1 siRNA treatment induced expression of epithelial cell differentiation markers, such as intestinal alkaline phosphatase and cytokeratin 20. Hence, interference with SGPL1 expression augmented a partial redifferentiation of colorectal cancer cells toward normal colon epithelial cells. Our investigation showed that SGPL1 siRNA influenced tumorigenic activity of established colorectal cancer cells. We therefore suggest SGPL1 as a target for lowering malignant potential of already existing cancer.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Wajiha Farha Faqar‐Uz‐Zaman, 
+Katrin G. Schmidt, 
+Dominique Thomas, 
+Josef M. Pfeilschifter, 
+Heinfried H. Radeke, 
+Anja Schwiebs
+</dc:creator>
+         <category>ORIGINAL ARTICLE</category>
+         <dc:title>S1P Lyase siRNA Dampens Malignancy of DLD‐1 Colorectal Cancer Cells</dc:title>
+         <dc:identifier>10.1002/lipd.12282</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12282</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12282?af=R</prism:url>
+         <prism:section>ORIGINAL ARTICLE</prism:section>
+      </item>
+      <item>
+         <link>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12281?af=R</link>
+         <pubDate>Tue, 15 Sep 2020 07:35:04 -0700</pubDate>
+         <source url="https://aocs.onlinelibrary.wiley.com/journal/15589307?af=R">Wiley: Lipids: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1002/lipd.12281</guid>
+         <title>Krill Oil Perturbs Proliferation and Migration of Mouse Colon Cancer Cells in vitro by Impeding Extracellular Signal‐Regulated Protein Kinase Signaling Pathway</title>
+         <description>Lipids, EarlyView. </description>
+         <dc:description>
+Abstract
+The prevalence of colorectal cancer (CRC) continues to increase. Treatment of CRC remains a significant clinical challenge, and effective therapies for advanced CRC are desperately needed. Increasing attention and ongoing research efforts have focused on krill oil that may provide health benefits to the human body. Here we report that krill oil exerts in vitro anticancer activity through a direct inhibition on proliferation, colony formation, migration, and invasion of mouse colon cancer cells. Krill oil inhibited the proliferation and colony formation of CT‐26 colon cancer cells by causing G0/G1 cell cycle arrest and apoptosis. Cell cycle arrest was attributable to reduction of cyclin D1 levels in krill oil‐treated cells. Further studies revealed that krill oil induced mitochondrial‐dependent apoptosis of CT‐26 cells, including loss of mitochondrial membrane potential, increased cytosolic calcium levels, activation of caspase‐3, and downregulation of anti‐apoptotic proteins MCL‐1 and BCL‐XL. Krill oil suppressed migration of CT‐26 cells by disrupting the microfilaments and microtubules. Extracellular signal‐regulated protein kinase (ERK) plays crucial roles in regulating proliferation and migration of cancer cells. We found that krill oil attenuated the activation of ERK signaling pathway to exert the effects on cell cycle, apoptosis, and migration of colon cancer cells. We speculate that polyunsaturated fatty acids of krill oil may dampen ERK activation by decreasing the phospholipid saturation of cell membrane. Although findings from in vitro studies may not necessarily translate in vivo, our study provides insights into the possibility that krill oil or its components could have therapeutic potential in colon cancer.
+</dc:description>
+         <content:encoded>
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The prevalence of colorectal cancer (CRC) continues to increase. Treatment of CRC remains a significant clinical challenge, and effective therapies for advanced CRC are desperately needed. Increasing attention and ongoing research efforts have focused on krill oil that may provide health benefits to the human body. Here we report that krill oil exerts &lt;i&gt;in vitro&lt;/i&gt; anticancer activity through a direct inhibition on proliferation, colony formation, migration, and invasion of mouse colon cancer cells. Krill oil inhibited the proliferation and colony formation of CT‐26 colon cancer cells by causing G0/G1 cell cycle arrest and apoptosis. Cell cycle arrest was attributable to reduction of cyclin D1 levels in krill oil‐treated cells. Further studies revealed that krill oil induced mitochondrial‐dependent apoptosis of CT‐26 cells, including loss of mitochondrial membrane potential, increased cytosolic calcium levels, activation of caspase‐3, and downregulation of anti‐apoptotic proteins MCL‐1 and BCL‐XL. Krill oil suppressed migration of CT‐26 cells by disrupting the microfilaments and microtubules. Extracellular signal‐regulated protein kinase (ERK) plays crucial roles in regulating proliferation and migration of cancer cells. We found that krill oil attenuated the activation of ERK signaling pathway to exert the effects on cell cycle, apoptosis, and migration of colon cancer cells. We speculate that polyunsaturated fatty acids of krill oil may dampen ERK activation by decreasing the phospholipid saturation of cell membrane. Although findings from &lt;i&gt;in vitro&lt;/i&gt; studies may not necessarily translate &lt;i&gt;in vivo&lt;/i&gt;, our study provides insights into the possibility that krill oil or its components could have therapeutic potential in colon cancer.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Weiqiang Jing, 
+Yuxuan Bi, 
+Ganyu Wang, 
+Shuyan Zeng, 
+Lihui Han, 
+Hui Yang, 
+Na Wang, 
+Yunxue Zhao
+</dc:creator>
+         <category>ORIGINAL ARTICLE</category>
+         <dc:title>Krill Oil Perturbs Proliferation and Migration of Mouse Colon Cancer Cells in vitro by Impeding Extracellular Signal‐Regulated Protein Kinase Signaling Pathway</dc:title>
+         <dc:identifier>10.1002/lipd.12281</dc:identifier>
+         <prism:publicationName>Lipids</prism:publicationName>
+         <prism:doi>10.1002/lipd.12281</prism:doi>
+         <prism:url>https://aocs.onlinelibrary.wiley.com/doi/abs/10.1002/lipd.12281?af=R</prism:url>
+         <prism:section>ORIGINAL ARTICLE</prism:section>
+      </item>
+   </channel>
+</rss>
