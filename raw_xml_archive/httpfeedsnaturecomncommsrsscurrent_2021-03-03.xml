@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss1full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.nature.com/~d/styles/itemcontent.css"?><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns="http://purl.org/rss/1.0/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+    <channel rdf:about="http://feeds.nature.com/ncomms/rss/current">
+        <title>Nature Communications - current - nature.com science feeds</title>
+        <description>Nature Communications is an online-only, multidisciplinary journal dedicated to publishing high-quality research in all areas of the biological, physical and chemical sciences. Papers published by the journal represent important advances of significance to specialists within each field.</description>
+        <link>http://feeds.nature.com/ncomms/rss/current</link>
+        <admin:generatorAgent rdf:resource="http://www.nature.com/" />
+        <admin:errorReportsTo rdf:resource="mailto:feedback@nature.com" />
+        <dc:publisher>Nature Publishing Group</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:rights>© 2021 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.</dc:rights>
+        <prism:publicationName>Nature Communications</prism:publicationName>
+        
+        
+        <prism:copyright>© 2021 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.</prism:copyright>
+        <prism:rightsAgent>permissions@nature.com</prism:rightsAgent>
+        <image rdf:resource="https://www.nature.com/uploads/product/ncomms/rss.png" />
+        <items>
+            <rdf:Seq>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21827-8" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21672-9" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21659-6" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21598-2" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21707-1" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21615-4" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21554-0" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21686-3" />
+                
+            </rdf:Seq>
+        </items>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://feeds.nature.com/ncomms/rss/current" /><feedburner:info uri="ncomms/rss/current" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+    <image rdf:about="https://www.nature.com/uploads/product/ncomms/rss.png">
+        <title>Nature Communications</title>
+        <url>https://www.nature.com/uploads/product/ncomms/rss.png</url>
+        <link>http://feeds.nature.com/ncomms/rss/current</link>
+    </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21827-8">
+            <title><![CDATA[Author Correction: High-latitude biomes and rock weathering mediate climate–carbon cycle feedbacks on eccentricity timescales]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/is4s0plude0/s41467-021-21827-8</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 03 March 2021; <a href="https://www.nature.com/articles/s41467-021-21827-8">doi:10.1038/s41467-021-21827-8</a></p>Author Correction: High-latitude biomes and rock weathering mediate climate–carbon cycle feedbacks on eccentricity timescales<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/is4s0plude0" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: High-latitude biomes and rock weathering mediate climate–carbon cycle feedbacks on eccentricity timescales]]></dc:title>
+            <dc:creator>David De Vleeschouwer</dc:creator><dc:creator>Anna Joy Drury</dc:creator><dc:creator>Maximilian Vahlenkamp</dc:creator><dc:creator>Fiona Rochholz</dc:creator><dc:creator>Diederik Liebrand</dc:creator><dc:creator>Heiko Pälike</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21827-8</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-03; | doi:10.1038/s41467-021-21827-8</dc:source>
+            <dc:date>2021-03-03</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21827-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21827-8</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21827-8</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21672-9">
+            <title><![CDATA[Current-induced switching of proximity-induced ferromagnetic surface states in a topological insulator]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/9NolZSMStw4/s41467-021-21672-9</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 03 March 2021; <a href="https://www.nature.com/articles/s41467-021-21672-9">doi:10.1038/s41467-021-21672-9</a></p>Electrical manipulation of magnetization in devices made of topological materials may be an essential route towards future spintronics technology. Here, Mogi et al. show efficient current-induced switching of surface ferromagnetism in hetero-bilayers of topological insulator (Bi1-xSbx)2Te3 and ferromagnetic insulator Cr2Ge2Te6.<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/9NolZSMStw4" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Current-induced switching of proximity-induced ferromagnetic surface states in a topological insulator]]></dc:title>
+            <dc:creator>Masataka Mogi</dc:creator><dc:creator>Kenji Yasuda</dc:creator><dc:creator>Reika Fujimura</dc:creator><dc:creator>Ryutaro Yoshimi</dc:creator><dc:creator>Naoki Ogawa</dc:creator><dc:creator>Atsushi Tsukazaki</dc:creator><dc:creator>Minoru Kawamura</dc:creator><dc:creator>Kei S. Takahashi</dc:creator><dc:creator>Masashi Kawasaki</dc:creator><dc:creator>Yoshinori Tokura</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21672-9</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-03; | doi:10.1038/s41467-021-21672-9</dc:source>
+            <dc:date>2021-03-03</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21672-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21672-9</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21672-9</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21659-6">
+            <title><![CDATA[Millimeter wave photonics with terahertz semiconductor lasers]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/ajbczV6KphA/s41467-021-21659-6</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 03 March 2021; <a href="https://www.nature.com/articles/s41467-021-21659-6">doi:10.1038/s41467-021-21659-6</a></p>Photonic solutions for generating free space millimeter radiation is a fast developing field that combines optoelectronics and RF domains but has many challenges. Here the authors present a quantum cascade laser (QCL) based solution for THz laser emission and millimeter wave generation in a single device.<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/ajbczV6KphA" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Millimeter wave photonics with terahertz semiconductor lasers]]></dc:title>
+            <dc:creator>Valentino Pistore</dc:creator><dc:creator>Hanond Nong</dc:creator><dc:creator>Pierre-Baptiste Vigneron</dc:creator><dc:creator>Katia Garrasi</dc:creator><dc:creator>Sarah Houver</dc:creator><dc:creator>Lianhe Li</dc:creator><dc:creator>A. Giles Davies</dc:creator><dc:creator>Edmund H. Linfield</dc:creator><dc:creator>Jerome Tignon</dc:creator><dc:creator>Juliette Mangeney</dc:creator><dc:creator>Raffaele Colombelli</dc:creator><dc:creator>Miriam S. Vitiello</dc:creator><dc:creator>Sukhdeep S. Dhillon</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21659-6</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-03; | doi:10.1038/s41467-021-21659-6</dc:source>
+            <dc:date>2021-03-03</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21659-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21659-6</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21659-6</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21598-2">
+            <title><![CDATA[Monitoring metallic sub-micrometric lithium structures in Li-ion batteries by in situ electron paramagnetic resonance correlated spectroscopy and imaging]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/cOD_9Ty5RUc/s41467-021-21598-2</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 03 March 2021; <a href="https://www.nature.com/articles/s41467-021-21598-2">doi:10.1038/s41467-021-21598-2</a></p>Monitoring the nucleation of dendrites in Li-ion batteries during cell cycling is important for the development of new electrochemical materials. Here, the authors use the spectral-spatial mode in electron paramagnetic resonance imaging to visualize the spatial distribution of metallic sub-micrometric lithium structures.<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/cOD_9Ty5RUc" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Monitoring metallic sub-micrometric lithium structures in Li-ion batteries by in situ electron paramagnetic resonance correlated spectroscopy and imaging]]></dc:title>
+            <dc:creator>Charles-Emmanuel Dutoit</dc:creator><dc:creator>Mingxue Tang</dc:creator><dc:creator>Didier Gourier</dc:creator><dc:creator>Jean-Marie Tarascon</dc:creator><dc:creator>Hervé Vezin</dc:creator><dc:creator>Elodie Salager</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21598-2</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-03; | doi:10.1038/s41467-021-21598-2</dc:source>
+            <dc:date>2021-03-03</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21598-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21598-2</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21598-2</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21707-1">
+            <title><![CDATA[Integrative pan cancer analysis reveals epigenomic variation in cancer type and cell specific chromatin domains]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/pKv4DL1WK8s/s41467-021-21707-1</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 03 March 2021; <a href="https://www.nature.com/articles/s41467-021-21707-1">doi:10.1038/s41467-021-21707-1</a></p>The NCI-60 cancer cell line panel covers multiple cancer types but has not been extensively investigated at the epigenetic level. Here, the authors present H3K4me3, H3K27ac, H3K9me3, and H4K20me3 ChIP-Seq analysis of the cell lines, and describe features of chromatin states and integrative analyses of expression, epigenetic and genetic mutation data.<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/pKv4DL1WK8s" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Integrative pan cancer analysis reveals epigenomic variation in cancer type and cell specific chromatin domains]]></dc:title>
+            <dc:creator>Lijin K. Gopi</dc:creator><dc:creator>Benjamin L. Kidder</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21707-1</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-03; | doi:10.1038/s41467-021-21707-1</dc:source>
+            <dc:date>2021-03-03</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21707-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21707-1</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21707-1</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21615-4">
+            <title><![CDATA[Inter- and intra-tumor heterogeneity of metastatic prostate cancer determined by digital spatial gene expression profiling]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/wN7xhZ5fuBc/s41467-021-21615-4</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 03 March 2021; <a href="https://www.nature.com/articles/s41467-021-21615-4">doi:10.1038/s41467-021-21615-4</a></p>The inter- and intra-tumor heterogeneity of metastatic prostate cancer (mPC) is underexplored. Here the authors use Digital Spatial Profiling to study gene and protein expression heterogeneity in 27 mPC patients, finding variation in associated pathways and potential immunotherapy targets.<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/wN7xhZ5fuBc" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Inter- and intra-tumor heterogeneity of metastatic prostate cancer determined by digital spatial gene expression profiling]]></dc:title>
+            <dc:creator>Lauren Brady</dc:creator><dc:creator>Michelle Kriner</dc:creator><dc:creator>Ilsa Coleman</dc:creator><dc:creator>Colm Morrissey</dc:creator><dc:creator>Martine Roudier</dc:creator><dc:creator>Lawrence D. True</dc:creator><dc:creator>Roman Gulati</dc:creator><dc:creator>Stephen R. Plymate</dc:creator><dc:creator>Zoey Zhou</dc:creator><dc:creator>Brian Birditt</dc:creator><dc:creator>Rhonda Meredith</dc:creator><dc:creator>Gary Geiss</dc:creator><dc:creator>Margaret Hoang</dc:creator><dc:creator>Joseph Beechem</dc:creator><dc:creator>Peter S. Nelson</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21615-4</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-03; | doi:10.1038/s41467-021-21615-4</dc:source>
+            <dc:date>2021-03-03</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21615-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21615-4</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21615-4</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21554-0">
+            <title><![CDATA[Data-driven control of complex networks]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/XpJ05CcwZ38/s41467-021-21554-0</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 03 March 2021; <a href="https://www.nature.com/articles/s41467-021-21554-0">doi:10.1038/s41467-021-21554-0</a></p>Controlling the behavior of a complex network usually requires a knowledge of the network dynamics. Baggio et al. propose a data-driven framework to control a complex dynamical network, effective for non-complete or random datasets, which is of relevance for power grids and neural networks.<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/XpJ05CcwZ38" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Data-driven control of complex networks]]></dc:title>
+            <dc:creator>Giacomo Baggio</dc:creator><dc:creator>Danielle S. Bassett</dc:creator><dc:creator>Fabio Pasqualetti</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21554-0</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-03; | doi:10.1038/s41467-021-21554-0</dc:source>
+            <dc:date>2021-03-03</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21554-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21554-0</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21554-0</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21686-3">
+            <title><![CDATA[Global profiling of distinct cysteine redox forms reveals wide-ranging redox regulation in <i>C. elegans</i>]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/G1kThr5hCts/s41467-021-21686-3</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 03 March 2021; <a href="https://www.nature.com/articles/s41467-021-21686-3">doi:10.1038/s41467-021-21686-3</a></p>Reversible cysteine oxidative modifications have emerged as important mechanisms that alter protein function. Here the authors globally assess the cysteine reactivity and an array of cysteine oxidative modifications in C. elegans, providing insights into redox signaling at the organismal level.<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/G1kThr5hCts" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Global profiling of distinct cysteine redox forms reveals wide-ranging redox regulation in <i>C. elegans</i>]]></dc:title>
+            <dc:creator>Jin Meng</dc:creator><dc:creator>Ling Fu</dc:creator><dc:creator>Keke Liu</dc:creator><dc:creator>Caiping Tian</dc:creator><dc:creator>Ziyun Wu</dc:creator><dc:creator>Youngeun Jung</dc:creator><dc:creator>Renan B. Ferreira</dc:creator><dc:creator>Kate S. Carroll</dc:creator><dc:creator>T. Keith Blackwell</dc:creator><dc:creator>Jing Yang</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21686-3</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-03; | doi:10.1038/s41467-021-21686-3</dc:source>
+            <dc:date>2021-03-03</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21686-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21686-3</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21686-3</feedburner:origLink></item>
+    
+</rdf:RDF>

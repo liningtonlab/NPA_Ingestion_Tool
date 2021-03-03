@@ -1,0 +1,68 @@
+<?xml-stylesheet type='text/xsl' href='https://www.journals.elsevier.com:443/Content/Xslt/Rss.xslt'?>
+<rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Chinese Chemical Letters</title>
+    <link>https://www.journals.elsevier.com/chinese-chemical-letters/rss</link>
+    <description>A list of the latest news</description>
+    <language>en-GB</language>
+    <copyright>Elsevier B.V.</copyright>
+    <tagData>
+      <journalIssn>10018417</journalIssn>
+      <journalName>chinese chemical letters</journalName>
+      <pageBusinessUnit>ELS:STMJ:JMKT</pageBusinessUnit>
+      <pageEnvironment>prod</pageEnvironment>
+      <pageExtendedName>marketing:news:rss</pageExtendedName>
+      <pageLanguage>en</pageLanguage>
+      <pageLoadTimestamp>1614806326243</pageLoadTimestamp>
+      <pageName>marketing:news</pageName>
+      <pageNoTracking>false</pageNoTracking>
+      <pageProductName>JC</pageProductName>
+      <pageTestId>blue</pageTestId>
+      <pageType>MP-CP</pageType>
+      <visitorIpAddress>50.68.174.180</visitorIpAddress>
+      <tagScriptPath>https://assets.adobedtm.com/4a848ae9611a/4da1513b0562/launch-a536f9fbceee.min.js</tagScriptPath>
+    </tagData>
+    <item>
+      <link>https://www.journals.elsevier.com/chinese-chemical-letters/call-for-papers/nanostructured-materials-energy-environmental-applications</link>
+      <title>Call for Papers: Nanostructured materials for energy and environmental applications</title>
+      <description>&lt;p&gt;
+	This Special Issue is focused on “Nanostructured Materials for Energy and Environmental Applications”, featuring the state-of-the-art in this field. Review, Mini-Review, and Communication paper related to the most relevant results regarding nanostructured catalyst formulations and morphologies to be applied in energy and environmental fields are welcome to this Special Issue.&lt;/p&gt;</description>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <link>https://www.journals.elsevier.com/chinese-chemical-letters/call-for-papers/high-performance-rechargeable-lithium-batteries-and-beyond</link>
+      <title>Call for Papers: Call for Papers: Advanced Materials for High Performance Rechargeable Lithium Batteries and Beyond</title>
+      <description>&lt;p&gt;
+	Submission Deadline: 2021-06-30&lt;/p&gt;</description>
+      <pubDate>Wed, 19 Aug 2020 00:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <link>https://www.journals.elsevier.com/chinese-chemical-letters/news/connect-with-chinese-chemical-letters-on-wechat</link>
+      <title>News: Connect with Chinese Chemical Letters on WeChat</title>
+      <description>&lt;p&gt;
+	Join the conversation today.&lt;/p&gt;</description>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <link>https://www.journals.elsevier.com/chinese-chemical-letters/highlighted-articles/quantum-chemistry-from-tree-leaves</link>
+      <title>Highlighted Articles: Quantum chemistry from tree leaves</title>
+      <description>&lt;p&gt;
+	Nanoparticles built from leaves could be used to exploit subtle effects of quantum mechanics&lt;/p&gt;</description>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 Z</pubDate>
+    </item>
+    <item>
+      <link>https://www.journals.elsevier.com/chinese-chemical-letters/news/interview-with-editor-in-chief-professor-xuhong-qian</link>
+      <title>News: Interview with Editor-in-Chief Professor Xuhong Qian</title>
+      <description>&lt;p&gt;
+	Since 2007, the Chinese Chemical Society and Elsevier have been working together to publish Chinese Chemical Letters. Read the interview with Editor-in-Chief Xuhong Qian and learn about his impact on the journal and his thoughts on the reasons for the journal’s success. &lt;/p&gt;</description>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 Z</pubDate>
+    </item>
+    <item>
+      <link>https://www.journals.elsevier.com/chinese-chemical-letters/news/five-nobel-laureates-share-inspiration-in-scientific-careers</link>
+      <title>News: Five Nobel Laureates Share Inspiration in Scientific Careers at Symposium in Tianjin University</title>
+      <description>&lt;p&gt;
+	An scientific feast was celebrated on February 23rd in Tianjin University - five prestigious Nobel Laureates shared their academic achievements at the Peiyang Nobel Symposium, which also marked three joining the other two as Professors of Tianjin University. &lt;/p&gt;</description>
+      <pubDate>Thu, 02 Mar 2017 00:00:00 Z</pubDate>
+    </item>
+  </channel>
+</rss>

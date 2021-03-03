@@ -20,29 +20,36 @@ import json
 from Levenshtein import ratio
 
 
+def send_message(webhook_url, message):
+    requests.post(webhook_url, json={"text": message})
+
+
 def cross_ref_query_title(title):
-    """ Open up file, loop through each line in the file to get each url to parse RSS feed for article title to search CrossRef for DOI; Append list of DOIs to
-        list for each journal. Saves a raw XML file for archive of RSS feed. Lastly, added new DOI's into SQLite3 database.
+    """ Open up file, loop through each line in the file to get each url to parse RSS feed for article title to search
+    CrossRef for DOI; Append list of DOIs to list for each journal. Saves a raw XML file for archive of RSS feed. Lastly
+    , added new DOI's into SQLite3 database.
                 :param: string of title
-                :return: True/False for success; if success has title, DOI and similarity match. Otherwise, returns exception.
+                :return: True/False for success; if success has title, DOI and similarity match. Otherwise,
+                returns exception.
                             """
-    EMPTY_RESULT = {
-    "crossref_title": "",
-    "similarity": 0,
-    "doi": ""
-}
+    empty_result = {
+        "crossref_title": "",
+        "similarity": 0,
+        "doi": ""
+    }
     api_url = "https://api.crossref.org/works?"
     params = {"rows": "5", "query.bibliographic": title}
     url = api_url + urlencode(params, quote_via=quote_plus)
     print(url)
     request = Request(url)
-    request.add_header("User-Agent", "OpenAPC DOI Importer (https://github.com/OpenAPC/openapc-de/blob/master/python/import_dois.py)")
+    request.add_header("User-Agent",
+                       "OpenAPC DOI Importer (https://github.com/OpenAPC/openapc-de/blob/master/python/import_dois.py; mailto:andrew_maras@sfu.ca)")
     try:
         ret = urlopen(request)
         content = ret.read()
         data = json.loads(content)
         items = data["message"]["items"]
-        most_similar = EMPTY_RESULT
+        most_similar = empty_result
         for item in items:
             if "title" not in item:
                 continue
@@ -59,7 +66,7 @@ def cross_ref_query_title(title):
         else:
             return {"success": True, "result": most_similar}
     except HTTPError as httpe:
-        return {"success": False, "result": EMPTY_RESULT, "exception": httpe}
+        return {"success": False, "result": empty_result, "exception": httpe}
 
 
 def no_newline(line):
@@ -98,7 +105,6 @@ def get_xml(url, archive_filename):
 
     # Using request to get RSS feed text from the URL using the assigned user agent as headers variable
     no_whitespace_url = url.rstrip('\n')
-    url_request = requests.get(no_whitespace_url, headers=user_agent)
 
     path = 'C:/Users/maras/Desktop/NPA_Ingestion_Tool/raw_xml_archive/' + archive_filename
 
@@ -114,11 +120,6 @@ def get_xml(url, archive_filename):
         with open(path, "r", encoding='utf-8') as f:
             xml = f.read()
         return xml, archive_filename
-
-    # Archiving of RSS feed xml file to output directory
-    '''path = 'C:/Users/maras/Desktop/NPA_Ingestion_Tool/raw_xml_archive/' + archive_filename
-    with open(path, "w", encoding='utf-8') as f:
-        f.write(raw_xml_str)'''
 
 
 def parse_rss(string_input):
@@ -142,7 +143,7 @@ def parse_rss(string_input):
     for key in rss_feed.entries:
         for val in key.values():
             if type(val) == str:
-                doi_search = re.search("(10\.\d{4,9}\/[-._;()/:A-Za-z0-9]+)", val)
+                doi_search = re.search("(10\.\d{4,9}/[-._;()/:A-Za-z0-9]+)", val)
                 if doi_search:
                     doi_list.append(doi_search.group(1))
                     # print(doi_search.group(1))
@@ -184,7 +185,7 @@ def parse_rss_no_doi(string_input):
         if crossref_query["success"]:
             crossref_doi_list.append(found_doi)
         elif not crossref_query["success"]:
-            print((key["title"], crossref_query["result"]["crossref_title"],crossref_query["exception"]))
+            print((key["title"], crossref_query["result"]["crossref_title"], crossref_query["exception"]))
             continue
 
     # Remove duplicate DOIs from list
@@ -239,7 +240,8 @@ def sqlite3_table_creation(connection_object):
         :return: Cursor object or None
         """
     cursor = connection_object.cursor()
-    cursor.execute("CREATE TABLE IF NOT EXISTS DOIs (ID INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,Doi VARCHAR UNIQUE NOT NULL, PMID VARCHAR, Title VARCHAR, Abstract VARCHAR, Source VARCHAR, Filename NOT NULL, Created NOT NULL)")
+    cursor.execute(
+        "CREATE TABLE IF NOT EXISTS DOIs (ID INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,Doi VARCHAR UNIQUE NOT NULL, PMID VARCHAR, Title VARCHAR, Abstract VARCHAR, Source VARCHAR, Filename NOT NULL, Created NOT NULL)")
     return cursor
 
 
@@ -254,8 +256,9 @@ def sqlite3_insertion_only_doi(connection_object, doi, filename):
 
     try:
         with connection_object:
-            connection_object.execute("INSERT INTO DOIs(Doi, PMID, Title, Abstract, Source, Filename, Created) VALUES(?, NULL, NULL, NULL, NULL, ?, ?)",
-                                      (doi, filename, datetime.now()))
+            connection_object.execute(
+                "INSERT INTO DOIs(Doi, PMID, Title, Abstract, Source, Filename, Created) VALUES(?, NULL, NULL, NULL, NULL, ?, ?)",
+                (doi, filename, datetime.now()))
             print("Successful DOI entry recorded!")
             return True
     except sqlite3.IntegrityError:
@@ -283,7 +286,7 @@ def sqlite3_insertion_only_doi(connection_object, doi, filename):
 
     except sqlite3.IntegrityError:
         print("Warning: Duplicate entry detected!")
-        pass'''
+        pass
 
 
 def sqlite3_insertion_no_abstract(connection_object, doi, title, filename):
@@ -304,10 +307,9 @@ def sqlite3_insertion_no_abstract(connection_object, doi, title, filename):
             print("Successful DOI entry recorded!")
     except sqlite3.IntegrityError:
         print("Warning: Duplicate entry detected!")
-        pass
+        pass'''
 
-
-def rss_parse_archive(file, key_id, doi):
+'''def rss_parse_archive(file, key_id, doi):
     # TODO: Fix abstract parsing, but mainly UPDATING database if a title/abstract is found within the archive file
 
     """ given the correctly selected file, search for doi
@@ -349,4 +351,4 @@ def rss_parse_archive(file, key_id, doi):
     elif unique_titles:
         return key_id, unique_titles[0]
     else:
-        return "no luck"
+        return "no luck"'''

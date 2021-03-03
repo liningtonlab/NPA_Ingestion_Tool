@@ -1,0 +1,1011 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PLOS ONE</title>
+  <link rel="alternate" href="https://journals.plos.org/plosone/" />
+  <author>
+    <name>PLOS</name>
+    <uri>https://journals.plos.org/plosone/</uri>
+    <email>webmaster@plos.org</email>
+  </author>
+  <subtitle type="text">accelerating the publication of peer-reviewed science</subtitle>
+  <id>http://journals.plos.org/plosone/feed/atom</id>
+  <rights>All PLOS articles are Open Access.</rights>
+  <icon>https://journals.plos.org/plosone/resource/img/favicon.ico</icon>
+  <logo>https://journals.plos.org/plosone/resource/img/favicon.ico</logo>
+  <updated>2021-03-03T20:50:42Z</updated>
+  <entry>
+    <title>Correction: Genotoxic effect of 2,2’-bis(bicyclo[2.2.1] heptane) on bacterial cells</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248251" title="Correction: Genotoxic effect of 2,2’-bis(bicyclo[2.2.1] heptane) on bacterial cells" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248251.PDF" title="(PDF) Correction: Genotoxic effect of 2,2’-bis(bicyclo[2.2.1] heptane) on bacterial cells" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248251.XML" title="(XML) Correction: Genotoxic effect of 2,2’-bis(bicyclo[2.2.1] heptane) on bacterial cells" />
+    <author>
+      <name>A. Kessenikh</name>
+    </author>
+    <author>
+      <name>E. Gnuchikh</name>
+    </author>
+    <author>
+      <name>S. Bazhenov</name>
+    </author>
+    <author>
+      <name>M. Bermeshev</name>
+    </author>
+    <author>
+      <name>V. Pevgov</name>
+    </author>
+    <author>
+      <name>V. Samoilov</name>
+    </author>
+    <author>
+      <name>S. Shorunov</name>
+    </author>
+    <author>
+      <name>A. Maksimov</name>
+    </author>
+    <author>
+      <name>L. Yaguzhinsky</name>
+    </author>
+    <author>
+      <name>I. Manukhov</name>
+    </author>
+    <id>10.1371/journal.pone.0248251</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by A. Kessenikh, E. Gnuchikh, S. Bazhenov, M. Bermeshev, V. Pevgov, V. Samoilov, S. Shorunov, A. Maksimov, L. Yaguzhinsky, I. Manukhov&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Medical face masks offer self-protection against aerosols: An evaluation using a practical &lt;i&gt;in vitro&lt;/i&gt; approach on a dummy head</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248099" title="Medical face masks offer self-protection against aerosols: An evaluation using a practical &lt;i&gt;in vitro&lt;/i&gt; approach on a dummy head" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248099.PDF" title="(PDF) Medical face masks offer self-protection against aerosols: An evaluation using a practical &lt;i&gt;in vitro&lt;/i&gt; approach on a dummy head" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248099.XML" title="(XML) Medical face masks offer self-protection against aerosols: An evaluation using a practical &lt;i&gt;in vitro&lt;/i&gt; approach on a dummy head" />
+    <author>
+      <name>Christian M. Sterr</name>
+    </author>
+    <author>
+      <name>Inga-Lena Nickel</name>
+    </author>
+    <author>
+      <name>Christina Stranzinger</name>
+    </author>
+    <author>
+      <name>Claudia I. Nonnenmacher-Winter</name>
+    </author>
+    <author>
+      <name>Frank Günther</name>
+    </author>
+    <id>10.1371/journal.pone.0248099</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Christian M. Sterr, Inga-Lena Nickel, Christina Stranzinger, Claudia I. Nonnenmacher-Winter, Frank Günther&lt;/p&gt;
+
+Since the appearance of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), the question regarding the efficacy of various hygiene measures and the use of personal protective equipment (PPE) has become the focus of scientific and above all public discussion. To compare respirators, medical face masks, and cloth masks and determine if it is recommendable to wear face masks to protect the individual wearer of the mask from inhaling airborne particles, we challenged 29 different masks with aerosols and tested the pressure drop as a surrogate for breathing resistance owing to the mask material. We found that Type II medical face masks showed the lowest pressure drop (12.9±6.8 Pa/cm&lt;sup&gt;2&lt;/sup&gt;) and therefore additional breathing resistance, whereas respirators such as the KN95 (32.3±7.0 Pa/cm&lt;sup&gt;2&lt;/sup&gt;) and FFP2 (26.8±7.4 Pa/cm&lt;sup&gt;2&lt;/sup&gt;) showed the highest pressure drops among the tested masks. The filtration efficacy of the mask material was the lowest for cloth masks (28±25%) followed by non-certified face masks (63±19%) and certified medical face masks (70±10%). The materials of the different respirators showed very high aerosol retentions (KN95 [94±4%] and FFP2 [98±1%]). For evaluating the as-worn filtration performance simulating real live conditions each mask type was also tested on a standardized dummy head. Cloth masks and non-EN-certified face masks had the worst as-worn filtration efficacies among the tested masks, filtering less than 20% of the test aerosol. Remarkably, certified type II medical face masks showed similar (p&gt;0.5) as-worn filtration results (47±20%) than KN95 masks (41±4%) and FFP2 masks (65±27%), despite having a lower pressure drop. Face shields did not show any significant retention function against aerosols in our experiment. Our results indicate that it seems recommendable to wear face masks for providing base protection and risk reduction against inhaling airborne particles, in low-risk situations. In our study, especially EN 14683 type II certified medical face masks showed protective effectiveness against aerosols accompanied by minimal additional breathing resistance. FFP2 Respirators, on the other hand, could be useful in high-risk situations but require greater breathing effort and therefore physical stress for users.</content>
+  </entry>
+  <entry>
+    <title>Development of a multiplex Loop-Mediated Isothermal Amplification (LAMP) assay for on-site diagnosis of SARS CoV-2</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248042" title="Development of a multiplex Loop-Mediated Isothermal Amplification (LAMP) assay for on-site diagnosis of SARS CoV-2" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248042.PDF" title="(PDF) Development of a multiplex Loop-Mediated Isothermal Amplification (LAMP) assay for on-site diagnosis of SARS CoV-2" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248042.XML" title="(XML) Development of a multiplex Loop-Mediated Isothermal Amplification (LAMP) assay for on-site diagnosis of SARS CoV-2" />
+    <author>
+      <name>Woong Sik Jang</name>
+    </author>
+    <author>
+      <name>Da Hye Lim</name>
+    </author>
+    <author>
+      <name>Jung Yoon</name>
+    </author>
+    <author>
+      <name>Ahran Kim</name>
+    </author>
+    <author>
+      <name>Minsup Lim</name>
+    </author>
+    <author>
+      <name>Jeonghun Nam</name>
+    </author>
+    <author>
+      <name>Richard Yanagihara</name>
+    </author>
+    <author>
+      <name>Sook-Won Ryu</name>
+    </author>
+    <author>
+      <name>Bo Kyeung Jung</name>
+    </author>
+    <author>
+      <name>Nam-Hee Ryoo</name>
+    </author>
+    <author>
+      <name>Chae Seung Lim</name>
+    </author>
+    <id>10.1371/journal.pone.0248042</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Woong Sik Jang, Da Hye Lim, Jung Yoon, Ahran Kim, Minsup Lim, Jeonghun Nam, Richard Yanagihara, Sook-Won Ryu, Bo Kyeung Jung, Nam-Hee Ryoo, Chae Seung Lim&lt;/p&gt;
+
+A newly identified coronavirus, designated as severe acute respiratory syndrome coronavirus 2 (SARS CoV-2), has spread rapidly from its epicenter in China to more than 150 countries across six continents. In this study, we have designed three reverse-transcription loop-mediated isothermal amplification (RT-LAMP) primer sets to detect the RNA-dependent RNA polymerase (RdRP), Envelope (E) and Nucleocapsid protein (N) genes of SARS CoV-2. For one tube reaction, the detection limits for five combination SARS CoV-2 LAMP primer sets (RdRP/E, RdRP/N, E/N, RdRP/E/N and RdRP/N/Internal control (actin beta)) were evaluated with a clinical nasopharyngeal swab sample. Among the five combination, the RdRP/E and RdRP/N/IC multiplex LAMP assays showed low detection limits. The sensitivity and specificity of the RT-LAMP assay were evaluated and compared to that of the widely used Allplex™ 2019-nCoV Assay (Seegene, Inc., Seoul, South Korea) and PowerChek™ 2019-nCoV Real-time PCR kit (Kogenebiotech, Seoul, South Korea) for 130 clinical samples from 91 SARS CoV-2 patients and 162 NP specimens from individuals with (72) and without (90) viral respiratory infections. The multiplex RdRP (FAM)/N (CY5)/IC (Hex) RT-LAMP assay showed comparable sensitivities (RdRP: 93.85%, N: 94.62% and RdRP/N: 96.92%) to that of the Allplex™ 2019-nCoV Assay (100%) and superior to those of PowerChek™ 2019-nCoV Real-time PCR kit (RdRP: 92.31%, E: 93.85% and RdRP/E: 95.38%).</content>
+  </entry>
+  <entry>
+    <title>Efficacy of indoor residual spraying with broflanilide (TENEBENAL), a novel meta-diamide insecticide, against pyrethroid-resistant anopheline vectors in northern Tanzania: An experimental hut trial</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248026" title="Efficacy of indoor residual spraying with broflanilide (TENEBENAL), a novel meta-diamide insecticide, against pyrethroid-resistant anopheline vectors in northern Tanzania: An experimental hut trial" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248026.PDF" title="(PDF) Efficacy of indoor residual spraying with broflanilide (TENEBENAL), a novel meta-diamide insecticide, against pyrethroid-resistant anopheline vectors in northern Tanzania: An experimental hut trial" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248026.XML" title="(XML) Efficacy of indoor residual spraying with broflanilide (TENEBENAL), a novel meta-diamide insecticide, against pyrethroid-resistant anopheline vectors in northern Tanzania: An experimental hut trial" />
+    <author>
+      <name>Janneke Snetselaar</name>
+    </author>
+    <author>
+      <name>Mark W. Rowland</name>
+    </author>
+    <author>
+      <name>Baltazari J. Manunda</name>
+    </author>
+    <author>
+      <name>Ezekia M. Kisengwa</name>
+    </author>
+    <author>
+      <name>Graham J. Small</name>
+    </author>
+    <author>
+      <name>David J. Malone</name>
+    </author>
+    <author>
+      <name>Franklin W. Mosha</name>
+    </author>
+    <author>
+      <name>Matthew J. Kirby</name>
+    </author>
+    <id>10.1371/journal.pone.0248026</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Janneke Snetselaar, Mark W. Rowland, Baltazari J. Manunda, Ezekia M. Kisengwa, Graham J. Small, David J. Malone, Franklin W. Mosha, Matthew J. Kirby&lt;/p&gt;
+
+Novel chemistry for vector control is urgently needed to counter insecticide resistance in mosquitoes. Here a new meta-diamide insecticide, broflanilide (TENEBENAL&lt;sup&gt;TM&lt;/sup&gt;), was evaluated in East African experimental huts in Moshi, northern Tanzania. Two consecutive experimental hut trials with broflanilide 50WP were conducted; the first evaluating the efficacy of three concentrations, 50 mg/m&lt;sup&gt;2&lt;/sup&gt;, 100 mg/m&lt;sup&gt;2&lt;/sup&gt;, and 200 mg/m&lt;sup&gt;2&lt;/sup&gt; using a prototype formulation, and the second trial evaluating an improved formulation. The IRS treatments were applied on both mud and concrete surfaces and efficacy was monitored over time. The mortality, blood-feeding inhibition and exiting behaviour of free-flying wild mosquitoes was compared between treatment arms. Additionally, cone assays with pyrethroid-susceptible and resistant mosquito strains were conducted in the huts to determine residual efficacy. The first trial showed a dosage-mortality response of the prototype formulation and 3–8 months of residual activity, with longer activity on concrete than mud. The second trial with an improved formulation showed prolonged residual efficacy of the 100 mg/m&lt;sup&gt;2&lt;/sup&gt; concentration to 5–6 months on mud, and mosquito mortality on the concrete surface ranged between 94–100% for the full duration of the trial. In both trials, results with free-flying, wild &lt;i&gt;Anopheles arabiensis&lt;/i&gt; echoed the mortality trend shown in cone assays, with the highest dose inducing the highest mortality and the improved formulation showing increased mortality rates. No blood-feeding inhibition or insecticide-induced exiting effects were observed with broflanilide. Broflanilide 50WP was effective against both susceptible and pyrethroid-resistant mosquito strains, demonstrating an absence of cross resistance between broflanilide and pyrethroids. The improved formulation, which has now been branded VECTRON&lt;sup&gt;TM&lt;/sup&gt; T500, resulted in a prolonged residual efficacy. These results indicate the potential of this insecticide as an addition to the arsenal of IRS products needed to maintain both control of malaria and resistance management of malaria-transmitting mosquitoes.</content>
+  </entry>
+  <entry>
+    <title>Tracking smell loss to identify healthcare workers with SARS-CoV-2 infection</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248025" title="Tracking smell loss to identify healthcare workers with SARS-CoV-2 infection" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248025.PDF" title="(PDF) Tracking smell loss to identify healthcare workers with SARS-CoV-2 infection" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248025.XML" title="(XML) Tracking smell loss to identify healthcare workers with SARS-CoV-2 infection" />
+    <author>
+      <name>Julian J. Weiss</name>
+    </author>
+    <author>
+      <name>Tuki N. Attuquayefio</name>
+    </author>
+    <author>
+      <name>Elizabeth B. White</name>
+    </author>
+    <author>
+      <name>Fangyong Li</name>
+    </author>
+    <author>
+      <name>Rachel S. Herz</name>
+    </author>
+    <author>
+      <name>Theresa L. White</name>
+    </author>
+    <author>
+      <name>Melissa Campbell</name>
+    </author>
+    <author>
+      <name>Bertie Geng</name>
+    </author>
+    <author>
+      <name>Rupak Datta</name>
+    </author>
+    <author>
+      <name>Anne L. Wyllie</name>
+    </author>
+    <author>
+      <name>Nathan D. Grubaugh</name>
+    </author>
+    <author>
+      <name>Arnau Casanovas-Massana</name>
+    </author>
+    <author>
+      <name>M. Catherine Muenker</name>
+    </author>
+    <author>
+      <name>Adam J. Moore</name>
+    </author>
+    <author>
+      <name>Ryan Handoko</name>
+    </author>
+    <author>
+      <name>Akiko Iwasaki</name>
+    </author>
+    <author>
+      <name>Richard A. Martinello</name>
+    </author>
+    <author>
+      <name>Albert I. Ko</name>
+    </author>
+    <author>
+      <name>Dana M. Small</name>
+    </author>
+    <author>
+      <name>Shelli F. Farhadian</name>
+    </author>
+    <author>
+      <name>the Yale IMPACT Research Team</name>
+    </author>
+    <id>10.1371/journal.pone.0248025</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Julian J. Weiss, Tuki N. Attuquayefio, Elizabeth B. White, Fangyong Li, Rachel S. Herz, Theresa L. White, Melissa Campbell, Bertie Geng, Rupak Datta, Anne L. Wyllie, Nathan D. Grubaugh, Arnau Casanovas-Massana, M. Catherine Muenker, Adam J. Moore, Ryan Handoko, Akiko Iwasaki, Richard A. Martinello, Albert I. Ko, Dana M. Small, Shelli F. Farhadian, the Yale IMPACT Research Team &lt;/p&gt;
+Introduction &lt;p&gt;Healthcare workers (HCW) treating COVID-19 patients are at high risk for infection and may also spread infection through their contact with vulnerable patients. Smell loss has been associated with SARS-CoV-2 infection, but it is unknown whether monitoring for smell loss can be used to identify asymptomatic infection among high risk individuals. In this study we sought to determine if tracking smell sensitivity and loss using an at-home assessment could identify SARS-CoV-2 infection in HCW.&lt;/p&gt; Methods and findings &lt;p&gt;We performed a prospective cohort study tracking 473 HCW across three months to determine if smell loss could predict SARS-CoV-2 infection in this high-risk group. HCW subjects completed a longitudinal, behavioral at-home assessment of olfaction with household items, as well as detailed symptom surveys that included a parosmia screening questionnaire, and real-time quantitative polymerase chain reaction testing to identify SARS-CoV-2 infection. Our main measures were the prevalence of smell loss in SARS-CoV-2-positive HCW versus SARS-CoV-2-negative HCW, and timing of smell loss relative to SARS-CoV-2 test positivity. SARS-CoV-2 was identified in 17 (3.6%) of 473 HCW. HCW with SARS-CoV-2 infection were more likely to report smell loss than SARS-CoV-2-negative HCW on both the at-home assessment and the screening questionnaire (9/17, 53% vs 105/456, 23%, &lt;i&gt;P&lt;/i&gt; &lt; .01). 6/9 (67%) of SARS-CoV-2-positive HCW reporting smell loss reported smell loss prior to having a positive SARS-CoV-2 test, and smell loss was reported a median of two days before testing positive. Neurological symptoms were reported more frequently among SARS-CoV-2-positive HCW who reported smell loss compared to those without smell loss (9/9, 100% vs 3/8, 38%, &lt;i&gt;P&lt;/i&gt; &lt; .01).&lt;/p&gt; Conclusions &lt;p&gt;In this prospective study of HCW, self-reported changes in smell using two different measures were predictive of SARS-CoV-2 infection. Smell loss frequently preceded a positive test and was associated with neurological symptoms.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>It helps to talk: A guiding framework (TRUST) for peer support in delivering mental health care for adolescents living with HIV</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248018" title="It helps to talk: A guiding framework (TRUST) for peer support in delivering mental health care for adolescents living with HIV" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248018.PDF" title="(PDF) It helps to talk: A guiding framework (TRUST) for peer support in delivering mental health care for adolescents living with HIV" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248018.XML" title="(XML) It helps to talk: A guiding framework (TRUST) for peer support in delivering mental health care for adolescents living with HIV" />
+    <author>
+      <name>Carol Wogrin</name>
+    </author>
+    <author>
+      <name>Nicola Willis</name>
+    </author>
+    <author>
+      <name>Abigail Mutsinze</name>
+    </author>
+    <author>
+      <name>Silindweyinkosi Chinoda</name>
+    </author>
+    <author>
+      <name>Ruth Verhey</name>
+    </author>
+    <author>
+      <name>Dixon Chibanda</name>
+    </author>
+    <author>
+      <name>Sarah Bernays</name>
+    </author>
+    <id>10.1371/journal.pone.0248018</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Carol Wogrin, Nicola Willis, Abigail Mutsinze, Silindweyinkosi Chinoda, Ruth Verhey, Dixon Chibanda, Sarah Bernays&lt;/p&gt;
+Introduction &lt;p&gt;Adolescents living with HIV have poor treatment outcomes, including lower rates of viral suppression, than other age groups. Emerging evidence suggests a connection between improved mental health and increased adherence. Strengthening the focus on mental health could support increased rates of viral suppression. In sub-Saharan Africa clinical services for mental health care are extremely limited. Additional mechanisms are required to address the unmet mental health needs of this group. We consider the role that community-based peer supporters, a cadre operating at scale with adolescents, could play in the provision of lay-support for mental health.&lt;/p&gt; Methods &lt;p&gt;We conducted qualitative research to explore the experiences of peer supporters involved in delivering a peer-led mental health intervention in Zimbabwe as part of a randomized control trial (Zvandiri-Friendship Bench trial). We conducted 2 focus group discussions towards the end of the trial with 20 peer supporters (aged 18–24) from across 10 intervention districts and audio recorded 200 of the peer supporters’ monthly case reviews. These data were thematically analysed to explore how peer supporters reflect on what was required of them given the problems that clients raised and what they themselves needed in delivering mental health support.&lt;/p&gt; Results &lt;p&gt;A primary strength of the peer support model, reflected across the datasets, is that it enables adolescents to openly discuss their problems with peer supporters, confident that there is reciprocal trust and understanding derived from the similarity in their lived experiences with HIV. There are potential risks for peer supporters, including being overwhelmed by engaging with and feeling responsible for resolving relationally and structurally complex problems, which warrant considerable supervision. To support this cadre critical elements are needed: a clearly defined scope for the manageable provision of mental health support; a strong triage and referral system for complex cases; mechanisms to support the inclusion of caregivers; and sustained investment in training and ongoing supervision.&lt;/p&gt; Conclusion &lt;p&gt;Extending peer support to explicitly include a focus on mental health has enormous potential. From this empirical study we have developed a framework of core considerations and principles (the TRUST Framework) to guide the implementation of adequate supportive infrastructure in place to enhance the opportunities and mitigate risks.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Changes in diet, activity, weight, and wellbeing of parents during COVID-19 lockdown</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248008" title="Changes in diet, activity, weight, and wellbeing of parents during COVID-19 lockdown" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248008.PDF" title="(PDF) Changes in diet, activity, weight, and wellbeing of parents during COVID-19 lockdown" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248008.XML" title="(XML) Changes in diet, activity, weight, and wellbeing of parents during COVID-19 lockdown" />
+    <author>
+      <name>Rachel G. Curtis</name>
+    </author>
+    <author>
+      <name>Timothy Olds</name>
+    </author>
+    <author>
+      <name>Ty Ferguson</name>
+    </author>
+    <author>
+      <name>François Fraysse</name>
+    </author>
+    <author>
+      <name>Dorothea Dumuid</name>
+    </author>
+    <author>
+      <name>Adrian Esterman</name>
+    </author>
+    <author>
+      <name>Gilly A. Hendrie</name>
+    </author>
+    <author>
+      <name>Wendy J. Brown</name>
+    </author>
+    <author>
+      <name>Rajini Lagiseti</name>
+    </author>
+    <author>
+      <name>Carol A. Maher</name>
+    </author>
+    <id>10.1371/journal.pone.0248008</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Rachel G. Curtis, Timothy Olds, Ty Ferguson, François Fraysse, Dorothea Dumuid, Adrian Esterman, Gilly A. Hendrie, Wendy J. Brown, Rajini Lagiseti, Carol A. Maher&lt;/p&gt;
+
+The COVID-19 pandemic has dramatically impacted lifestyle behaviour as public health initiatives aim to “flatten the curve”. This study examined changes in activity patterns (physical activity, sedentary time, sleep), recreational physical activities, diet, weight and wellbeing from before to during COVID-19 restrictions in Adelaide, Australia. This study used data from a prospective cohort of Australian adults (parents of primary school-aged children; n = 61, 66% female, aged 41±6 years). Participants wore a Fitbit Charge 3 activity monitor and weighed themselves daily using Wi-Fi scales. Activity and weight data were extracted for 14 days before (February 2020) and 14 days during (April 2020) COVID-19 restrictions. Participants reported their recreational physical activity, diet and wellbeing during these periods. Linear mixed effects models were used to examine change over time. Participants slept 27 minutes longer (95% CI 9–51), got up 38 minutes later (95% CI 25–50), and did 50 fewer minutes (95% CI -69–-29) of light physical activity during COVID-19 restrictions. Additionally, participants engaged in more cycling but less swimming, team sports and boating or sailing. Participants consumed a lower percentage of energy from protein (-0.8, 95% CI -1.5–-0.1) and a greater percentage of energy from alcohol (0.9, 95% CI 0.2–1.7). There were no changes in weight or wellbeing. Overall, the effects of COVID-19 restrictions on lifestyle were small; however, their impact on health and wellbeing may accumulate over time. Further research examining the effects of ongoing social distancing restrictions are needed as the pandemic continues.</content>
+  </entry>
+  <entry>
+    <title>Assessing the likelihood of contracting COVID-19 disease based on a predictive tree model: A retrospective cohort study</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247995" title="Assessing the likelihood of contracting COVID-19 disease based on a predictive tree model: A retrospective cohort study" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247995.PDF" title="(PDF) Assessing the likelihood of contracting COVID-19 disease based on a predictive tree model: A retrospective cohort study" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247995.XML" title="(XML) Assessing the likelihood of contracting COVID-19 disease based on a predictive tree model: A retrospective cohort study" />
+    <author>
+      <name>Francesc X. Marin-Gomez</name>
+    </author>
+    <author>
+      <name>Mireia Fàbregas-Escurriola</name>
+    </author>
+    <author>
+      <name>Francesc López Seguí</name>
+    </author>
+    <author>
+      <name>Eduardo Hermosilla Pérez</name>
+    </author>
+    <author>
+      <name>Mència Benítez Camps</name>
+    </author>
+    <author>
+      <name>Jacobo Mendioroz Peña</name>
+    </author>
+    <author>
+      <name>Anna Ruiz Comellas</name>
+    </author>
+    <author>
+      <name>Josep Vidal-Alaball</name>
+    </author>
+    <id>10.1371/journal.pone.0247995</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Francesc X. Marin-Gomez, Mireia Fàbregas-Escurriola, Francesc López Seguí, Eduardo Hermosilla Pérez, Mència Benítez Camps, Jacobo Mendioroz Peña, Anna Ruiz Comellas, Josep Vidal-Alaball&lt;/p&gt;
+Background &lt;p&gt;Primary care is the major point of access in most health systems in developed countries and therefore for the detection of coronavirus disease 2019 (COVID-19) cases. The quality of its IT systems, together with access to the results of mass screening with Polymerase chain reaction (PCR) tests, makes it possible to analyse the impact of various concurrent factors on the likelihood of contracting the disease.&lt;/p&gt; Methods and findings &lt;p&gt;Through data mining techniques with the sociodemographic and clinical variables recorded in patient’s medical histories, a decision tree-based logistic regression model has been proposed which analyses the significance of demographic and clinical variables in the probability of having a positive PCR in a sample of 7,314 individuals treated in the Primary Care service of the public health system of Catalonia. The statistical approach to decision tree modelling allows 66.2% of diagnoses of infection by COVID-19 to be classified with a sensitivity of 64.3% and a specificity of 62.5%, with prior contact with a positive case being the primary predictor variable.&lt;/p&gt; Conclusions &lt;p&gt;The use of a classification tree model may be useful in screening for COVID-19 infection. Contact detection is the most reliable variable for detecting Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) cases. The model would support that, beyond a symptomatic diagnosis, the best way to detect cases would be to engage in contact tracing.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>The social support networks of elderly people in Slovenia during the Covid-19 pandemic</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247993" title="The social support networks of elderly people in Slovenia during the Covid-19 pandemic" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247993.PDF" title="(PDF) The social support networks of elderly people in Slovenia during the Covid-19 pandemic" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247993.XML" title="(XML) The social support networks of elderly people in Slovenia during the Covid-19 pandemic" />
+    <author>
+      <name>Marjan Cugmas</name>
+    </author>
+    <author>
+      <name>Anuška Ferligoj</name>
+    </author>
+    <author>
+      <name>Tina Kogovšek</name>
+    </author>
+    <author>
+      <name>Zenel Batagelj</name>
+    </author>
+    <id>10.1371/journal.pone.0247993</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Marjan Cugmas, Anuška Ferligoj, Tina Kogovšek, Zenel Batagelj&lt;/p&gt;
+
+Population ageing requires society to adjust by ensuring additional types of services and assistance for elderly people. These may be provided by either organized services and sources of informal social support. The latter are especially important since a lack of social support is associated with a lower level of psychological and physical well-being. During the Covid-19 pandemic, social support for the elderly has proven to be even more crucial, also due to physical distancing. Therefore, this study aims to identify and describe the various types of personal social support networks available to the elderly population during the pandemic. To this end, a survey of Slovenians older than 64 years was conducted from April 25 to May 4, 2020 on a probability web-panel-based sample (n = 605). The ego networks were clustered by a hierarchical clustering approach for symbolic data. Clustering was performed for different types of social support (socializing, instrumental support, emotional support) and different characteristics of the social support networks (i.e., type of relationship, number of contacts, geographical distance). The results show that most of the elderly population in Slovenia has a satisfactory social support network, while the share of those without any (accessible) source of social support is significant. The results are particularly valuable for sustainable care policy planning, crisis intervention planning as well as any future waves of the coronavirus.</content>
+  </entry>
+  <entry>
+    <title>Association between meteorological factors and the prevalence dynamics of Japanese encephalitis</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247980" title="Association between meteorological factors and the prevalence dynamics of Japanese encephalitis" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247980.PDF" title="(PDF) Association between meteorological factors and the prevalence dynamics of Japanese encephalitis" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247980.XML" title="(XML) Association between meteorological factors and the prevalence dynamics of Japanese encephalitis" />
+    <author>
+      <name>Taotian Tu</name>
+    </author>
+    <author>
+      <name>Keqiang Xu</name>
+    </author>
+    <author>
+      <name>Lei Xu</name>
+    </author>
+    <author>
+      <name>Yuan Gao</name>
+    </author>
+    <author>
+      <name>Ying Zhou</name>
+    </author>
+    <author>
+      <name>Yaming He</name>
+    </author>
+    <author>
+      <name>Yang Liu</name>
+    </author>
+    <author>
+      <name>Qiyong Liu</name>
+    </author>
+    <author>
+      <name>Hengqing Ji</name>
+    </author>
+    <author>
+      <name>Wenge Tang</name>
+    </author>
+    <id>10.1371/journal.pone.0247980</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Taotian Tu, Keqiang Xu, Lei Xu, Yuan Gao, Ying Zhou, Yaming He, Yang Liu, Qiyong Liu, Hengqing Ji, Wenge Tang&lt;/p&gt;
+
+Japanese encephalitis (JE) is an acute infectious disease caused by the Japanese encephalitis virus (JEV) and is transmitted by mosquitoes. Meteorological conditions are known to play a pivotal role in the spread of JEV. In this study, a zero-inflated generalised additive model and a long short-term memory model were used to assess the relationship between the meteorological factors and population density of &lt;i&gt;Culex tritaeniorhynchus&lt;/i&gt; as well as the incidence of JE and to predict the prevalence dynamics of JE, respectively. The incidence of JE in the previous month, the mean air temperature and the average of relative humidity had positive effects on the outbreak risk and intensity. Meanwhile, the density of all mosquito species in livestock sheds (DMSL) only affected the outbreak risk. Moreover, the region-specific prediction model of JE was developed in Chongqing by used the Long Short-Term Memory Neural Network. Our study contributes to a better understanding of the JE dynamics and helps the local government establish precise prevention and control measures.</content>
+  </entry>
+  <entry>
+    <title>The smell of success: Reproductive success related to rub behavior in brown bears</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247964" title="The smell of success: Reproductive success related to rub behavior in brown bears" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247964.PDF" title="(PDF) The smell of success: Reproductive success related to rub behavior in brown bears" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247964.XML" title="(XML) The smell of success: Reproductive success related to rub behavior in brown bears" />
+    <author>
+      <name>Andrea T. Morehouse</name>
+    </author>
+    <author>
+      <name>Anne E. Loosen</name>
+    </author>
+    <author>
+      <name>Tabitha A. Graves</name>
+    </author>
+    <author>
+      <name>Mark S. Boyce</name>
+    </author>
+    <id>10.1371/journal.pone.0247964</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Andrea T. Morehouse, Anne E. Loosen, Tabitha A. Graves, Mark S. Boyce&lt;/p&gt;
+
+Several species of bears are known to rub deliberately against trees and other objects, but little is known about why bears rub. Patterns in rubbing behavior of male and female brown bears (&lt;i&gt;Ursus arctos&lt;/i&gt;) suggest that scent marking via rubbing functions to communicate among potential mates or competitors. Using DNA from bear hairs collected from rub objects in southwestern Alberta from 2011–2014 and existing DNA datasets from Montana and southeastern British Columbia, we determined sex and individual identity of each bear detected. Using these data, we completed a parentage analysis. From the parentage analysis and detection data, we determined the number of offspring, mates, unique rub objects where an individual was detected, and sampling occasions during which an individual was detected for each brown bear identified through our sampling methods. Using a Poisson regression, we found a positive relationship between bear rubbing behavior and reproductive success; both male and female bears with a greater number of mates and a greater number of offspring were detected at more rub objects and during more occasions. Our results suggest a fitness component to bear rubbing, indicate that rubbing is adaptive, and provide insight into a poorly understood behaviour.</content>
+  </entry>
+  <entry>
+    <title>Could forage peanut in low proportion replace N fertilizer in livestock systems?</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247931" title="Could forage peanut in low proportion replace N fertilizer in livestock systems?" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247931.PDF" title="(PDF) Could forage peanut in low proportion replace N fertilizer in livestock systems?" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247931.XML" title="(XML) Could forage peanut in low proportion replace N fertilizer in livestock systems?" />
+    <author>
+      <name>Vanessa Z. Longhini</name>
+    </author>
+    <author>
+      <name>Abmael S. Cardoso</name>
+    </author>
+    <author>
+      <name>Andressa S. Berça</name>
+    </author>
+    <author>
+      <name>Robert M. Boddey</name>
+    </author>
+    <author>
+      <name>Ricardo A. Reis</name>
+    </author>
+    <author>
+      <name>José C. B. Dubeux Jr.</name>
+    </author>
+    <author>
+      <name>Ana C. Ruggieri</name>
+    </author>
+    <id>10.1371/journal.pone.0247931</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Vanessa Z. Longhini, Abmael S. Cardoso, Andressa S. Berça, Robert M. Boddey, Ricardo A. Reis, José C. B. Dubeux Jr., Ana C. Ruggieri&lt;/p&gt;
+
+Palisadegrass [&lt;i&gt;Urochloa brizantha&lt;/i&gt; (Hochst. ex A. Rich.) R. D. Webster cv. Marandu] is widely used in Brazil and is typically managed with little or no N fertilizer, which often leads to pasture decline in the long-term. The current relationship between beef price and fertilizer cost in Brazil does not favor fertilizer use in pastures. Legume inclusion is an alternative to adding fertilizer N, but often legumes do not reach a significant proportion (&gt; 30%) in pasture botanical composition. This study evaluated herbage responses to N inputs and pasture species composition, under intermittent stocking. Treatments included palisadegrass-forage peanut (&lt;i&gt;Arachis pintoi&lt;/i&gt; Krapov. &amp; W.C. Greg. cv. Amarillo) mixture (mixed), unfertilized palisadegrass (control), and palisadegrass fertilized with 150 kg N ha&lt;sup&gt;-1&lt;/sup&gt; yr&lt;sup&gt;-1&lt;/sup&gt; (fertilized). Treatments were applied over two rainy seasons with five growth cycle (GC) evaluations each season. Response variables included herbage biomass, herbage accumulation, morphological components, total aboveground N of forage peanut (TAGN&lt;sub&gt;FP&lt;/sub&gt;), and contribution of biological N&lt;sub&gt;2&lt;/sub&gt; fixation (BNF). Herbage biomass was greater for fertilized palisadegrass [5850 kg dry matter (DM) ha&lt;sup&gt;-1&lt;/sup&gt;] than for the palisadegrass-forage peanut mixture (3940 kg DM ha&lt;sup&gt;-1&lt;/sup&gt;), while the unfertilized palisadegrass (4400 kg DM ha&lt;sup&gt;-1&lt;/sup&gt;) did not differ from the mixed pasture. Nitrogen fertilizer increased leaf mass of palisadegrass (2490 kg DM ha&lt;sup&gt;-1&lt;/sup&gt;) compared with the control and mixed treatments (1700 and 1310 kg DM ha&lt;sup&gt;-1&lt;/sup&gt;, respectively). The contribution of BNF to the forage peanut ranged from 79 to 85% and 0.5 to 5.5 kg N ha&lt;sup&gt;-1&lt;/sup&gt; cycle&lt;sup&gt;-1&lt;/sup&gt;. Overall, benefits from forage peanut were minimal because legume percentage was less than 10%, while N input in the system by N-fertilizer increased palisadegrass herbage biomass.</content>
+  </entry>
+  <entry>
+    <title>Ecological niche modeling as an effective tool to predict the distribution of freshwater organisms: The case of the Sabaleta &lt;i&gt;Brycon henni&lt;/i&gt; (Eigenmann, 1913)</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247876" title="Ecological niche modeling as an effective tool to predict the distribution of freshwater organisms: The case of the Sabaleta &lt;i&gt;Brycon henni&lt;/i&gt; (Eigenmann, 1913)" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247876.PDF" title="(PDF) Ecological niche modeling as an effective tool to predict the distribution of freshwater organisms: The case of the Sabaleta &lt;i&gt;Brycon henni&lt;/i&gt; (Eigenmann, 1913)" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247876.XML" title="(XML) Ecological niche modeling as an effective tool to predict the distribution of freshwater organisms: The case of the Sabaleta &lt;i&gt;Brycon henni&lt;/i&gt; (Eigenmann, 1913)" />
+    <author>
+      <name>Daniel Valencia-Rodríguez</name>
+    </author>
+    <author>
+      <name>Luz Jiménez-Segura</name>
+    </author>
+    <author>
+      <name>Carlos A. Rogéliz</name>
+    </author>
+    <author>
+      <name>Juan L. Parra</name>
+    </author>
+    <id>10.1371/journal.pone.0247876</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Daniel Valencia-Rodríguez, Luz Jiménez-Segura, Carlos A. Rogéliz, Juan L. Parra&lt;/p&gt;
+
+Ecological niche models (ENMs) aim to recreate the relationships between species and the environments where they occur and allow us to identify unexplored areas in geography where these species might be present. These models have been successfully used in terrestrial organisms but their application in aquatic organisms is still scarce. Recent advances in the availability of species occurrences and environmental information particular to aquatic systems allow the evaluation of these models. This study aims to characterize the niche of the Sabaleta &lt;i&gt;Brycon henni&lt;/i&gt; Eigenmann 1913, an endemic fish of the Colombian Andes, using ENMs to predict its geographical distribution across the Magdalena Basin. For this purpose, we used a set of environmental variables specific to freshwater systems in addition to the customary bioclimatic variables, and species’ occurrence data to model its potential distribution using the Maximum Entropy algorithm (MaxEnt). We evaluate the relative importance between these two sets of variables, the model’s performance, and its geographic overlap with the IUCN map. Both on-site (annual precipitation, minimum temperature of coldest month) and upstream variables (open waters, average minimum temperature of the coldest month and average precipitation seasonality) were included in the models with the highest predictive accuracy. With an area under the curve of 90%, 99% of the species occurrences and 68% of absences correctly predicted, our results support the good performance of ENMs to predict the potential distribution of the Sabaleta and the utility of this tool in conservation and decision-making at the national level.</content>
+  </entry>
+  <entry>
+    <title>Cohort profile: St. Michael’s Hospital Tuberculosis Database (SMH-TB), a retrospective cohort of electronic health record data and variables extracted using natural language processing</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247872" title="Cohort profile: St. Michael’s Hospital Tuberculosis Database (SMH-TB), a retrospective cohort of electronic health record data and variables extracted using natural language processing" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247872.PDF" title="(PDF) Cohort profile: St. Michael’s Hospital Tuberculosis Database (SMH-TB), a retrospective cohort of electronic health record data and variables extracted using natural language processing" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247872.XML" title="(XML) Cohort profile: St. Michael’s Hospital Tuberculosis Database (SMH-TB), a retrospective cohort of electronic health record data and variables extracted using natural language processing" />
+    <author>
+      <name>David Landsman</name>
+    </author>
+    <author>
+      <name>Ahmed Abdelbasit</name>
+    </author>
+    <author>
+      <name>Christine Wang</name>
+    </author>
+    <author>
+      <name>Michael Guerzhoy</name>
+    </author>
+    <author>
+      <name>Ujash Joshi</name>
+    </author>
+    <author>
+      <name>Shaun Mathew</name>
+    </author>
+    <author>
+      <name>Chloe Pou-Prom</name>
+    </author>
+    <author>
+      <name>David Dai</name>
+    </author>
+    <author>
+      <name>Victoria Pequegnat</name>
+    </author>
+    <author>
+      <name>Joshua Murray</name>
+    </author>
+    <author>
+      <name>Kamalprit Chokar</name>
+    </author>
+    <author>
+      <name>Michaelia Banning</name>
+    </author>
+    <author>
+      <name>Muhammad Mamdani</name>
+    </author>
+    <author>
+      <name>Sharmistha Mishra</name>
+    </author>
+    <author>
+      <name>Jane Batt</name>
+    </author>
+    <id>10.1371/journal.pone.0247872</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by David Landsman, Ahmed Abdelbasit, Christine Wang, Michael Guerzhoy, Ujash Joshi, Shaun Mathew, Chloe Pou-Prom, David Dai, Victoria Pequegnat, Joshua Murray, Kamalprit Chokar, Michaelia Banning, Muhammad Mamdani, Sharmistha Mishra, Jane Batt&lt;/p&gt;
+Background &lt;p&gt;Tuberculosis (TB) is a major cause of death worldwide. TB research draws heavily on clinical cohorts which can be generated using electronic health records (EHR), but granular information extracted from unstructured EHR data is limited. The St. Michael’s Hospital TB database (SMH-TB) was established to address gaps in EHR-derived TB clinical cohorts and provide researchers and clinicians with detailed, granular data related to TB management and treatment.&lt;/p&gt; Methods &lt;p&gt;We collected and validated multiple layers of EHR data from the TB outpatient clinic at St. Michael’s Hospital, Toronto, Ontario, Canada to generate the SMH-TB database. SMH-TB contains structured data directly from the EHR, and variables generated using natural language processing (NLP) by extracting relevant information from free-text within clinic, radiology, and other notes. NLP performance was assessed using recall, precision and F&lt;sub&gt;1&lt;/sub&gt; score averaged across variable labels. We present characteristics of the cohort population using binomial proportions and 95% confidence intervals (CI), with and without adjusting for NLP misclassification errors.&lt;/p&gt; Results &lt;p&gt;SMH-TB currently contains retrospective patient data spanning 2011 to 2018, for a total of 3298 patients (N = 3237 with at least 1 associated dictation). Performance of TB diagnosis and medication NLP rulesets surpasses 93% in recall, precision and F&lt;sub&gt;1&lt;/sub&gt; metrics, indicating good generalizability. We estimated 20% (95% CI: 18.4–21.2%) were diagnosed with active TB and 46% (95% CI: 43.8–47.2%) were diagnosed with latent TB. After adjusting for potential misclassification, the proportion of patients diagnosed with active and latent TB was 18% (95% CI: 16.8–19.7%) and 40% (95% CI: 37.8–41.6%) respectively&lt;/p&gt; Conclusion &lt;p&gt;SMH-TB is a unique database that includes a breadth of structured data derived from structured and unstructured EHR data by using NLP rulesets. The data are available for a variety of research applications, such as clinical epidemiology, quality improvement and mathematical modeling studies.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Utilization of &lt;i&gt;Pepeta&lt;/i&gt;, a locally processed immature rice-based food product, to promote food security in Tanzania</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247870" title="Utilization of &lt;i&gt;Pepeta&lt;/i&gt;, a locally processed immature rice-based food product, to promote food security in Tanzania" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247870.PDF" title="(PDF) Utilization of &lt;i&gt;Pepeta&lt;/i&gt;, a locally processed immature rice-based food product, to promote food security in Tanzania" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247870.XML" title="(XML) Utilization of &lt;i&gt;Pepeta&lt;/i&gt;, a locally processed immature rice-based food product, to promote food security in Tanzania" />
+    <author>
+      <name>Kulwa F. Miraji</name>
+    </author>
+    <author>
+      <name>Edoardo Capuano</name>
+    </author>
+    <author>
+      <name>Vincenzo Fogliano</name>
+    </author>
+    <author>
+      <name>Henry S. Laswai</name>
+    </author>
+    <author>
+      <name>Anita R. Linnemann</name>
+    </author>
+    <id>10.1371/journal.pone.0247870</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Kulwa F. Miraji, Edoardo Capuano, Vincenzo Fogliano, Henry S. Laswai, Anita R. Linnemann&lt;/p&gt;
+
+Consumption of &lt;i&gt;pepeta&lt;/i&gt;, a traditionally processed immature rice product, is common in Tanzania, where it contributes to food security as an early rice food i.e. when there is no other food available at the household while the crops in the field not yet fully ripe. Many production steps are needed to guarantee a consistent, good quality &lt;i&gt;pepeta&lt;/i&gt; product, and this hinders its utilization in other rice-growing sub-Saharan regions. This study aims to gain insight into the &lt;i&gt;pepeta&lt;/i&gt; processing knowledge and final product, and assess variations in the processing conditions and parameters across the study area. A survey among 257 Tanzanian processors and consumers revealed that the &lt;i&gt;pepeta&lt;/i&gt; product is widely known, rated second (73.5% respondents) as rice-based food after &lt;i&gt;wali&lt;/i&gt; (cooked white rice, (100%)) and linked to traditions of the communities in the study area. Harvest of immature rice grain, roasting, pounding, cleaning, and packing are the main process steps of &lt;i&gt;pepeta&lt;/i&gt; production. Method of rice harvest, rice suitability for &lt;i&gt;pepeta&lt;/i&gt; production after optimum harvest, dryness of grains and number of pounding as indicator to terminate roasting and pounding process respectively, and packaging materials used varied significantly across respondents in the study area. Reported criteria considered by respondents for product acceptability did not vary significantly across study area. The criteria include colour (76.5%), general appearance (60.8%), texture (64.7%) and taste (52.9%). Immature rice paddy and &lt;i&gt;pepeta&lt;/i&gt; were sold at a higher price than mature rice paddy and white rice, respectively, which implies that options to facilitate &lt;i&gt;pepeta&lt;/i&gt; processing through, for instance, standardization of processing conditions and parameters could lead to increased income.</content>
+  </entry>
+  <entry>
+    <title>Translation and validation of the Dutch version of the health professional education in patient safety survey amongst nursing students in Belgium: A psychometric analysis</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247869" title="Translation and validation of the Dutch version of the health professional education in patient safety survey amongst nursing students in Belgium: A psychometric analysis" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247869.PDF" title="(PDF) Translation and validation of the Dutch version of the health professional education in patient safety survey amongst nursing students in Belgium: A psychometric analysis" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247869.XML" title="(XML) Translation and validation of the Dutch version of the health professional education in patient safety survey amongst nursing students in Belgium: A psychometric analysis" />
+    <author>
+      <name>Jochen Bergs</name>
+    </author>
+    <author>
+      <name>Katrien Peeters</name>
+    </author>
+    <author>
+      <name>Isabel Kortleven</name>
+    </author>
+    <author>
+      <name>Sarah Creemers</name>
+    </author>
+    <author>
+      <name>Dorien Ulenaers</name>
+    </author>
+    <author>
+      <name>Melissa Desmedt</name>
+    </author>
+    <author>
+      <name>Ward Schrooten</name>
+    </author>
+    <id>10.1371/journal.pone.0247869</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Jochen Bergs, Katrien Peeters, Isabel Kortleven, Sarah Creemers, Dorien Ulenaers, Melissa Desmedt, Ward Schrooten&lt;/p&gt;
+Objectives &lt;p&gt;Evaluate the psychometric properties of the Dutch version of the Health Professional Education in Patient Safety Survey (H-PEPSS&lt;sub&gt;Dutch&lt;/sub&gt;), an instrument used to assess self-efficacy regarding patient safety competence.&lt;/p&gt; Methods &lt;p&gt;The H-PEPSS&lt;sub&gt;Dutch&lt;/sub&gt; was administered to 610 students in two Belgian nursing schools. We used confirmatory factor analysis, for both classroom and clinical learning, to examine the psychometric properties.&lt;/p&gt; Results &lt;p&gt;The analysis of construct validity showed a good fit to the hypothesised models. Cronbach’s alpha values ranged from 0.70 to 0.87 for classroom learning and from 0.56 to 0.86 for clinical learning, indicating good reliability. Differentiating between the H-PEPSS constructs in the clinical setting showed to be complicated; hence, discriminant validity was not supported for all dimensions.&lt;/p&gt; Conclusions &lt;p&gt;Overall, this provides us with a reliable instrument to measure self-reported patient safety competence among nursing students. Further research is needed to validate the H-PEPSS as a longitudinal monitoring tool and as a pre-and-post measurement on the impact of interventions related to patient safety in the nursing curricula.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Seroprevalence of coronavirus disease 2019 (COVID-19) among health care workers from three pandemic hospitals of Turkey</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247865" title="Seroprevalence of coronavirus disease 2019 (COVID-19) among health care workers from three pandemic hospitals of Turkey" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247865.PDF" title="(PDF) Seroprevalence of coronavirus disease 2019 (COVID-19) among health care workers from three pandemic hospitals of Turkey" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247865.XML" title="(XML) Seroprevalence of coronavirus disease 2019 (COVID-19) among health care workers from three pandemic hospitals of Turkey" />
+    <author>
+      <name>Gizem Alkurt</name>
+    </author>
+    <author>
+      <name>Ahmet Murt</name>
+    </author>
+    <author>
+      <name>Zeki Aydin</name>
+    </author>
+    <author>
+      <name>Ozge Tatli</name>
+    </author>
+    <author>
+      <name>Nihat Bugra Agaoglu</name>
+    </author>
+    <author>
+      <name>Arzu Irvem</name>
+    </author>
+    <author>
+      <name>Mehtap Aydin</name>
+    </author>
+    <author>
+      <name>Ridvan Karaali</name>
+    </author>
+    <author>
+      <name>Mustafa Gunes</name>
+    </author>
+    <author>
+      <name>Batuhan Yesilyurt</name>
+    </author>
+    <author>
+      <name>Hasan Turkez</name>
+    </author>
+    <author>
+      <name>Adil Mardinoglu</name>
+    </author>
+    <author>
+      <name>Mehmet Doganay</name>
+    </author>
+    <author>
+      <name>Filiz Basinoglu</name>
+    </author>
+    <author>
+      <name>Nurhan Seyahi</name>
+    </author>
+    <author>
+      <name>Gizem Dinler Doganay</name>
+    </author>
+    <author>
+      <name>Hamdi Levent Doganay</name>
+    </author>
+    <id>10.1371/journal.pone.0247865</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Gizem Alkurt, Ahmet Murt, Zeki Aydin, Ozge Tatli, Nihat Bugra Agaoglu, Arzu Irvem, Mehtap Aydin, Ridvan Karaali, Mustafa Gunes, Batuhan Yesilyurt, Hasan Turkez, Adil Mardinoglu, Mehmet Doganay, Filiz Basinoglu, Nurhan Seyahi, Gizem Dinler Doganay, Hamdi Levent Doganay&lt;/p&gt;
+
+COVID-19 is a global threat with an increasing number of infections. Research on IgG seroprevalence among health care workers (HCWs) is needed to re-evaluate health policies. This study was performed in three pandemic hospitals in Istanbul and Kocaeli. Different clusters of HCWs were screened for SARS-CoV-2 infection. Seropositivity rate among participants was evaluated by chemiluminescent microparticle immunoassay. We recruited 813 non-infected and 119 PCR-confirmed infected HCWs. Of the previously undiagnosed HCWs, 22 (2.7%) were seropositive. Seropositivity rates were highest for cleaning staff (6%), physicians (4%), nurses (2.2%) and radiology technicians (1%). Non-pandemic clinic (6.4%) and ICU (4.3%) had the highest prevalence. HCWs in “high risk” group had similar seropositivity rate with “no risk” group (2.9 vs 3.5 &lt;i&gt;p&lt;/i&gt; = 0.7). These findings might lead to the re-evaluation of infection control and transmission dynamics in hospitals.</content>
+  </entry>
+  <entry>
+    <title>Urinary cytokines in women with refractory detrusor overactivity: A longitudinal study of rotating antibiotic versus placebo treatment</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247861" title="Urinary cytokines in women with refractory detrusor overactivity: A longitudinal study of rotating antibiotic versus placebo treatment" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247861.PDF" title="(PDF) Urinary cytokines in women with refractory detrusor overactivity: A longitudinal study of rotating antibiotic versus placebo treatment" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247861.XML" title="(XML) Urinary cytokines in women with refractory detrusor overactivity: A longitudinal study of rotating antibiotic versus placebo treatment" />
+    <author>
+      <name>Zhuoran Chen</name>
+    </author>
+    <author>
+      <name>Samantha Ognenovska</name>
+    </author>
+    <author>
+      <name>Ronald Sluyter</name>
+    </author>
+    <author>
+      <name>Kate H. Moore</name>
+    </author>
+    <author>
+      <name>Kylie J. Mansfield</name>
+    </author>
+    <id>10.1371/journal.pone.0247861</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Zhuoran Chen, Samantha Ognenovska, Ronald Sluyter, Kate H. Moore, Kylie J. Mansfield&lt;/p&gt;
+
+Over 50% of women with detrusor overactivity (DO), who do not respond to therapy have been shown to have bacteriuria, which may stimulate the release of inflammatory cytokines than can enhance nerve signalling, leading to symptoms of urgency. This study made use of a consecutive series of urine samples collected from women with refractory DO, who participated in a clinical trial of rotating antibiotic therapy. The aim was to determine the effect of bacteriuria and antibiotic treatment on the levels of urinary cytokines, and to correlate the cytokine concentration with patient outcome measures relating to urgency or urge incontinence. The urinary cytokines chosen were IL-1α, IL-1 receptor antagonist, IL-4, IL-6, IL-8, IL-10, CXCL10 (IP-10), MCP-1 and TNF-α. The presence of bacteriuria stimulated a significant increase in the concentrations of IL-1α (P 0.0216), IL-1 receptor antagonist (P 0.0264), IL-6 (P 0.0003), IL-8 (P 0.0043) and CXCL-10 (P 0.009). Antibiotic treatment significantly attenuated the release of IL-1α (P 0.005), IL-6 (P 0.0027), IL-8 (P 0.0001), IL-10 (P 0.049), and CXCL-10 (P 0.042), i.e. the response to the presence of bacteria was less in the antibiotic treated patients. Across the 26 weeks of the trial, antibiotic treatment reduced the concentration of five of the nine cytokines measured (IL-1α, IL-6, IL-8, IL-10 and CXCL-10); this did not reach significance at every time point. In antibiotic treated patients, the urinary concentration of CXCL-10 correlated positively with four of the six measures of urgency. This study has shown that cytokines associated with activation of the innate immune system (e.g. cytokines chemotactic for or activators of macrophages and neutrophils) are reduced by antibiotic therapy in women with refractory DO. Antibiotic therapy is also associated with symptom improvement in these women, therefore the inflammatory response may have a role in the aetiology of refractory DO.</content>
+  </entry>
+  <entry>
+    <title>Effects of disusing closed suction drainage in simultaneous bilateral total hip arthroplasty: A retrospective cohort study</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247845" title="Effects of disusing closed suction drainage in simultaneous bilateral total hip arthroplasty: A retrospective cohort study" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247845.PDF" title="(PDF) Effects of disusing closed suction drainage in simultaneous bilateral total hip arthroplasty: A retrospective cohort study" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247845.XML" title="(XML) Effects of disusing closed suction drainage in simultaneous bilateral total hip arthroplasty: A retrospective cohort study" />
+    <author>
+      <name>Chan-Woo Park</name>
+    </author>
+    <author>
+      <name>Seung-Jae Lim</name>
+    </author>
+    <author>
+      <name>Insun Yoo</name>
+    </author>
+    <author>
+      <name>Youngsik Lee</name>
+    </author>
+    <author>
+      <name>Jae-Yeon Won</name>
+    </author>
+    <author>
+      <name>Youn-Soo Park</name>
+    </author>
+    <id>10.1371/journal.pone.0247845</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Chan-Woo Park, Seung-Jae Lim, Insun Yoo, Youngsik Lee, Jae-Yeon Won, Youn-Soo Park&lt;/p&gt;
+Purpose &lt;p&gt;Increased blood loss remains a major drawback of simultaneous bilateral total hip arthroplasty (SBTHA). We examined the effects of disusing closed suction drainage (CSD) on postoperative blood loss and transfusion requirement in cementless SBTHA.&lt;/p&gt; Methods &lt;p&gt;A retrospective cohort study was conducted with a consecutive series of cementless SBTHAs performed by a single surgeon between January 2014 and March 2017. The surgeon routinely used CSD until May 2015 and refrained from CSD in all primary THAs thereafter. This study included SBTHAs with intravenous administration of tranexamic acid (TXA). Postoperative hemoglobin drop, blood loss, transfusion rate, pain scores, complication rates, and implant survivorships were compared between the groups of SBTHA with and without CSD. The minimum follow-up duration was 1 year.&lt;/p&gt; Results &lt;p&gt;Among the 110 patients (220 hips), 46 (92 hips) and 64 (128 hips) underwent SBTHA with and without CSD, respectively. Maximum hemoglobin drop (mean, 4.8 vs. 3.9 g/dL; P = 0.001), calculated blood loss (mean, 1530 vs. 1190 mL; P&lt;0.001), transfusion rate (45.7% vs. 21.9%; P = 0.008), and length of hospital stay (mean, 6.6 vs. 5.8 days; P = 0.004) were significantly lower in patients without CSD. There were no significant differences in postoperative pain scales and wound complication rates. The mean Harris Hip scores at final follow-up (92.5 vs. 92.1; P = 0.775) and implant survivorships with an end-point of any revision at 4 years (98.9% vs. 98.4%; log-rank, P = 0.766) were similar between groups.&lt;/p&gt; Conclusions &lt;p&gt;Disusing CSD significantly reduced postoperative blood loss and transfusion requirement without increasing postoperative pain and surgical wound complications in cementless SBTHA with concurrent administration of intravenous TXA.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Sleep-related hypermotor epilepsy associated mutations uncover important kinetic roles of α4β2- nicotinic acetylcholine receptor intracellular structures</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247825" title="Sleep-related hypermotor epilepsy associated mutations uncover important kinetic roles of α4β2- nicotinic acetylcholine receptor intracellular structures" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247825.PDF" title="(PDF) Sleep-related hypermotor epilepsy associated mutations uncover important kinetic roles of α4β2- nicotinic acetylcholine receptor intracellular structures" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247825.XML" title="(XML) Sleep-related hypermotor epilepsy associated mutations uncover important kinetic roles of α4β2- nicotinic acetylcholine receptor intracellular structures" />
+    <author>
+      <name>Maegan M. Weltzin</name>
+    </author>
+    <author>
+      <name>Andrew A. George</name>
+    </author>
+    <author>
+      <name>Ronald J. Lukas</name>
+    </author>
+    <author>
+      <name>Paul Whiteaker</name>
+    </author>
+    <id>10.1371/journal.pone.0247825</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Maegan M. Weltzin, Andrew A. George, Ronald J. Lukas, Paul Whiteaker&lt;/p&gt;
+
+Sleep-related hypermotor epilepsy (SHE) is a group of seizure disorders prominently associated with mutations in nicotinic acetylcholine receptors (nAChR). The most prevalent central nervous system nAChR subtype contains α4 and β2 subunits, in two ratios. (α4β2)&lt;sub&gt;2&lt;/sub&gt;β2-nAChR have high agonist sensitivity (HS-isoform), whereas (α4β2)&lt;sub&gt;2&lt;/sub&gt;α4-nAChR agonist responses exhibit a small high-sensitivity, and a predominant low-sensitivity, phase of function (LS-isoform). Multiple non-synonymous mutations in the second and third transmembrane domains of α4 and β2 subunits are associated with SHE. We recently demonstrated that two additional, SHE-associated, missense mutations in the major cytoplasmic loops of these subunits [α4(R336H) and β2(V337G)] cause increased macroscopic function-per receptor. Here, we use single-channel patch-clamp electrophysiology to show that these mutations influence single-channel amplitudes and open- and closed-state kinetics. Pure populations of HS- or LS-isoform α4β2-nAChR were expressed by injecting either 1:10 or 30:1 α4:β2 cRNA ratios, respectively, into &lt;i&gt;Xenopus laevis&lt;/i&gt; oocytes. Functional properties of the resulting mutant α4β2-nAChR isoforms were compared to their wildtype counterparts. α4(R336H) subunit incorporation minimally affected single-channel amplitudes, whereas β2(V337G) subunit incorporation reduced them significantly in both isoforms. However, for both mutant subunits, increased function-per-receptor was predominantly caused by altered single channel kinetics. The α4(R336H) mutation primarily destabilizes desensitized states between openings. By contrast, the β2(V337G) mutation principally stabilizes receptor open states. The use of naturally-occurring and physiologically-impactful mutations has allowed us to define valuable new insights regarding the functional roles of nAChR intracellular domains. Further mechanistic context is provided by intracellular-domain structures recently published for other members of the Cys-loop receptor superfamily (α3β4-nAChR and 5-HT&lt;sub&gt;3A&lt;/sub&gt;R).</content>
+  </entry>
+  <entry>
+    <title>Radiographic differences in the concomitant deformities in two types of medial ankle osteoarthritis</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247816" title="Radiographic differences in the concomitant deformities in two types of medial ankle osteoarthritis" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247816.PDF" title="(PDF) Radiographic differences in the concomitant deformities in two types of medial ankle osteoarthritis" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247816.XML" title="(XML) Radiographic differences in the concomitant deformities in two types of medial ankle osteoarthritis" />
+    <author>
+      <name>Wooyoung Choi</name>
+    </author>
+    <author>
+      <name>Chin Youb Chung</name>
+    </author>
+    <author>
+      <name>Moon Seok Park</name>
+    </author>
+    <author>
+      <name>Sanghoon Lee</name>
+    </author>
+    <author>
+      <name>Kyoung Min Lee</name>
+    </author>
+    <id>10.1371/journal.pone.0247816</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Wooyoung Choi, Chin Youb Chung, Moon Seok Park, Sanghoon Lee, Kyoung Min Lee&lt;/p&gt;
+Objectives &lt;p&gt;Motion preserving surgeries could be unsuccessful because of underestimation of deformities of the foot and knee in ankle osteoarthritis. This study aimed to investigate the concomitant deformities in medial ankle osteoarthritis and the difference between the two types, varus angulation and medial translation.&lt;/p&gt; Methods &lt;p&gt;A retrospective study was conducted using medical records and radiographic data. Patients with medial ankle osteoarthritis that underwent weight-bearing X ray imaging and radiographic measurements including tibial plafond inclination (TPI), tibiotalar tilt angle (TT), lateral talo-first metatarsal angle, naviculo-cuboid overlap, and mechanical tibiofemoral angle (mTFA) were studied. The patients were categorized into two groups, the varus angulation group (TT ≥4°) and medial translation group (TT &lt;4°). The radiographic measurements were compared between the two groups.&lt;/p&gt; Results &lt;p&gt;A total of 102 patients (male = 44; female = 58) were included; the mean age was 64.9 years (SD 8.3 years). The varus rotation group (N = 66) showed a significantly smaller lateral talo-first metatarsal angle (p&lt;0.001), naviculo-cuboid overlap (p&lt;0.001), and mTFA (p = 0.019) compared to the medial displacement group (N = 36). The TT showed a significant correlation with lateral talo-first metatarsal angle (r = -0.520, p&lt;0.001), naviculo-cuboid overlap (r = -0.501, p&lt;0.001), and mTFA (r = -0.243, p = 0.014). Lateral talo-first metatarsal angle was found to be the significant factor (p = 0.018) discriminating varus angulation and medial translation types in the binary logistic analysis.&lt;/p&gt; Conclusions &lt;p&gt;Varus angulation of the ankle was correlated with knee alignment and foot deformity. Radiographic indices were different between the varus angulation and medial translation groups. The role of concomitant deformities needs to be further investigated in terms of a causal relationship. Surgeons need to pay attention to concomitant deformities in the treatment of medial ankle osteoarthritis.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Happy or healthy? How members of the public prioritise farm animal health and natural behaviours</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247788" title="Happy or healthy? How members of the public prioritise farm animal health and natural behaviours" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247788.PDF" title="(PDF) Happy or healthy? How members of the public prioritise farm animal health and natural behaviours" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247788.XML" title="(XML) Happy or healthy? How members of the public prioritise farm animal health and natural behaviours" />
+    <author>
+      <name>Belinda Vigors</name>
+    </author>
+    <author>
+      <name>David A. Ewing</name>
+    </author>
+    <author>
+      <name>Alistair B. Lawrence</name>
+    </author>
+    <id>10.1371/journal.pone.0247788</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Belinda Vigors, David A. Ewing, Alistair B. Lawrence&lt;/p&gt;
+
+The importance given to minimising health issues and promoting natural behaviours is a polarising issue within farm animal welfare. It is predominantly thought that members of the public prioritise animals being able to behave naturally over other aspects of farm animal welfare, such as addressing health issues. However, public perspectives may be more multi-dimensional than is generally thought, with the importance given to these different elements of welfare dependent on the situation and state of the animals in question. To examine this, a factorial survey using vignettes, which experimentally manipulated the different levels of health (high health vs. low health) and natural behaviour provision (high behaviour vs. low behaviour), was completed by a sample (n = 810) representative of the UK population (on age, gender, ethnicity). Contrary to the predominant view, this study found animal health had the greatest effect on participants’ judgements, explaining more of the variance in their assessments of animal welfare than any other factor. However, findings also indicated that participants considered animal welfare to be most positive when both health issues are minimised and natural behaviours are promoted. Attitudes to natural behaviours also varied more between participants, with females, individuals who do not (regularly) eat meat and those with a greater belief in animal mind giving greater priority to natural behaviours. In the context of public and private welfare standards seeking to meet public expectations, this study provides important insights into how public perspectives of animal welfare are more nuanced than previously thought, influenced by the context of the animal, the aspect of welfare in question and personal characteristics.</content>
+  </entry>
+  <entry>
+    <title>Clustering patterns mirror the geographical distribution and genetic history of Lemnos and Lesvos sheep populations</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247787" title="Clustering patterns mirror the geographical distribution and genetic history of Lemnos and Lesvos sheep populations" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247787.PDF" title="(PDF) Clustering patterns mirror the geographical distribution and genetic history of Lemnos and Lesvos sheep populations" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247787.XML" title="(XML) Clustering patterns mirror the geographical distribution and genetic history of Lemnos and Lesvos sheep populations" />
+    <author>
+      <name>Antonios Kominakis</name>
+    </author>
+    <author>
+      <name>Eirini Tarsani</name>
+    </author>
+    <author>
+      <name>Ariadne L. Hager-Theodorides</name>
+    </author>
+    <author>
+      <name>Ioannis Mastranestasis</name>
+    </author>
+    <author>
+      <name>Ioannis Hadjigeorgiou</name>
+    </author>
+    <id>10.1371/journal.pone.0247787</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Antonios Kominakis, Eirini Tarsani, Ariadne L. Hager-Theodorides, Ioannis Mastranestasis, Ioannis Hadjigeorgiou&lt;/p&gt;
+
+Elucidating the genetic variation and structure of Lemnos and Lesvos sheep is critical for maintaining local genetic diversity, ecosystem integrity and resilience of local food production of the two North Aegean islands. In the present study, we explored genetic diversity and differentiation as well as population structure of the Lemnos and Lesvos sheep. Furthermore, we sought to identify a small panel of markers with the highest discriminatory power to assign animals across islands. A total number of n = 424 (n = 307, Lemnos and n = 117, Lesvos) ewes, sampled from n = 24 herds dispersed at different geographic regions on the two islands, were genotyped with the 50K SNP array. Mean observed heterozygosity was higher (but not statistically significantly different) in Lesvos than in Lemnos population (0.384 vs. 0.377) while inbreeding levels were higher in Lemnos than Lesvos herds (0.065 vs. 0.031). Results of principal components along with that of admixture analysis and estimated genetic distances revealed genetic clusters corresponding to Lesvos and Lemnos origin and the existence of infrastructure within islands that were associated with geographical isolation and genetic history of the studied populations. In particular, genetic analyses highlighted three geographically isolated herds in Lemnos that are located at mountainous areas of the island and are characterized as representatives of the local sheep by historic data and reports. Admixture analysis also showed a shared genetic background between Lemnos and Lesvos sheep attributable to past gene flow. Little overall genetic differentiation was detected between the two island sheep populations, while 150 discriminatory SNPs could accurately assign animals to their origin. Present results are comparable with those reported in the worldwide sheep breeds, suggesting geography related genetic patterns across and within islands and the existence of the local Lemnos sheep.</content>
+  </entry>
+  <entry>
+    <title>Analysis of (co) variance components and estimation of breeding value of growth and production traits in &lt;i&gt;Dahlem Red&lt;/i&gt; chicken using pedigree relationship in an animal model</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247779" title="Analysis of (co) variance components and estimation of breeding value of growth and production traits in &lt;i&gt;Dahlem Red&lt;/i&gt; chicken using pedigree relationship in an animal model" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247779.PDF" title="(PDF) Analysis of (co) variance components and estimation of breeding value of growth and production traits in &lt;i&gt;Dahlem Red&lt;/i&gt; chicken using pedigree relationship in an animal model" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247779.XML" title="(XML) Analysis of (co) variance components and estimation of breeding value of growth and production traits in &lt;i&gt;Dahlem Red&lt;/i&gt; chicken using pedigree relationship in an animal model" />
+    <author>
+      <name>U. Rajkumar</name>
+    </author>
+    <author>
+      <name>L. Leslie Leo Prince</name>
+    </author>
+    <author>
+      <name>K. S. Rajaravindra</name>
+    </author>
+    <author>
+      <name>S. Haunshi</name>
+    </author>
+    <author>
+      <name>M. Niranjan</name>
+    </author>
+    <author>
+      <name>R. N. Chatterjee</name>
+    </author>
+    <id>10.1371/journal.pone.0247779</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by U. Rajkumar, L. Leslie Leo Prince, K. S. Rajaravindra, S. Haunshi, M. Niranjan, R. N. Chatterjee&lt;/p&gt;
+
+Variance and covariance components of growth and production traits were analyzed employing REML animal model to assess the &lt;i&gt;Dahlem Red&lt;/i&gt; (PD-3) chicken population for direct additive genetic, maternal effects and to estimate the estimated breeding value (EBV), genetic parameters, genetic trends and rate of inbreeding (ΔF) utilizing seven generation’s data. The generation and hatch had significant (P≤0.01) effect on the body weight at 0 day (BW0), 2 (BW2), 4 (BW4) and 6 weeks (BW6) and shank length at six weeks of age (SL6). The average least squares means (LSM) for BW6 and SL6 were 273.93±0.62 g and 53.97±0.05 mm, respectively. All the production traits were significantly (P≤0.01) influenced by generation and hatch. The average LSM for age at sexual maturity (ASM), egg production up to 40 weeks (EP40) and egg mass up to 40 weeks (EM40) were 168.82±0.25 d, 72.60±0.41 eggs and 4.21±0.07 kg, respectively. Model 5 with additive direct, maternal genetic, maternal permanent environmental and residual variance components was the best for BW0, BW2 and BW4 based on the AIC values obtained in WOMBAT. Model 4 was the best model for BW6, SL6, ASM, EP40 and EM40 with additive direct, maternal permanent environmental and residual variance components. Maternal effects were higher during early age, decreased with age, and remained present until 20 weeks of age. The heritability (h&lt;sup&gt;2&lt;/sup&gt;) estimates were low to moderate in magnitude for all the growth traits and ranged from 0.02±0.03 to 0.19±0.03. The maternal heritability was high at hatch (0.35±0.06), decreased gradually until 4&lt;sup&gt;th&lt;/sup&gt; week (0.02±0.01) and ceased afterwards. The heritabilities of EP40 (0.11±0.03) and EM40 (0.12±0.04) were low. The direct additive genetic correlations (r&lt;sub&gt;a&lt;/sub&gt;) between BW2, BW4, BW6 and SL6 were high and positive (P≤ 0.05). The additive genetic and maternal permanent environmental correlation between EP40 and EM40 were high and positive (P≤ 0.05). The EBV of EM40 was significant (P≤ 0.05) with 0.48 kg/generation in PD-3 chicken at the end of the seventh generation. The EBV of EP40 showed an increasing trend with a genetic gain of 1.87 eggs per generation. The average inbreeding coefficient of the population was 0.019 and average ΔF was 0.007 over the last seven generations of selection. The EBV trends for primary and associated traits showed linear trends in the desired direction and negligible inbreeding.</content>
+  </entry>
+  <entry>
+    <title>A stochastic network-based model to simulate farm-level transmission of African swine fever virus in Vietnam</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247770" title="A stochastic network-based model to simulate farm-level transmission of African swine fever virus in Vietnam" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247770.PDF" title="(PDF) A stochastic network-based model to simulate farm-level transmission of African swine fever virus in Vietnam" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247770.XML" title="(XML) A stochastic network-based model to simulate farm-level transmission of African swine fever virus in Vietnam" />
+    <author>
+      <name>Hu Suk Lee</name>
+    </author>
+    <author>
+      <name>Krishna K. Thakur</name>
+    </author>
+    <author>
+      <name>Long Pham-Thanh</name>
+    </author>
+    <author>
+      <name>Tung Duy Dao</name>
+    </author>
+    <author>
+      <name>Anh Ngoc Bui</name>
+    </author>
+    <author>
+      <name>Vuong Nghia Bui</name>
+    </author>
+    <author>
+      <name>Huy Nguyen Quang</name>
+    </author>
+    <id>10.1371/journal.pone.0247770</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Hu Suk Lee, Krishna K. Thakur, Long Pham-Thanh, Tung Duy Dao, Anh Ngoc Bui, Vuong Nghia Bui, Huy Nguyen Quang&lt;/p&gt;
+
+African swine fever virus is highly contagious, and mortality rates reach up to 100% depending on the host, virus dose, and the transmission routes. The main objective of this study was to develop a network-based simulation model for the farm-level transmission of ASF virus to evaluate the impact of changes in farm connectivity on ASF spread in Vietnam. A hypothetical population of 1,000 pig farms was created and used for the network-based simulation, where each farm represented a node, and the connection between farms represented an edge. The three scenarios modelled in this way (baseline, low, and high) evaluated the impact of connectivity on disease transmission. The median number of infected farms was higher as the connectivity increased (low: 659, baseline: 968 and high: 993). In addition, we evaluated the impact of the culling strategy on the number of infected farms. A total of four scenarios were simulated depending on the timing of culling after a farm was infected. We found that the timing of culling at 16, 12, 8, and 6 weeks had resulted in a reduction of the number of median infected farms by 81.92%, 91.63%, 100%, and 100%, respectively. Finally, our evaluation of the implication of stability of ties between farms indicated that if the farms were to have the same trading partners for at least six months could significantly reduce the median number of infected farms to two (95&lt;sup&gt;th&lt;/sup&gt; percentile: 413) than in the basic model. Our study showed that pig movements among farms had a significant influence on the transmission dynamics of ASF virus. In addition, we found that the either timing of culling, reduction in the number of trading partners each farm had, or decreased mean contact rate during the outbreaks were essential to prevent or stop further outbreaks.</content>
+  </entry>
+  <entry>
+    <title>Common international trends in football stadium attendance</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247761" title="Common international trends in football stadium attendance" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247761.PDF" title="(PDF) Common international trends in football stadium attendance" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247761.XML" title="(XML) Common international trends in football stadium attendance" />
+    <author>
+      <name>Jan C. van Ours</name>
+    </author>
+    <id>10.1371/journal.pone.0247761</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Jan C. van Ours&lt;/p&gt;
+
+This paper examines long-term developments in stadium attendance in professional football in the Netherlands. As in many other European countries attendance had a U-shaped development with the lowest numbers in the mid-1980s. The developments in the Netherlands do not seem to have been affected by hooliganism but by socioeconomic factors. Furthermore, the association with stadium attendance in other European leagues in particular the English Premier League is very high. This suggests that stadium attendance is affected not only by national developments but also by common international trends in the interest in football matches.</content>
+  </entry>
+  <entry>
+    <title>Time series analysis of the demand for COVID-19 related chest imaging during the first wave of the SARS-CoV-2 pandemic: An explorative study</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247686" title="Time series analysis of the demand for COVID-19 related chest imaging during the first wave of the SARS-CoV-2 pandemic: An explorative study" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247686.PDF" title="(PDF) Time series analysis of the demand for COVID-19 related chest imaging during the first wave of the SARS-CoV-2 pandemic: An explorative study" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247686.XML" title="(XML) Time series analysis of the demand for COVID-19 related chest imaging during the first wave of the SARS-CoV-2 pandemic: An explorative study" />
+    <author>
+      <name>Daniel Koehler</name>
+    </author>
+    <author>
+      <name>Ann-Kathrin Ozga</name>
+    </author>
+    <author>
+      <name>Isabel Molwitz</name>
+    </author>
+    <author>
+      <name>Philipp May</name>
+    </author>
+    <author>
+      <name>Hanna Maria Görich</name>
+    </author>
+    <author>
+      <name>Sarah Keller</name>
+    </author>
+    <author>
+      <name>Gerhard Adam</name>
+    </author>
+    <author>
+      <name>Jin Yamamura</name>
+    </author>
+    <id>10.1371/journal.pone.0247686</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Daniel Koehler, Ann-Kathrin Ozga, Isabel Molwitz, Philipp May, Hanna Maria Görich, Sarah Keller, Gerhard Adam, Jin Yamamura&lt;/p&gt;
+Objectives &lt;p&gt;The aim of this study was to investigate possible patterns of demand for chest imaging during the first wave of the SARS-CoV-2 pandemic and derive a decision aid for the allocation of resources in future pandemic challenges.&lt;/p&gt; Materials and methods &lt;p&gt;Time data of requests for patients with suspected or confirmed coronavirus disease 2019 (COVID-19) lung disease were analyzed between February 27th and May 27th 2020. A multinomial logistic regression model was used to evaluate differences in the number of requests between 3 time intervals (I1: 6am - 2pm, I2: 2pm - 10pm, I3: 10pm - 6am). A cosinor model was applied to investigate the demand per hour. Requests per day were compared to the number of regional COVID-19 cases.&lt;/p&gt; Results &lt;p&gt;551 COVID-19 related chest imagings (32.8% outpatients, 67.2% in-patients) of 243 patients were conducted (33.3% female, 66.7% male, mean age 60 ± 17 years). Most exams for outpatients were required during I2 (I1 vs. I2: odds ratio (OR) = 0.73, 95% confidence interval (CI) 0.62–0.86, p = 0.01; I2 vs. I3: OR = 1.24, 95% CI 1.04–1.48, p = 0.03) with an acrophase at 7:29 pm. Requests for in-patients decreased from I1 to I3 (I1 vs. I2: OR = 1.24, 95% CI 1.09–1.41, p = 0.01; I2 vs. I3: OR = 1.16, 95% CI 1.05–1.28, p = 0.01) with an acrophase at 12:51 pm. The number of requests per day for outpatients developed similarly to regional cases while demand for in-patients increased later and persisted longer.&lt;/p&gt; Conclusions &lt;p&gt;The demand for COVID-19 related chest imaging displayed distinct distribution patterns depending on the sector of patient care and point of time during the SARS-CoV-2 pandemic. These patterns should be considered in the allocation of resources in future pandemic challenges with similar disease characteristics.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>The anti-vaccination infodemic on social media: A behavioral analysis</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247642" title="The anti-vaccination infodemic on social media: A behavioral analysis" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247642.PDF" title="(PDF) The anti-vaccination infodemic on social media: A behavioral analysis" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247642.XML" title="(XML) The anti-vaccination infodemic on social media: A behavioral analysis" />
+    <author>
+      <name>Federico Germani</name>
+    </author>
+    <author>
+      <name>Nikola Biller-Andorno</name>
+    </author>
+    <id>10.1371/journal.pone.0247642</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Federico Germani, Nikola Biller-Andorno&lt;/p&gt;
+
+Vaccinations are without doubt one of the greatest achievements of modern medicine, and there is hope that they can constitute a solution to halt the ongoing COVID-19 pandemic. However, the anti-vaccination movement is currently on the rise, spreading online misinformation about vaccine safety and causing a worrying reduction in vaccination rates worldwide. In this historical time, it is imperative to understand the reasons of vaccine hesitancy, and to find effective strategies to dismantle the rhetoric of anti-vaccination supporters. For this reason, we analyzed the behavior of anti-vaccination supporters on the platform Twitter. Here we identify that anti-vaccination supporters, in comparison with pro-vaccination supporters, share conspiracy theories and make use of emotional language. We demonstrate that anti-vaccination supporters are more engaged in discussions on Twitter and share their contents from a pull of strong influencers. We show that the movement’s success relies on a strong sense of community, based on the contents produced by a small fraction of profiles, with the community at large serving as a sounding board for anti-vaccination discourse to circulate online. Our data demonstrate that Donald Trump, before his profile was suspended, was the main driver of vaccine misinformation on Twitter. Based on these results, we welcome policies that aim at halting the circulation of false information about vaccines by targeting the anti-vaccination community on Twitter. Based on our data, we also propose solutions to improve the communication strategy of health organizations and build a community of engaged influencers that support the dissemination of scientific insights, including issues related to vaccines and their safety.</content>
+  </entry>
+  <entry>
+    <title>Investigation on cement-improved phyllite based on the vertical vibration compaction method</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247599" title="Investigation on cement-improved phyllite based on the vertical vibration compaction method" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247599.PDF" title="(PDF) Investigation on cement-improved phyllite based on the vertical vibration compaction method" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247599.XML" title="(XML) Investigation on cement-improved phyllite based on the vertical vibration compaction method" />
+    <author>
+      <name>Yingjun Jiang</name>
+    </author>
+    <author>
+      <name>Jiangtao Fan</name>
+    </author>
+    <author>
+      <name>Yong Yi</name>
+    </author>
+    <author>
+      <name>Tian Tian</name>
+    </author>
+    <author>
+      <name>Kejia Yuan</name>
+    </author>
+    <author>
+      <name>Changqing Deng</name>
+    </author>
+    <id>10.1371/journal.pone.0247599</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Yingjun Jiang, Jiangtao Fan, Yong Yi, Tian Tian, Kejia Yuan, Changqing Deng&lt;/p&gt;
+
+The vertical vibration compaction method (VVCM), heavy compaction method and static pressure method were used to form phyllite specimens with different degrees of weathering. The influence of cement content, compactness, and compaction method on the mechanical properties of phyllite was studied. The mechanical properties of phyllite was evaluated in terms of unconfined compressive strength (&lt;i&gt;R&lt;/i&gt;&lt;sub&gt;c&lt;/sub&gt;) and modulus of resilience (&lt;i&gt;E&lt;/i&gt;&lt;sub&gt;c&lt;/sub&gt;). Further, test roads were paved along an expressway in China to demonstrate the feasibility of the highly weathered phyllite improvement technology. Results show that unweathered phyllite can be used as subgrade filler. In spite of increasing compactness, phyllite with a higher degree of weathering cannot meet the requirements for subgrade filler. With increasing cement content, &lt;i&gt;R&lt;/i&gt;&lt;sub&gt;c&lt;/sub&gt; and &lt;i&gt;E&lt;/i&gt;&lt;sub&gt;c&lt;/sub&gt; of the improved phyllite increases linearly. &lt;i&gt;R&lt;/i&gt;&lt;sub&gt;c&lt;/sub&gt; and &lt;i&gt;E&lt;/i&gt;&lt;sub&gt;c&lt;/sub&gt; increase by at least 15% and 17%, respectively, for every 1% increase in cement content and by at least 10% and 6%, respectively, for every 1% increase in compactness. The higher the degree of weathering of phyllite, the greater the degree of improvement of its mechanical properties.</content>
+  </entry>
+  <entry>
+    <title>Pharmacokinetic profile of injectable tramadol in the koala (&lt;i&gt;Phascolarctos cinereus&lt;/i&gt;) and prediction of its analgesic efficacy</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247546" title="Pharmacokinetic profile of injectable tramadol in the koala (&lt;i&gt;Phascolarctos cinereus&lt;/i&gt;) and prediction of its analgesic efficacy" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247546.PDF" title="(PDF) Pharmacokinetic profile of injectable tramadol in the koala (&lt;i&gt;Phascolarctos cinereus&lt;/i&gt;) and prediction of its analgesic efficacy" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247546.XML" title="(XML) Pharmacokinetic profile of injectable tramadol in the koala (&lt;i&gt;Phascolarctos cinereus&lt;/i&gt;) and prediction of its analgesic efficacy" />
+    <author>
+      <name>Benjamin Kimble</name>
+    </author>
+    <author>
+      <name>Larry Vogelnest</name>
+    </author>
+    <author>
+      <name>Peter Valtchev</name>
+    </author>
+    <author>
+      <name>Merran Govendir</name>
+    </author>
+    <id>10.1371/journal.pone.0247546</id>
+    <updated>2021-03-03T14:00:00Z</updated>
+    <published>2021-03-03T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Benjamin Kimble, Larry Vogelnest, Peter Valtchev, Merran Govendir&lt;/p&gt;
+
+Tramadol is used as an analgesic in humans and some animal species. When tramadol is administered to most species it undergoes metabolism to its main metabolites M1 or O-desmethyltramadol, and M2 or N-desmethyltramadol, and many other metabolites. This study describes the pharmacokinetic profile of tramadol when a single subcutaneous bolus of 2 mg/kg was initially administered to two koalas. Based on the results of these two koalas, subsequently 4 mg/kg as a single subcutaneous injection, was administered to an additional four koalas. M1 is recognised as an active metabolite and has greater analgesic activity than tramadol, while M2 is considered inactive. A liquid chromatography assay to quantify tramadol, M1 and M2 in koala plasma was developed and validated. Liquid chromatography-mass spectrometry confirmed that M1 had been identified. Additionally, the metabolite didesmethyltramadol was identified in chromatograms of two of the male koalas. When 4 mg/kg tramadol was administered, the median half-life of tramadol and M1 were 2.89 h and 24.69 h, respectively. The M1 plasma concentration remained well above the minimally effective M1 plasma concentration in humans (approximately 36 ng/mL) over 12 hours. The M1 plasma concentration, when tramadol was administered at 2 mg/kg, did not exceed 36 ng/mL at any time-point. When tramadol was administered at 2 mg/kg and 4 mg/kg the area under the curve M1: tramadol ratios were 0.33 and 0.50, respectively. Tramadol and M1 binding to plasma protein were determined using thawed, frozen koala plasma and the mean binding was 20% and 75%, respectively. It is concluded that when tramadol is administered at 4 mg/kg as a subcutaneous injection to the koala, it is predicted to have some analgesic activity.</content>
+  </entry>
+</feed>

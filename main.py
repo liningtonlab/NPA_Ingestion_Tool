@@ -1,6 +1,12 @@
+import os
 import npa_ingestion_tool
 from datetime import datetime
 import sqlite3
+from dotenv import load_dotenv
+load_dotenv()
+
+
+WEBHOOK_URL = os.environ.get("SLACK_WEBHOOK_URL")
 
 
 def rss_feed_2_doi():
@@ -37,8 +43,9 @@ def rss_feed_2_doi():
 
 
 def rss_feed_2_doi_elsevier():
-    """ Open up file, loop through each line in the file to get each url to parse RSS feed for article title to search CrossRef for DOI; Append list of DOIs to
-    list for each journal. Saves a raw XML file for archive of RSS feed. Lastly, added new DOI's into SQLite3 database.
+    """ Open up file, loop through each line in the file to get each url to parse RSS feed for article title to search
+    CrossRef for DOI; Append list of DOIs to list for each journal. Saves a raw XML file for archive of RSS feed.
+    Lastly, added new DOI's into SQLite3 database.
             :return: Count of added DOIs
                         """
     with open("rss_feed_no_doi.txt", "r") as my_file:
@@ -60,8 +67,6 @@ def rss_feed_2_doi_elsevier():
             doi_insert_success_2 = npa_ingestion_tool.sqlite3_insertion_only_doi(connection, doi, archive_filename)
             if doi_insert_success_2:
                 doi_insert_count_2 += 1
-            #TODO: Also add titles
-            #npa_ingestion_tool.sqlite3_insertion_no_abstract(connection, doi, archive_filename)
     connection.commit()
     return doi_insert_count_2
 
@@ -81,11 +86,11 @@ def database_query_pubmed():
     for doi in new_rows:
         print(doi)
 
-    # Try to convert to pubmed ID, then try to parse title/abstract from PubMed and UPDATE the database
+        # Try to convert to pubmed ID, then try to parse title/abstract from PubMed and UPDATE the database
         pubmed_id = npa_ingestion_tool.doi_2_pmid(doi[1])  # returns type = list
         try:
             if pubmed_id:
-                pubmed_id_string = ''.join(pubmed_id) # converts list (['123']) to string ('123')
+                pubmed_id_string = ''.join(pubmed_id)  # converts list (['123']) to string ('123')
                 title_abstract = npa_ingestion_tool.pmid_2_abstract(pubmed_id)
                 if title_abstract[1] is None or npa_ingestion_tool.blanks(title_abstract[1]) is True:
                     try:
@@ -109,9 +114,10 @@ def database_query_pubmed():
             print("TypeError")
             continue
 
-    conn.commit() # TODO: May need to move to after second part once its complete.
+    conn.commit()  # TODO: May need to move to after second part once its complete.
+
     # Query PubMed (SELECT SQL statement) for DOI(title/abstract null) >= 3 weeks:
-    old_rows = curse.execute(
+    curse.execute(
         "SELECT * FROM DOIs WHERE Abstract IS NULL and Created <= date('now', '-21 day')")
 
     # Try to parse title/abstract from archived rss feed
@@ -125,17 +131,31 @@ def database_stats_query():
                             """
     conn = npa_ingestion_tool.sqlite3_db_initialization("npa_database_feb_22_current.db")
     curse = conn.cursor()
-    total_doi_number = curse.execute("SELECT COUNT(*) FROM DOIs")
-    doi_with_title = curse.execute("SELECT COUNT(*) FROM DOIs WHERE Title is NOT NULL")
-    doi_with_abstract_title = curse.execute("SELECT COUNT(*) FROM DOIs WHERE Abstract is NOT NULL")
-    # TODO: Fix to return integers, not Cursor objects
+    total_doi_number = int(
+        ''.join(map(str, curse.execute("SELECT COUNT(*) FROM DOIs").fetchone())))
+    doi_with_title = int(
+        ''.join(map(str, curse.execute("SELECT COUNT(*) FROM DOIs WHERE Title is NOT NULL").fetchone())))
+    doi_with_abstract_title = int(
+        ''.join(map(str, curse.execute("SELECT COUNT(*) FROM DOIs WHERE Abstract is NOT NULL").fetchone())))
     return total_doi_number, doi_with_title, doi_with_abstract_title
 
 
 if __name__ == "__main__":
-    first = rss_feed_2_doi()
-    print(first)
-    second = rss_feed_2_doi_elsevier()
-    print(second)
-    database_query_pubmed()
-    print(database_stats_query())
+    # DOI Insertion from Parsed RSS Feeds. Returns count of inserted DOI's
+    doi_feeds_insert_count = rss_feed_2_doi()
+    # DOI Insertion from Titles Parsed from RSS Feeds, Conversion to DOI via CrossRef. Returns count of inserted DOI's
+    no_doi_feeds_insert_count = rss_feed_2_doi_elsevier()
+    database_query_pubmed()  # Querying DOI's in DB on PubMed for title/abstract
+    database_stats = database_stats_query()  # Querying DB for counts of rows in DB with certain columns
+    total_dois = database_stats[0]
+    dois_only_title = database_stats[1]
+    dois_title_abstract = database_stats[2]
+    print(doi_feeds_insert_count, no_doi_feeds_insert_count)
+
+    # Slack Stats Messaging
+    message = "Inserted DOI's parsed directly from RSS feeds: {0}; Inserted DOI's via CrossRef query of RSS feed " \
+              "parsed title: {1}. Total Database DOI's: {2}. {3} with title only and {4} with both title and " \
+              "abstract.".format(doi_feeds_insert_count,
+                                 no_doi_feeds_insert_count, total_dois, dois_only_title, dois_title_abstract)
+
+    npa_ingestion_tool.send_message(WEBHOOK_URL, message)
