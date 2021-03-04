@@ -131,31 +131,28 @@ def database_stats_query():
                             """
     conn = npa_ingestion_tool.sqlite3_db_initialization("npa_database_feb_22_current.db")
     curse = conn.cursor()
-    total_doi_number = int(
-        ''.join(map(str, curse.execute("SELECT COUNT(*) FROM DOIs").fetchone())))
-    doi_with_title = int(
-        ''.join(map(str, curse.execute("SELECT COUNT(*) FROM DOIs WHERE Title is NOT NULL").fetchone())))
-    doi_with_abstract_title = int(
-        ''.join(map(str, curse.execute("SELECT COUNT(*) FROM DOIs WHERE Abstract is NOT NULL").fetchone())))
+    total_doi_number = curse.execute("SELECT COUNT(*) FROM DOIs").fetchone()[0]
+    doi_with_title = curse.execute("SELECT COUNT(*) FROM DOIs WHERE Title is NOT NULL").fetchone()[0]
+    doi_with_abstract_title = curse.execute("SELECT COUNT(*) FROM DOIs WHERE Abstract is NOT NULL").fetchone()[0]
     return total_doi_number, doi_with_title, doi_with_abstract_title
-
 
 if __name__ == "__main__":
     # DOI Insertion from Parsed RSS Feeds. Returns count of inserted DOI's
     doi_feeds_insert_count = rss_feed_2_doi()
     # DOI Insertion from Titles Parsed from RSS Feeds, Conversion to DOI via CrossRef. Returns count of inserted DOI's
     no_doi_feeds_insert_count = rss_feed_2_doi_elsevier()
-    database_query_pubmed()  # Querying DOI's in DB on PubMed for title/abstract
+    #  database_query_pubmed()  # Querying DOI's in DB on PubMed for title/abstract
     database_stats = database_stats_query()  # Querying DB for counts of rows in DB with certain columns
     total_dois = database_stats[0]
     dois_only_title = database_stats[1]
     dois_title_abstract = database_stats[2]
-    print(doi_feeds_insert_count, no_doi_feeds_insert_count)
+
 
     # Slack Stats Messaging
-    message = "Inserted DOI's parsed directly from RSS feeds: {0}; Inserted DOI's via CrossRef query of RSS feed " \
-              "parsed title: {1}. Total Database DOI's: {2}. {3} with title only and {4} with both title and " \
+    '''message = "Inserted DOI's parsed directly from RSS feeds: {0}\nInserted DOI's via CrossRef query of RSS feed " \
+              "parsed title: {1}\nTotal Database DOI's: {2}\n{3} with title only \n{4} with both title and " \
               "abstract.".format(doi_feeds_insert_count,
                                  no_doi_feeds_insert_count, total_dois, dois_only_title, dois_title_abstract)
 
     npa_ingestion_tool.send_message(WEBHOOK_URL, message)
+'''

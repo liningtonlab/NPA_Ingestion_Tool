@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss1full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.nature.com/~d/styles/itemcontent.css"?><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns="http://purl.org/rss/1.0/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+    <channel rdf:about="http://feeds.nature.com/ncomms/rss/current">
+        <title>Nature Communications - current - nature.com science feeds</title>
+        <description>Nature Communications is an online-only, multidisciplinary journal dedicated to publishing high-quality research in all areas of the biological, physical and chemical sciences. Papers published by the journal represent important advances of significance to specialists within each field.</description>
+        <link>http://feeds.nature.com/ncomms/rss/current</link>
+        <admin:generatorAgent rdf:resource="http://www.nature.com/" />
+        <admin:errorReportsTo rdf:resource="mailto:feedback@nature.com" />
+        <dc:publisher>Nature Publishing Group</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:rights>© 2021 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.</dc:rights>
+        <prism:publicationName>Nature Communications</prism:publicationName>
+        
+        
+        <prism:copyright>© 2021 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.</prism:copyright>
+        <prism:rightsAgent>permissions@nature.com</prism:rightsAgent>
+        <image rdf:resource="https://www.nature.com/uploads/product/ncomms/rss.png" />
+        <items>
+            <rdf:Seq>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21915-9" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-22020-7" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21641-2" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21643-0" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21572-y" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21683-6" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21759-3" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21714-2" />
+                
+            </rdf:Seq>
+        </items>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://feeds.nature.com/ncomms/rss/current" /><feedburner:info uri="ncomms/rss/current" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+    <image rdf:about="https://www.nature.com/uploads/product/ncomms/rss.png">
+        <title>Nature Communications</title>
+        <url>https://www.nature.com/uploads/product/ncomms/rss.png</url>
+        <link>http://feeds.nature.com/ncomms/rss/current</link>
+    </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21915-9">
+            <title><![CDATA[Author Correction: Faster chiral versus collinear magnetic order recovery after optical excitation revealed by femtosecond XUV scattering]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/_VLNFTMyHPg/s41467-021-21915-9</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 04 March 2021; <a href="https://www.nature.com/articles/s41467-021-21915-9">doi:10.1038/s41467-021-21915-9</a></p>Author Correction: Faster chiral versus collinear magnetic order recovery after optical excitation revealed by femtosecond XUV scattering<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/_VLNFTMyHPg" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Faster chiral versus collinear magnetic order recovery after optical excitation revealed by femtosecond XUV scattering]]></dc:title>
+            <dc:creator>Nico Kerber</dc:creator><dc:creator>Dmitriy Ksenzov</dc:creator><dc:creator>Frank Freimuth</dc:creator><dc:creator>Flavio Capotondi</dc:creator><dc:creator>Emanuele Pedersoli</dc:creator><dc:creator>Ignacio Lopez-Quintas</dc:creator><dc:creator>Boris Seng</dc:creator><dc:creator>Joel Cramer</dc:creator><dc:creator>Kai Litzius</dc:creator><dc:creator>Daniel Lacour</dc:creator><dc:creator>Hartmut Zabel</dc:creator><dc:creator>Yuriy Mokrousov</dc:creator><dc:creator>Mathias Kläui</dc:creator><dc:creator>Christian Gutt</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21915-9</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-04; | doi:10.1038/s41467-021-21915-9</dc:source>
+            <dc:date>2021-03-04</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21915-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21915-9</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21915-9</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-22020-7">
+            <title><![CDATA[Author Correction: All-optical switching of an epsilon-near-zero plasmon resonance in indium tin oxide]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/gnLy80KvjNk/s41467-021-22020-7</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 04 March 2021; <a href="https://www.nature.com/articles/s41467-021-22020-7">doi:10.1038/s41467-021-22020-7</a></p>Author Correction: All-optical switching of an epsilon-near-zero plasmon resonance in indium tin oxide<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/gnLy80KvjNk" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: All-optical switching of an epsilon-near-zero plasmon resonance in indium tin oxide]]></dc:title>
+            <dc:creator>Justus Bohn</dc:creator><dc:creator>Ting Shan Luk</dc:creator><dc:creator>Craig Tollerton</dc:creator><dc:creator>Sam W. Hutchings</dc:creator><dc:creator>Igal Brener</dc:creator><dc:creator>Simon Horsley</dc:creator><dc:creator>William L. Barnes</dc:creator><dc:creator>Euan Hendry</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-22020-7</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-04; | doi:10.1038/s41467-021-22020-7</dc:source>
+            <dc:date>2021-03-04</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-22020-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-22020-7</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-22020-7</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21641-2">
+            <title><![CDATA[Extracting Kondo temperature of strongly-correlated systems from the inverse local magnetic susceptibility]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/KI6L_-3bHCo/s41467-021-21641-2</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 04 March 2021; <a href="https://www.nature.com/articles/s41467-021-21641-2">doi:10.1038/s41467-021-21641-2</a></p>Extracting Kondo temperature of strongly-correlated systems from the inverse local magnetic susceptibility<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/KI6L_-3bHCo" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Extracting Kondo temperature of strongly-correlated systems from the inverse local magnetic susceptibility]]></dc:title>
+            <dc:creator>A. A. Katanin</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21641-2</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-04; | doi:10.1038/s41467-021-21641-2</dc:source>
+            <dc:date>2021-03-04</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21641-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21641-2</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21641-2</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21643-0">
+            <title><![CDATA[Reply to: “Extracting Kondo temperature of strongly-correlated systems from the inverse local magnetic susceptibility”]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/ucYAjGJQ2_g/s41467-021-21643-0</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 04 March 2021; <a href="https://www.nature.com/articles/s41467-021-21643-0">doi:10.1038/s41467-021-21643-0</a></p>Reply to: “Extracting Kondo temperature of strongly-correlated systems from the inverse local magnetic susceptibility”<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/ucYAjGJQ2_g" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Reply to: “Extracting Kondo temperature of strongly-correlated systems from the inverse local magnetic susceptibility”]]></dc:title>
+            <dc:creator>Xiaoyu Deng</dc:creator><dc:creator>Katharina M. Stadler</dc:creator><dc:creator>Kristjan Haule</dc:creator><dc:creator>Seung-Sup B. Lee</dc:creator><dc:creator>Andreas Weichselbaum</dc:creator><dc:creator>Jan von Delft</dc:creator><dc:creator>Gabriel Kotliar</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21643-0</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-04; | doi:10.1038/s41467-021-21643-0</dc:source>
+            <dc:date>2021-03-04</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21643-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21643-0</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21643-0</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21572-y">
+            <title><![CDATA[Virus-specific memory T cell responses unmasked by immune checkpoint blockade cause hepatitis]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/Fk67gDVOcoc/s41467-021-21572-y</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 04 March 2021; <a href="https://www.nature.com/articles/s41467-021-21572-y">doi:10.1038/s41467-021-21572-y</a></p>Checkpoint blocking therapies are used to treat metastatic melanoma, but can have adverse immune-mediated effects, including liver pathology. Here the authors identify an expanded pool of CD4+ effector memory T cells resulting from prior CMV exposure as a risk factor for this adverse effect in these patients.<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/Fk67gDVOcoc" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Virus-specific memory T cell responses unmasked by immune checkpoint blockade cause hepatitis]]></dc:title>
+            <dc:creator>James A. Hutchinson</dc:creator><dc:creator>Katharina Kronenberg</dc:creator><dc:creator>Paloma Riquelme</dc:creator><dc:creator>Jürgen J. Wenzel</dc:creator><dc:creator>Gunther Glehr</dc:creator><dc:creator>Hannah-Lou Schilling</dc:creator><dc:creator>Florian Zeman</dc:creator><dc:creator>Katja Evert</dc:creator><dc:creator>Martin Schmiedel</dc:creator><dc:creator>Marion Mickler</dc:creator><dc:creator>Konstantin Drexler</dc:creator><dc:creator>Florian Bitterer</dc:creator><dc:creator>Laura Cordero</dc:creator><dc:creator>Lukas Beyer</dc:creator><dc:creator>Christian Bach</dc:creator><dc:creator>Josef Koestler</dc:creator><dc:creator>Ralph Burkhardt</dc:creator><dc:creator>Hans J. Schlitt</dc:creator><dc:creator>Dirk Hellwig</dc:creator><dc:creator>Jens M. Werner</dc:creator><dc:creator>Rainer Spang</dc:creator><dc:creator>Barbara Schmidt</dc:creator><dc:creator>Edward K. Geissler</dc:creator><dc:creator>Sebastian Haferkamp</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21572-y</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-04; | doi:10.1038/s41467-021-21572-y</dc:source>
+            <dc:date>2021-03-04</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21572-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21572-y</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21572-y</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21683-6">
+            <title><![CDATA[Decoupling the origins of irreversible coulombic efficiency in anode-free lithium metal batteries]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/rj2FVVVuWQs/s41467-021-21683-6</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 04 March 2021; <a href="https://www.nature.com/articles/s41467-021-21683-6">doi:10.1038/s41467-021-21683-6</a></p>Anode-free lithium metal battery is one of the most promising candidates for next-generation high energy density battery but suffer from poor cycle life. Here the authors present an integrated protocol to dissect and quantify the irreversible coulombic efficiencies for better understanding of the battery.<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/rj2FVVVuWQs" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Decoupling the origins of irreversible coulombic efficiency in anode-free lithium metal batteries]]></dc:title>
+            <dc:creator>Chen-Jui Huang</dc:creator><dc:creator>Balamurugan Thirumalraj</dc:creator><dc:creator>Hsien-Chu Tao</dc:creator><dc:creator>Kassie Nigus Shitaw</dc:creator><dc:creator>Hogiartha Sutiono</dc:creator><dc:creator>Tesfaye Teka Hagos</dc:creator><dc:creator>Tamene Tadesse Beyene</dc:creator><dc:creator>Li-Ming Kuo</dc:creator><dc:creator>Chun-Chieh Wang</dc:creator><dc:creator>She-Huang Wu</dc:creator><dc:creator>Wei-Nien Su</dc:creator><dc:creator>Bing Joe Hwang</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21683-6</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-04; | doi:10.1038/s41467-021-21683-6</dc:source>
+            <dc:date>2021-03-04</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21683-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21683-6</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21683-6</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21759-3">
+            <title><![CDATA[Emerging dominance of summer rainfall driving High Arctic terrestrial-aquatic connectivity]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/y92nU_H2GpI/s41467-021-21759-3</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 04 March 2021; <a href="https://www.nature.com/articles/s41467-021-21759-3">doi:10.1038/s41467-021-21759-3</a></p>Climate warming is causing annual Arctic fluvial energy budgets to shift seasonality from snowmelt-dominated to snowmelt- and rainfall-dominated hydrological regimes, enhancing late summer and fall terrestrial-aquatic connectivity and higher material fluxes.<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/y92nU_H2GpI" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Emerging dominance of summer rainfall driving High Arctic terrestrial-aquatic connectivity]]></dc:title>
+            <dc:creator>C. R. Beel</dc:creator><dc:creator>J. K. Heslop</dc:creator><dc:creator>J. F. Orwin</dc:creator><dc:creator>M. A. Pope</dc:creator><dc:creator>A. J. Schevers</dc:creator><dc:creator>J. K. Y. Hung</dc:creator><dc:creator>M. J. Lafrenière</dc:creator><dc:creator>S. F. Lamoureux</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21759-3</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-04; | doi:10.1038/s41467-021-21759-3</dc:source>
+            <dc:date>2021-03-04</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21759-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21759-3</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21759-3</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21714-2">
+            <title><![CDATA[Catalytic activity tunable ceria nanoparticles prevent chemotherapy-induced acute kidney injury without interference with chemotherapeutics]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/dcJo_skacu8/s41467-021-21714-2</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 04 March 2021; <a href="https://www.nature.com/articles/s41467-021-21714-2">doi:10.1038/s41467-021-21714-2</a></p>Reactive oxygen species management is a practical strategy that can reduce the risk of chemotherapy-induced acute kidney injury, but at the cost of chemotherapeutic efficacy. Here the authors report catalytic activity tunable ceria nanoparticles as context-dependent reactive oxygen species scavengers, which can prevent chemotherapy-induced acute kidney injury without interfering with chemotherapeutic agents.<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/dcJo_skacu8" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Catalytic activity tunable ceria nanoparticles prevent chemotherapy-induced acute kidney injury without interference with chemotherapeutics]]></dc:title>
+            <dc:creator>Qinjie Weng</dc:creator><dc:creator>Heng Sun</dc:creator><dc:creator>Chunyan Fang</dc:creator><dc:creator>Fan Xia</dc:creator><dc:creator>Hongwei Liao</dc:creator><dc:creator>Jiyoung Lee</dc:creator><dc:creator>Jincheng Wang</dc:creator><dc:creator>An Xie</dc:creator><dc:creator>Jiafeng Ren</dc:creator><dc:creator>Xia Guo</dc:creator><dc:creator>Fangyuan Li</dc:creator><dc:creator>Bo Yang</dc:creator><dc:creator>Daishun Ling</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21714-2</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-04; | doi:10.1038/s41467-021-21714-2</dc:source>
+            <dc:date>2021-03-04</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21714-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21714-2</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21714-2</feedburner:origLink></item>
+    
+</rdf:RDF>

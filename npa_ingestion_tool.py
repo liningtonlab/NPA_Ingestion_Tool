@@ -43,7 +43,7 @@ def cross_ref_query_title(title):
     print(url)
     request = Request(url)
     request.add_header("User-Agent",
-                       "OpenAPC DOI Importer (https://github.com/OpenAPC/openapc-de/blob/master/python/import_dois.py; mailto:andrew_maras@sfu.ca)")
+                       "NPA Ingestion Tool (https://github.com/liningtonlab/NPA_Ingestion_Tool; mailto:andrew_maras@sfu.ca)")
     try:
         ret = urlopen(request)
         content = ret.read()
