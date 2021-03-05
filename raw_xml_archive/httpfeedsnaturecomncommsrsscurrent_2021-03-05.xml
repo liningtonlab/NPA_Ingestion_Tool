@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss1full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.nature.com/~d/styles/itemcontent.css"?><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns="http://purl.org/rss/1.0/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+    <channel rdf:about="http://feeds.nature.com/ncomms/rss/current">
+        <title>Nature Communications - current - nature.com science feeds</title>
+        <description>Nature Communications is an online-only, multidisciplinary journal dedicated to publishing high-quality research in all areas of the biological, physical and chemical sciences. Papers published by the journal represent important advances of significance to specialists within each field.</description>
+        <link>http://feeds.nature.com/ncomms/rss/current</link>
+        <admin:generatorAgent rdf:resource="http://www.nature.com/" />
+        <admin:errorReportsTo rdf:resource="mailto:feedback@nature.com" />
+        <dc:publisher>Nature Publishing Group</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:rights>© 2021 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.</dc:rights>
+        <prism:publicationName>Nature Communications</prism:publicationName>
+        
+        
+        <prism:copyright>© 2021 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.</prism:copyright>
+        <prism:rightsAgent>permissions@nature.com</prism:rightsAgent>
+        <image rdf:resource="https://www.nature.com/uploads/product/ncomms/rss.png" />
+        <items>
+            <rdf:Seq>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-22026-1" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21986-8" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-22015-4" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-22038-x" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21751-x" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21664-9" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21720-4" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21671-w" />
+                
+            </rdf:Seq>
+        </items>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://feeds.nature.com/ncomms/rss/current" /><feedburner:info uri="ncomms/rss/current" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+    <image rdf:about="https://www.nature.com/uploads/product/ncomms/rss.png">
+        <title>Nature Communications</title>
+        <url>https://www.nature.com/uploads/product/ncomms/rss.png</url>
+        <link>http://feeds.nature.com/ncomms/rss/current</link>
+    </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-22026-1">
+            <title><![CDATA[Author Correction: Near-surface softening and healing in eastern Honshu associated with the 2011 magnitude-9 Tohoku-Oki earthquake]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/Z80Z-1Xxn1M/s41467-021-22026-1</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 05 March 2021; <a href="https://www.nature.com/articles/s41467-021-22026-1">doi:10.1038/s41467-021-22026-1</a></p>Author Correction: Near-surface softening and healing in eastern Honshu associated with the 2011 magnitude-9 Tohoku-Oki earthquake<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/Z80Z-1Xxn1M" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Near-surface softening and healing in eastern Honshu associated with the 2011 magnitude-9 Tohoku-Oki earthquake]]></dc:title>
+            <dc:creator>Su-Yang Wang</dc:creator><dc:creator>Hai-Yang Zhuang</dc:creator><dc:creator>Hao Zhang</dc:creator><dc:creator>Hong-Jun He</dc:creator><dc:creator>Wei-Ping Jiang</dc:creator><dc:creator>Er-Lei Yao</dc:creator><dc:creator>Bin Ruan</dc:creator><dc:creator>Yong-Xin Wu</dc:creator><dc:creator>Yu Miao</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-22026-1</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-05; | doi:10.1038/s41467-021-22026-1</dc:source>
+            <dc:date>2021-03-05</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-22026-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-22026-1</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-22026-1</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21986-8">
+            <title><![CDATA[Author Correction: Ionic shape-morphing microrobotic end-effectors for environmentally adaptive targeting, releasing, and sampling]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/m0CApIUKxWg/s41467-021-21986-8</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 05 March 2021; <a href="https://www.nature.com/articles/s41467-021-21986-8">doi:10.1038/s41467-021-21986-8</a></p>Author Correction: Ionic shape-morphing microrobotic end-effectors for environmentally adaptive targeting, releasing, and sampling<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/m0CApIUKxWg" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Ionic shape-morphing microrobotic end-effectors for environmentally adaptive targeting, releasing, and sampling]]></dc:title>
+            <dc:creator>Zhiqiang Zheng</dc:creator><dc:creator>Huaping Wang</dc:creator><dc:creator>Lixin Dong</dc:creator><dc:creator>Qing Shi</dc:creator><dc:creator>Jianing Li</dc:creator><dc:creator>Tao Sun</dc:creator><dc:creator>Qiang Huang</dc:creator><dc:creator>Toshio Fukuda</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21986-8</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-05; | doi:10.1038/s41467-021-21986-8</dc:source>
+            <dc:date>2021-03-05</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21986-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21986-8</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21986-8</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-22015-4">
+            <title><![CDATA[Author Correction: Deep muscle-proteomic analysis of freeze-dried human muscle biopsies reveals fiber type-specific adaptations to exercise training]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/qCIGFtJeTLU/s41467-021-22015-4</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 05 March 2021; <a href="https://www.nature.com/articles/s41467-021-22015-4">doi:10.1038/s41467-021-22015-4</a></p>Author Correction: Deep muscle-proteomic analysis of freeze-dried human muscle biopsies reveals fiber type-specific adaptations to exercise training<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/qCIGFtJeTLU" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Deep muscle-proteomic analysis of freeze-dried human muscle biopsies reveals fiber type-specific adaptations to exercise training]]></dc:title>
+            <dc:creator>A. S. Deshmukh</dc:creator><dc:creator>D. E. Steenberg</dc:creator><dc:creator>M. Hostrup</dc:creator><dc:creator>J. B. Birk</dc:creator><dc:creator>J. K. Larsen</dc:creator><dc:creator>A. Santos</dc:creator><dc:creator>R. Kjøbsted</dc:creator><dc:creator>J. R. Hingst</dc:creator><dc:creator>C. C. Schéele</dc:creator><dc:creator>M. Murgia</dc:creator><dc:creator>B. Kiens</dc:creator><dc:creator>E. A. Richter</dc:creator><dc:creator>M. Mann</dc:creator><dc:creator>J. F. P. Wojtaszewski</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-22015-4</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-05; | doi:10.1038/s41467-021-22015-4</dc:source>
+            <dc:date>2021-03-05</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-22015-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-22015-4</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-22015-4</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-22038-x">
+            <title><![CDATA[Author Correction: Potential health and economic impacts of dexamethasone treatment for patients with COVID-19]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/2Ww2f6Vspac/s41467-021-22038-x</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 05 March 2021; <a href="https://www.nature.com/articles/s41467-021-22038-x">doi:10.1038/s41467-021-22038-x</a></p>Author Correction: Potential health and economic impacts of dexamethasone treatment for patients with COVID-19<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/2Ww2f6Vspac" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Potential health and economic impacts of dexamethasone treatment for patients with COVID-19]]></dc:title>
+            <dc:creator>Ricardo Águas</dc:creator><dc:creator>Adam Mahdi</dc:creator><dc:creator>Rima Shretta</dc:creator><dc:creator>Peter Horby</dc:creator><dc:creator>Martin Landray</dc:creator><dc:creator>Lisa White</dc:creator><dc:creator>Fatima Arifi</dc:creator><dc:creator>Chynar Zhumalieva</dc:creator><dc:creator>Inke N. D. Lubis</dc:creator><dc:creator>Antoninho Benjamin Monteiro</dc:creator><dc:creator>Ainura Moldokmatova</dc:creator><dc:creator>Siyu Chen</dc:creator><dc:creator>Aida Estebesova</dc:creator><dc:creator>Mofakhar Hussain</dc:creator><dc:creator>Dipti Lata</dc:creator><dc:creator>Emmanuel A. Bakare</dc:creator><dc:creator>Biniam Getachew</dc:creator><dc:creator>Mohammad Nadir Sahak</dc:creator><dc:creator>Phetsavanh Chanthavilay</dc:creator><dc:creator>Akindeh M. Nji</dc:creator><dc:creator>Yu Nandar Aung</dc:creator><dc:creator>Nathaniel Hupert</dc:creator><dc:creator>Sai Thein Than Tun</dc:creator><dc:creator>Wirichada Pan-Ngum</dc:creator><dc:creator>K. C. Sarin</dc:creator><dc:creator>Handoyo Harsono</dc:creator><dc:creator>Sana Eybpoosh</dc:creator><dc:creator>Renato Mendes Coutinho</dc:creator><dc:creator>Semeeh A. Omoleke</dc:creator><dc:creator>Amen-Patrick Nwosu</dc:creator><dc:creator>Nantasit Luangasanatip</dc:creator><dc:creator>Ainura Kutmanova</dc:creator><dc:creator>Aizhan Dooronbekova</dc:creator><dc:creator>Antonio Ximenes</dc:creator><dc:creator>Merita Monteiro</dc:creator><dc:creator>Olivier Celhay</dc:creator><dc:creator>Keyrellous Adib</dc:creator><dc:creator>Amel H. Salim</dc:creator><dc:creator>Yuki Yunanda</dc:creator><dc:creator>Mahnaz Hossain Fariba</dc:creator><dc:creator>Amirah Azzeri</dc:creator><dc:creator>Penny Hancock</dc:creator><dc:creator>Hakim Bekrizadeh</dc:creator><dc:creator>Sayed Ataullah Saeedzai</dc:creator><dc:creator>Ivana Alona</dc:creator><dc:creator>Grace Wezi Mzumara</dc:creator><dc:creator>Joao Martins</dc:creator><dc:creator>Jose L. Herrera-Diestra</dc:creator><dc:creator>Hamid Sharifi</dc:creator><dc:creator>Talant Abdyldaev</dc:creator><dc:creator>Babak Jamshidi</dc:creator><dc:creator>Noran Naqiah Hairi</dc:creator><dc:creator>Naima Nasir</dc:creator><dc:creator>Rashid U. Zaman</dc:creator><dc:creator>Sopuruchukwu Obiesie</dc:creator><dc:creator>Roberto A. Kraenkel</dc:creator><dc:creator>Nicholas Letchford</dc:creator><dc:creator>Lucsendar Raimunda Fernandes Alves</dc:creator><dc:creator>Sandra Adele</dc:creator><dc:creator>Lorena Suárez-Idueta</dc:creator><dc:creator>Nicole Advani</dc:creator><dc:creator>Manar Marzouk</dc:creator><dc:creator>Viviana Mabombo</dc:creator><dc:creator>Aibek Mukambetov</dc:creator><dc:creator>Adeniyi Kolade Aderoba</dc:creator><dc:creator>Bpriya Lakshmy Tbalasubramaniam</dc:creator><dc:creator>Nicole Feune de Colombi</dc:creator><dc:creator>Maria Angela Varela Niha</dc:creator><dc:creator>Francisco Obando</dc:creator><dc:creator>Parinda Wattanasri</dc:creator><dc:creator>Sompob Saralamba</dc:creator><dc:creator>Fatiha Shabaruddin</dc:creator><dc:creator>Shafiun Nahin Shimul</dc:creator><dc:creator>Maznah Dahlui</dc:creator><dc:creator>Reshania Naidoo</dc:creator><dc:creator>Caroline Franco</dc:creator><dc:creator>Michael G. Klein</dc:creator><dc:creator>Aisuluu Kubatova</dc:creator><dc:creator>Nusrat Jabin</dc:creator><dc:creator>Shwe Sin Kyaw</dc:creator><dc:creator>Luzia Tomas Freitas</dc:creator><dc:creator>Sunil Pokharel</dc:creator><dc:creator>Proochista Ariana</dc:creator><dc:creator>Chris Erwin G. Mercado</dc:creator><dc:creator>Shamil Ibragimov</dc:creator><dc:creator>John Robert C. Medina</dc:creator><dc:creator>Mesulame Namedre</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-22038-x</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-05; | doi:10.1038/s41467-021-22038-x</dc:source>
+            <dc:date>2021-03-05</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-22038-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-22038-x</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-22038-x</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21751-x">
+            <title><![CDATA[Insects with 100 million-year-old dinosaur feathers are not ectoparasites]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/Nq-FYgNMhLA/s41467-021-21751-x</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 05 March 2021; <a href="https://www.nature.com/articles/s41467-021-21751-x">doi:10.1038/s41467-021-21751-x</a></p>Insects with 100 million-year-old dinosaur feathers are not ectoparasites<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/Nq-FYgNMhLA" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Insects with 100 million-year-old dinosaur feathers are not ectoparasites]]></dc:title>
+            <dc:creator>David A. Grimaldi</dc:creator><dc:creator>Isabelle M. Vea</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21751-x</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-05; | doi:10.1038/s41467-021-21751-x</dc:source>
+            <dc:date>2021-03-05</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21751-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21751-x</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21751-x</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21664-9">
+            <title><![CDATA[A single inverse-designed photonic structure that performs parallel computing]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/HzedXyKwlmk/s41467-021-21664-9</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 05 March 2021; <a href="https://www.nature.com/articles/s41467-021-21664-9">doi:10.1038/s41467-021-21664-9</a></p>Optical analog computing has so far been mostly limited to solving a single instance of a mathematical problem at a time. Here, the authors show that the linearity of the wave equation allows to solve several problems simultaneously, and demonstrate it using an MW transmissive cavity.<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/HzedXyKwlmk" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[A single inverse-designed photonic structure that performs parallel computing]]></dc:title>
+            <dc:creator>Miguel Camacho</dc:creator><dc:creator>Brian Edwards</dc:creator><dc:creator>Nader Engheta</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21664-9</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-05; | doi:10.1038/s41467-021-21664-9</dc:source>
+            <dc:date>2021-03-05</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21664-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21664-9</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21664-9</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21720-4">
+            <title><![CDATA[Selective <i>E</i> to <i>Z</i> isomerization of 1,3-Dienes Enabled by A Dinuclear Mechanism]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/EBo1LfdsII8/s41467-021-21720-4</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 05 March 2021; <a href="https://www.nature.com/articles/s41467-021-21720-4">doi:10.1038/s41467-021-21720-4</a></p>Geometric E to Z double C=C bond isomerization is challenging as it requires kinetic trapping of the Z-isomer with injection of chemical energy. Here, the authors report a dinuclear Pd(I)−Pd(I) complex that mediates selective isomerization of E-1,3-dienes to the Z-isomers without photoirradiation.<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/EBo1LfdsII8" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Selective <i>E</i> to <i>Z</i> isomerization of 1,3-Dienes Enabled by A Dinuclear Mechanism]]></dc:title>
+            <dc:creator>Eiji Kudo</dc:creator><dc:creator>Kota Sasaki</dc:creator><dc:creator>Shiori Kawamata</dc:creator><dc:creator>Koji Yamamoto</dc:creator><dc:creator>Tetsuro Murahashi</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21720-4</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-05; | doi:10.1038/s41467-021-21720-4</dc:source>
+            <dc:date>2021-03-05</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21720-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21720-4</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21720-4</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21671-w">
+            <title><![CDATA[Improving gene function predictions using independent transcriptional components]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/wqAiOOl0Rwc/s41467-021-21671-w</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 05 March 2021; <a href="https://www.nature.com/articles/s41467-021-21671-w">doi:10.1038/s41467-021-21671-w</a></p>Our understanding of the function of many transcripts is still incomplete, limiting the interpretability of transcriptomic data. Here the authors use consensus-independent component analysis, together with a guilt-by-association approach, to improve the prediction of gene function.<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/wqAiOOl0Rwc" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Improving gene function predictions using independent transcriptional components]]></dc:title>
+            <dc:creator>Carlos G. Urzúa-Traslaviña</dc:creator><dc:creator>Vincent C. Leeuwenburgh</dc:creator><dc:creator>Arkajyoti Bhattacharya</dc:creator><dc:creator>Stefan Loipfinger</dc:creator><dc:creator>Marcel A. T. M. van Vugt</dc:creator><dc:creator>Elisabeth G. E. de Vries</dc:creator><dc:creator>Rudolf S. N. Fehrmann</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21671-w</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-05; | doi:10.1038/s41467-021-21671-w</dc:source>
+            <dc:date>2021-03-05</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21671-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21671-w</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21671-w</feedburner:origLink></item>
+    
+</rdf:RDF>

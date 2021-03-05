@@ -14,7 +14,8 @@ def rss_feed_2_doi():
     list for each journal. Saves a raw XML file for archive of RSS feed. Lastly, added new DOI's into SQLite3 database.
         :return: Count of added DOIs
                         """
-    with open("rss_feed_with_doi.txt", "r") as my_file:
+    path_doi = 'C:/Users/maras/Desktop/NPA_Ingestion_Tool/rss_feeds/rss_feed_with_doi.txt'
+    with open(path_doi, "r") as my_file:
         '''doi_list = [npa_ingestion_tool.parse_rss(line, str(npa_ingestion_tool.no_newline(line) + "_" + datetime.now(
         ).strftime("%Y-%m-%d_%I-%M-%S_%p") + ".json")) for line in my_file]
         '''
@@ -27,7 +28,7 @@ def rss_feed_2_doi():
     print(doi_list)
 
     # SQLite3 Database entry
-    connection = npa_ingestion_tool.sqlite3_db_initialization("npa_database_feb_22_current.db")
+    connection = npa_ingestion_tool.sqlite3_db_initialization("npa_ingestion_database.db")
     npa_ingestion_tool.sqlite3_table_creation(connection)
     doi_insert_count = 0
     for journal in doi_list:
@@ -48,7 +49,8 @@ def rss_feed_2_doi_elsevier():
     Lastly, added new DOI's into SQLite3 database.
             :return: Count of added DOIs
                         """
-    with open("rss_feed_no_doi.txt", "r") as my_file:
+    path_no_doi = 'C:/Users/maras/Desktop/NPA_Ingestion_Tool/rss_feeds/rss_feed_no_doi.txt'
+    with open(path_no_doi, "r") as my_file:
         doi_lists = []
         for line in my_file:
             string = npa_ingestion_tool.get_xml(line, str(
@@ -58,7 +60,7 @@ def rss_feed_2_doi_elsevier():
 
     print(doi_lists)
     # SQLite3 Database entry
-    connection = npa_ingestion_tool.sqlite3_db_initialization("npa_database_feb_22_current.db")
+    connection = npa_ingestion_tool.sqlite3_db_initialization("npa_ingestion_database.db")
     npa_ingestion_tool.sqlite3_table_creation(connection)
     doi_insert_count_2 = 0
     for journal in doi_lists:
@@ -77,7 +79,7 @@ def database_query_pubmed():
     If greater than equal to 3 weeks, try to parse from the RSS feed archives and also update database with any results.
                             """
     # Database connection and cursor object creation
-    conn = npa_ingestion_tool.sqlite3_db_initialization("npa_database_feb_22_current.db")
+    conn = npa_ingestion_tool.sqlite3_db_initialization("npa_ingestion_database.db")
     curse = conn.cursor()
 
     # Query PubMed (SELECT SQL statement) for DOI(title/abstract null) <3 weeks:
@@ -129,7 +131,7 @@ def database_stats_query():
     """ Query database for stats to return.
                 :return: Count total DOI's, How many with titles and how many with both title/abstract
                             """
-    conn = npa_ingestion_tool.sqlite3_db_initialization("npa_database_feb_22_current.db")
+    conn = npa_ingestion_tool.sqlite3_db_initialization("npa_ingestion_database.db")
     curse = conn.cursor()
     total_doi_number = curse.execute("SELECT COUNT(*) FROM DOIs").fetchone()[0]
     doi_with_title = curse.execute("SELECT COUNT(*) FROM DOIs WHERE Title is NOT NULL").fetchone()[0]
@@ -155,4 +157,8 @@ if __name__ == "__main__":
               "abstract.".format(doi_feeds_insert_count,
                                  no_doi_feeds_insert_count, total_dois, dois_only_title, dois_title_abstract)
 
-    npa_ingestion_tool.send_message(WEBHOOK_URL, message)
+    # Change to True to stop notifications from being sent
+    notification_control_condition = False
+
+    if notification_control_condition is False:
+        npa_ingestion_tool.send_message(WEBHOOK_URL, message)

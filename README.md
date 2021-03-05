@@ -2,7 +2,7 @@
 Goal: To gather DOI's from RSS feeds and obtain the titles and abstracts for Machine Learning Classifer to determine
 if the article if about Natural Products or not.
 
-Main Script: (main.py) ; contains the code you want to run, calls other functions
+Main Script: (main.py); contains the code you want to run, calls other functions
 
 File containing functions called in main: npa_ingestion_tool.py
 
