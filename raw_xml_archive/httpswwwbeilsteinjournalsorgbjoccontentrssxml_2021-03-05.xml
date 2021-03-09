@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<?xml-stylesheet href='https://www.beilstein-journals.org/bjoc/assets/bjoc/rss.css' type='text/css'?>
+<rss version='2.0' xmlns:dc='http://purl.org/dc/elements/1.1/'>
+<channel>
+<link>https://www.beilstein-journals.org/bjoc</link>
+<language>en</language>
+<title>Beilstein Journal of Organic Chemistry</title>
+<description>Beilstein Journal of Organic Chemistry</description>
+<dc:creator>Beilstein Journal of Organic Chemistry - Syndicated Feeds</dc:creator>
+<dc:date>2021-03-05T19:25:43+00:00</dc:date>
+<lastBuildDate>Fri, 05 Mar 2021 19:25:43 GMT</lastBuildDate>
+<ttl>180</ttl>
+<skipDays>
+  <day>Saturday</day>
+  <day>Sunday</day>
+</skipDays>
+
+<item>
+<title>Synthesis, structural characterization, and optical properties of benzo[f]naphtho[2,3-b]phosphoindoles</title>
+<pubDate>Fri, 05 Mar 2021 15:03:00 GMT</pubDate>
+<dc:identifier>1860-5397-17-56</dc:identifier>
+<dc:source>Beilstein Journal of Organic Chemistry 2021 17:56</dc:source>
+<author>Mio Matsumura, Takahiro Teramoto, Masato Kawakubo, Masatoshi Kawahata, Yuki Murata, Kentaro Yamaguchi, Masanobu Uchiyama and Shuji Yasuike</author>
+<dc:subject>benzo[f]naphtho[2,3-b]phosphoindole</dc:subject>
+<dc:subject>molecular structure</dc:subject>
+<dc:subject>optical property</dc:subject>
+<dc:subject>phosphorus</dc:subject>
+<guid isPermaLink='false'>1860-5397-17-56</guid>
+<link>https://www.beilstein-journals.org/bjoc/articles/17/56</link>
+<dc:type>Letter</dc:type>
+<category>Letter</category>
+<enclosure type='application/pdf' url='https://www.beilstein-journals.org/bjoc/content/pdf/1860-5397-17-56.pdf'/>
+<description>
+<![CDATA[<p><font size='+1'><b>Abstract</b></font></p>
+<p>Phosphole-fused &#960;-conjugated acenes have been attracting interest because of the attractive features of the phosphole moiety, such as fluorescence and chemically modifiable properties. Herein, 6-phenyl-6<i>H</i>-benzo[<i>f</i>]naphtho[2,3-<i>b</i>]phosphoindole was prepared by reacting dichlorophenylphosphine with a dilithium intermediate derived from 3,3&#8242;-dibromo-2,2&#8242;-binaphthyl. Various derivatives, such as a phospholium salt and a borane&#8211;phosphole complex with functional groups on the phosphorus atom were synthesized using the obtained phosphole as a common starting material. Single-crystal X-ray analysis of the parent benzo[<i>f</i>]naphtho[2,3-<i>b</i>]phosphoindole revealed that the pentacyclic ring is almost planar. Fluorescence spectroscopy data showed that the phosphole derivatives, such as phosphine oxide and the phospholium salt and borane complex exhibited photoluminescence in chloroform.</p>
+<p align='center'><img src='https://www.beilstein-journals.org/bjoc/content/figures/1860-5397-17-56-graphical-abstract.png?max-width=550' border='0'/></p>
+<p><i>Beilstein J. Org. Chem.</i> <b>2021,</b> <i>17,</i> 671&#8211;677.&#160;doi:10.3762/bjoc.17.56</p>
+]]></description>
+</item>
+
+<item>
+<title>[2 + 1] Cycloaddition reactions of fullerene C60 based on diazo compounds</title>
+<pubDate>Fri, 05 Mar 2021 13:46:00 GMT</pubDate>
+<dc:identifier>1860-5397-17-55</dc:identifier>
+<dc:source>Beilstein Journal of Organic Chemistry 2021 17:55</dc:source>
+<author>Yuliya N. Biglova</author>
+<dc:subject>[2 + 1]-cycloaddition processes</dc:subject>
+<dc:subject>analogues of [60]PCBM</dc:subject>
+<dc:subject>diazo compounds</dc:subject>
+<dc:subject>mechanisms and optimal conditions of cyclopropanation</dc:subject>
+<dc:subject>methanofullerenes C60</dc:subject>
+<guid isPermaLink='false'>1860-5397-17-55</guid>
+<link>https://www.beilstein-journals.org/bjoc/articles/17/55</link>
+<dc:type>Review</dc:type>
+<category>Review</category>
+<enclosure type='application/pdf' url='https://www.beilstein-journals.org/bjoc/content/pdf/1860-5397-17-55.pdf'/>
+<description>
+<![CDATA[<p><font size='+1'><b>Abstract</b></font></p>
+<p>The most common variant of fullerene core functionalization is the [2 + 1] cycloaddition process. Of these, reactions leading to methanofullerenes are the most promising. They are synthesized in two main reactions: nucleophilic cyclopropanation according to the Bingel method and thermal addition of diazo compounds. This present review summarizes the material on the synthesis of monofunctionalized methanofullerenes &#8211; analogues of [60]PCBM &#8211; based on various diazo compounds. The main cyclopropanating agents for the synthesis of monosubstituted methanofullerenes, the optimal conditions and the mechanism of the [2 + 1] cycloaddition, as well as the practical application of the target products are analyzed.</p>
+<p align='center'><img src='https://www.beilstein-journals.org/bjoc/content/figures/1860-5397-17-55-graphical-abstract.png?max-width=550' border='0'/></p>
+<p><i>Beilstein J. Org. Chem.</i> <b>2021,</b> <i>17,</i> 630&#8211;670.&#160;doi:10.3762/bjoc.17.55</p>
+]]></description>
+</item>
+
+<item>
+<title>Synthesis and properties of oligonucleotides modified with an N-methylguanidine-bridged nucleic acid (GuNA[Me]) bearing adenine, guanine, or 5-methylcytosine nucleobases</title>
+<pubDate>Thu, 04 Mar 2021 14:23:00 GMT</pubDate>
+<dc:identifier>1860-5397-17-54</dc:identifier>
+<dc:source>Beilstein Journal of Organic Chemistry 2021 17:54</dc:source>
+<author>Naohiro Horie, Takao Yamaguchi, Shinji Kumagai and Satoshi Obika</author>
+<dc:subject>artificial nucleic acid</dc:subject>
+<dc:subject>duplex-forming ability</dc:subject>
+<dc:subject>oligonucleotide synthesis</dc:subject>
+<guid isPermaLink='false'>1860-5397-17-54</guid>
+<link>https://www.beilstein-journals.org/bjoc/articles/17/54</link>
+<dc:type>Full Research Paper</dc:type>
+<category>Full Research Paper</category>
+<enclosure type='application/pdf' url='https://www.beilstein-journals.org/bjoc/content/pdf/1860-5397-17-54.pdf'/>
+<description>
+<![CDATA[<p><font size='+1'><b>Abstract</b></font></p>
+<p>Chemical modifications have been extensively used for therapeutic oligonucleotides because they strongly enhance the stability against nucleases, binding affinity to the targets, and efficacy. We previously reported that oligonucleotides modified with an <i>N</i>-methylguanidine-bridged nucleic acid (GuNA[Me]) bearing the thymine (T) nucleobase show excellent biophysical properties for applications in antisense technology. In this paper, we describe the synthesis of GuNA[Me] phosphoramidites bearing other typical nucleobases including adenine (A), guanine (G), and 5-methylcytosine (<sup>m</sup>C). The phosphoramidites were successfully incorporated into oligonucleotides following the method previously developed for the GuNA[Me]-T-modified oligonucleotides. The binding affinity of the oligonucleotides modified with GuNA[Me]-A, -G, or -<sup>m</sup>C toward the complementary single-stranded DNAs or RNAs was systematically evaluated. All of the GuNA[Me]-modified oligonucleotides were found to have a strong affinity for RNAs. These data indicate that GuNA[Me] could be a useful modification for therapeutic antisense oligonucleotides.</p>
+<p align='center'><img src='https://www.beilstein-journals.org/bjoc/content/figures/1860-5397-17-54-graphical-abstract.png?max-width=550' border='0'/></p>
+<p><i>Beilstein J. Org. Chem.</i> <b>2021,</b> <i>17,</i> 622&#8211;629.&#160;doi:10.3762/bjoc.17.54</p>
+]]></description>
+</item>
+
+<item>
+<title>Valorisation of plastic waste via metal-catalysed depolymerisation</title>
+<pubDate>Tue, 02 Mar 2021 15:18:00 GMT</pubDate>
+<dc:identifier>1860-5397-17-53</dc:identifier>
+<dc:source>Beilstein Journal of Organic Chemistry 2021 17:53</dc:source>
+<author>Francesca Liguori, Carmen Moreno-Marrod&#225;n and Pierluigi Barbaro</author>
+<dc:subject>catalysis</dc:subject>
+<dc:subject>depolymerisation</dc:subject>
+<dc:subject>plastic</dc:subject>
+<dc:subject>recycling</dc:subject>
+<dc:subject>sustainable</dc:subject>
+<guid isPermaLink='false'>1860-5397-17-53</guid>
+<link>https://www.beilstein-journals.org/bjoc/articles/17/53</link>
+<dc:type>Review</dc:type>
+<category>Review</category>
+<enclosure type='application/pdf' url='https://www.beilstein-journals.org/bjoc/content/pdf/1860-5397-17-53.pdf'/>
+<description>
+<![CDATA[<p><font size='+1'><b>Abstract</b></font></p>
+<p>Metal-catalysed depolymerisation of plastics to reusable building blocks, including monomers, oligomers or added-value chemicals, is an attractive tool for the recycling and valorisation of these materials. The present manuscript shortly reviews the most significant contributions that appeared in the field within the period January 2010&#8211;January 2020 describing selective depolymerisation methods of plastics. Achievements are broken down according to the plastic material, namely polyolefins, polyesters, polycarbonates and polyamides. The focus is on recent advancements targeting sustainable and environmentally friendly processes. Biocatalytic or unselective processes, acid&#8211;base treatments as well as the production of fuels are not discussed, nor are the methods for the further upgrade of the depolymerisation products.</p>
+<p align='center'><img src='https://www.beilstein-journals.org/bjoc/content/figures/1860-5397-17-53-graphical-abstract.png?max-width=550' border='0'/></p>
+<p><i>Beilstein J. Org. Chem.</i> <b>2021,</b> <i>17,</i> 589&#8211;621.&#160;doi:10.3762/bjoc.17.53</p>
+]]></description>
+</item>
+
+<item>
+<title>Designed whole-cell-catalysis-assisted synthesis of 9,11-secosterols</title>
+<pubDate>Mon, 01 Mar 2021 15:01:00 GMT</pubDate>
+<dc:identifier>1860-5397-17-52</dc:identifier>
+<dc:source>Beilstein Journal of Organic Chemistry 2021 17:52</dc:source>
+<author>Marek K&#245;llo, Marje Kasari, Villu Kasari, T&#245;nis Pehk, Ivar J&#228;rving, Margus Lopp, Arvi J&#245;ers and T&#245;nis Kanger</author>
+<dc:subject>chemoenzymatic synthesis</dc:subject>
+<dc:subject>cortisol</dc:subject>
+<dc:subject>hydroxylation</dc:subject>
+<dc:subject>secosterol</dc:subject>
+<dc:subject>whole-cell catalysis</dc:subject>
+<guid isPermaLink='false'>1860-5397-17-52</guid>
+<link>https://www.beilstein-journals.org/bjoc/articles/17/52</link>
+<dc:type>Full Research Paper</dc:type>
+<category>Full Research Paper</category>
+<enclosure type='application/pdf' url='https://www.beilstein-journals.org/bjoc/content/pdf/1860-5397-17-52.pdf'/>
+<description>
+<![CDATA[<p><font size='+1'><b>Abstract</b></font></p>
+<p>A method for the synthesis of 9,11-secosteroids starting from the natural corticosteroid cortisol is described. There are two key steps in this approach, combining chemistry and synthetic biology. Stereo- and regioselective hydroxylation at C9 (steroid numbering) is carried out using whole-cell biocatalysis, followed by the chemical cleavage of the C&#8211;C bond of the vicinal diol. The two-step method features mild reaction conditions and completely excludes the use of toxic oxidants.</p>
+<p align='center'><img src='https://www.beilstein-journals.org/bjoc/content/figures/1860-5397-17-52-graphical-abstract.png?max-width=550' border='0'/></p>
+<p><i>Beilstein J. Org. Chem.</i> <b>2021,</b> <i>17,</i> 581&#8211;588.&#160;doi:10.3762/bjoc.17.52</p>
+]]></description>
+</item>
+
+<item>
+<title>Breakdown of 3-(allylsulfonio)propanoates in bacteria from the Roseobacter group yields garlic oil constituents</title>
+<pubDate>Fri, 26 Feb 2021 09:58:00 GMT</pubDate>
+<dc:identifier>1860-5397-17-51</dc:identifier>
+<dc:source>Beilstein Journal of Organic Chemistry 2021 17:51</dc:source>
+<author>Anuj Kumar Chhalodia and Jeroen S. Dickschat</author>
+<dc:subject>Allium sativum</dc:subject>
+<dc:subject>allyl sulfides</dc:subject>
+<dc:subject>3-(dimethylsulfonio)propanoate</dc:subject>
+<dc:subject>Roseobacter</dc:subject>
+<dc:subject>volatiles</dc:subject>
+<guid isPermaLink='false'>1860-5397-17-51</guid>
+<link>https://www.beilstein-journals.org/bjoc/articles/17/51</link>
+<dc:type>Full Research Paper</dc:type>
+<category>Full Research Paper</category>
+<enclosure type='application/pdf' url='https://www.beilstein-journals.org/bjoc/content/pdf/1860-5397-17-51.pdf'/>
+<description>
+<![CDATA[<p><font size='+1'><b>Abstract</b></font></p>
+<p>Two analogues of 3-(dimethylsulfonio)propanoate (DMSP), 3-(diallylsulfonio)propanoate (DAllSP), and 3-(allylmethylsulfonio)propanoate (AllMSP), were synthesized and fed to marine bacteria from the <i>Roseobacter</i> clade. These bacteria are able to degrade DMSP into dimethyl sulfide and methanethiol. The DMSP analogues were also degraded, resulting in the release of allylated sulfur volatiles known from garlic. For unknown compounds, structural suggestions were made based on their mass spectrometric fragmentation pattern and confirmed by the synthesis of reference compounds. The results of the feeding experiments allowed to conclude on the substrate tolerance of DMSP degrading enzymes in marine bacteria.</p>
+<p align='center'><img src='https://www.beilstein-journals.org/bjoc/content/figures/1860-5397-17-51-graphical-abstract.png?max-width=550' border='0'/></p>
+<p><i>Beilstein J. Org. Chem.</i> <b>2021,</b> <i>17,</i> 569&#8211;580.&#160;doi:10.3762/bjoc.17.51</p>
+]]></description>
+</item>
+
+<item>
+<title>Amino- and polyaminophthalazin-1(2H)-ones: synthesis, coordination properties, and biological activity</title>
+<pubDate>Thu, 25 Feb 2021 10:43:00 GMT</pubDate>
+<dc:identifier>1860-5397-17-50</dc:identifier>
+<dc:source>Beilstein Journal of Organic Chemistry 2021 17:50</dc:source>
+<author>Zbigniew Malinowski, Emilia Fornal, Agata Sumara, Renata Kontek, Karol Bukowski, Beata Pasternak, Dariusz Sroczy&#324;ski, Joachim Kusz, Magdalena Ma&#322;ecka and Monika Nowak</author>
+<dc:subject>amination</dc:subject>
+<dc:subject>complexes</dc:subject>
+<dc:subject>cytotoxicity</dc:subject>
+<dc:subject>Pd cross-coupling</dc:subject>
+<dc:subject>phthalazinone</dc:subject>
+<guid isPermaLink='false'>1860-5397-17-50</guid>
+<link>https://www.beilstein-journals.org/bjoc/articles/17/50</link>
+<dc:type>Full Research Paper</dc:type>
+<category>Full Research Paper</category>
+<enclosure type='application/pdf' url='https://www.beilstein-journals.org/bjoc/content/pdf/1860-5397-17-50.pdf'/>
+<description>
+<![CDATA[<p><font size='+1'><b>Abstract</b></font></p>
+<p>Amino- and polyaminophthalazinones were synthesized by the palladium&#8208;catalyzed amination (alkyl- and arylamines, polyamines) of 4-bromophthalazinones in good yields. The coordinating properties of selected aminophthalazinones towards Cu(II) ions were investigated and the participation of the nitrogen atoms in the complexation of the metal ion was shown. A biological screening of the potential cytotoxicity of selected synthesized compounds on HT-29 and PC-3 cell lines, as well as on the L-929 cell line, proved that some amino derivatives of phthalazinone show interesting anticancer activities. The detailed synthesis, spectroscopic data, and biological assays are reported.</p>
+<p align='center'><img src='https://www.beilstein-journals.org/bjoc/content/figures/1860-5397-17-50-graphical-abstract.jpg?max-width=550' border='0'/></p>
+<p><i>Beilstein J. Org. Chem.</i> <b>2021,</b> <i>17,</i> 558&#8211;568.&#160;doi:10.3762/bjoc.17.50</p>
+]]></description>
+</item>
+
+<item>
+<title>Metal-free visible-light-enabled vicinal trifluoromethyl dithiolation of unactivated alkenes</title>
+<pubDate>Wed, 24 Feb 2021 16:23:00 GMT</pubDate>
+<dc:identifier>1860-5397-17-49</dc:identifier>
+<dc:source>Beilstein Journal of Organic Chemistry 2021 17:49</dc:source>
+<author>Xiaojuan Li, Qiang Zhang, Weigang Zhang, Jinzhu Ma, Yi Wang and Yi Pan</author>
+<dc:subject>alkenes</dc:subject>
+<dc:subject>difunctionalization</dc:subject>
+<dc:subject>metal-free</dc:subject>
+<dc:subject>photoredox</dc:subject>
+<dc:subject>trifluoromethylthiolation</dc:subject>
+<guid isPermaLink='false'>1860-5397-17-49</guid>
+<link>https://www.beilstein-journals.org/bjoc/articles/17/49</link>
+<dc:type>Full Research Paper</dc:type>
+<category>Full Research Paper</category>
+<enclosure type='application/pdf' url='https://www.beilstein-journals.org/bjoc/content/pdf/1860-5397-17-49.pdf'/>
+<description>
+<![CDATA[<p><font size='+1'><b>Abstract</b></font></p>
+<p>The difunctionalization of alkenes involving a trifluoromethylthio group (SCF<sub>3</sub>) for the conversion of versatile and readily available olefins into structurally more complex molecules has been successfully studied. However, the disproportionate dithiolation of alkenes is unknown. Herein, a transition-metal-free protocol is presented for the vicinal trifluoromethylthio&#8211;thiolation of unactivated alkenes via a radical process under mild conditions with a broad substrate scope and excellent tolerance.</p>
+<p align='center'><img src='https://www.beilstein-journals.org/bjoc/content/figures/1860-5397-17-49-graphical-abstract.png?max-width=550' border='0'/></p>
+<p><i>Beilstein J. Org. Chem.</i> <b>2021,</b> <i>17,</i> 551&#8211;557.&#160;doi:10.3762/bjoc.17.49</p>
+]]></description>
+</item>
+
+<item>
+<title>Menthyl esterification allows chiral resolution for the synthesis of artificial glutamate analogs</title>
+<pubDate>Wed, 24 Feb 2021 09:25:00 GMT</pubDate>
+<dc:identifier>1860-5397-17-48</dc:identifier>
+<dc:source>Beilstein Journal of Organic Chemistry 2021 17:48</dc:source>
+<author>Kenji Morokuma, Shuntaro Tsukamoto, Kyosuke Mori, Kei Miyako, Ryuichi Sakai, Raku Irie and Masato Oikawa</author>
+<dc:subject>chiral resolution</dc:subject>
+<dc:subject>configurational analysis</dc:subject>
+<dc:subject>glutamate</dc:subject>
+<dc:subject>metathesis</dc:subject>
+<dc:subject>neuroactivity</dc:subject>
+<guid isPermaLink='false'>1860-5397-17-48</guid>
+<link>https://www.beilstein-journals.org/bjoc/articles/17/48</link>
+<dc:type>Full Research Paper</dc:type>
+<category>Full Research Paper</category>
+<enclosure type='application/pdf' url='https://www.beilstein-journals.org/bjoc/content/pdf/1860-5397-17-48.pdf'/>
+<description>
+<![CDATA[<p><font size='+1'><b>Abstract</b></font></p>
+<p>Herein, we report the enantiospecific synthesis of two artificial glutamate analogs designed based on IKM-159, an antagonist selective to the AMPA-type ionotropic glutamate receptor. The synthesis features the chiral resolution of the carboxylic acid intermediate by the esterification with &#671;-menthol, followed by a configurational analysis by NMR, conformational calculation, and X-ray crystallography. A mice in vivo assay showed that (2<i>R</i>)-MC-27, with a six-membered oxacycle, is neuroactive, whereas the (2<i>S</i>)-counterpart is inactive. It was also found that TKM-38, with an eight-membered azacycle, is neuronally inactive, showing that the activity is controlled by the ring C.</p>
+<p align='center'><img src='https://www.beilstein-journals.org/bjoc/content/figures/1860-5397-17-48-graphical-abstract.png?max-width=550' border='0'/></p>
+<p><i>Beilstein J. Org. Chem.</i> <b>2021,</b> <i>17,</i> 540&#8211;550.&#160;doi:10.3762/bjoc.17.48</p>
+]]></description>
+</item>
+
+<item>
+<title>Synthesis of (Z)-3-[amino(phenyl)methylidene]-1,3-dihydro-2H-indol-2-ones using an Eschenmoser coupling reaction</title>
+<pubDate>Tue, 23 Feb 2021 13:16:00 GMT</pubDate>
+<dc:identifier>1860-5397-17-47</dc:identifier>
+<dc:source>Beilstein Journal of Organic Chemistry 2021 17:47</dc:source>
+<author>Luk&#225;&#353; Marek, Luk&#225;&#353; Kolman, Ji&#345;&#237; V&#225;&#328;a, Jan Svoboda and Ji&#345;&#237; Hanusek</author>
+<dc:subject>3-bromooxindoles</dc:subject>
+<dc:subject>Eschenmoser coupling reaction</dc:subject>
+<dc:subject>thioamides</dc:subject>
+<dc:subject>tyrosin kinase inhibitors</dc:subject>
+<dc:subject>(Z)-3-[amino(phenyl)methylidene]-1,3-dihydro-2H-indol-2-ones</dc:subject>
+<guid isPermaLink='false'>1860-5397-17-47</guid>
+<link>https://www.beilstein-journals.org/bjoc/articles/17/47</link>
+<dc:type>Full Research Paper</dc:type>
+<category>Full Research Paper</category>
+<enclosure type='application/pdf' url='https://www.beilstein-journals.org/bjoc/content/pdf/1860-5397-17-47.pdf'/>
+<description>
+<![CDATA[<p><font size='+1'><b>Abstract</b></font></p>
+<p>A highly modular method for the synthesis of (<i>Z</i>)-3-[amino(phenyl/methyl)methylidene]-1,3-dihydro-2<i>H</i>-indol-2-ones starting from easily available 3-bromooxindoles or (2-oxoindolin-3-yl)triflate and thioacetamides or thiobenzamides is described. A series of 49 compounds, several of which have previously been shown to possess significant tyrosin kinase inhibiting activity, was prepared in yields varying mostly from 70 to 97% and always surpassing those obtained by other published methods. The method includes an Eschenmoser coupling reaction, which is very feasible (even without using a thiophile except tertiary amides) and scalable. The (<i>Z</i>)-configuration of all products was confirmed by NMR techniques.</p>
+<p align='center'><img src='https://www.beilstein-journals.org/bjoc/content/figures/1860-5397-17-47-graphical-abstract.png?max-width=550' border='0'/></p>
+<p><i>Beilstein J. Org. Chem.</i> <b>2021,</b> <i>17,</i> 527&#8211;539.&#160;doi:10.3762/bjoc.17.47</p>
+]]></description>
+</item>
+
+</channel>
+</rss>

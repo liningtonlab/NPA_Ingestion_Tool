@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     version="2.0">
+   <channel>
+      <title>Wiley: Helvetica Chimica Acta: Table of Contents</title>
+      <link>https://onlinelibrary.wiley.com/journal/15222675?af=R</link>
+      <description>Table of Contents for Helvetica Chimica Acta. List of articles from both the latest and EarlyView issues.</description>
+      <language>en-US</language>
+      <copyright>© Wiley-VHCA AG, Zurich, Switzerland</copyright>
+      <managingEditor>wileyonlinelibrary@wiley.com (Wiley Online Library)</managingEditor>
+      <pubDate>Mon, 01 Mar 2021 14:52:59 +0000</pubDate>
+      <lastBuildDate>Mon, 01 Mar 2021 14:52:59 +0000</lastBuildDate>
+      <generator>Atypon® Literatum™</generator>
+      <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+      <ttl>10080</ttl>
+      <dc:title>Wiley: Helvetica Chimica Acta: Table of Contents</dc:title>
+      <dc:publisher>Wiley</dc:publisher>
+      <prism:publicationName>Helvetica Chimica Acta</prism:publicationName>
+      <atom:link href="https://onlinelibrary.wiley.com/journal/15222675?af=R"
+                 rel="self"
+                 type="application/atom+xml"/>
+      <image>
+         <title>Wiley: Helvetica Chimica Acta: Table of Contents</title>
+         <url>https://onlinelibrary.wiley.com/pb-assets/journal-banners/15222675.jpg</url>
+         <link>https://onlinelibrary.wiley.com/journal/15222675?af=R</link>
+      </image>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202100008?af=R</link>
+         <pubDate>Mon, 01 Mar 2021 05:58:34 -0800</pubDate>
+         <source url="https://onlinelibrary.wiley.com/journal/15222675?af=R">Wiley: Helvetica Chimica Acta: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1002/hlca.202100008</guid>
+         <title>Photoredox Reaction of Naphthoquinone C‐Glycoside Revisited: Insight into Stereochemical Aspect</title>
+         <description>Helvetica Chimica Acta, EarlyView. </description>
+         <dc:description>
+
+
+
+
+
+
+
+
+Abstract
+Insights into the naphthoquinone photoredox reactions have been gained from the reactions of a C‐glycosyl naphthoquinone. The retentiveness comes from the balance of the lifetime of intermediary zwitterionic species relative to the conformational change to bring about the stereo‐mutating C−C bond rotation.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/79361130-97ce-4fd6-9d3f-e79ce2524251/hlca202100008-toc-0001-m.png"
+     alt="Photoredox Reaction of Naphthoquinone C‐Glycoside Revisited: Insight into Stereochemical Aspect"/&gt;
+&lt;p&gt;
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Insights into the naphthoquinone photoredox reactions have been gained from the reactions of a &lt;i&gt;C&lt;/i&gt;‐glycosyl naphthoquinone. The retentiveness comes from the balance of the lifetime of intermediary zwitterionic species relative to the conformational change to bring about the stereo‐mutating C−C bond rotation.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Yoshio Ando, 
+Takashi Matsumoto, 
+Keisuke Suzuki
+</dc:creator>
+         <category>Full Paper</category>
+         <dc:title>Photoredox Reaction of Naphthoquinone C‐Glycoside Revisited: Insight into Stereochemical Aspect</dc:title>
+         <dc:identifier>10.1002/hlca.202100008</dc:identifier>
+         <prism:publicationName>Helvetica Chimica Acta</prism:publicationName>
+         <prism:doi>10.1002/hlca.202100008</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202100008?af=R</prism:url>
+         <prism:section>Full Paper</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202100016?af=R</link>
+         <pubDate>Wed, 24 Feb 2021 06:38:19 -0800</pubDate>
+         <source url="https://onlinelibrary.wiley.com/journal/15222675?af=R">Wiley: Helvetica Chimica Acta: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1002/hlca.202100016</guid>
+         <title>Synthesis and Chiroptical Properties of Quinoxaline‐Fused Polyaza[5]–[7]helicenes with Orange‐Color CPL Emissions</title>
+         <description>Helvetica Chimica Acta, Accepted Article. </description>
+         <dc:description>We achieved a two‐type synthesis of quinoxaline‐fused polyaza[5]‐ and [7] helicenes via consecutive N–H/C–H coupling with a hypervalent iodine reagent as a key reaction. By fusing electron‐deficient quinoxaline, these polyazahelicenes constitute an efficient donor‐acceptor type of molecule with absorption edges that reach up to approximately 650 nm. Evaluating the chiroptical properties reveals that the polyazahelicene exhibits a rare orange circularly polarized glow with a luminescence dissymmetry factor (g  lum  value) of 0.003.</dc:description>
+         <content:encoded>&lt;p&gt;We achieved a two‐type synthesis of quinoxaline‐fused polyaza[5]‐ and [7] helicenes via consecutive N–H/C–H coupling with a hypervalent iodine reagent as a key reaction. By fusing electron‐deficient quinoxaline, these polyazahelicenes constitute an efficient donor‐acceptor type of molecule with absorption edges that reach up to approximately 650 nm. Evaluating the chiroptical properties reveals that the polyazahelicene exhibits a rare orange circularly polarized glow with a luminescence dissymmetry factor (g  lum  value) of 0.003.&lt;/p&gt;</content:encoded>
+         <dc:creator>
+Takashi Otani, 
+Takuma Sasayama, 
+Masashi Horiuchi, 
+Shunnosuke Okauchi, 
+Hidetoshi Kawai, 
+Maho Kitahara, 
+Yoshitane Imai, 
+Takanori Shibata
+</dc:creator>
+         <category>Communication</category>
+         <dc:title>Synthesis and Chiroptical Properties of Quinoxaline‐Fused Polyaza[5]–[7]helicenes with Orange‐Color CPL Emissions</dc:title>
+         <dc:identifier>10.1002/hlca.202100016</dc:identifier>
+         <prism:publicationName>Helvetica Chimica Acta</prism:publicationName>
+         <prism:doi>10.1002/hlca.202100016</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202100016?af=R</prism:url>
+         <prism:section>Communication</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202100015?af=R</link>
+         <pubDate>Mon, 15 Feb 2021 06:27:27 -0800</pubDate>
+         <source url="https://onlinelibrary.wiley.com/journal/15222675?af=R">Wiley: Helvetica Chimica Acta: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1002/hlca.202100015</guid>
+         <title>Design of Chiral NHC‐Carboxylates as Potential Ligands for Pd‐Catalyzed Enantioselective C−H Activation</title>
+         <description>Helvetica Chimica Acta, EarlyView. </description>
+         <dc:description>
+
+
+
+
+
+
+
+
+Abstract
+Despite numerous efforts, the synthesis of scalemic carbo‐ and heterocycles through Pd0‐catalyzed C(sp3)−H activation employing chiral ancillary ligands or chiral bases is still limited. Inspired by the recently reported outstanding performance of IBiox‐type NHC ligands and bifunctional ligands in similar transformations, a new class of bifunctional NHC‐ligands bearing a pendant carboxylate group was designed. A library of 10 imidazolium‐carboxylic acids was obtained in five to six steps from enantiopure l‐tert‐leucinol. In addition, four well‐defined Pd(DMBPA)‐NHC palladacycles were synthesized in good to excellent yields from the corresponding imidazolium precursors. These complexes were tested in a prototypical C(sp3)−H arylation reaction, and the most active one afforded the indoline product in low yield but significant enantioselectivity. These new bifunctional NHCs could find broader applications in catalytic enantioselective transformations occurring under milder conditions.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/e510a17c-9e27-4174-9c2d-49be88d1fa05/hlca202100015-toc-0001-m.png"
+     alt="Design of Chiral NHC‐Carboxylates as Potential Ligands for Pd‐Catalyzed Enantioselective C−H Activation"/&gt;
+&lt;p&gt;
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Despite numerous efforts, the synthesis of scalemic carbo‐ and heterocycles through Pd&lt;sup&gt;0&lt;/sup&gt;‐catalyzed C(sp&lt;sup&gt;3&lt;/sup&gt;)−H activation employing chiral ancillary ligands or chiral bases is still limited. Inspired by the recently reported outstanding performance of IBiox‐type NHC ligands and bifunctional ligands in similar transformations, a new class of bifunctional NHC‐ligands bearing a pendant carboxylate group was designed. A library of 10 imidazolium‐carboxylic acids was obtained in five to six steps from enantiopure &lt;span class="smallCaps"&gt;l&lt;/span&gt;‐&lt;i&gt;tert&lt;/i&gt;‐leucinol. In addition, four well‐defined Pd(DMBPA)‐NHC palladacycles were synthesized in good to excellent yields from the corresponding imidazolium precursors. These complexes were tested in a prototypical C(sp&lt;sup&gt;3&lt;/sup&gt;)−H arylation reaction, and the most active one afforded the indoline product in low yield but significant enantioselectivity. These new bifunctional NHCs could find broader applications in catalytic enantioselective transformations occurring under milder conditions.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Nadja E. Niggli, 
+Olivier Baudoin
+</dc:creator>
+         <category>Full Paper</category>
+         <dc:title>Design of Chiral NHC‐Carboxylates as Potential Ligands for Pd‐Catalyzed Enantioselective C−H Activation</dc:title>
+         <dc:identifier>10.1002/hlca.202100015</dc:identifier>
+         <prism:publicationName>Helvetica Chimica Acta</prism:publicationName>
+         <prism:doi>10.1002/hlca.202100015</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202100015?af=R</prism:url>
+         <prism:section>Full Paper</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202000216?af=R</link>
+         <pubDate>Mon, 15 Feb 2021 06:25:24 -0800</pubDate>
+         <source url="https://onlinelibrary.wiley.com/journal/15222675?af=R">Wiley: Helvetica Chimica Acta: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1002/hlca.202000216</guid>
+         <title>Sequential Two‐Fold Claisen Rearrangement, One‐Pot Ring‐Closing Metathesis and Cross‐Metathesis as a Route to Substituted Benzo[b]azepine‐2‐one, Benzo[b]azepine and Benzo[b]oxepine Derivatives</title>
+         <description>Helvetica Chimica Acta, EarlyView. </description>
+         <dc:description>
+
+
+
+
+
+
+
+
+Abstract
+A synthetic protocol involving sequential use of three atom‐economic processes viz. Claisen rearrangement, ring‐closing metathesis and cross metathesis has been developed to access 7‐substituted benzo[b]azepine and benzo[b]oxepine derivatives starting from appropriate aniline or phenol in good overall yield. A one‐pot RCM‐CM protocol has also been developed for the synthesis of benzazepine and benzoxepine derivatives.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/1eb00b04-7c49-4fa1-95fd-d1de26b5aeae/hlca202000216-toc-0001-m.png"
+     alt="Sequential Two‐Fold Claisen Rearrangement, One‐Pot Ring‐Closing Metathesis and Cross‐Metathesis as a Route to Substituted Benzo[b]azepine‐2‐one, Benzo[b]azepine and Benzo[b]oxepine Derivatives"/&gt;
+&lt;p&gt;
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;A synthetic protocol involving sequential use of three atom‐economic processes &lt;i&gt;viz. Claisen&lt;/i&gt; rearrangement, ring‐closing metathesis and cross metathesis has been developed to access 7‐substituted benzo[&lt;i&gt;b&lt;/i&gt;]azepine and benzo[&lt;i&gt;b&lt;/i&gt;]oxepine derivatives starting from appropriate aniline or phenol in good overall yield. A one‐pot RCM‐CM protocol has also been developed for the synthesis of benzazepine and benzoxepine derivatives.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Shyamasankar Mandal, 
+Jeet Banerjee, 
+Sougata Maity, 
+Shital K. Chattopadhyay
+</dc:creator>
+         <category>Full Paper</category>
+         <dc:title>Sequential Two‐Fold Claisen Rearrangement, One‐Pot Ring‐Closing Metathesis and Cross‐Metathesis as a Route to Substituted Benzo[b]azepine‐2‐one, Benzo[b]azepine and Benzo[b]oxepine Derivatives</dc:title>
+         <dc:identifier>10.1002/hlca.202000216</dc:identifier>
+         <prism:publicationName>Helvetica Chimica Acta</prism:publicationName>
+         <prism:doi>10.1002/hlca.202000216</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202000216?af=R</prism:url>
+         <prism:section>Full Paper</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202000198?af=R</link>
+         <pubDate>Fri, 12 Feb 2021 00:47:44 -0800</pubDate>
+         <source url="https://onlinelibrary.wiley.com/journal/15222675?af=R">Wiley: Helvetica Chimica Acta: Table of Contents</source>
+         <prism:coverDate>Mon, 01 Feb 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Mon, 01 Feb 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/hlca.202000198</guid>
+         <title>Mono‐Gold(I)‐Catalyzed Enantioselective Intermolecular Reaction of Ynones with Styrenes: Tandem Diels–Alder and Ene Sequence</title>
+         <description>Helvetica Chimica Acta, Volume 104, Issue 2, February 2021. </description>
+         <dc:description>
+
+
+
+
+
+
+
+
+Abstract
+Gold‐catalyzed intermolecular reaction leading to dihydronaphthalene derivatives in one pot from two equivalents of ynones with respect to styrene is uncovered. The [4+2] Diels–Alder cycloaddition of ynones and styrenes is catalyzed by a mono‐gold(I) complex and the conjugated acid to provide an unstable 3,8a‐dihydronaphthalene to subsequently undergo an intermolecular ene‐type reaction with the π‐activated ynone to afford multi‐component coupling dihydronaphthalene products. Linear relationships between chiral ligand‐gold complexes and chiral dihydronaphthalene products proves mono‐gold catalysis that triggers an asymmetric tandem Diels–Alder and ene reaction sequence.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/3918458c-1c6f-4460-a14e-ef6bb4a0489b/hlca202000198-toc-0001-m.png"
+     alt="Mono‐Gold(I)‐Catalyzed Enantioselective Intermolecular Reaction of Ynones with Styrenes: Tandem Diels–Alder and Ene Sequence"/&gt;
+&lt;p&gt;
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Gold‐catalyzed intermolecular reaction leading to dihydronaphthalene derivatives in one pot from two equivalents of ynones with respect to styrene is uncovered. The [4+2] &lt;i&gt;Diels–Alder&lt;/i&gt; cycloaddition of ynones and styrenes is catalyzed by a mono‐gold(I) complex and the conjugated acid to provide an unstable 3,8a‐dihydronaphthalene to subsequently undergo an intermolecular ene‐type reaction with the π‐activated ynone to afford multi‐component coupling dihydronaphthalene products. Linear relationships between chiral ligand‐gold complexes and chiral dihydronaphthalene products proves mono‐gold catalysis that triggers an asymmetric tandem &lt;i&gt;Diels–Alder&lt;/i&gt; and ene reaction sequence.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Masaki Nanko, 
+Yuya Inaba, 
+Keisuke Sekine, 
+Koichi Mikami
+</dc:creator>
+         <category>Full Paper</category>
+         <dc:title>Mono‐Gold(I)‐Catalyzed Enantioselective Intermolecular Reaction of Ynones with Styrenes: Tandem Diels–Alder and Ene Sequence</dc:title>
+         <dc:identifier>10.1002/hlca.202000198</dc:identifier>
+         <prism:publicationName>Helvetica Chimica Acta</prism:publicationName>
+         <prism:doi>10.1002/hlca.202000198</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202000198?af=R</prism:url>
+         <prism:section>Full Paper</prism:section>
+         <prism:volume>104</prism:volume>
+         <prism:number>2</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202000211?af=R</link>
+         <pubDate>Fri, 12 Feb 2021 00:47:44 -0800</pubDate>
+         <source url="https://onlinelibrary.wiley.com/journal/15222675?af=R">Wiley: Helvetica Chimica Acta: Table of Contents</source>
+         <prism:coverDate>Mon, 01 Feb 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Mon, 01 Feb 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/hlca.202000211</guid>
+         <title>Facile C−F Bond Activation Approach to FAMT‐Based Difluoromethyl‐BNCT Drug Candidates</title>
+         <description>Helvetica Chimica Acta, Volume 104, Issue 2, February 2021. </description>
+         <dc:description>
+
+
+
+
+
+
+
+
+Abstract
+Lithium 1,3‐bis(2,6‐diisopropylphenyl)‐1,3,2‐diazaborolidinyl‐2‐uide activates the C−F linkage of fluoroform (CF3H) to provide air‐stable difluoromethylborane compounds. Computational analysis of SN2‐type transition state for the C−F bond activation of fluoroform with boryllithium clarifies the mechanism involving the lithium dimeric species in the pre‐reaction complex. FAMT (=3‐fluoro‐l‐α‐methyl‐tyrosine)‐based difluoromethyl‐BNCT (boron neutron capture therapy) drug candidates is thus produced by the present C−F bond activation.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/a48a346f-0065-4d9a-951a-357df9c6be40/hlca202000211-toc-0001-m.png"
+     alt="Facile C−F Bond Activation Approach to FAMT‐Based Difluoromethyl‐BNCT Drug Candidates"/&gt;
+&lt;p&gt;
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Lithium 1,3‐bis(2,6‐diisopropylphenyl)‐1,3,2‐diazaborolidinyl‐2‐uide activates the C−F linkage of fluoroform (CF&lt;sub&gt;3&lt;/sub&gt;H) to provide air‐stable difluoromethylborane compounds. Computational analysis of S&lt;sub&gt;N&lt;/sub&gt;2‐type transition state for the C−F bond activation of fluoroform with boryllithium clarifies the mechanism involving the lithium &lt;i&gt;dimeric&lt;/i&gt; species in the pre‐reaction complex. FAMT (=3‐fluoro‐&lt;span class="smallCaps"&gt;l&lt;/span&gt;‐α‐methyl‐tyrosine)‐based difluoromethyl‐BNCT (boron neutron capture therapy) drug candidates is thus produced by the present C−F bond activation.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Akitaka Yokawa, 
+Miho Hatanaka, 
+Koichi Mikami
+</dc:creator>
+         <category>Full Paper</category>
+         <dc:title>Facile C−F Bond Activation Approach to FAMT‐Based Difluoromethyl‐BNCT Drug Candidates</dc:title>
+         <dc:identifier>10.1002/hlca.202000211</dc:identifier>
+         <prism:publicationName>Helvetica Chimica Acta</prism:publicationName>
+         <prism:doi>10.1002/hlca.202000211</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202000211?af=R</prism:url>
+         <prism:section>Full Paper</prism:section>
+         <prism:volume>104</prism:volume>
+         <prism:number>2</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202000209?af=R</link>
+         <pubDate>Fri, 12 Feb 2021 00:47:44 -0800</pubDate>
+         <source url="https://onlinelibrary.wiley.com/journal/15222675?af=R">Wiley: Helvetica Chimica Acta: Table of Contents</source>
+         <prism:coverDate>Mon, 01 Feb 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Mon, 01 Feb 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/hlca.202000209</guid>
+         <title>Synthesis and Characterization of Tris(oxazolinyl)borato Copper(II) and Copper(I) Complexes</title>
+         <description>Helvetica Chimica Acta, Volume 104, Issue 2, February 2021. </description>
+         <dc:description>
+
+
+
+
+
+
+
+
+Abstract
+The reaction of ToMTl (ToM=tris(4,4‐dimethyl‐2‐oxazolinyl)phenylborate) and CuBr2 in benzene at 60 °C provides ToMCuBr (1) as an entry‐point into tris(oxazolinyl)phenylborato copper chemistry. ToMCuOtBu (2) and ToMCuOAc (3) are prepared by the reactions of ToMCuBr with KOtBu and NaOAc, respectively. ToMCuOtBu is transformed into (ToMCuOH)2 (4) through hydrolysis. NMR, FT‐IR, and EPR spectroscopies are used to determine the electronic and structural properties of these copper(II) compounds, and the solid‐state structures were characterized by X‐ray crystallography. Reduction of copper is observed upon treatment of ToMCuOtBu with phenylsilane in an attempt to synthesize monomeric copper(II) hydride. ToMCu (5) and ToM2Cu (6) were independently synthesized and characterized for comparison.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/795acd45-870f-466d-ae95-446b9897eb87/hlca202000209-toc-0001-m.png"
+     alt="Synthesis and Characterization of Tris(oxazolinyl)borato Copper(II) and Copper(I) Complexes"/&gt;
+&lt;p&gt;
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The reaction of To&lt;sup&gt;M&lt;/sup&gt;Tl (To&lt;sup&gt;M&lt;/sup&gt;=tris(4,4‐dimethyl‐2‐oxazolinyl)phenylborate) and CuBr&lt;sub&gt;2&lt;/sub&gt; in benzene at 60 °C provides To&lt;sup&gt;M&lt;/sup&gt;CuBr (&lt;b&gt;1&lt;/b&gt;) as an entry‐point into tris(oxazolinyl)phenylborato copper chemistry. To&lt;sup&gt;M&lt;/sup&gt;CuO&lt;sup&gt;
+   &lt;i&gt;t&lt;/i&gt;
+&lt;/sup&gt;Bu (&lt;b&gt;2&lt;/b&gt;) and To&lt;sup&gt;M&lt;/sup&gt;CuOAc (&lt;b&gt;3&lt;/b&gt;) are prepared by the reactions of To&lt;sup&gt;M&lt;/sup&gt;CuBr with KO&lt;sup&gt;
+   &lt;i&gt;t&lt;/i&gt;
+&lt;/sup&gt;Bu and NaOAc, respectively. To&lt;sup&gt;M&lt;/sup&gt;CuO&lt;sup&gt;
+   &lt;i&gt;t&lt;/i&gt;
+&lt;/sup&gt;Bu is transformed into (To&lt;sup&gt;M&lt;/sup&gt;CuOH)&lt;sub&gt;2&lt;/sub&gt; (&lt;b&gt;4&lt;/b&gt;) through hydrolysis. NMR, FT‐IR, and EPR spectroscopies are used to determine the electronic and structural properties of these copper(II) compounds, and the solid‐state structures were characterized by X‐ray crystallography. Reduction of copper is observed upon treatment of To&lt;sup&gt;M&lt;/sup&gt;CuO&lt;sup&gt;
+   &lt;i&gt;t&lt;/i&gt;
+&lt;/sup&gt;Bu with phenylsilane in an attempt to synthesize monomeric copper(II) hydride. To&lt;sup&gt;M&lt;/sup&gt;Cu (&lt;b&gt;5&lt;/b&gt;) and To&lt;sup&gt;M&lt;/sup&gt;
+&lt;sub&gt;2&lt;/sub&gt;Cu (&lt;b&gt;6&lt;/b&gt;) were independently synthesized and characterized for comparison.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Naresh Eedugurala, 
+Zhuoran Wang, 
+Uddhav Kanbur, 
+Arkady Ellern, 
+Marek Pruski, 
+Aaron D. Sadow
+</dc:creator>
+         <category>Full Paper</category>
+         <dc:title>Synthesis and Characterization of Tris(oxazolinyl)borato Copper(II) and Copper(I) Complexes</dc:title>
+         <dc:identifier>10.1002/hlca.202000209</dc:identifier>
+         <prism:publicationName>Helvetica Chimica Acta</prism:publicationName>
+         <prism:doi>10.1002/hlca.202000209</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202000209?af=R</prism:url>
+         <prism:section>Full Paper</prism:section>
+         <prism:volume>104</prism:volume>
+         <prism:number>2</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202000220?af=R</link>
+         <pubDate>Fri, 12 Feb 2021 00:47:44 -0800</pubDate>
+         <source url="https://onlinelibrary.wiley.com/journal/15222675?af=R">Wiley: Helvetica Chimica Acta: Table of Contents</source>
+         <prism:coverDate>Mon, 01 Feb 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Mon, 01 Feb 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/hlca.202000220</guid>
+         <title>Synthesis and Biological Studies of O3‐Aryl Galactosides as Galectin Inhibitors</title>
+         <description>Helvetica Chimica Acta, Volume 104, Issue 2, February 2021. </description>
+         <dc:description>
+
+
+
+
+
+
+
+
+Abstract
+β‐Galactose derivatives have recently been reported to selectively inhibit galectin‐3, and a library of O3‐arylated galactosides with varying substitution patterns was designed to study such inhibitions further. The O3‐arylated galactosides were synthesized using diaryliodonium salts under mild and transition metal free conditions, providing the target products in moderate to good yields. An O3‐trifluoroethylated galactoside was also synthesized using iodonium salt chemistry. Azido‐substituted products were subsequently transformed into the corresponding triazoles. After deprotection, a selection of galactoside derivatives were evaluated for inhibitory potencies against galectins‐1, 3, 4 N (N‐terminal domain), 4 C (C‐terminal domain), 7, 8 N, 8 C, 9 N, and 9 C and one compound with promising affinity and selectivity for both the N‐ and C‐terminal domain of galectin‐9 was discovered.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/9805225b-d9a7-4f29-9001-d5ed7d09e58b/hlca202000220-toc-0001-m.png"
+     alt="Synthesis and Biological Studies of O3‐Aryl Galactosides as Galectin Inhibitors"/&gt;
+&lt;p&gt;
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;β‐Galactose derivatives have recently been reported to selectively inhibit galectin‐3, and a library of O3‐arylated galactosides with varying substitution patterns was designed to study such inhibitions further. The O3‐arylated galactosides were synthesized using diaryliodonium salts under mild and transition metal free conditions, providing the target products in moderate to good yields. An O3‐trifluoroethylated galactoside was also synthesized using iodonium salt chemistry. Azido‐substituted products were subsequently transformed into the corresponding triazoles. After deprotection, a selection of galactoside derivatives were evaluated for inhibitory potencies against galectins‐1, 3, 4 N (N‐terminal domain), 4 C (C‐terminal domain), 7, 8 N, 8 C, 9 N, and 9 C and one compound with promising affinity and selectivity for both the N‐ and C‐terminal domain of galectin‐9 was discovered.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Gabriella Kervefors, 
+Kumar Bhaskar Pal, 
+Gergely L. Tolnai, 
+Mukul Mahanti, 
+Hakon Leffler, 
+Ulf J. Nilsson, 
+Berit Olofsson
+</dc:creator>
+         <category>Full Paper</category>
+         <dc:title>Synthesis and Biological Studies of O3‐Aryl Galactosides as Galectin Inhibitors</dc:title>
+         <dc:identifier>10.1002/hlca.202000220</dc:identifier>
+         <prism:publicationName>Helvetica Chimica Acta</prism:publicationName>
+         <prism:doi>10.1002/hlca.202000220</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202000220?af=R</prism:url>
+         <prism:section>Full Paper</prism:section>
+         <prism:volume>104</prism:volume>
+         <prism:number>2</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202170201?af=R</link>
+         <pubDate>Fri, 12 Feb 2021 00:47:44 -0800</pubDate>
+         <source url="https://onlinelibrary.wiley.com/journal/15222675?af=R">Wiley: Helvetica Chimica Acta: Table of Contents</source>
+         <prism:coverDate>Mon, 01 Feb 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Mon, 01 Feb 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/hlca.202170201</guid>
+         <title>Cover Picture: (Helv. Chim. Acta 2/2021)</title>
+         <description>Helvetica Chimica Acta, Volume 104, Issue 2, February 2021. </description>
+         <dc:description>
+
+
+
+
+
+
+
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/0a48d559-f8f3-4a9d-af90-8f2966dfb86c/hlca202170201-toc-0001-m.png"
+     alt="Cover Picture: (Helv. Chim. Acta 2/2021)"/&gt;
+&lt;p&gt;
+
+&lt;/p&gt;
+&lt;br/&gt;
+</content:encoded>
+         <dc:creator/>
+         <category>Cover Picture</category>
+         <dc:title>Cover Picture: (Helv. Chim. Acta 2/2021)</dc:title>
+         <dc:identifier>10.1002/hlca.202170201</dc:identifier>
+         <prism:publicationName>Helvetica Chimica Acta</prism:publicationName>
+         <prism:doi>10.1002/hlca.202170201</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202170201?af=R</prism:url>
+         <prism:section>Cover Picture</prism:section>
+         <prism:volume>104</prism:volume>
+         <prism:number>2</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202000203?af=R</link>
+         <pubDate>Fri, 12 Feb 2021 00:47:44 -0800</pubDate>
+         <source url="https://onlinelibrary.wiley.com/journal/15222675?af=R">Wiley: Helvetica Chimica Acta: Table of Contents</source>
+         <prism:coverDate>Mon, 01 Feb 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Mon, 01 Feb 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/hlca.202000203</guid>
+         <title>Pulsed Laser Deposition as a Tool for the Development of All Solid‐State Microbatteries</title>
+         <description>Helvetica Chimica Acta, Volume 104, Issue 2, February 2021. </description>
+         <dc:description>
+
+
+
+
+
+
+
+
+Abstract
+All‐solid‐state lithium ion batteries (LIB) are currently the most promising technology for next generation electrochemical energy storage. Many efforts have been devoted in the past years to improve performance and safety of these devices. Nevertheless, issues regarding chemical and mechanical stability of the different components still hinder substantial improvements. Pulsed laser deposition (PLD) has proved to be an outstanding technique for the deposition of thin films of materials of interest for the fabrication of LIB. Thanks to its versatility and possible fine tuning of the thin film properties, PLD promises to be a very powerful tool for the fabrication of model systems which would allow to study in detail material properties and mechanisms contributing to LIB degradation. Nevertheless, PLD presents difficulties in the deposition of LIB components, mainly due to the presence of elements with large difference of atomic mass in their chemical composition. In this review, we report the main challenges and solution strategies used for the deposition through PLD of complex oxides thin films for LIB.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/01acd74c-19c5-4460-a0c9-6f34467288f8/hlca202000203-toc-0001-m.png"
+     alt="Pulsed Laser Deposition as a Tool for the Development of All Solid‐State Microbatteries"/&gt;
+&lt;p&gt;
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;All‐solid‐state lithium ion batteries (LIB) are currently the most promising technology for next generation electrochemical energy storage. Many efforts have been devoted in the past years to improve performance and safety of these devices. Nevertheless, issues regarding chemical and mechanical stability of the different components still hinder substantial improvements. Pulsed laser deposition (PLD) has proved to be an outstanding technique for the deposition of thin films of materials of interest for the fabrication of LIB. Thanks to its versatility and possible fine tuning of the thin film properties, PLD promises to be a very powerful tool for the fabrication of model systems which would allow to study in detail material properties and mechanisms contributing to LIB degradation. Nevertheless, PLD presents difficulties in the deposition of LIB components, mainly due to the presence of elements with large difference of atomic mass in their chemical composition. In this review, we report the main challenges and solution strategies used for the deposition through PLD of complex oxides thin films for LIB.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Luca Indrizzi, 
+Natacha Ohannessian, 
+Daniele Pergolesi, 
+Thomas Lippert, 
+Elisa Gilardi
+</dc:creator>
+         <category>Review</category>
+         <dc:title>Pulsed Laser Deposition as a Tool for the Development of All Solid‐State Microbatteries</dc:title>
+         <dc:identifier>10.1002/hlca.202000203</dc:identifier>
+         <prism:publicationName>Helvetica Chimica Acta</prism:publicationName>
+         <prism:doi>10.1002/hlca.202000203</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202000203?af=R</prism:url>
+         <prism:section>Review</prism:section>
+         <prism:volume>104</prism:volume>
+         <prism:number>2</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202000218?af=R</link>
+         <pubDate>Fri, 12 Feb 2021 00:47:44 -0800</pubDate>
+         <source url="https://onlinelibrary.wiley.com/journal/15222675?af=R">Wiley: Helvetica Chimica Acta: Table of Contents</source>
+         <prism:coverDate>Mon, 01 Feb 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Mon, 01 Feb 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/hlca.202000218</guid>
+         <title>Examining Trichloroisocyanuric Acid and Oxalyl Chloride in Complementary Approaches to Fluorination of Group 15 Heteroatoms</title>
+         <description>Helvetica Chimica Acta, Volume 104, Issue 2, February 2021. </description>
+         <dc:description>
+
+
+
+
+
+
+
+
+Abstract
+A mild, oxidative fluorination approach to a variety of fluorinated phosphorus compounds using trichloroisocyanuric acid (TCICA) and KF was developed as a complement to a recent study on deoxygenative fluorination using oxalyl chloride. Herein, the syntheses of several fluorinated organophosphorus compounds are reported, and both TCICA/KF and oxalyl chloride/KF conditions are compared and contrasted throughout. Initial investigations of the method on other group 15 heteroatoms (i. e., As, Sb, and Bi) are also reported, with varied success. This work notably extends the known TCICA/KF reactivity series to another group of elements beyond previously studied chalcogens (S, Se, and Te) and halogens (iodine) and expands the utility of the previously reported oxalyl chloride/KF method.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/09b19ffa-350d-435b-b220-bc151a125a32/hlca202000218-toc-0001-m.png"
+     alt="Examining Trichloroisocyanuric Acid and Oxalyl Chloride in Complementary Approaches to Fluorination of Group 15 Heteroatoms"/&gt;
+&lt;p&gt;
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;A mild, oxidative fluorination approach to a variety of fluorinated phosphorus compounds using trichloroisocyanuric acid (TCICA) and KF was developed as a complement to a recent study on deoxygenative fluorination using oxalyl chloride. Herein, the syntheses of several fluorinated organophosphorus compounds are reported, and both TCICA/KF and oxalyl chloride/KF conditions are compared and contrasted throughout. Initial investigations of the method on other group 15 heteroatoms (&lt;i&gt;i. e&lt;/i&gt;., As, Sb, and Bi) are also reported, with varied success. This work notably extends the known TCICA/KF reactivity series to another group of elements beyond previously studied chalcogens (S, Se, and Te) and halogens (iodine) and expands the utility of the previously reported oxalyl chloride/KF method.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Dustin Bornemann, 
+Fabian Brüning, 
+Niccolò Bartalucci, 
+Lionel Wettstein, 
+Cody Ross Pitts
+</dc:creator>
+         <category>Communication</category>
+         <dc:title>Examining Trichloroisocyanuric Acid and Oxalyl Chloride in Complementary Approaches to Fluorination of Group 15 Heteroatoms</dc:title>
+         <dc:identifier>10.1002/hlca.202000218</dc:identifier>
+         <prism:publicationName>Helvetica Chimica Acta</prism:publicationName>
+         <prism:doi>10.1002/hlca.202000218</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202000218?af=R</prism:url>
+         <prism:section>Communication</prism:section>
+         <prism:volume>104</prism:volume>
+         <prism:number>2</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202000221?af=R</link>
+         <pubDate>Fri, 12 Feb 2021 00:47:44 -0800</pubDate>
+         <source url="https://onlinelibrary.wiley.com/journal/15222675?af=R">Wiley: Helvetica Chimica Acta: Table of Contents</source>
+         <prism:coverDate>Mon, 01 Feb 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Mon, 01 Feb 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/hlca.202000221</guid>
+         <title>Tuning the Halogen Bonding Strength of Cyclic Diaryliodonium Salts</title>
+         <description>Helvetica Chimica Acta, Volume 104, Issue 2, February 2021. </description>
+         <dc:description>
+
+
+
+
+
+
+
+
+Abstract
+Diaryliodonium(III) salts have recently received increasing interest as a new class of strong halogen bonding noncovalent organocatalysts. Even though this utilization of their Lewis acidity has only been investigated in few studies, their high potential in comparison to classical monovalent iodine based XB donors has become very apparent. So far, only acyclic and cyclic five‐membered core structures have been used, and titration studies have shown the latter to be superior in terms of binding constants towards Lewis bases. Herein, we now compare the Lewis acidity and activity of these five‐membered iodolium salts with those of six‐membered iodininium derivatives. X‐Ray structural analyses, ITC measurements and the reaction kinetics of a Ritter‐type solvolysis reaction in wet acetonitrile (a typical halogen bond donor benchmark reaction) all demonstrate that iodolium salts are stronger halogen bond donors and catalysts than iodininium salts. Subsequently, we were able to improve the activity of both core structures significantly by introducing electron‐withdrawing substituents.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/e9d0f94b-a4b4-4cd8-b684-b22bbe627a41/hlca202000221-toc-0001-m.png"
+     alt="Tuning the Halogen Bonding Strength of Cyclic Diaryliodonium Salts"/&gt;
+&lt;p&gt;
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Diaryliodonium(III) salts have recently received increasing interest as a new class of strong halogen bonding noncovalent organocatalysts. Even though this utilization of their &lt;i&gt;Lewis&lt;/i&gt; acidity has only been investigated in few studies, their high potential in comparison to classical monovalent iodine based XB donors has become very apparent. So far, only acyclic and cyclic five‐membered core structures have been used, and titration studies have shown the latter to be superior in terms of binding constants towards &lt;i&gt;Lewis&lt;/i&gt; bases. Herein, we now compare the &lt;i&gt;Lewis&lt;/i&gt; acidity and activity of these five‐membered iodolium salts with those of six‐membered iodininium derivatives. X‐Ray structural analyses, ITC measurements and the reaction kinetics of a &lt;i&gt;Ritter&lt;/i&gt;‐type solvolysis reaction in wet acetonitrile (a typical halogen bond donor benchmark reaction) all demonstrate that iodolium salts are stronger halogen bond donors and catalysts than iodininium salts. Subsequently, we were able to improve the activity of both core structures significantly by introducing electron‐withdrawing substituents.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Dominik L. Reinhard, 
+Flemming Heinen, 
+Julian Stoesser, 
+Elric Engelage, 
+Stefan M. Huber
+</dc:creator>
+         <category>Communication</category>
+         <dc:title>Tuning the Halogen Bonding Strength of Cyclic Diaryliodonium Salts</dc:title>
+         <dc:identifier>10.1002/hlca.202000221</dc:identifier>
+         <prism:publicationName>Helvetica Chimica Acta</prism:publicationName>
+         <prism:doi>10.1002/hlca.202000221</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202000221?af=R</prism:url>
+         <prism:section>Communication</prism:section>
+         <prism:volume>104</prism:volume>
+         <prism:number>2</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202000222?af=R</link>
+         <pubDate>Fri, 12 Feb 2021 00:47:44 -0800</pubDate>
+         <source url="https://onlinelibrary.wiley.com/journal/15222675?af=R">Wiley: Helvetica Chimica Acta: Table of Contents</source>
+         <prism:coverDate>Mon, 01 Feb 2021 00:00:00 -0800</prism:coverDate>
+         <prism:coverDisplayDate>Mon, 01 Feb 2021 00:00:00 -0800</prism:coverDisplayDate>
+         <guid isPermaLink="false">10.1002/hlca.202000222</guid>
+         <title>Pressure‐Induced Perovskite‐to‐non‐Perovskite Phase Transition in CsPbBr3</title>
+         <description>Helvetica Chimica Acta, Volume 104, Issue 2, February 2021. </description>
+         <dc:description>
+
+
+
+
+
+
+
+
+Abstract
+The expanding range of optoelectronic applications of lead‐halide perovskites requires their production in diverse forms (single crystals, thin‐ and thick‐films or even nanocrystals), motivating the development of diverse materials processing and deposition routes that are specifically suited for these structurally soft, low‐melting semiconductors. Pressure‐assisted deposition of compact pellets or thick‐films are gaining popularity, necessitating studies on the pressure effects on the atomic structure and properties of the resulting material. Herein we report the phase transformation in bulk polycrystalline cesium lead bromide from its three‐dimensional perovskite phase (γ‐CsPbBr3) into the one‐dimensional polymorph (δ‐CsPbBr3) upon application of hydrostatic pressure (0.35 GPa). δ‐CsPbBr3 is characterized by a wide bandgap of 2.9 eV and broadband yellow luminescence at 585 nm (2.1 eV) originating from self‐trapped excitons. The formation of δ‐CsPbBr3 was confirmed and characterized by Raman spectroscopy, 207Pb and 133Cs solid‐state nuclear magnetic resonance, X‐ray diffraction, absorption spectroscopy, and temperature‐dependent and time‐resolved photoluminescence spectroscopy. No such phase transition was observed in colloidal CsPbBr3 nanocrystals.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/07e0a8b0-8f64-480a-a7ea-40667c64cfa5/hlca202000222-toc-0001-m.png"
+     alt="Pressure‐Induced Perovskite‐to‐non‐Perovskite Phase Transition in CsPbBr3"/&gt;
+&lt;p&gt;
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The expanding range of optoelectronic applications of lead‐halide perovskites requires their production in diverse forms (single crystals, thin‐ and thick‐films or even nanocrystals), motivating the development of diverse materials processing and deposition routes that are specifically suited for these structurally soft, low‐melting semiconductors. Pressure‐assisted deposition of compact pellets or thick‐films are gaining popularity, necessitating studies on the pressure effects on the atomic structure and properties of the resulting material. Herein we report the phase transformation in bulk polycrystalline cesium lead bromide from its three‐dimensional perovskite phase (γ‐CsPbBr&lt;sub&gt;3&lt;/sub&gt;) into the one‐dimensional polymorph (δ‐CsPbBr&lt;sub&gt;3&lt;/sub&gt;) upon application of hydrostatic pressure (0.35 GPa). δ‐CsPbBr&lt;sub&gt;3&lt;/sub&gt; is characterized by a wide bandgap of 2.9 eV and broadband yellow luminescence at 585 nm (2.1 eV) originating from self‐trapped excitons. The formation of δ‐CsPbBr&lt;sub&gt;3&lt;/sub&gt; was confirmed and characterized by &lt;i&gt;Raman&lt;/i&gt; spectroscopy, &lt;sup&gt;207&lt;/sup&gt;Pb and &lt;sup&gt;133&lt;/sup&gt;Cs solid‐state nuclear magnetic resonance, X‐ray diffraction, absorption spectroscopy, and temperature‐dependent and time‐resolved photoluminescence spectroscopy. No such phase transition was observed in colloidal CsPbBr&lt;sub&gt;3&lt;/sub&gt; nanocrystals.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Agnieszka Noculak, 
+Simon C. Boehme, 
+Marcel Aebli, 
+Yevhen Shynkarenko, 
+Kyle M. McCall, 
+Maksym V. Kovalenko
+</dc:creator>
+         <category>Communication</category>
+         <dc:title>Pressure‐Induced Perovskite‐to‐non‐Perovskite Phase Transition in CsPbBr3</dc:title>
+         <dc:identifier>10.1002/hlca.202000222</dc:identifier>
+         <prism:publicationName>Helvetica Chimica Acta</prism:publicationName>
+         <prism:doi>10.1002/hlca.202000222</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202000222?af=R</prism:url>
+         <prism:section>Communication</prism:section>
+         <prism:volume>104</prism:volume>
+         <prism:number>2</prism:number>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202000228?af=R</link>
+         <pubDate>Thu, 04 Feb 2021 01:49:35 -0800</pubDate>
+         <source url="https://onlinelibrary.wiley.com/journal/15222675?af=R">Wiley: Helvetica Chimica Acta: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1002/hlca.202000228</guid>
+         <title>Photo‐Induced Dihydroxylation of Alkenes with Diacetyl, Oxygen, and Water</title>
+         <description>Helvetica Chimica Acta, EarlyView. </description>
+         <dc:description>
+
+
+
+
+
+
+
+
+Abstract
+Herein reported is a photo‐induced production of vicinal diols from alkenes under mild reaction conditions. The present dihydroxylation method using diacetyl (= butane‐2,3‐dione), oxygen, and water dispenses with toxic reagents and intractable waste generation.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/55e271b6-46b4-44df-b590-b54c986fd002/hlca202000228-toc-0001-m.png"
+     alt="Photo‐Induced Dihydroxylation of Alkenes with Diacetyl, Oxygen, and Water"/&gt;
+&lt;p&gt;
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Herein reported is a photo‐induced production of vicinal diols from alkenes under mild reaction conditions. The present dihydroxylation method using diacetyl (= butane‐2,3‐dione), oxygen, and water dispenses with toxic reagents and intractable waste generation.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Yusuke Masuda, 
+Daichi Ikeshita, 
+Masahiro Murakami
+</dc:creator>
+         <category>Communication</category>
+         <dc:title>Photo‐Induced Dihydroxylation of Alkenes with Diacetyl, Oxygen, and Water</dc:title>
+         <dc:identifier>10.1002/hlca.202000228</dc:identifier>
+         <prism:publicationName>Helvetica Chimica Acta</prism:publicationName>
+         <prism:doi>10.1002/hlca.202000228</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202000228?af=R</prism:url>
+         <prism:section>Communication</prism:section>
+      </item>
+      <item>
+         <link>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202000214?af=R</link>
+         <pubDate>Wed, 03 Feb 2021 00:03:27 -0800</pubDate>
+         <source url="https://onlinelibrary.wiley.com/journal/15222675?af=R">Wiley: Helvetica Chimica Acta: Table of Contents</source>
+         <prism:coverDate/>
+         <prism:coverDisplayDate/>
+         <guid isPermaLink="false">10.1002/hlca.202000214</guid>
+         <title>Probing BRD Inhibition Substituent Effects in Bulky Analogues of (+)‐JQ1</title>
+         <description>Helvetica Chimica Acta, EarlyView. </description>
+         <dc:description>
+
+
+
+
+
+
+
+
+Abstract
+A series of bulky organometallic and organic analogues of the bromodomain (BRD) inhibitor (+)‐JQ1 have been prepared. The most potent, N‐[(adamantan‐1‐yl)methyl]‐2‐[(9S)‐7‐(4‐chlorophenyl)‐4,5,13‐trimethyl‐3‐thia‐1,8,11,12‐tetraazatricyclo[8.3.0.02,6]trideca‐2(6),4,7,10,12‐pentaen‐9‐yl]acetamide, 2e, showed excellent potency with an KD=ca. 130 nm vs. BRD4(1) and a ca. 2‐fold selectivity over BRD4(2) (KD=ca. 260 nm). Its binding to the first bromodomain of BRD4 was determined by a protein cocrystal structure.
+</dc:description>
+         <content:encoded>&lt;img src="https://onlinelibrary.wiley.com/cms/asset/8b16829a-0600-4b21-b9d6-995f74943134/hlca202000214-toc-0001-m.png"
+     alt="Probing BRD Inhibition Substituent Effects in Bulky Analogues of (+)‐JQ1"/&gt;
+&lt;p&gt;
+
+&lt;/p&gt;
+&lt;br/&gt;
+&lt;h2&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;A series of bulky organometallic and organic analogues of the bromodomain (BRD) inhibitor &lt;b&gt;(+)‐JQ1&lt;/b&gt; have been prepared. The most potent, &lt;i&gt;N&lt;/i&gt;‐[(adamantan‐1‐yl)methyl]‐2‐[(9&lt;i&gt;S&lt;/i&gt;)‐7‐(4‐chlorophenyl)‐4,5,13‐trimethyl‐3‐thia‐1,8,11,12‐tetraazatricyclo[8.3.0.02,6]trideca‐2(6),4,7,10,12‐pentaen‐9‐yl]acetamide, &lt;b&gt;2e&lt;/b&gt;, showed excellent potency with an &lt;i&gt;K&lt;/i&gt;
+&lt;sub&gt;D&lt;/sub&gt;=&lt;i&gt;ca&lt;/i&gt;. 130 n&lt;span class="smallCaps"&gt;m&lt;/span&gt; 
+&lt;i&gt;vs&lt;/i&gt;. BRD4(1) and a &lt;i&gt;ca&lt;/i&gt;. 2‐fold selectivity over BRD4(2) (&lt;i&gt;K&lt;/i&gt;
+&lt;sub&gt;D&lt;/sub&gt;=&lt;i&gt;ca&lt;/i&gt;. 260 n&lt;span class="smallCaps"&gt;m&lt;/span&gt;). Its binding to the first bromodomain of BRD4 was determined by a protein cocrystal structure.&lt;/p&gt;
+</content:encoded>
+         <dc:creator>
+Storm Hassell‐Hart, 
+Sarah Picaud, 
+Raphael Lengacher, 
+Joshua Csucker, 
+Regis Millet, 
+Gilles Gasser, 
+Roger Alberto, 
+Hannah Maple, 
+Robert Felix, 
+Zbigniew J. Leśnikowski, 
+Helen J. S. Stewart, 
+Timothy J. Chevassut, 
+Simon Morley, 
+Panagis Filippakopoulos, 
+John Spencer
+</dc:creator>
+         <category>Full Paper</category>
+         <dc:title>Probing BRD Inhibition Substituent Effects in Bulky Analogues of (+)‐JQ1</dc:title>
+         <dc:identifier>10.1002/hlca.202000214</dc:identifier>
+         <prism:publicationName>Helvetica Chimica Acta</prism:publicationName>
+         <prism:doi>10.1002/hlca.202000214</prism:doi>
+         <prism:url>https://onlinelibrary.wiley.com/doi/abs/10.1002/hlca.202000214?af=R</prism:url>
+         <prism:section>Full Paper</prism:section>
+      </item>
+   </channel>
+</rss>

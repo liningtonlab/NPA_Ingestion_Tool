@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns="http://purl.org/rss/1.0/"
+         xmlns:cc="http://web.resource.org/cc/"
+         xmlns:content="http://purl.org/rss/1.0/modules/content/"
+         xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel>
+      <title>SAGE Publications Inc: Natural Product Communications: Table of Contents</title>
+      <description>Table of Contents for Natural Product Communications. List of articles from both the latest and ahead of print issues.</description>
+      <dc:title>SAGE Publications Inc: Natural Product Communications: Table of Contents</dc:title>
+      <dc:publisher>SAGE Publications Inc</dc:publisher>
+      <dc:language>en-US</dc:language>
+      <prism:publicationName>Natural Product Communications</prism:publicationName>
+      <items>
+         <rdf:Seq>
+            <rdf:li rdf:resource="https://journals.sagepub.com/doi/abs/10.1177/1934578X21997321?ai=2b4&amp;mi=ehikzz&amp;af=R"/>
+         </rdf:Seq>
+      </items>
+   </channel>
+   <image rdf:about="https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/covergifs/npxa/cover.jpg">
+      <title>Natural Product Communications</title>
+      <url>https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/covergifs/npxa/cover.jpg</url>
+      <link>https://journals.sagepub.com/loi/npxa?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+   </image>
+   <item rdf:about="https://journals.sagepub.com/doi/abs/10.1177/1934578X21997321?ai=2b4&amp;mi=ehikzz&amp;af=R">
+      <title>The Bioactivities and Potential Clinical Values of Angelica Sinensis Polysaccharides</title>
+      <link>https://journals.sagepub.com/doi/abs/10.1177/1934578X21997321?ai=2b4&amp;mi=ehikzz&amp;af=R</link>
+      <content:encoded>Natural Product Communications, &lt;a href="https://journals.sagepub.com/toc/npxa/16/3"&gt;Volume 16, Issue 3&lt;/a&gt;, March 2021. &lt;br/&gt; Angelica sinensis Radix (ASR), one of the most commonly used traditional Chinese medicines, contains many chemical components such as polysaccharides, volatile oil, flavonoids, amino acids, and organic acids, among which polysaccharides play an indispensable role in the therapeutic effect of ASR. A. sinensis polysaccharide (ASP) has many biological activities, for instance, hematopoietic, anti-tumor, and liver protection, which are closely related to the treatment of human diseases such as chronic anemia, leukemia, and diabetes. In addition, there are excellent application prospects for drug delivery in nanoparticles. This paper reviews the chemical compositions, extraction methods, biological activity, action mechanism, potential clinical applications, nanoparticles, and research prospect of ASP from 2010 to 2020, so as to provide references for its further development.</content:encoded>
+      <description>Natural Product Communications, Volume 16, Issue 3, March 2021. &lt;br/&gt; Angelica sinensis Radix (ASR), one of the most commonly used traditional Chinese medicines, contains many chemical components such as polysaccharides, volatile oil, flavonoids, amino acids, and organic acids, among which polysaccharides play an indispensable role in the therapeutic effect of ASR. A. sinensis polysaccharide (ASP) has many biological activities, for instance, hematopoietic, anti-tumor, and liver protection, which are closely related to the treatment of human diseases such as chronic anemia, leukemia, and diabetes. In addition, there are excellent application prospects for drug delivery in nanoparticles. This paper reviews the chemical compositions, extraction methods, biological activity, action mechanism, potential clinical applications, nanoparticles, and research prospect of ASP from 2010 to 2020, so as to provide references for its further development.</description>
+      <dc:title>The Bioactivities and Potential Clinical Values of Angelica Sinensis Polysaccharides</dc:title>
+      <dc:identifier>10.1177/1934578X21997321</dc:identifier>
+      <dc:source>Natural Product Communications</dc:source>
+      <dc:date>2021-03-05T05:35:28Z</dc:date>
+      <dc:rights>© The Author(s) 2021</dc:rights>
+      <dc:creator>Shi-Jie Bi</dc:creator>
+      <dc:creator>Rui-Jia Fu</dc:creator>
+      <dc:creator>Jia-Jia Li</dc:creator>
+      <dc:creator>Yan-Yan Chen</dc:creator>
+      <dc:creator>Yu-Ping Tang</dc:creator>
+      <prism:publicationName>The Bioactivities and Potential Clinical Values of Angelica Sinensis Polysaccharides</prism:publicationName>
+      <prism:volume>16</prism:volume>
+      <prism:number>3</prism:number>
+      <prism:coverDate>2021-03-01T08:00:00Z</prism:coverDate>
+      <prism:coverDisplayDate>2021-03-01T08:00:00Z</prism:coverDisplayDate>
+      <prism:doi>10.1177/1934578X21997321</prism:doi>
+      <prism:url>https://journals.sagepub.com/doi/abs/10.1177/1934578X21997321?ai=2b4&amp;mi=ehikzz&amp;af=R</prism:url>
+      <prism:copyright>© The Author(s) 2021</prism:copyright>
+   </item>
+</rdf:RDF>

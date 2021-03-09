@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PLOS ONE</title>
+  <link rel="alternate" href="https://journals.plos.org/plosone/" />
+  <author>
+    <name>PLOS</name>
+    <uri>https://journals.plos.org/plosone/</uri>
+    <email>webmaster@plos.org</email>
+  </author>
+  <subtitle type="text">accelerating the publication of peer-reviewed science</subtitle>
+  <id>http://journals.plos.org/plosone/feed/atom</id>
+  <rights>All PLOS articles are Open Access.</rights>
+  <icon>https://journals.plos.org/plosone/resource/img/favicon.ico</icon>
+  <logo>https://journals.plos.org/plosone/resource/img/favicon.ico</logo>
+  <updated>2021-03-05T18:27:25Z</updated>
+  <entry>
+    <title>Correction: Comparing the Voets equation and the Adrogue-Madias equation for predicting the plasma sodium response to intravenous fluid therapy in SIADH patients</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248445" title="Correction: Comparing the Voets equation and the Adrogue-Madias equation for predicting the plasma sodium response to intravenous fluid therapy in SIADH patients" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248445.PDF" title="(PDF) Correction: Comparing the Voets equation and the Adrogue-Madias equation for predicting the plasma sodium response to intravenous fluid therapy in SIADH patients" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248445.XML" title="(XML) Correction: Comparing the Voets equation and the Adrogue-Madias equation for predicting the plasma sodium response to intravenous fluid therapy in SIADH patients" />
+    <author>
+      <name>Philip J. G. M. Voets</name>
+    </author>
+    <author>
+      <name>Nils P. J. Vogtländer</name>
+    </author>
+    <author>
+      <name>Karin A. H. Kaasjager</name>
+    </author>
+    <id>10.1371/journal.pone.0248445</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Philip J. G. M. Voets, Nils P. J. Vogtländer, Karin A. H. Kaasjager&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Correction: Prevalence of endosalpingiosis and other benign gynecologic lesions</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248443" title="Correction: Prevalence of endosalpingiosis and other benign gynecologic lesions" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248443.PDF" title="(PDF) Correction: Prevalence of endosalpingiosis and other benign gynecologic lesions" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248443.XML" title="(XML) Correction: Prevalence of endosalpingiosis and other benign gynecologic lesions" />
+    <author>
+      <name>The PLOS ONE Staff</name>
+    </author>
+    <id>10.1371/journal.pone.0248443</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by The PLOS ONE Staff &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Correction: Correction: Inactive matrix gla protein plasma levels are associated with peripheral neuropathy in Type 2 diabetes</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248441" title="Correction: Correction: Inactive matrix gla protein plasma levels are associated with peripheral neuropathy in Type 2 diabetes" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248441.PDF" title="(PDF) Correction: Correction: Inactive matrix gla protein plasma levels are associated with peripheral neuropathy in Type 2 diabetes" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248441.XML" title="(XML) Correction: Correction: Inactive matrix gla protein plasma levels are associated with peripheral neuropathy in Type 2 diabetes" />
+    <author>
+      <name>The PLOS ONE Staff</name>
+    </author>
+    <id>10.1371/journal.pone.0248441</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by The PLOS ONE Staff &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Correction: Mortality and other outcomes of patients with coronavirus disease pneumonia admitted to the emergency department: A prospective observational Brazilian study</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248327" title="Correction: Mortality and other outcomes of patients with coronavirus disease pneumonia admitted to the emergency department: A prospective observational Brazilian study" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248327.PDF" title="(PDF) Correction: Mortality and other outcomes of patients with coronavirus disease pneumonia admitted to the emergency department: A prospective observational Brazilian study" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248327.XML" title="(XML) Correction: Mortality and other outcomes of patients with coronavirus disease pneumonia admitted to the emergency department: A prospective observational Brazilian study" />
+    <author>
+      <name>Rodrigo A. Brandão Neto</name>
+    </author>
+    <author>
+      <name>Julio F. Marchini</name>
+    </author>
+    <author>
+      <name>Lucas O. Marino</name>
+    </author>
+    <author>
+      <name>Julio C. G. Alencar</name>
+    </author>
+    <author>
+      <name>Felippe Lazar Neto</name>
+    </author>
+    <author>
+      <name>Sabrina Ribeiro</name>
+    </author>
+    <author>
+      <name>Fernando S. Valente</name>
+    </author>
+    <author>
+      <name>Hassan Rahhal</name>
+    </author>
+    <author>
+      <name>Luz Marina Gomez Gomez</name>
+    </author>
+    <author>
+      <name>Caue G. Bueno</name>
+    </author>
+    <author>
+      <name>Carine C. Faria</name>
+    </author>
+    <author>
+      <name>Victor P. da Cunha</name>
+    </author>
+    <author>
+      <name>Eduardo Padrão</name>
+    </author>
+    <author>
+      <name>Irineu T. Velasco</name>
+    </author>
+    <author>
+      <name>Heraldo Possolo de Souza</name>
+    </author>
+    <author>
+      <name>Emergencia USP Covid group</name>
+    </author>
+    <id>10.1371/journal.pone.0248327</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Rodrigo A. Brandão Neto, Julio F. Marchini, Lucas O. Marino, Julio C. G. Alencar, Felippe Lazar Neto, Sabrina Ribeiro, Fernando S. Valente, Hassan Rahhal, Luz Marina Gomez Gomez, Caue G. Bueno, Carine C. Faria, Victor P. da Cunha, Eduardo Padrão, Irineu T. Velasco, Heraldo Possolo de Souza, Emergencia USP Covid group &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Correction: G82S RAGE polymorphism influences amyloid-RAGE interactions relevant in Alzheimer’s disease pathology</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248252" title="Correction: G82S RAGE polymorphism influences amyloid-RAGE interactions relevant in Alzheimer’s disease pathology" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248252.PDF" title="(PDF) Correction: G82S RAGE polymorphism influences amyloid-RAGE interactions relevant in Alzheimer’s disease pathology" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248252.XML" title="(XML) Correction: G82S RAGE polymorphism influences amyloid-RAGE interactions relevant in Alzheimer’s disease pathology" />
+    <author>
+      <name>Rani Cathrine Chellappa</name>
+    </author>
+    <author>
+      <name>Bincy Lukose</name>
+    </author>
+    <author>
+      <name>P. Rani</name>
+    </author>
+    <id>10.1371/journal.pone.0248252</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Rani Cathrine Chellappa, Bincy Lukose, P. Rani&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Risk factors for gastric perforation after cytoreductive surgery in patients with peritoneal carcinomatosis: Splenectomy and increased body mass index</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248205" title="Risk factors for gastric perforation after cytoreductive surgery in patients with peritoneal carcinomatosis: Splenectomy and increased body mass index" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248205.PDF" title="(PDF) Risk factors for gastric perforation after cytoreductive surgery in patients with peritoneal carcinomatosis: Splenectomy and increased body mass index" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248205.XML" title="(XML) Risk factors for gastric perforation after cytoreductive surgery in patients with peritoneal carcinomatosis: Splenectomy and increased body mass index" />
+    <author>
+      <name>Martina Aida Angeles</name>
+    </author>
+    <author>
+      <name>Carlos Martínez-Gómez</name>
+    </author>
+    <author>
+      <name>Mathilde Del</name>
+    </author>
+    <author>
+      <name>Federico Migliorelli</name>
+    </author>
+    <author>
+      <name>Manon Daix</name>
+    </author>
+    <author>
+      <name>Anaïs Provendier</name>
+    </author>
+    <author>
+      <name>Muriel Picard</name>
+    </author>
+    <author>
+      <name>Jean Ruiz</name>
+    </author>
+    <author>
+      <name>Elodie Chantalat</name>
+    </author>
+    <author>
+      <name>Hélène Leray</name>
+    </author>
+    <author>
+      <name>Alejandra Martinez</name>
+    </author>
+    <author>
+      <name>Laurence Gladieff</name>
+    </author>
+    <author>
+      <name>Gwénaël Ferron</name>
+    </author>
+    <id>10.1371/journal.pone.0248205</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Martina Aida Angeles, Carlos Martínez-Gómez, Mathilde Del, Federico Migliorelli, Manon Daix, Anaïs Provendier, Muriel Picard, Jean Ruiz, Elodie Chantalat, Hélène Leray, Alejandra Martinez, Laurence Gladieff, Gwénaël Ferron&lt;/p&gt;
+Background &lt;p&gt;Gastric perforation after cytoreductive surgery (CRS) is an infrequent complication. There is lack of evidence regarding the risk factors for this postoperative complication. The aim of this study was to assess the prevalence of postoperative gastric perforation in patients undergoing CRS for peritoneal carcinomatosis (PC) and to evaluate risk factors predisposing to this complication.&lt;/p&gt; Methods &lt;p&gt;We designed a unicentric retrospective study to identify all patients who underwent an open upfront or interval CRS after a primary diagnosis of PC of different origins between March 2007 and December 2018 at a French Comprehensive Cancer Center. The main outcome was the occurrence of postoperative gastric perforation.&lt;/p&gt; Results &lt;p&gt;Five hundred thirty-three patients underwent a CRS for PC during the study period and 13 (2.4%) presented a postoperative gastric perforation with a mortality rate of 23% (3/13). Neoadjuvant chemotherapy was administered in 283 (53.1%) patients and 99 (18.6%) received hyperthermic intraperitoneal chemotherapy (HIPEC). In the univariate analysis, body mass index (BMI), peritoneal cancer index, splenectomy, distal pancreatectomy, and histology were significantly associated with postoperative gastric perforation. After multivariate analysis, BMI (OR [95%CI] = 1.13 [1.05–1.22], p = 0.002) and splenectomy (OR [95%CI] = 26.65 [1.39–509.67], p = 0.029) remained significantly related to the primary outcome.&lt;/p&gt; Conclusions &lt;p&gt;Gastric perforation after CRS is a rare event with a high rate of mortality. While splenectomy and increased BMI are risk factors associated with this complication, HIPEC does not seem to be related. Gastric perforation is probably an ischemic complication due to a multifactorial process. Preventive measures such as preservation of the gastroepiploic arcade and prophylactic suture of the greater gastric curvature require further assessment.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Th2 cells and macrophages cooperatively induce allergic inflammation through histamine signaling</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248158" title="Th2 cells and macrophages cooperatively induce allergic inflammation through histamine signaling" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248158.PDF" title="(PDF) Th2 cells and macrophages cooperatively induce allergic inflammation through histamine signaling" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248158.XML" title="(XML) Th2 cells and macrophages cooperatively induce allergic inflammation through histamine signaling" />
+    <author>
+      <name>Naruhito Iwasaki</name>
+    </author>
+    <author>
+      <name>Seigo Terawaki</name>
+    </author>
+    <author>
+      <name>Kouhei Shimizu</name>
+    </author>
+    <author>
+      <name>Daisuke Oikawa</name>
+    </author>
+    <author>
+      <name>Hirokazu Sakamoto</name>
+    </author>
+    <author>
+      <name>Kishiko Sunami</name>
+    </author>
+    <author>
+      <name>Fuminori Tokunaga</name>
+    </author>
+    <id>10.1371/journal.pone.0248158</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Naruhito Iwasaki, Seigo Terawaki, Kouhei Shimizu, Daisuke Oikawa, Hirokazu Sakamoto, Kishiko Sunami, Fuminori Tokunaga&lt;/p&gt;
+
+Histamine, which is mainly produced by mast cells and basophils, participates in various allergic symptoms, and some studies have reported that macrophages also produce histamine. Moreover, recent studies have revealed that macrophages, especially alternatively activated macrophages (M2) induced by T helper 2 (Th2) cytokines, such as interleukin (IL)-4 and IL-13, participate in the pathogenesis of allergic diseases. The major source of Th2 cytokines is antigen-specific Th2 cells. To elucidate the relationship between histamine, macrophages, and Th2 cells in allergic inflammation, we established a macrophage-Th2 cell co-culture model &lt;i&gt;in vitro&lt;/i&gt; and an antigen-specific Th2 cell transfer mouse model of rhinitis. &lt;i&gt;In vitro&lt;/i&gt; analyses indicated that macrophages produce histamine by interacting with antigen-specific Th2 cells through the antigen. Furthermore, Th2 cells and macrophages cooperatively elicited rhinitis in the mouse model. We determined that histamine induces Th2- and macrophage-elicited sneezing responses through H1 receptor signaling, whereas it induces nasal eosinophil infiltrations through H4 receptor signaling. Collectively, these results indicate a novel histamine production mechanism by macrophages, in which Th2 cells and macrophages cooperatively induce nasal allergic inflammation through histamine signaling.</content>
+  </entry>
+  <entry>
+    <title>Vegetative cells may perform nitrogen fixation function under nitrogen deprivation in &lt;i&gt;Anabaena&lt;/i&gt; sp. strain PCC 7120 based on genome-wide differential expression analysis</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248155" title="Vegetative cells may perform nitrogen fixation function under nitrogen deprivation in &lt;i&gt;Anabaena&lt;/i&gt; sp. strain PCC 7120 based on genome-wide differential expression analysis" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248155.PDF" title="(PDF) Vegetative cells may perform nitrogen fixation function under nitrogen deprivation in &lt;i&gt;Anabaena&lt;/i&gt; sp. strain PCC 7120 based on genome-wide differential expression analysis" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248155.XML" title="(XML) Vegetative cells may perform nitrogen fixation function under nitrogen deprivation in &lt;i&gt;Anabaena&lt;/i&gt; sp. strain PCC 7120 based on genome-wide differential expression analysis" />
+    <author>
+      <name>Hongli He</name>
+    </author>
+    <author>
+      <name>Runyu Miao</name>
+    </author>
+    <author>
+      <name>Lilong Huang</name>
+    </author>
+    <author>
+      <name>Hongshan Jiang</name>
+    </author>
+    <author>
+      <name>Yunqing Cheng</name>
+    </author>
+    <id>10.1371/journal.pone.0248155</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Hongli He, Runyu Miao, Lilong Huang, Hongshan Jiang, Yunqing Cheng&lt;/p&gt;
+
+Nitrogen assimilation is strictly regulated in cyanobacteria. In an inorganic nitrogen-deficient environment, some vegetative cells of the cyanobacterium &lt;i&gt;Anabaena&lt;/i&gt; differentiate into heterocysts. We assessed the photosynthesis and nitrogen-fixing capacities of heterocysts and vegetative cells, respectively, at the transcriptome level. RNA extracted from nitrogen-replete vegetative cells (NVs), nitrogen-deprived vegetative cells (NDVs), and nitrogen-deprived heterocysts (NDHs) in &lt;i&gt;Anabaena&lt;/i&gt; sp. strain PCC 7120 was evaluated by transcriptome sequencing. Paired comparisons of NVs vs. NDHs, NVs vs. NDVs, and NDVs vs. NDHs revealed 2,044 differentially expressed genes (DEGs). Kyoto Encyclopedia of Genes and Genomes enrichment analysis of the DEGs showed that carbon fixation in photosynthetic organisms and several nitrogen metabolism-related pathways were significantly enriched. Synthesis of &lt;i&gt;Gvp&lt;/i&gt; (Gas vesicle synthesis protein gene) in NVs was blocked by nitrogen deprivation, which may cause &lt;i&gt;Anabaena&lt;/i&gt; cells to sink and promote nitrogen fixation under anaerobic conditions; in contrast, heterocysts may perform photosynthesis under nitrogen deprivation conditions, whereas the nitrogen fixation capability of vegetative cells was promoted by nitrogen deprivation. Immunofluorescence analysis of nitrogenase iron protein suggested that the nitrogen fixation capability of vegetative cells was promoted by nitrogen deprivation. Our findings provide insight into the molecular mechanisms underlying nitrogen fixation and photosynthesis in vegetative cells and heterocysts at the transcriptome level. This study provides a foundation for further functional verification of heterocyst growth, differentiation, and water bloom control.</content>
+  </entry>
+  <entry>
+    <title>Radon-220 diffusion from &lt;sup&gt;224&lt;/sup&gt;Ra-labeled calcium carbonate microparticles: Some implications for radiotherapeutic use</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248133" title="Radon-220 diffusion from &lt;sup&gt;224&lt;/sup&gt;Ra-labeled calcium carbonate microparticles: Some implications for radiotherapeutic use" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248133.PDF" title="(PDF) Radon-220 diffusion from &lt;sup&gt;224&lt;/sup&gt;Ra-labeled calcium carbonate microparticles: Some implications for radiotherapeutic use" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248133.XML" title="(XML) Radon-220 diffusion from &lt;sup&gt;224&lt;/sup&gt;Ra-labeled calcium carbonate microparticles: Some implications for radiotherapeutic use" />
+    <author>
+      <name>Elisa Napoli</name>
+    </author>
+    <author>
+      <name>Tina B. Bønsdorff</name>
+    </author>
+    <author>
+      <name>Ida Sofie Jorstad</name>
+    </author>
+    <author>
+      <name>Øyvind S. Bruland</name>
+    </author>
+    <author>
+      <name>Roy H. Larsen</name>
+    </author>
+    <author>
+      <name>Sara Westrøm</name>
+    </author>
+    <id>10.1371/journal.pone.0248133</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Elisa Napoli, Tina B. Bønsdorff, Ida Sofie Jorstad, Øyvind S. Bruland, Roy H. Larsen, Sara Westrøm&lt;/p&gt;
+
+Alpha-particle emitting radionuclides continue to be the subject of medical research because of their high energy and short range of action that facilitate effective cancer therapies. Radium-224 (&lt;sup&gt;224&lt;/sup&gt;Ra) is one such candidate that has been considered for use in combating micrometastatic disease. In our prior studies, a suspension of &lt;sup&gt;224&lt;/sup&gt;Ra-labeled calcium carbonate (CaCO&lt;sub&gt;3&lt;/sub&gt;) microparticles was designed as a local therapy for disseminated cancers in the peritoneal cavity. The progenies of &lt;sup&gt;224&lt;/sup&gt;Ra, of which radon-220 (&lt;sup&gt;220&lt;/sup&gt;Rn) is the first, together contribute three of the four alpha particles in the decay chain. The proximity of the progenies to the delivery site at the time of decay of the &lt;sup&gt;224&lt;/sup&gt;Ra-CaCO&lt;sub&gt;3&lt;/sub&gt; microparticles can impact its therapeutic efficacy. In this study, we show that the diffusion of &lt;sup&gt;220&lt;/sup&gt;Rn was reduced in labeled CaCO&lt;sub&gt;3&lt;/sub&gt; suspensions as compared with cationic &lt;sup&gt;224&lt;/sup&gt;Ra solutions, both in air and liquid volumes. Furthermore, free-floating lead-212 (&lt;sup&gt;212&lt;/sup&gt;Pb), which is generated from released &lt;sup&gt;220&lt;/sup&gt;Rn, had the potential to be re-adsorbed onto CaCO&lt;sub&gt;3&lt;/sub&gt; microparticles. Under conditions mimicking an &lt;i&gt;in vivo&lt;/i&gt; environment, more than 70% of the &lt;sup&gt;212&lt;/sup&gt;Pb was adsorbed onto the CaCO&lt;sub&gt;3&lt;/sub&gt; at microparticle concentrations above 1 mg/mL. Further, the diffusion of &lt;sup&gt;220&lt;/sup&gt;Rn seemed to occur whether the microparticles were labeled by the surface adsorption of &lt;sup&gt;224&lt;/sup&gt;Ra or if the &lt;sup&gt;224&lt;/sup&gt;Ra was incorporated into the bulk of the microparticles. The therapeutic benefit of differently labeled &lt;sup&gt;224&lt;/sup&gt;Ra-CaCO&lt;sub&gt;3&lt;/sub&gt; microparticles after intraperitoneal administration was similar when examined in mice bearing intraperitoneal ovarian cancer xenografts. In conclusion, both the release of &lt;sup&gt;220&lt;/sup&gt;Rn and re-adsorption of &lt;sup&gt;212&lt;/sup&gt;Pb are features that have implications for the radiotherapeutic use of &lt;sup&gt;224&lt;/sup&gt;Ra-labeled CaCO&lt;sub&gt;3&lt;/sub&gt; microparticles. The release of &lt;sup&gt;220&lt;/sup&gt;Rn through diffusion may extend the effective range of alpha-particle dose deposition, and the re-adsorption of the longer lived &lt;sup&gt;212&lt;/sup&gt;Pb onto the CaCO&lt;sub&gt;3&lt;/sub&gt; microparticles may enhance the retention of this nuclide in the peritoneal cavity.</content>
+  </entry>
+  <entry>
+    <title>Spatial distribution of rural population from a climate perspective: Evidence from Jiangxi Province in China</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248078" title="Spatial distribution of rural population from a climate perspective: Evidence from Jiangxi Province in China" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248078.PDF" title="(PDF) Spatial distribution of rural population from a climate perspective: Evidence from Jiangxi Province in China" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248078.XML" title="(XML) Spatial distribution of rural population from a climate perspective: Evidence from Jiangxi Province in China" />
+    <author>
+      <name>Liguo Zhang</name>
+    </author>
+    <author>
+      <name>Xi Lin</name>
+    </author>
+    <author>
+      <name>Langping Leng</name>
+    </author>
+    <author>
+      <name>Yongming Zeng</name>
+    </author>
+    <id>10.1371/journal.pone.0248078</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Liguo Zhang, Xi Lin, Langping Leng, Yongming Zeng&lt;/p&gt;
+
+The research on rural population distribution from a climate perspective is rare. Therefore, this study adopts this perspective and uses the ordinary least squares and spatial econometric models to explore the spatial distribution characteristics of the rural population in the Poyang Lake ecological economic zone. Results show that (1) a significant spatial autocorrelation is present in the distribution of rural population, and a spatial correlation exists between the population distribution and climatic factors, (2) the influence of climatic factors on the distribution of rural population in the Poyang Lake ecological economic zone is greater than that of economic factors, and (3) the annual average sunshine and annual average rainfall have a significant negative effect on the distribution of the regional rural population, which is contrary to the expectations., so we then analyze this negative effect on the regional rural population distribution. It is found that (1) the influence of climate factors on the distribution of rural population in lake area is far more than that of economic factors, and more consideration should be given to the influence of climate factors on the population distribution in the lake area, (2) different geographical capital and natural resource endowment, the influence of climate on micro-regional population distribution may be different from the general law, (3) the spatial measurement model which takes spatial dependence into account can reveal the influence of climate on rural population distribution more accurately.</content>
+  </entry>
+  <entry>
+    <title>The exposure risk to COVID-19 in most affected countries: A vulnerability assessment model</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248075" title="The exposure risk to COVID-19 in most affected countries: A vulnerability assessment model" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248075.PDF" title="(PDF) The exposure risk to COVID-19 in most affected countries: A vulnerability assessment model" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248075.XML" title="(XML) The exposure risk to COVID-19 in most affected countries: A vulnerability assessment model" />
+    <author>
+      <name>Adriana Nascimento Santos Cartaxo</name>
+    </author>
+    <author>
+      <name>Francisco Iran Cartaxo Barbosa</name>
+    </author>
+    <author>
+      <name>Paulo Henrique de Souza Bermejo</name>
+    </author>
+    <author>
+      <name>Marina Figueiredo Moreira</name>
+    </author>
+    <author>
+      <name>David Nadler Prata</name>
+    </author>
+    <id>10.1371/journal.pone.0248075</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Adriana Nascimento Santos Cartaxo, Francisco Iran Cartaxo Barbosa, Paulo Henrique de Souza Bermejo, Marina Figueiredo Moreira, David Nadler Prata&lt;/p&gt;
+
+The world is facing the coronavirus pandemic (COVID-19), which began in China. By August 18, 2020, the United States, Brazil, and India were the most affected countries. Health infrastructure and socioeconomic vulnerabilities may be affecting the response capacities of these countries. We compared official indicators to identify which vulnerabilities better determined the exposure risk to COVID-19 in both the most and least affected countries. To achieve this purpose, we collected indicators from the Infectious Disease Vulnerability Index (IDVI), the World Health Organization (WHO), the World Bank, and the Brazilian Geography and Statistics Institute (IBGE). All indicators were normalized to facilitate comparisons. Speed, incidence, and population were used to identify the groups of countries with the highest and lowest risks of infection. Countries’ response capacities were determined based on socioeconomic, political, and health infrastructure conditions. Vulnerabilities were identified based on the indicator sensitivity. The highest-risk group included the U.S., Brazil, and India, whereas the lowest-risk group (with the largest population by continent) consisted of China, New Zealand, and Germany. The high-sensitivity cluster had 18 indicators (50% extra IDVI), such as merchandise trade, immunization, public services, maternal mortality, life expectancy at birth, hospital beds, GINI index, adolescent fertility, governance, political stability, transparency/corruption, industry, and water supply. The greatest vulnerability of the highest-risk group was related first to economic factors (merchandise trade), followed by public health (immunization), highlighting global dependence on Chinese trade, such as protective materials, equipment, and diagnostic tests. However, domestic political factors had more indicators, beginning with high sensitivity and followed by healthcare and economic conditions, which signified a lesser capacity to guide, coordinate, and supply the population with protective measures, such as social distancing.</content>
+  </entry>
+  <entry>
+    <title>Wintertime overlaps between female Antarctic fur seals (&lt;i&gt;Arctocephalus gazella&lt;/i&gt;) and the krill fishery at South Georgia, South Atlantic</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248071" title="Wintertime overlaps between female Antarctic fur seals (&lt;i&gt;Arctocephalus gazella&lt;/i&gt;) and the krill fishery at South Georgia, South Atlantic" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248071.PDF" title="(PDF) Wintertime overlaps between female Antarctic fur seals (&lt;i&gt;Arctocephalus gazella&lt;/i&gt;) and the krill fishery at South Georgia, South Atlantic" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248071.XML" title="(XML) Wintertime overlaps between female Antarctic fur seals (&lt;i&gt;Arctocephalus gazella&lt;/i&gt;) and the krill fishery at South Georgia, South Atlantic" />
+    <author>
+      <name>Connor C. G. Bamford</name>
+    </author>
+    <author>
+      <name>Victoria Warwick-Evans</name>
+    </author>
+    <author>
+      <name>Iain J. Staniland</name>
+    </author>
+    <author>
+      <name>Jennifer A. Jackson</name>
+    </author>
+    <author>
+      <name>Philip N. Trathan</name>
+    </author>
+    <id>10.1371/journal.pone.0248071</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Connor C. G. Bamford, Victoria Warwick-Evans, Iain J. Staniland, Jennifer A. Jackson, Philip N. Trathan&lt;/p&gt;
+
+The diet of Antarctic fur seals (&lt;i&gt;Arctocephalus gazella&lt;/i&gt;) at South Georgia is dominated by Antarctic krill (&lt;i&gt;Euphausia superba&lt;/i&gt;). During the breeding season, foraging trips by lactating female fur seals are constrained by their need to return to land to provision their pups. Post-breeding, seals disperse in order to feed and recover condition; estimates indicate &lt;i&gt;c&lt;/i&gt;.70% of females remain near to South Georgia, whilst others head west towards the Patagonian Shelf or south to the ice-edge. The krill fishery at South Georgia operates only during the winter, providing the potential for fur seal: fishery interaction during these months. Here we use available winter (May to September) tracking data from Platform Terminal Transmitter (PTT) tags deployed on female fur seals at Bird Island, South Georgia. We develop habitat models describing their distribution during the winters of 1999 and 2003 with the aim of visualising and quantifying the degree of spatial overlap between female fur seals and krill harvesting in South Georgia waters. We show that spatial distribution of fur seals around South Georgia is extensive, and that the krill fishery overlaps with small, highly localised areas of available fur seal habitat. From these findings we discuss the implications for management, and future work.</content>
+  </entry>
+  <entry>
+    <title>High quantities: Evaluating the association between cannabis use and propofol anesthesia during endoscopy</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248062" title="High quantities: Evaluating the association between cannabis use and propofol anesthesia during endoscopy" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248062.PDF" title="(PDF) High quantities: Evaluating the association between cannabis use and propofol anesthesia during endoscopy" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248062.XML" title="(XML) High quantities: Evaluating the association between cannabis use and propofol anesthesia during endoscopy" />
+    <author>
+      <name>Ngozi Imasogie</name>
+    </author>
+    <author>
+      <name>Rhiannon V. Rose</name>
+    </author>
+    <author>
+      <name>Aze Wilson</name>
+    </author>
+    <id>10.1371/journal.pone.0248062</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Ngozi Imasogie, Rhiannon V. Rose, Aze Wilson&lt;/p&gt;
+Background &lt;p&gt;Endoscopy under propofol sedation has become a routine procedure. Given the number of Canadians undergoing an endoscopy annually, as well as the pervasive use of cannabis by many patients, understanding the effect of cannabis use on the propofol dose at endoscopy is highly relevant. We aimed to evaluate the association between cannabis exposure and the propofol dose needed to achieve adequate sedation at endoscopy.&lt;/p&gt; Methods &lt;p&gt;A case-control study of individuals undergoing endoscopy was conducted at a single outpatient endoscopy clinic in London, Ontario between 2014 and 2017. Cases included all individuals with any self-reported cannabis exposure, while controls included all individuals without any self-reported history of cannabis use. Dose of propofol administered by a single anesthetist was collected on each subject as well as additional demographic and procedure-related covariates.&lt;/p&gt; Results &lt;p&gt;Three hundred and eighteen participants were included (cases, n = 151; controls, n = 167). Cannabis exposure was associated with an increase in propofol dose (cases 0.33 mg/kg/minute ±0.24; controls, 0.18 mg/kg/minute ±0.11; p&lt;0.0001). Cannabis exposure remained an independent predictor of propofol dose on multivariate linear regression accounting for other important covariates (p&lt;0.0001). Daily cannabis users required a higher propofol dose than weekly or monthly users. Three procedural sedation-related complications occurred in the cannabis-exposed group, while none occurred in the unexposed group.&lt;/p&gt; Conclusion &lt;p&gt;Our data suggest that cannabis use is significantly associated with the quantity of propofol needed for sedation at endoscopy. Further study is needed to better understand the molecular basis for this possible drug-drug interaction.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>International citizen project to assess early stage adherence to public health measures for COVID-19 in South Africa</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248055" title="International citizen project to assess early stage adherence to public health measures for COVID-19 in South Africa" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248055.PDF" title="(PDF) International citizen project to assess early stage adherence to public health measures for COVID-19 in South Africa" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248055.XML" title="(XML) International citizen project to assess early stage adherence to public health measures for COVID-19 in South Africa" />
+    <author>
+      <name>Mohammed Majam</name>
+    </author>
+    <author>
+      <name>Alex Fischer</name>
+    </author>
+    <author>
+      <name>Jane Phiri</name>
+    </author>
+    <author>
+      <name>Francois Venter</name>
+    </author>
+    <author>
+      <name>Samanta T. Lalla-Edward</name>
+    </author>
+    <id>10.1371/journal.pone.0248055</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Mohammed Majam, Alex Fischer, Jane Phiri, Francois Venter, Samanta T. Lalla-Edward&lt;/p&gt;
+Introduction &lt;p&gt;With over 500 000 infections and nearly 12 000 deaths, South Africa (SA) is the African epicenter of the current Coronavirus (COVID-19) pandemic. SA has implemented a 5-stage Risk-Adjusted Strategy which includes a phased national lockdown, requiring social distancing, frequent hand washing and wearing face masks. Strict adherence to this strategy is crucial to reducing COVID-19 transmission, flattening the curve, and preventing resurgence. As part of the 22-country International Citizens Project COVID-19 (ICPcovid), this study aimed to describe the SA adherence to the Risk-Adjusted Strategy and identify determinants of adherence.&lt;/p&gt; Method &lt;p&gt;During 24 April-15 May 2020, people were electronically invited, through social media platforms and a text blast, to complete an online survey, accessible via www.icpcovid.com. The survey investigated COVID-19 testing and preventative adherence measures, then used logistic regression analysis to identify predictors of adherence.&lt;/p&gt; Results &lt;p&gt;There were 951 participants, with 731(76.9%) 25 to 54 years. Most (672;70.7%) were female, and 705(74.1%) had a university degree. Since the epidemic started, 529(55.6%) and 436(45.9%) participants stated they were eating healthier and taking more vitamins, respectively. Only 82(8.6%) had been COVID-19 tested, and 1(1.2%) tested positive. In public, 905(95.2%) socially distanced, however 99(10.4%) participants had recently attended meetings with over ten people. Regular hand washing was practiced by 907(95.4%) participants, 774(81.4%) wore face masks and 854(89.8%) stayed home when they experienced flu-like symptoms. The odds of adhering to the guidelines were lower among men versus women (AOR 0.72, 95% confidence interval [CI] = 0.528, 0.971) and those who had flu-like symptoms (AOR 0.42, 95% CI = 0.277, 0.628). In contrast, increased odds were reported for those who reported increased vitamin intake (AOR 1.37, 95% CI = 1.044,1.798), and were either cohabiting or married (AOR 1.39, 95% CI = 1.042,1.847).&lt;/p&gt; Conclusion &lt;p&gt;Despite high reported adherence, face mask use and symptomatic individuals not self-isolating, were areas for improvement. However, these factors cannot solely account for SA’s increasing COVID-19 cases. Larger general population studies are needed to identify other adherence predictors for a strengthened SA COVID-19 response. While the government must continue to educate the entire population on preventative measures, provide personal protective equipment and stress the importance of adherence, there also needs to be implementation of prioritised prevention strategies for men and single individuals to address their demonstrated lower adherence.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Oral health care professionals recommending and administering the HPV vaccine: Understanding the strengths and assessing the barriers</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248047" title="Oral health care professionals recommending and administering the HPV vaccine: Understanding the strengths and assessing the barriers" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248047.PDF" title="(PDF) Oral health care professionals recommending and administering the HPV vaccine: Understanding the strengths and assessing the barriers" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248047.XML" title="(XML) Oral health care professionals recommending and administering the HPV vaccine: Understanding the strengths and assessing the barriers" />
+    <author>
+      <name>Denise Guadiana</name>
+    </author>
+    <author>
+      <name>Nolan M. Kavanagh</name>
+    </author>
+    <author>
+      <name>Cristiane H. Squarize</name>
+    </author>
+    <id>10.1371/journal.pone.0248047</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Denise Guadiana, Nolan M. Kavanagh, Cristiane H. Squarize&lt;/p&gt;
+Introduction &lt;p&gt;Head and neck cancer is a deadly cancer that ranks among the six most common cancers worldwide. The HPV vaccine has been used to prevent head and neck cancer of the oropharynx, and changes in health policies and state law are impacting the role of dental professionals in HPV vaccination. However, relatively little is known about dental professionals’ attitudes regarding the vaccine.&lt;/p&gt; Objectives &lt;p&gt;Our study assesses dental professionals’ willingness to administer the HPV vaccine, their confidence discussing HPV with patients, beliefs about the vaccine’s efficacy, perceived barriers to administering it, and sites of referral.&lt;/p&gt; Methods &lt;p&gt;We surveyed 623 dental professionals, including dentists, hygienists, dental students, and hygiene students across Michigan. Attitudes toward the vaccine and predictive characteristics were evaluated by logistic regression, ANOVAs, and t-tests.&lt;/p&gt; Results &lt;p&gt;The majority of the respondents (51% of dentists, 63% of hygienists, 82% of dental students, and 71% of hygiene students) were willing to administer the HPV vaccine if allowed by law. The role of dental and dental hygiene students would be one of advocacy, educating and recommending the vaccine, and the dental students administering it once licensed. Dental professionals were variably confident discussing HPV with patients and generally believed it enhanced patients’ health. Stronger confidence and beliefs were associated with greater willingness to administer the vaccine. Barriers among professionals opposing the HPV vaccine included lack of knowledge on the subject, liability concerns, and personal beliefs.&lt;/p&gt; Conclusion &lt;p&gt;Dental professionals can become leaders in preventing HPV-related cancers. Training and continuing education courses could enhance their confidence and willingness to recommend and administer the HPV vaccine.&lt;/p&gt; Policy implications &lt;p&gt;Legislation that permits dental professionals to administer the vaccine could increase the vaccine’s accessibility to patients, improve vaccination rates, and population health.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Development of a novel index to characterise arterial dynamics using ultrasound imaging</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248043" title="Development of a novel index to characterise arterial dynamics using ultrasound imaging" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248043.PDF" title="(PDF) Development of a novel index to characterise arterial dynamics using ultrasound imaging" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248043.XML" title="(XML) Development of a novel index to characterise arterial dynamics using ultrasound imaging" />
+    <author>
+      <name>Joel Ward</name>
+    </author>
+    <author>
+      <name>Xinghao Cheng</name>
+    </author>
+    <author>
+      <name>Yingyi Xiao</name>
+    </author>
+    <author>
+      <name>Pierfrancesco Lapolla</name>
+    </author>
+    <author>
+      <name>Anirudh Chandrashekar</name>
+    </author>
+    <author>
+      <name>Ashok Handa</name>
+    </author>
+    <author>
+      <name>Robin A. Cleveland</name>
+    </author>
+    <author>
+      <name>Regent Lee</name>
+    </author>
+    <id>10.1371/journal.pone.0248043</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Joel Ward, Xinghao Cheng, Yingyi Xiao, Pierfrancesco Lapolla, Anirudh Chandrashekar, Ashok Handa, Robin A. Cleveland, Regent Lee&lt;/p&gt;
+
+Abdominal aortic aneurysms (AAA) are associated with systemic inflammation and endothelial dysfunction. We previously reported flow mediated dilatation (FMD) of the brachial artery as a predictor of AAA growth. We hence hypothesised that other physical characteristics of the brachial artery correlate with AAA growth. Using a prospectively cohort of AAA patients, we devised a ‘brachial artery relaxation index’ (BARI) and examined its role as a biomarker for AAA growth. However, no correlation between BARI and future aneurysm growth was observed (p = 0.45). Therefore, our investigations did not substantiate the hypothesis that other physical characteristics of the brachial artery predicts AAA growth.</content>
+  </entry>
+  <entry>
+    <title>Land snail biogeography and endemism in south-eastern Africa: Implications for the Maputaland-Pondoland-Albany biodiversity hotspot</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248040" title="Land snail biogeography and endemism in south-eastern Africa: Implications for the Maputaland-Pondoland-Albany biodiversity hotspot" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248040.PDF" title="(PDF) Land snail biogeography and endemism in south-eastern Africa: Implications for the Maputaland-Pondoland-Albany biodiversity hotspot" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248040.XML" title="(XML) Land snail biogeography and endemism in south-eastern Africa: Implications for the Maputaland-Pondoland-Albany biodiversity hotspot" />
+    <author>
+      <name>Sandun J. Perera</name>
+    </author>
+    <author>
+      <name>David G. Herbert</name>
+    </author>
+    <author>
+      <name>Şerban Procheş</name>
+    </author>
+    <author>
+      <name>Syd Ramdhani</name>
+    </author>
+    <id>10.1371/journal.pone.0248040</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Sandun J. Perera, David G. Herbert, Şerban Procheş, Syd Ramdhani&lt;/p&gt;
+
+Invertebrates in general have long been underrepresented in studies on biodiversity, biogeography and conservation. Boundaries of biodiversity hotspots are often delimited intuitively based on floristic endemism and have seldom been empirically tested using actual species distributions, and especially invertebrates. Here we analyse the zoogeography of terrestrial malacofauna from south-eastern Africa (SEA), proposing the first mollusc-based numerical regionalisation for the area. We also discuss patterns and centres of land snail endemism, thence assessing the importance and the delimitation of the Maputaland-Pondoland-Albany (MPA) biodiversity hotspot for their conservation. An incidence matrix compiled for relatively well-collected lineages of land snails and slugs (73 taxa in twelve genera) in 40 &lt;i&gt;a priori&lt;/i&gt; operational geographic units was subjected to (a) phenetic agglomerative hierarchical clustering using unweighted pair-group method with arithmetic means (UPGMA), (b) parsimony analysis of endemicity (PAE) and biotic element analysis (BEA). Fulfilling the primary objective of our study, the UPGMA dendrogram provided a hierarchical regionalisation and identified five centres of molluscan endemism for SEA, while the PAE confirmed six areas of endemism, also supported by the BEA. The regionalisation recovers a zoogeographic province similar to the MPA hotspot, but with a conspicuous westward extension into Knysna (towards the Cape). The MPA province, centres and areas of endemism, biotic elements as well as the spatial patterns of species richness and endemism, support the MPA hotspot, but suggest further extensions resulting in a greater MPA region of land snail endemism (also with a northward extension into sky islands—Soutpansberg and Wolkberg), similar to that noted for vertebrates. The greater MPA region provides a more robustly defined region of conservation concern, with centres of endemism serving as local conservation priorities.</content>
+  </entry>
+  <entry>
+    <title>Polymorphic SERPINA3 prolongs oligomeric state of amyloid beta</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248027" title="Polymorphic SERPINA3 prolongs oligomeric state of amyloid beta" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248027.PDF" title="(PDF) Polymorphic SERPINA3 prolongs oligomeric state of amyloid beta" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248027.XML" title="(XML) Polymorphic SERPINA3 prolongs oligomeric state of amyloid beta" />
+    <author>
+      <name>Maruf Mohammad Akbor</name>
+    </author>
+    <author>
+      <name>Nobuyuki Kurosawa</name>
+    </author>
+    <author>
+      <name>Hiroki Nakayama</name>
+    </author>
+    <author>
+      <name>Ayumi Nakatani</name>
+    </author>
+    <author>
+      <name>Koji Tomobe</name>
+    </author>
+    <author>
+      <name>Yoichi Chiba</name>
+    </author>
+    <author>
+      <name>Masaki Ueno</name>
+    </author>
+    <author>
+      <name>Masashi Tanaka</name>
+    </author>
+    <author>
+      <name>Yasuyuki Nomura</name>
+    </author>
+    <author>
+      <name>Masaharu Isobe</name>
+    </author>
+    <id>10.1371/journal.pone.0248027</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Maruf Mohammad Akbor, Nobuyuki Kurosawa, Hiroki Nakayama, Ayumi Nakatani, Koji Tomobe, Yoichi Chiba, Masaki Ueno, Masashi Tanaka, Yasuyuki Nomura, Masaharu Isobe&lt;/p&gt;
+
+Molecular chaperon SERPINA3 colocalizes with accumulated amyloid peptide in Alzheimer’s disease (AD) patient’s brain. From the QTL analysis, we narrowed down Serpina3 with two SNPs in senescence-accelerated mouse prone (SAMP) 8 strain. Our study showed SAMP8 type Serpina3 prolonged retention of oligomeric Aβ 42 for longer duration (72 hr) while observing under transmission electron microscope (TEM). From Western blot results, we confirmed presence of Aβ 42 oligomeric forms (trimers, tetramers) were maintained for longer duration only in the presences of SAMP8 type Serpina3. Using SH-SY5Y neuroblastoma cell line, we observed until 36 hr preincubated Aβ 42 with SAMP8 type Serpina3 caused neuronal cell death compared to 12 hr preincubated Aβ 42 with SAMR1 or JF1 type Serpina3 proteins. Similar results were found by extending this study to analyze the effect of polymorphism of &lt;i&gt;SERPINA3&lt;/i&gt; gene of the Japanese SNP database for geriatric research (JG-SNP). We observed that polymorphic SERPINA3 I308T (rs142398813) prolonged toxic oligomeric Aβ 42 forms till 48 hr in comparison to the presence wild type SERPINA3 protein, resulting neuronal cell death. From this study, we first clarified pathogenic regulatory role of polymorphic SERPINA3 in neurodegeneration.</content>
+  </entry>
+  <entry>
+    <title>Diffusion-weighted magnetic resonance imaging for the assessment of liver fibrosis in chronic viral hepatitis</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248024" title="Diffusion-weighted magnetic resonance imaging for the assessment of liver fibrosis in chronic viral hepatitis" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248024.PDF" title="(PDF) Diffusion-weighted magnetic resonance imaging for the assessment of liver fibrosis in chronic viral hepatitis" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248024.XML" title="(XML) Diffusion-weighted magnetic resonance imaging for the assessment of liver fibrosis in chronic viral hepatitis" />
+    <author>
+      <name>Phunchai Charatcharoenwitthaya</name>
+    </author>
+    <author>
+      <name>Kamonthip Sukonrut</name>
+    </author>
+    <author>
+      <name>Pornpim Korpraphong</name>
+    </author>
+    <author>
+      <name>Ananya Pongpaibul</name>
+    </author>
+    <author>
+      <name>Pairash Saiviroonporn</name>
+    </author>
+    <id>10.1371/journal.pone.0248024</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Phunchai Charatcharoenwitthaya, Kamonthip Sukonrut, Pornpim Korpraphong, Ananya Pongpaibul, Pairash Saiviroonporn&lt;/p&gt;
+Background &lt;p&gt;Accurate noninvasive methods for the assessment of liver fibrosis are urgently needed. This prospective study evaluated the diagnostic accuracy of diffusion-weighted magnetic resonance imaging (DWI) for the staging of liver fibrosis and proposed a diagnostic algorithm using DWI to identify cirrhosis in patients with chronic viral hepatitis.&lt;/p&gt; Methods &lt;p&gt;One hundred twenty-one treatment-naïve patients with chronic hepatitis B or C were evaluated with DWI followed by liver biopsy on the same day. Breath-hold single-shot echo-planar DWI was performed to measure the apparent diffusion coefficient (ADC) of the liver and spleen. Normalized liver ADC was calculated as the ratio of liver ADC to spleen ADC.&lt;/p&gt; Results &lt;p&gt;There was an inverse correlation between fibrosis stage and normalized liver ADC (p&lt;0.05). For the prediction of fibrosis stage ≥2, stage ≥3, and cirrhosis, the area under the receiver-operating curve of normalized liver ADC was 0.603, 0.704, and 0.847, respectively. The normalized liver ADC value ≤1.02×10&lt;sup&gt;−3&lt;/sup&gt; mm&lt;sup&gt;2&lt;/sup&gt;/s had 88% sensitivity, 81% specificity, 25% positive predictive value (PPV), and 99% negative predictive value (NPV) for the diagnosis of cirrhosis. Using a sequential approach with the Fibrosis-4 index followed by DWI, normalized liver ADC ≤1.02×10&lt;sup&gt;−3&lt;/sup&gt; mm&lt;sup&gt;2&lt;/sup&gt;/s in patients with Fibrosis-4 &gt;3.25 yielded an 80% PPV for cirrhosis, and a 100% NPV to exclude cirrhosis in patients with Fibrosis-4 between 1.45 and 3.25. Only 15.7% of patients would require a liver biopsy. This sequential strategy can reduce DWI examinations by 53.7%.&lt;/p&gt; Conclusion &lt;p&gt;Normalized liver ADC measurement on DWI is an accurate and noninvasive tool for the diagnosis of cirrhosis in patients with chronic viral hepatitis.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Relationship between exclusive breastfeeding and brain-derived neurotrophic factor in children</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248023" title="Relationship between exclusive breastfeeding and brain-derived neurotrophic factor in children" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248023.PDF" title="(PDF) Relationship between exclusive breastfeeding and brain-derived neurotrophic factor in children" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248023.XML" title="(XML) Relationship between exclusive breastfeeding and brain-derived neurotrophic factor in children" />
+    <author>
+      <name>Carlos Berlanga-Macías</name>
+    </author>
+    <author>
+      <name>Mairena Sánchez-López</name>
+    </author>
+    <author>
+      <name>Montserrat Solera-Martínez</name>
+    </author>
+    <author>
+      <name>Ana Díez-Fernández</name>
+    </author>
+    <author>
+      <name>Inmaculada Ballesteros-Yáñez</name>
+    </author>
+    <author>
+      <name>Carlos A. Castillo-Sarmiento</name>
+    </author>
+    <author>
+      <name>Isabel A. Martínez-Ortega</name>
+    </author>
+    <author>
+      <name>Vicente Martínez-Vizcaíno</name>
+    </author>
+    <id>10.1371/journal.pone.0248023</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Carlos Berlanga-Macías, Mairena Sánchez-López, Montserrat Solera-Martínez, Ana Díez-Fernández, Inmaculada Ballesteros-Yáñez, Carlos A. Castillo-Sarmiento, Isabel A. Martínez-Ortega, Vicente Martínez-Vizcaíno&lt;/p&gt;
+Objective &lt;p&gt;A positive relationship between breastfeeding and brain-derived neurotrophic factor (BDNF) in infants has been suggested due to the presence of BDNF in human milk. This study aimed to determine the relationship between exclusive breastfeeding and BDNF serum levels in Spanish schoolchildren.&lt;/p&gt; Methods &lt;p&gt;A cross-sectional analysis including 202 schoolchildren, aged eight to 11 years, from Cuenca, Spain, was conducted. Information on sociodemographic and anthropometric variables, sexual maturation, birth weight and exclusive breastfeeding (‘no exclusive breastfeeding’, and exclusive breastfeeding for ≤6 and &gt;6 months), and BDNF serum levels using an ELISA method were obtained. Covariance analyses (ANCOVA) were conducted to examine the relationship between serological BDNF and exclusive breastfeeding after controlling for potential confounders.&lt;/p&gt; Results &lt;p&gt;ANCOVA models showed no significant differences in BDNF levels between children who were exclusively breastfed for more than six months versus those who were not (p &gt; 0.05). No significant differences were observed by age group (eight to nine years versus 10 to 11 years; p &gt; 0.05). Additionally, no clear negative trend in BDNF serum levels according to sexual maturation categories was found (p &gt; 0.05).&lt;/p&gt; Conclusion &lt;p&gt;These findings suggest that exclusive breastfeeding does not have a significant positive association on BDNF from eight to 11 years, since children who were exclusively breastfed did not have significantly higher BDNF levels than those who were not exclusively breastfed. Likewise, BDNF levels were not found to be negatively affected by hormonal development. Future research should examine the influence of exclusive breastfeeding on BDNF over the different developmental stages.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Egg recognition: The importance of quantifying multiple repeatable features as visual identity signals</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248021" title="Egg recognition: The importance of quantifying multiple repeatable features as visual identity signals" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248021.PDF" title="(PDF) Egg recognition: The importance of quantifying multiple repeatable features as visual identity signals" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248021.XML" title="(XML) Egg recognition: The importance of quantifying multiple repeatable features as visual identity signals" />
+    <author>
+      <name>Jesús Gómez</name>
+    </author>
+    <author>
+      <name>Oscar Gordo</name>
+    </author>
+    <author>
+      <name>Piotr Minias</name>
+    </author>
+    <id>10.1371/journal.pone.0248021</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Jesús Gómez, Oscar Gordo, Piotr Minias&lt;/p&gt;
+
+Brood parasitized and/or colonial birds use egg features as visual identity signals, which allow parents to recognize their own eggs and avoid paying fitness costs of misdirecting their care to others’ offspring. However, the mechanisms of egg recognition and discrimination are poorly understood. Most studies have put their focus on individual abilities to carry out these behavioural tasks, while less attention has been paid to the egg and how its signals may evolve to enhance its identification. We used 92 clutches (460 eggs) of the Eurasian coot &lt;i&gt;Fulica atra&lt;/i&gt; to test whether eggs could be correctly classified into their corresponding clutches based only on their external appearance. Using SpotEgg, we characterized the eggs in 27 variables of colour, spottiness, shape and size from calibrated digital images. Then, we used these variables in a supervised machine learning algorithm for multi-class egg classification, where each egg was classified to the best matched clutch out of 92 studied clutches. The best model with all 27 explanatory variables assigned correctly 53.3% (CI = 42.6–63.7%) of eggs of the test-set, greatly exceeding the probability to classify the eggs by chance (1/92, 1.1%). This finding supports the hypothesis that eggs have visual identity signals in their phenotypes. Simplified models with fewer explanatory variables (10 or 15) showed lesser classification ability than full models, suggesting that birds may use multiple traits for egg recognition. Therefore, egg phenotypes should be assessed in their full complexity, including colour, patterning, shape and size. Most important variables for classification were those with the highest intraclutch correlation, demonstrating that individual recognition traits are repeatable. Algorithm classification performance improved by each extra training egg added to the model. Thus, repetition of egg design within a clutch would reinforce signals and would help females to create an internal template for true recognition of their own eggs. In conclusion, our novel approach based on machine learning provided important insights on how signallers broadcast their specific signature cues to enhance their recognisability.</content>
+  </entry>
+  <entry>
+    <title>The effect of human immunodeficiency virus infection on adverse events during treatment of drug-resistant tuberculosis: A systematic review and meta-analysis</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248017" title="The effect of human immunodeficiency virus infection on adverse events during treatment of drug-resistant tuberculosis: A systematic review and meta-analysis" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248017.PDF" title="(PDF) The effect of human immunodeficiency virus infection on adverse events during treatment of drug-resistant tuberculosis: A systematic review and meta-analysis" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248017.XML" title="(XML) The effect of human immunodeficiency virus infection on adverse events during treatment of drug-resistant tuberculosis: A systematic review and meta-analysis" />
+    <author>
+      <name>Gilbert Lazarus</name>
+    </author>
+    <author>
+      <name>Kevin Tjoa</name>
+    </author>
+    <author>
+      <name>Anthony William Brian Iskandar</name>
+    </author>
+    <author>
+      <name>Melva Louisa</name>
+    </author>
+    <author>
+      <name>Evans L. Sagwa</name>
+    </author>
+    <author>
+      <name>Nesri Padayatchi</name>
+    </author>
+    <author>
+      <name>Vivian Soetikno</name>
+    </author>
+    <id>10.1371/journal.pone.0248017</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Gilbert Lazarus, Kevin Tjoa, Anthony William Brian Iskandar, Melva Louisa, Evans L. Sagwa, Nesri Padayatchi, Vivian Soetikno&lt;/p&gt;
+Background &lt;p&gt;Adverse events (AEs) during drug-resistant tuberculosis (DR-TB) treatment, especially with human immunodeficiency virus (HIV) co-infection, remains a major threat to poor DR-TB treatment adherence and outcomes. This meta-analysis aims to investigate the effect of HIV infection on the development of AEs during DR-TB treatment.&lt;/p&gt; Methods &lt;p&gt;Eligible studies evaluating the association between HIV seropositivity and risks of AE occurrence in DR-TB patients were included in this systematic review. Interventional and observational studies were assessed for risk of bias using the Risk of Bias in Nonrandomized Studies of Intervention and Newcastle-Ottawa Scale tool, respectively. Random-effects meta-analysis was performed to estimate the pooled risk ratio (RR) along with their 95% confidence intervals (CIs).&lt;/p&gt; Results &lt;p&gt;A total of 37 studies involving 8657 patients were included in this systematic review. We discovered that HIV infection independently increased the risk of developing AEs in DR-TB patients by 12% (RR 1.12 [95% CI: 1.02–1.22]; I&lt;sup&gt;2&lt;/sup&gt; = 0%, p = 0.75). In particular, the risks were more accentuated in the development of hearing loss (RR 1.44 [95% CI: 1.18–1.75]; I&lt;sup&gt;2&lt;/sup&gt; = 60%), nephrotoxicity (RR 2.45 [95% CI: 1.20–4.98], I&lt;sup&gt;2&lt;/sup&gt; = 0%), and depression (RR 3.53 [95% CI: 1.38–9.03]; I&lt;sup&gt;2&lt;/sup&gt; = 0%). Although our findings indicated that the augmented risk was primarily driven by antiretroviral drug usage rather than HIV-related immunosuppression, further studies investigating their independent effects are required to confirm our findings.&lt;/p&gt; Conclusion &lt;p&gt;HIV co-infection independently increased the risk of developing AEs during DR-TB treatment. Increased pharmacovigilance through routine assessments of audiological, renal, and mental functions are strongly encouraged to enable prompt diagnosis and treatment in patients experiencing AEs during concomitant DR-TB and HIV treatment.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Changes in toxin production of environmental &lt;i&gt;Pseudomonas aeruginosa&lt;/i&gt; isolates exposed to sub-inhibitory concentrations of three common antibiotics</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248014" title="Changes in toxin production of environmental &lt;i&gt;Pseudomonas aeruginosa&lt;/i&gt; isolates exposed to sub-inhibitory concentrations of three common antibiotics" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248014.PDF" title="(PDF) Changes in toxin production of environmental &lt;i&gt;Pseudomonas aeruginosa&lt;/i&gt; isolates exposed to sub-inhibitory concentrations of three common antibiotics" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248014.XML" title="(XML) Changes in toxin production of environmental &lt;i&gt;Pseudomonas aeruginosa&lt;/i&gt; isolates exposed to sub-inhibitory concentrations of three common antibiotics" />
+    <author>
+      <name>Biljana Mojsoska</name>
+    </author>
+    <author>
+      <name>Melanie Ghoul</name>
+    </author>
+    <author>
+      <name>Gabriel G. Perron</name>
+    </author>
+    <author>
+      <name>Håvard Jenssen</name>
+    </author>
+    <author>
+      <name>Fatima AlZahra’a Alatraktchi</name>
+    </author>
+    <id>10.1371/journal.pone.0248014</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Biljana Mojsoska, Melanie Ghoul, Gabriel G. Perron, Håvard Jenssen, Fatima AlZahra’a Alatraktchi&lt;/p&gt;
+
+Pseudomonas aeruginosa is an environmental pathogen that can cause severe infections in immunocompromised patients. &lt;i&gt;P&lt;/i&gt;. &lt;i&gt;aeruginosa&lt;/i&gt; infections are typically treated with multiple antibiotics including tobramycin, ciprofloxacin, and meropenem. However, antibiotics do not always entirely clear the bacteria from the infection site, where they may remain virulent. This is because the effective antibiotic concentration and diffusion in vitro may differ from the in vivo environment in patients. Therefore, it is important to understand the effect of non-lethal sub-inhibitory antibiotic concentrations on bacterial phenotype. Here, we investigate if sub-inhibitory antimicrobial concentrations cause alterations in bacterial virulence factor production using pyocyanin as a model toxin. We tested this using the aforementioned antibiotics on 10 environmental &lt;i&gt;P&lt;/i&gt;. &lt;i&gt;aeruginosa&lt;/i&gt; strains. Using on-the-spot electrochemical screening, we were able to directly quantify changes in production of pyocyanin in a measurement time of 17 seconds. Upon selecting 3 representative strains to further test the effects of sub-minimum inhibitory concentration (MICs), we found that pyocyanin production changed significantly when the bacteria were exposed to 10-fold MIC of the 3 antibiotics tested, and this was strain specific. A series of biologically relevant measured pyocyanin concentrations were also used to assess the effects of increased virulence on a culture of epithelial cells. We found a decreased viability of the epithelial cells when incubated with biologically relevant pyocyanin concentrations. This suggests that the antibiotic-induced virulence also is a value worth being enclosed in regular testing of pathogens.</content>
+  </entry>
+  <entry>
+    <title>Differential responses to folic acid in an established keloid fibroblast cell line are mediated by JAK1/2 and STAT3</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248011" title="Differential responses to folic acid in an established keloid fibroblast cell line are mediated by JAK1/2 and STAT3" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248011.PDF" title="(PDF) Differential responses to folic acid in an established keloid fibroblast cell line are mediated by JAK1/2 and STAT3" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248011.XML" title="(XML) Differential responses to folic acid in an established keloid fibroblast cell line are mediated by JAK1/2 and STAT3" />
+    <author>
+      <name>Katelyn J. McCann</name>
+    </author>
+    <author>
+      <name>Manoj Yadav</name>
+    </author>
+    <author>
+      <name>Mohammadali E. Alishahedani</name>
+    </author>
+    <author>
+      <name>Alexandra F. Freeman</name>
+    </author>
+    <author>
+      <name>Ian A. Myles</name>
+    </author>
+    <id>10.1371/journal.pone.0248011</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Katelyn J. McCann, Manoj Yadav, Mohammadali E. Alishahedani, Alexandra F. Freeman, Ian A. Myles&lt;/p&gt;
+
+Keloids are a type of disordered scar formation which not only show heterogeneity between individuals and within the scar itself, but also share common features of hyperproliferation, abnormal extra-cellular matrix deposition and degradation, as well as altered expression of the molecular markers of wound healing. Numerous reports have established that cells from keloid scars display Warburg metabolism—a form of JAK2/STAT3-induced metabolic adaptation typical of rapidly dividing cells in which glycolysis becomes the predominant source of ATP over oxidative phosphorylation (OxPhos). Using the JAK1/2 inhibitor ruxolitinib, along with cells from patients with STAT3 loss of function (STA3 LOF; autosomal dominant hyper IgE syndrome) we examined the role of JAK/STAT signaling in the hyperproliferation and metabolic dysregulation seen in keloid fibroblasts. Although ruxolitinib inhibited hyperactivity in the scratch assay in keloid fibroblasts, it paradoxically exacerbated the hyper-glycolytic state, possibly by further limiting OxPhos via alterations in mitochondrial phosphorylated STAT3 (pSTAT3&lt;sup&gt;Ser727&lt;/sup&gt;). In healthy volunteer fibroblasts, folic acid exposure recapitulated the exaggerated closure and hyper-glycolytic state of keloid fibroblasts through JAK1/2- and STAT3-dependent pathways. Although additional studies are needed before extrapolating from a representative cell line to keloids writ large, our results provide novel insights into the metabolic consequences of STAT3 dysfunction, suggest a possible role for folate metabolism in the pathogenesis of keloid scars, and offer &lt;i&gt;in vitro&lt;/i&gt; pre-clinical data supporting considerations of clinical trials for ruxolitinib in keloid disorder.</content>
+  </entry>
+  <entry>
+    <title>The prognostic value of serum albumin levels and respiratory rate for community-acquired pneumonia: A prospective, multi-center study</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248002" title="The prognostic value of serum albumin levels and respiratory rate for community-acquired pneumonia: A prospective, multi-center study" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248002.PDF" title="(PDF) The prognostic value of serum albumin levels and respiratory rate for community-acquired pneumonia: A prospective, multi-center study" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0248002.XML" title="(XML) The prognostic value of serum albumin levels and respiratory rate for community-acquired pneumonia: A prospective, multi-center study" />
+    <author>
+      <name>Lili Zhao</name>
+    </author>
+    <author>
+      <name>Jing Bao</name>
+    </author>
+    <author>
+      <name>Ying Shang</name>
+    </author>
+    <author>
+      <name>Ying Zhang</name>
+    </author>
+    <author>
+      <name>Lu Yin</name>
+    </author>
+    <author>
+      <name>Yan Yu</name>
+    </author>
+    <author>
+      <name>Yu Xie</name>
+    </author>
+    <author>
+      <name>Li Chen</name>
+    </author>
+    <author>
+      <name>Yali Zheng</name>
+    </author>
+    <author>
+      <name>Yu Xu</name>
+    </author>
+    <author>
+      <name>Zhancheng Gao</name>
+    </author>
+    <id>10.1371/journal.pone.0248002</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Lili Zhao, Jing Bao, Ying Shang, Ying Zhang, Lu Yin, Yan Yu, Yu Xie, Li Chen, Yali Zheng, Yu Xu, Zhancheng Gao&lt;/p&gt;
+
+Community-acquired pneumonia (CAP) is a respiratory disease frequently requiring hospital admission, and a significant cause of death worldwide. This study aimed to investigate the prognostic value of clinical indicators. A prospective, multi-center study was conducted (January 2017–December 2018) where patient demographic and clinical data were recorded (N = 366). The 30-day mortality rate was 5.46%. Cox Regression analyses showed that serum albumin (ALB) and respiratory rate (RR) were independent prognostic variables for 30-day survival in patients with CAP. Albumin negatively correlated with the Pneumonia Severity Index (PSI) and CURB-65 scores using Pearson and Spearman tests. Survival curves showed that a RR &gt;24 breaths/min or ALB ≤30 g/L were associated with a significantly higher risk of mortality. The area-under-the-curve (AUC) for predicting 30-day mortality in patients with CAP was 0.762, 0.763, 0.790, and 0.784 for ALB, RR, PSI, and CURB-65, respectively. The AUC for the prediction of 30-day mortality using ALB combined with PSI, CURB-65 scores, and RR was 0.822 (95% CI 0.731–0.912), 0.847 (95% CI 0.755–0.938), and 0.847 (95% CI 0.738–0.955), respectively. Albumin and RR were found to be reliable prognostic factors for CAP. This combination showed equal predictive value when compared to adding ALB assessment to PSI and CURB-65 scores, which could improve their prognostic accuracy.</content>
+  </entry>
+  <entry>
+    <title>Estimating reef fish size distributions with a mini remotely operated vehicle-integrated stereo camera system</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247985" title="Estimating reef fish size distributions with a mini remotely operated vehicle-integrated stereo camera system" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247985.PDF" title="(PDF) Estimating reef fish size distributions with a mini remotely operated vehicle-integrated stereo camera system" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247985.XML" title="(XML) Estimating reef fish size distributions with a mini remotely operated vehicle-integrated stereo camera system" />
+    <author>
+      <name>Steven B. Garner</name>
+    </author>
+    <author>
+      <name>Aaron M. Olsen</name>
+    </author>
+    <author>
+      <name>Ryan Caillouet</name>
+    </author>
+    <author>
+      <name>Matthew D. Campbell</name>
+    </author>
+    <author>
+      <name>William F. Patterson III</name>
+    </author>
+    <id>10.1371/journal.pone.0247985</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Steven B. Garner, Aaron M. Olsen, Ryan Caillouet, Matthew D. Campbell, William F. Patterson III&lt;/p&gt;
+
+We tested the efficacy of a stereo camera (SC) system adapted for use with a remotely operated vehicle (ROV) to estimate fish length distributions at reef sites in the northern Gulf of Mexico. A pool experiment was conducted to test the effect of distance (1, 2, 3 or 5 m), angle of incidence (AOI; 0° to 40° at 5° increments), and SC baseline distance (BD; BD1 = 406, BD2 = 610, and BD3 = 762 mm camera separation) on the accuracy and precision of fish model length (288, 552, or 890 mm fork length) estimates compared to a red laser scaler (RLS). A field experiment was then conducted at 20 reef sites with SCs positioned at BD1 to compare fish length distribution estimates between the SC and RLS systems under &lt;i&gt;in situ&lt;/i&gt; conditions. In the pool experiment, mean percent errors were consistently within the &lt;i&gt;a priori&lt;/i&gt; selected threshold of ±5% at AOIs ≤10° at all distances with all four systems. However, SCs produced accurate estimates at AOIs up to 30° at all distances tested; 2–3 m was optimal. During reef site surveys, SCs collected 10.4 times as many length estimates from 4.3 times as many species compared to the RLS. Study results demonstrate that, compared to laser scalers, ROV-based SC systems can substantially increase the number of available fish length estimates by producing accurate length estimates at a wider range of target orientations while also enabling measurements from a greater portion of the cameras’ field of view.</content>
+  </entry>
+  <entry>
+    <title>On the status of transfer in adult third language acquisition of early bilinguals</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247976" title="On the status of transfer in adult third language acquisition of early bilinguals" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247976.PDF" title="(PDF) On the status of transfer in adult third language acquisition of early bilinguals" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247976.XML" title="(XML) On the status of transfer in adult third language acquisition of early bilinguals" />
+    <author>
+      <name>Jorge González Alonso</name>
+    </author>
+    <author>
+      <name>Eloi Puig-Mayenco</name>
+    </author>
+    <author>
+      <name>Antonio Fábregas</name>
+    </author>
+    <author>
+      <name>Adel Chaouch-Orozco</name>
+    </author>
+    <author>
+      <name>Jason Rothman</name>
+    </author>
+    <id>10.1371/journal.pone.0247976</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Jorge González Alonso, Eloi Puig-Mayenco, Antonio Fábregas, Adel Chaouch-Orozco, Jason Rothman&lt;/p&gt;
+
+The study of linguistic transfer—understood here in terms of the copying of previous linguistic representations—seeks to reveal how domain-relevant prior language knowledge impacts the acquisition and development of new mental representations more generally. Studying sequential multilingualism offers a natural laboratory to observe cognitive-economical mechanisms that avoid redundancy in language learning. One of the key dividing questions between theories of transfer in sequential multilingualism is the extent of transfer, that is, whether a whole previous grammar is transferred (full transfer) or a potentially different source language is selected for each linguistic property (property-by-property transfer). We adopted a novel methodological approach to this question, examining four different linguistic properties from unrelated domains of grammar across the three languages of a heterogeneous population of highly proficient, early Catalan/Spanish bilinguals with different degrees of language dominance and order of acquisition, at the very beginning of (adult) L3 English. Results are variably complex across the different properties, but compatible with a scenario where one of the previous languages, Catalan, was selected as the basis for the initial L3 English grammar of these speakers. We discuss the theoretical implications of these findings.</content>
+  </entry>
+  <entry>
+    <title>Construction, characterization, and immunization of nanoparticles that display a diverse array of influenza HA trimers</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247963" title="Construction, characterization, and immunization of nanoparticles that display a diverse array of influenza HA trimers" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247963.PDF" title="(PDF) Construction, characterization, and immunization of nanoparticles that display a diverse array of influenza HA trimers" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247963.XML" title="(XML) Construction, characterization, and immunization of nanoparticles that display a diverse array of influenza HA trimers" />
+    <author>
+      <name>Alexander A. Cohen</name>
+    </author>
+    <author>
+      <name>Zhi Yang</name>
+    </author>
+    <author>
+      <name>Priyanthi N. P. Gnanapragasam</name>
+    </author>
+    <author>
+      <name>Susan Ou</name>
+    </author>
+    <author>
+      <name>Kim-Marie A. Dam</name>
+    </author>
+    <author>
+      <name>Haoqing Wang</name>
+    </author>
+    <author>
+      <name>Pamela J. Bjorkman</name>
+    </author>
+    <id>10.1371/journal.pone.0247963</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Alexander A. Cohen, Zhi Yang, Priyanthi N. P. Gnanapragasam, Susan Ou, Kim-Marie A. Dam, Haoqing Wang, Pamela J. Bjorkman&lt;/p&gt;
+
+Current influenza vaccines do not elicit broadly protective immune responses against multiple strains. New strategies to focus the humoral immune response to conserved regions on influenza antigens are therefore required for recognition by broadly neutralizing antibodies. It has been suggested that B-cells with receptors that recognize conserved epitopes would be preferentially stimulated through avidity effects by mosaic particles presenting multiple forms of a variable antigen. We adapted SpyCatcher-based platforms, AP205 virus-like particles (VLPs) and mi3 nanoparticles (NPs), to covalently co-display SpyTagged hemagglutinin (HA) trimers from group 1 and group 2 influenza A strains. Here we show successful homotypic and heterotypic conjugation of up to 8 different HA trimers to both VLPs and NPs. We characterized the HA-VLPs and HA-NPs by cryo-electron tomography to derive the average number of conjugated HAs and their separation distances on particles, and compared immunizations of mosaic and homotypic particles in wild-type mice. Both types of HA particles elicited strong antibody responses, but the mosaic particles did not consistently elicit broader immune responses than mixtures of homotypic particles. We conclude that covalent attachment of HAs from currently-circulating influenza strains represents a viable alternative to current annual influenza vaccine strategies, but in the absence of further modifications, is unlikely to represent a method for making a universal influenza vaccine.</content>
+  </entry>
+  <entry>
+    <title>Gender differences in unpaid care work and psychological distress in the UK Covid-19 lockdown</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247959" title="Gender differences in unpaid care work and psychological distress in the UK Covid-19 lockdown" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247959.PDF" title="(PDF) Gender differences in unpaid care work and psychological distress in the UK Covid-19 lockdown" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247959.XML" title="(XML) Gender differences in unpaid care work and psychological distress in the UK Covid-19 lockdown" />
+    <author>
+      <name>Baowen Xue</name>
+    </author>
+    <author>
+      <name>Anne McMunn</name>
+    </author>
+    <id>10.1371/journal.pone.0247959</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Baowen Xue, Anne McMunn&lt;/p&gt;
+Objective &lt;p&gt;To describe how men and women divided childcare and housework demands during the height of the first Covid-19 lockdown in the UK, and whether these divisions were associated with worsening mental health during the pandemic.&lt;/p&gt; Background &lt;p&gt;School closures and homeworking during the Covid-19 crisis have resulted in an immediate increase in unpaid care work, which draws new attention to gender inequality in divisions of unpaid care work.&lt;/p&gt; Methods &lt;p&gt;Data come from the wave 9 (2017–19) of Understanding Society and the following April (n = 15,426) and May (n = 14,150) waves of Understanding Society Covid-19 study. Psychological distress was measured using the General Health Questionnaire (GHQ) at both before and during the lockdown, and unpaid care work was measured during the lockdown. Linear regression models were used.&lt;/p&gt; Results &lt;p&gt;Women spent much more time on unpaid care work than men during lockdown, and it was more likely to be the mother than the father who reduced working hours or changed employment schedules due to increased time on childcare. Women who spent long hours on housework and childcare were more likely to report increased levels of psychological distress. Working parents who adapted their work patterns increased more psychological distress than those who did not. This association was much stronger if he or she was the only member in the household who adapted their work patterns, or if she was a lone mother. Fathers increased more psychological distress if they reduced work hours but she did not, compared to neither reducing work hours.&lt;/p&gt; Conclusion &lt;p&gt;There are continued gender inequalities in divisions of unpaid care work. Juggling home working with homeschooling and childcare as well as extra housework is likely to lead to poor mental health for people with families, particularly for lone mothers.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Effect of Yttrium-90 transarterial radioembolization in patients with non-surgical hepatocellular carcinoma: A systematic review and meta-analysis</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247958" title="Effect of Yttrium-90 transarterial radioembolization in patients with non-surgical hepatocellular carcinoma: A systematic review and meta-analysis" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247958.PDF" title="(PDF) Effect of Yttrium-90 transarterial radioembolization in patients with non-surgical hepatocellular carcinoma: A systematic review and meta-analysis" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247958.XML" title="(XML) Effect of Yttrium-90 transarterial radioembolization in patients with non-surgical hepatocellular carcinoma: A systematic review and meta-analysis" />
+    <author>
+      <name>Simon Lemieux</name>
+    </author>
+    <author>
+      <name>Alex Buies</name>
+    </author>
+    <author>
+      <name>Alexis F. Turgeon</name>
+    </author>
+    <author>
+      <name>Julie Hallet</name>
+    </author>
+    <author>
+      <name>Gaétan Daigle</name>
+    </author>
+    <author>
+      <name>François Côté</name>
+    </author>
+    <author>
+      <name>Steeve Provencher</name>
+    </author>
+    <id>10.1371/journal.pone.0247958</id>
+    <updated>2021-03-04T14:00:00Z</updated>
+    <published>2021-03-04T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Simon Lemieux, Alex Buies, Alexis F. Turgeon, Julie Hallet, Gaétan Daigle, François Côté, Steeve Provencher&lt;/p&gt;
+Background &lt;p&gt;Recently, the use of Yttrium-90 transarterial radioembolization in non-surgical hepatocellular carcinoma was suggested but the evidence supporting its use is unclear.&lt;/p&gt; Methods &lt;p&gt;We searched Medline, Embase, Web of Science and Cochrane CENTRAL from inception up to April 14, 2020 for randomized controlled trials comparing Y90-TARE to standard of care in non-surgical HCC patients. Our primary outcome was overall survival (OS). Our secondary outcomes were progression-free survival, time to progression, disease control rate, grade ≥3 adverse events and rates of gastro-intestinal ulcers. Hazard ratios (HR) and risk ratios (RR) with random-effects model were used for our analyses. The risk of bias of the included studies was assessed using Cochrane’s RoB 2 tool.&lt;/p&gt; Results &lt;p&gt;Of 1,604 citations identified, eight studies (1,439 patients) were included in our analysis. No improvement in overall survival were noted when Yttrium-90 transarterial radioembolization was compared to standard treatments (HR 0.99 [95% CI 0.81–1.21], 6 studies, I&lt;sup&gt;2&lt;/sup&gt; = 77.6%). However, Yttrium-90 transarterial radioembolization was associated with fewer grade ≥3 adverse events (RR 0.64 [95% CI 0.45–0.92], 7 studies, I&lt;sup&gt;2&lt;/sup&gt; = 66%). No difference was observed on other secondary outcomes.&lt;/p&gt; Discussion &lt;p&gt;In non-surgical HCC patients, Yttrium-90 transarterial radioembolization was not associated with significant effect on survival, progression-free survival, time to progression, disease control rate and the incidence of gastro-intestinal ulcers but was however associated with significantly lower rates of grade ≥3 adverse events. Further randomized controlled trials are warranted to better delineate optimal treatment.&lt;/p&gt;</content>
+  </entry>
+</feed>

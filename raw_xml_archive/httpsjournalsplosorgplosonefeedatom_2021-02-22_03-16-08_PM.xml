@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PLOS ONE</title>
+  <link rel="alternate" href="https://journals.plos.org/plosone/" />
+  <author>
+    <name>PLOS</name>
+    <uri>https://journals.plos.org/plosone/</uri>
+    <email>webmaster@plos.org</email>
+  </author>
+  <subtitle type="text">accelerating the publication of peer-reviewed science</subtitle>
+  <id>http://journals.plos.org/plosone/feed/atom</id>
+  <rights>All PLOS articles are Open Access.</rights>
+  <icon>https://journals.plos.org/plosone/resource/img/favicon.ico</icon>
+  <logo>https://journals.plos.org/plosone/resource/img/favicon.ico</logo>
+  <updated>2021-02-22T23:16:09Z</updated>
+  <entry>
+    <title>Nixing the nightshades: Traditional knowledge of intoxicating members of the Solanaceae among hallucinogenic plant and mushroom users in Slovenia</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247688" title="Nixing the nightshades: Traditional knowledge of intoxicating members of the Solanaceae among hallucinogenic plant and mushroom users in Slovenia" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247688.PDF" title="(PDF) Nixing the nightshades: Traditional knowledge of intoxicating members of the Solanaceae among hallucinogenic plant and mushroom users in Slovenia" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247688.XML" title="(XML) Nixing the nightshades: Traditional knowledge of intoxicating members of the Solanaceae among hallucinogenic plant and mushroom users in Slovenia" />
+    <author>
+      <name>Karsten Fatur</name>
+    </author>
+    <author>
+      <name>Samo Kreft</name>
+    </author>
+    <id>10.1371/journal.pone.0247688</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Karsten Fatur, Samo Kreft&lt;/p&gt;
+
+Anticholinergic plants of the family Solanaceae have a long history of use as medicines, poisons, and recreational drugs. Though they were the intoxicating substances of choice throughout Europe for centuries, their use for these purposes has declined with the globalisation of other recreational drugs. The present study sought to examine the level of knowledge surrounding these plants among individuals who had used other hallucinogenic plants or mushrooms in Slovenia. Participants were questioned in regards to the anticholinergic Solanaceae that are known to grow wild in Slovenia: &lt;i&gt;Atropa belladonna&lt;/i&gt; L., &lt;i&gt;Datura stramonium&lt;/i&gt; L., &lt;i&gt;Hyoscyamus niger&lt;/i&gt; L., and &lt;i&gt;Scopolia carniolica&lt;/i&gt; L. As expected, only a small number of individuals had any substantial knowledge of these plants, and fewer still had used them; some were even unfamiliar with any of these plants. Knowledge of toxicity generally arose from family members, while books and the internet played prominent roles in regards to use knowledge. Knowledge of the plants was vastly varied, with many individuals confusing the plants for others, especially other members of the Solanaceae. Ultimately, a small group of individuals had the largest body of knowledge of these plants, though this was linked with university studies rather than traditional uses. Knowledge of the intoxicating Solanaceae has been largely lost in Slovenia among users of other botanical hallucinogens, likely due to the various dangers their use poses and the undesirable effects they often cause.</content>
+  </entry>
+  <entry>
+    <title>Impact of optical coherence tomography scan direction on the reliability of peripapillary retinal nerve fiber layer measurements</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247670" title="Impact of optical coherence tomography scan direction on the reliability of peripapillary retinal nerve fiber layer measurements" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247670.PDF" title="(PDF) Impact of optical coherence tomography scan direction on the reliability of peripapillary retinal nerve fiber layer measurements" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247670.XML" title="(XML) Impact of optical coherence tomography scan direction on the reliability of peripapillary retinal nerve fiber layer measurements" />
+    <author>
+      <name>Abinaya Priya Venkataraman</name>
+    </author>
+    <author>
+      <name>Josefine Andersson</name>
+    </author>
+    <author>
+      <name>Lina Fivelsdal</name>
+    </author>
+    <author>
+      <name>Maria Nilsson</name>
+    </author>
+    <author>
+      <name>Alberto Domínguez-Vicent</name>
+    </author>
+    <id>10.1371/journal.pone.0247670</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Abinaya Priya Venkataraman, Josefine Andersson, Lina Fivelsdal, Maria Nilsson, Alberto Domínguez-Vicent&lt;/p&gt;
+Purpose &lt;p&gt;To evaluate the intradevice repeatability and agreement for peripapillary retinal nerve fiber layer (pRNFL) measurements in healthy eyes with two different scan directions and two different number of B scans.&lt;/p&gt; Methods &lt;p&gt;pRNFL was measured with a spectral domain optical coherence tomography on 54 healthy participants. Three-dimensional optic disc scans (6 mm x 6 mm) were performed on the right eye of the participants. Two repeated scans were performed in four different settings: H1: Horizontal scan with 512 A-scans x 96 B-scans; H2: Horizontal scan with 512 A-scans x 128 B-scans; V1: Vertical scan with 512 A-scans x 96 B-scans; V2: Vertical scan with 512 A-scans x 128 B-scans. The pRNFL thickness was evaluated in twelve clock-hour sector in a circle of 3.45 mm diameter centred at the optic disc. Repeatability and agreement were assessed with within subject standard deviation (Sw) and Bland-Altman test respectively.&lt;/p&gt; Results &lt;p&gt;The repeatability of pRNFL measurements varied depending on the scan direction and sectors. The repeatability for the horizontal sectors were better with H1 and H2, with sector 9 having the best Sw (&lt; 3 μm). The repeatability for the vertical sectors were better with V1 and V2 with sector 5 and 9 having the best Sw (&lt; 4 μm). The repeatability with vertical scan was more symmetric among the sectors than with horizontal scans. The repeatability metrics of the sectors did not vary much between H1 and H2 (difference &lt; 2 μm) and between V1 and V2 (difference &lt; 3.2 μm). Comparing horizontal and vertical scans, the vertical sectors had larger limits of agreement of about 45 μm.&lt;/p&gt; Conclusion &lt;p&gt;The reliability of the pRNFL thickness measurements is dependent on the direction of the scan and independent on the numbers of B-scans. Vertical scans for pRNFL gives more homogeneous repeatability across the different sectors.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Added value of clinical prediction rules for bacteremia in hemodialysis patients: An external validation study</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247624" title="Added value of clinical prediction rules for bacteremia in hemodialysis patients: An external validation study" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247624.PDF" title="(PDF) Added value of clinical prediction rules for bacteremia in hemodialysis patients: An external validation study" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247624.XML" title="(XML) Added value of clinical prediction rules for bacteremia in hemodialysis patients: An external validation study" />
+    <author>
+      <name>Sho Sasaki</name>
+    </author>
+    <author>
+      <name>Yoshihiko Raita</name>
+    </author>
+    <author>
+      <name>Minoru Murakami</name>
+    </author>
+    <author>
+      <name>Shungo Yamamoto</name>
+    </author>
+    <author>
+      <name>Kentaro Tochitani</name>
+    </author>
+    <author>
+      <name>Takeshi Hasegawa</name>
+    </author>
+    <author>
+      <name>Kiichiro Fujisaki</name>
+    </author>
+    <author>
+      <name>Shunichi Fukuhara</name>
+    </author>
+    <id>10.1371/journal.pone.0247624</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Sho Sasaki, Yoshihiko Raita, Minoru Murakami, Shungo Yamamoto, Kentaro Tochitani, Takeshi Hasegawa, Kiichiro Fujisaki, Shunichi Fukuhara&lt;/p&gt;
+Introduction &lt;p&gt;Having developed a clinical prediction rule (CPR) for bacteremia among hemodialysis (HD) outpatients (BAC-HD score), we performed external validation.&lt;/p&gt; Materials &amp; methods &lt;p&gt;Data were collected on maintenance HD patients at two Japanese tertiary-care hospitals from January 2013 to December 2015. We enrolled 429 consecutive patients (aged ≥ 18 y) on maintenance HD who had had two sets of blood cultures drawn on admission to assess for bacteremia. We validated the predictive ability of the CPR using two validation cohorts. Index tests were the BAC-HD score and a CPR developed by Shapiro et al. The outcome was bacteremia, based on the results of the admission blood cultures. For added value, we also measured changes in the area under the receiver operating characteristic curve (AUC) using logistic regression and Net Reclassification Improvement (NRI), in which each CPR was added to the basic model.&lt;/p&gt; Results &lt;p&gt;In Validation cohort 1 (360 subjects), compared to a Model 1 (Basic Model) AUC of 0.69 (95% confidence interval [95% CI]: 0.59–0.80), the AUC of Model 2 (Basic model + BAC-HD score) and Model 3 (Basic model + Shapiro’s score) increased to 0.8 (95% CI: 0.71–0.88) and 0.73 (95% CI: 0.63–0.83), respectively. In validation cohort 2 (96 subjects), compared to a Model 1 AUC of 0.81 (95% CI: 0.68–0.94), the AUCs of Model 2 and Model 3 increased to 0.83 (95% CI: 0.72–0.95) and 0.85 (95% CI: 0.76–0.94), respectively. NRIs on addition of the BAC-HD score and Shapiro’s score were 0.3 and 0.06 in Validation cohort 1, and 0.27 and 0.13, respectively, in Validation cohort 2.&lt;/p&gt; Conclusion &lt;p&gt;Either the BAC-HD score or Shapiro’s score may improve the ability to diagnose bacteremia in HD patients. Reclassification was better with the BAC-HD score.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Validation of the STANDARD Q COVID-19 antigen test in Vojvodina, Serbia</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247606" title="Validation of the STANDARD Q COVID-19 antigen test in Vojvodina, Serbia" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247606.PDF" title="(PDF) Validation of the STANDARD Q COVID-19 antigen test in Vojvodina, Serbia" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247606.XML" title="(XML) Validation of the STANDARD Q COVID-19 antigen test in Vojvodina, Serbia" />
+    <author>
+      <name>Mioljub Ristić</name>
+    </author>
+    <author>
+      <name>Nataša Nikolić</name>
+    </author>
+    <author>
+      <name>Velibor Čabarkapa</name>
+    </author>
+    <author>
+      <name>Vesna Turkulov</name>
+    </author>
+    <author>
+      <name>Vladimir Petrović</name>
+    </author>
+    <id>10.1371/journal.pone.0247606</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Mioljub Ristić, Nataša Nikolić, Velibor Čabarkapa, Vesna Turkulov, Vladimir Petrović&lt;/p&gt;
+Background &lt;p&gt;Since COVID-19 pandemic is a global crisis, tests with high sensitivity and specificity are crucial for the identification and management of COVID-19 patients. There is an urgent need for low-cost rapid antigen COVID-19 test with a good diagnostic performance. Although various antigen rapid detection tests are widely available, strong evidence of their usefulness in clinical practice are still limited. Therefore, our aim was to evaluate clinical performance of STANDARD Q COVID-19 Ag Test (SD Biosensor, Gyeonggi-do, South Korea).&lt;/p&gt; Methods &lt;p&gt;The performance of the STANDARD Q COVID-19 Ag Test for the detection of SARS-CoV-2 antigen was evaluated in comparison to RT-qPCR results in 120 symptomatic patients (median age 49, IQR 36–70) who presented to health care facility in Novi Sad, Vojvodina, Serbia.&lt;/p&gt; Results &lt;p&gt;Twenty five out of 120 samples have been tested positive using STANDARD Q COVID-19 Ag Test, and all of them were also positive on RT-qPCR. Overall, the STANDARD Q COVID-19 Ag Test showed sensitivity of 58.1% (95% CI 42.1–73.0) but it was higher in the early days of disease, when the highest viral loads were detected. During the first five days after the symptom onset, the sensitivity ranged from 66.7% to 100% and the pooled accuracy and Kappa values were high (0.92 and 0.852).&lt;/p&gt; Conclusions &lt;p&gt;A strong agreement between performance of STANDARD Q COVID-19 Ag Test and RT-qPCR was observed during the first five days of illness, suggesting that this rapid antigenic test can be very useful for COVID-19 diagnosis in the early phase of disease.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>The effect of chronic ankle instability on muscle activations in lower extremities</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247581" title="The effect of chronic ankle instability on muscle activations in lower extremities" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247581.PDF" title="(PDF) The effect of chronic ankle instability on muscle activations in lower extremities" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247581.XML" title="(XML) The effect of chronic ankle instability on muscle activations in lower extremities" />
+    <author>
+      <name>Chiao-I Lin</name>
+    </author>
+    <author>
+      <name>Mina Khajooei</name>
+    </author>
+    <author>
+      <name>Tilman Engel</name>
+    </author>
+    <author>
+      <name>Alexandra Nair</name>
+    </author>
+    <author>
+      <name>Mika Heikkila</name>
+    </author>
+    <author>
+      <name>Hannes Kaplick</name>
+    </author>
+    <author>
+      <name>Frank Mayer</name>
+    </author>
+    <id>10.1371/journal.pone.0247581</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Chiao-I Lin, Mina Khajooei, Tilman Engel, Alexandra Nair, Mika Heikkila, Hannes Kaplick, Frank Mayer&lt;/p&gt;
+Background/Purpose &lt;p&gt;Muscular reflex responses of the lower extremities to sudden gait disturbances are related to postural stability and injury risk. Chronic ankle instability (CAI) has shown to affect activities related to the distal leg muscles while walking. Its effects on proximal muscle activities of the leg, both for the injured- (IN) and uninjured-side (NON), remain unclear. Therefore, the aim was to compare the difference of the motor control strategy in ipsilateral and contralateral proximal joints while unperturbed walking and perturbed walking between individuals with CAI and matched controls.&lt;/p&gt; Materials and methods &lt;p&gt;In a cross-sectional study, 13 participants with unilateral CAI and 13 controls (CON) walked on a split-belt treadmill with and without random left- and right-sided perturbations. EMG amplitudes of muscles at lower extremities were analyzed 200 ms after perturbations, 200 ms before, and 100 ms after (Post100) heel contact while walking. Onset latencies were analyzed at heel contacts and after perturbations. Statistical significance was set at &lt;i&gt;alpha≤&lt;/i&gt;0.05 and 95% confidence intervals were applied to determine group differences. Cohen’s &lt;i&gt;d&lt;/i&gt; effect sizes were calculated to evaluate the extent of differences.&lt;/p&gt; Results &lt;p&gt;Participants with CAI showed increased EMG amplitudes for NON-rectus abdominus at Post100 and shorter latencies for IN-gluteus maximus after heel contact compared to CON (&lt;i&gt;p&lt;/i&gt;&lt;0.05). Overall, leg muscles (rectus femoris, biceps femoris, and gluteus medius) activated earlier and less bilaterally (&lt;i&gt;d&lt;/i&gt; = 0.30–0.88) and trunk muscles (bilateral rectus abdominus and NON-erector spinae) activated earlier and more for the CAI group than CON group (&lt;i&gt;d&lt;/i&gt; = 0.33–1.09).&lt;/p&gt; Conclusion &lt;p&gt;Unilateral CAI alters the pattern of the motor control strategy around proximal joints bilaterally. Neuromuscular training for the muscles, which alters motor control strategy because of CAI, could be taken into consideration when planning rehabilitation for CAI.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Preliminary validity and reliability evidence of the Brief Antisocial Behavior Scale (B-ABS) in young adults from four countries</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247528" title="Preliminary validity and reliability evidence of the Brief Antisocial Behavior Scale (B-ABS) in young adults from four countries" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247528.PDF" title="(PDF) Preliminary validity and reliability evidence of the Brief Antisocial Behavior Scale (B-ABS) in young adults from four countries" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247528.XML" title="(XML) Preliminary validity and reliability evidence of the Brief Antisocial Behavior Scale (B-ABS) in young adults from four countries" />
+    <author>
+      <name>Laura Mezquita</name>
+    </author>
+    <author>
+      <name>Adrian J. Bravo</name>
+    </author>
+    <author>
+      <name>Angelina Pilatti</name>
+    </author>
+    <author>
+      <name>Generós Ortet</name>
+    </author>
+    <author>
+      <name>Manuel I. Ibáñez</name>
+    </author>
+    <author>
+      <name>Cross-Cultural Addictions Study Team</name>
+    </author>
+    <id>10.1371/journal.pone.0247528</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Laura Mezquita, Adrian J. Bravo, Angelina Pilatti, Generós Ortet, Manuel I. Ibáñez, Cross-Cultural Addictions Study Team &lt;/p&gt;
+
+The present research built on the Self-Reported Delinquency interview and the Antisocial Behavior Scale to develop an updated brief instrument to measure antisocial behavior. College students (&lt;i&gt;n&lt;/i&gt; = 3188, 67.75% women) from the USA, Argentina, the Netherlands and Spain completed an online survey. Analyses that combined approaches from the Classical Test Theory and Item Response Theory were conducted to select the items for the brief version. Findings suggested that a 13-item Brief Antisocial Behavior Scale (B-ABS) fulfilled the high-quality criteria: salient factor loadings, adequate discrimination, variability in response endorsement, adequate fit based on infit/outfit values, nondifferent item functioning across the four participating countries, and Cronbach’s alpha and ordinal omega coefficients higher than .70. The B-ABS scores generally significantly correlated with personality scores, mental health and marijuana outcomes, showing criterion-related validity evidence. Our overall findings suggest that B-ABS adequately assesses antisocial behavior in young adults from different countries/cultures.</content>
+  </entry>
+  <entry>
+    <title>Visual outcomes and prognostic factors of vitrectomy for lamellar macular holes and epiretinal membrane foveoschisis</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247509" title="Visual outcomes and prognostic factors of vitrectomy for lamellar macular holes and epiretinal membrane foveoschisis" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247509.PDF" title="(PDF) Visual outcomes and prognostic factors of vitrectomy for lamellar macular holes and epiretinal membrane foveoschisis" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247509.XML" title="(XML) Visual outcomes and prognostic factors of vitrectomy for lamellar macular holes and epiretinal membrane foveoschisis" />
+    <author>
+      <name>Takashi Omoto</name>
+    </author>
+    <author>
+      <name>Yuichi Asahina</name>
+    </author>
+    <author>
+      <name>Han Peng Zhou</name>
+    </author>
+    <author>
+      <name>Ryosuke Fujino</name>
+    </author>
+    <author>
+      <name>Muneyuki Takao</name>
+    </author>
+    <author>
+      <name>Ryo Obata</name>
+    </author>
+    <author>
+      <name>Tatsuya Inoue</name>
+    </author>
+    <author>
+      <name>Ryo Asaoka</name>
+    </author>
+    <author>
+      <name>Maiko Maruyama-Inoue</name>
+    </author>
+    <author>
+      <name>Yasuo Yanagi</name>
+    </author>
+    <author>
+      <name>Kazuaki Kadonosono</name>
+    </author>
+    <id>10.1371/journal.pone.0247509</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Takashi Omoto, Yuichi Asahina, Han Peng Zhou, Ryosuke Fujino, Muneyuki Takao, Ryo Obata, Tatsuya Inoue, Ryo Asaoka, Maiko Maruyama-Inoue, Yasuo Yanagi, Kazuaki Kadonosono&lt;/p&gt;
+Purpose &lt;p&gt;To evaluate the visual outcomes of vitrectomy for lamellar macular hole (LMH) and epiretinal membrane (ERM) foveoschisis and to investigate the prognostic factor for postoperative visual acuity.&lt;/p&gt; Methods &lt;p&gt;We retrospectively reviewed 15 LMH and 17 ERM foveoschisis eyes that had undergone a standard three-port pars plana vitrectomy with (12 eyes) or without (20 eyes) cataract surgery. Best-corrected visual acuity (BCVA) at postoperative three months and the final visit were compared to the preoperative measurements. We investigated the relationship between BCVA at the final visit and baseline parameters (age, preoperative BCVA, the presence of epiretinal proliferation [EP] and ellipsoid zone [EZ] disruption). The best explanatory variables for the final BCVA were investigated using the corrected Akaike information criterion (AICc) model selection.&lt;/p&gt; Results &lt;p&gt;The mean age was 67.2 years. The mean follow-up duration was 30.7 months. Fifteen of 32 examined eyes were diagnosed as LMH and 17 eyes as ERM foveoschisis. Twelve eyes in LMH had EP and 13 eyes showed the disruption of EZ integrity. In total, BCVA significantly improved at 3 months postoperatively (p = 0.0013). A significant improvement was observed in ERM foveoschisis (p = 0.0085) but not in LMH group (p = 0.071). Comparing the BCVA between the baseline and the final visit, significant improvements were observed in total, ERM foveoschisis and LMH group (p&lt;0.001, p&lt;0.001 and p = 0.026, respectively). The optimal model for BCVA at the final visit included preoperative BCVA and the presence of EZ disruption (p&lt;0.001 and p&lt;0.001, respectively).&lt;/p&gt; Conclusion &lt;p&gt;Our results suggested that the final BCVA was dependent on preoperative BCVA and the presence of EZ disruption. Surgical indications might be warranted for LMHs with EZ disruption.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Evaluation of ebselen in resolving a methicillin-resistant &lt;i&gt;Staphylococcus aureus&lt;/i&gt; infection of pressure ulcers in obese and diabetic mice</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247508" title="Evaluation of ebselen in resolving a methicillin-resistant &lt;i&gt;Staphylococcus aureus&lt;/i&gt; infection of pressure ulcers in obese and diabetic mice" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247508.PDF" title="(PDF) Evaluation of ebselen in resolving a methicillin-resistant &lt;i&gt;Staphylococcus aureus&lt;/i&gt; infection of pressure ulcers in obese and diabetic mice" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247508.XML" title="(XML) Evaluation of ebselen in resolving a methicillin-resistant &lt;i&gt;Staphylococcus aureus&lt;/i&gt; infection of pressure ulcers in obese and diabetic mice" />
+    <author>
+      <name>Haroon Mohammad</name>
+    </author>
+    <author>
+      <name>Nader S. Abutaleb</name>
+    </author>
+    <author>
+      <name>Alexandra M. Dieterly</name>
+    </author>
+    <author>
+      <name>L. Tiffany Lyle</name>
+    </author>
+    <author>
+      <name>Mohamed N. Seleem</name>
+    </author>
+    <id>10.1371/journal.pone.0247508</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Haroon Mohammad, Nader S. Abutaleb, Alexandra M. Dieterly, L. Tiffany Lyle, Mohamed N. Seleem&lt;/p&gt;
+
+Pressure ulcers (PUs) are a source of morbidity in individuals with restricted mobility including individuals that are obese or diabetic. Infection of PUs with pathogens, including methicillin-resistant &lt;i&gt;Staphylococcus aureus&lt;/i&gt; (MRSA), impairs ulcers from healing. The present study evaluated ebselen as a topical antibacterial to treat MRSA-infected PUs. Against two different &lt;i&gt;S&lt;/i&gt;. &lt;i&gt;aureus&lt;/i&gt; strains, including MRSA USA300, resistance to ebselen did not emerge after 14 consecutive passages. Resistance to mupirocin emerged after only five passages. Additionally, ebselen was found to exert a modest postantibiotic effect of five hours against two MRSA strains. Ebselen was subsequently evaluated in MRSA-infected PUs in two models using obese and diabetic mice. In obese mice, topical ebselen (89.2% reduction) and oral linezolid (84.5% reduction) similarly reduced the burden of MRSA in infected PUs. However, in diabetic mice, topical ebselen (45.8% reduction in MRSA burden) was less effective. Histopathological evaluation of ulcers in diabetic mice determined that ebselen treatment resulted in fewer bacterial colonies deep within the dermis and that the treatment exhibited evidence of epithelial regeneration. Topical mupirocin was superior to ebselen in reducing MRSA burden in infected PUs both in obese (98.7% reduction) and diabetic (99.3% reduction) mice. Ebselen’s antibacterial activity was negatively impacted as the bacterial inoculum was increased from 10&lt;sup&gt;5&lt;/sup&gt; CFU/mL to 10&lt;sup&gt;7&lt;/sup&gt; CFU/mL. These results suggest that a higher dose of ebselen, or a longer course of treatment, may be needed to achieve a similar effect as mupirocin in topically treating MRSA-infected pressure ulcers.</content>
+  </entry>
+  <entry>
+    <title>Genetic variation in surfactant protein-A2 alters responses to ozone</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247504" title="Genetic variation in surfactant protein-A2 alters responses to ozone" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247504.PDF" title="(PDF) Genetic variation in surfactant protein-A2 alters responses to ozone" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247504.XML" title="(XML) Genetic variation in surfactant protein-A2 alters responses to ozone" />
+    <author>
+      <name>William P. Pederson</name>
+    </author>
+    <author>
+      <name>Jaime M. Cyphert-Daly</name>
+    </author>
+    <author>
+      <name>Robert M. Tighe</name>
+    </author>
+    <author>
+      <name>Loretta G. Que</name>
+    </author>
+    <author>
+      <name>Julie G. Ledford</name>
+    </author>
+    <id>10.1371/journal.pone.0247504</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by William P. Pederson, Jaime M. Cyphert-Daly, Robert M. Tighe, Loretta G. Que, Julie G. Ledford&lt;/p&gt;
+Background &lt;p&gt;Increased exposure to Ozone (O&lt;sub&gt;3&lt;/sub&gt;) is associated with adverse health effects in individuals afflicted with respiratory diseases. Surfactant protein-A (SP-A), encoded by &lt;i&gt;SP-A1&lt;/i&gt; and &lt;i&gt;SP-A2&lt;/i&gt;, is the largest protein component in pulmonary surfactant and is functionally impaired by O&lt;sub&gt;3&lt;/sub&gt;-oxidation.&lt;/p&gt; Objective &lt;p&gt;We used humanized SP-A2 transgenic mice with allelic variation corresponding to a glutamine (Q) to lysine (K) amino acid substitution at position 223 in the lectin domain to determine the impact of this genetic variation in regards to O&lt;sub&gt;3&lt;/sub&gt; exposure.&lt;/p&gt; Methods &lt;p&gt;Mice were exposed to 2ppm O&lt;sub&gt;3&lt;/sub&gt; or Filtered Air (FA) for 3 hours and 24 hrs post-challenge pulmonary function tests and other parameters associated with inflammation were assessed in the bronchoalveolar lavage (BAL) fluid and lung tissue. Additionally, mouse tracheal epithelial cells were cultured and TEER measurements recorded for each genotype to determine baseline epithelial integrity.&lt;/p&gt; Results &lt;p&gt;Compared to FA, O&lt;sub&gt;3&lt;/sub&gt; exposure led to significantly increased sensitivity to methacholine challenge in all groups of mice. SP-A2 223Q variant mice were significantly protected from O&lt;sub&gt;3&lt;/sub&gt;-induced AHR compared to SP-A&lt;sup&gt;-/-&lt;/sup&gt; and SP-A2 223K mice. Neutrophilia was observed in all genotypes of mice post O&lt;sub&gt;3&lt;/sub&gt;-exposure, however, SP-A2 223Q mice had a significantly lower percentage of neutrophils compared to SP-A&lt;sup&gt;-/-&lt;/sup&gt; mice. Albumin levels in BAL were unchanged in O&lt;sub&gt;3&lt;/sub&gt;-exposed SP-A2 223Q mice compared to their FA controls, while levels were significantly increased in all other genotypes of O&lt;sub&gt;3&lt;/sub&gt;-exposed mice. SP-A 223Q MTECS has significant higher TEER values than all other genotypes, and WT MTECS has significantly higher TEER than the SP-A KO and SP-A 223K MTECS.&lt;/p&gt; Significance &lt;p&gt;Taken together, our study suggests that expression of a glutamine (Q) as position 223 in SP-A2, as opposed to expression of lysine (K), is more protective in acute exposures to ozone and results in attenuated O&lt;sub&gt;3&lt;/sub&gt;-induced AHR, neutrophilia, and vascular permeability.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Low contraceptive utilization among young married women is associated with perceived social norms and belief in contraceptive myths in rural Ethiopia</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247484" title="Low contraceptive utilization among young married women is associated with perceived social norms and belief in contraceptive myths in rural Ethiopia" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247484.PDF" title="(PDF) Low contraceptive utilization among young married women is associated with perceived social norms and belief in contraceptive myths in rural Ethiopia" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247484.XML" title="(XML) Low contraceptive utilization among young married women is associated with perceived social norms and belief in contraceptive myths in rural Ethiopia" />
+    <author>
+      <name>Tariku Dingeta</name>
+    </author>
+    <author>
+      <name>Lemessa Oljira</name>
+    </author>
+    <author>
+      <name>Alemayehu Worku</name>
+    </author>
+    <author>
+      <name>Yemane Berhane</name>
+    </author>
+    <id>10.1371/journal.pone.0247484</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Tariku Dingeta, Lemessa Oljira, Alemayehu Worku, Yemane Berhane&lt;/p&gt;
+Introduction &lt;p&gt;Despite the increasingly wider availability of contraceptives and the high levels of unmet need for family planning in rural Ethiopia, contraceptive utilization among young married women is low. Studies on associated factors in Ethiopia so far have been focused on individual factors with little emphasis on socio-cultural factors. This study aimed to assess the association between contraceptive utilization and socio-cultural factors among young married women in Eastern Ethiopia.&lt;/p&gt; Methods &lt;p&gt;A community-based survey was conducted among young married women aged 14–24 years. A total of 3039 women were interviewed by trained data collectors using a structured questionnaire. Adjusted Odds Ratio (AOR) with 95% Confidence Intervals (CI) was used to identify factors associated with contraceptive utilization using multivariable logistic regression analysis.&lt;/p&gt; Results &lt;p&gt;The current contraceptive prevalence rate was 14.1% (95% CI: 12.8–15.5). Perceived social approval (AOR = 1.90; 95% CI = 1.60–2.30) and perception of friends’ contraceptive practice (AOR = 1.34; 95% CI: 1.20–1.54) were significantly and positively associated with contraceptive utilization. On the contrary, increased score of belief in contraceptive myths was significantly and negatively associated with contraceptive use (AOR = 0.60; 95% CI: 0.49–0.73). Moreover, recent exposure to family planning information (AOR = 1.67; 95% CI: 1.22–2.28), ever-mother (AOR = 9.68; 95% CI: 4.47–20.90), and secondary and above education level (AOR = 1.90; 95% CI: 1.38–2.70) were significantly associated with higher odds of contraceptive utilization.&lt;/p&gt; Conclusion &lt;p&gt;Only about one-in-seven young married women were using contraceptive methods. Socio-cultural factors significantly influence young married women’s contraceptive utilization. Interventions to address social norms and pervasive myths and misconceptions could increase the use of contraceptive methods in young married women.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>A new approach to measuring absolute pitch on a psychometric theory of isolated pitch perception: Is it disentangling specific groups or capturing a continuous ability?</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247473" title="A new approach to measuring absolute pitch on a psychometric theory of isolated pitch perception: Is it disentangling specific groups or capturing a continuous ability?" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247473.PDF" title="(PDF) A new approach to measuring absolute pitch on a psychometric theory of isolated pitch perception: Is it disentangling specific groups or capturing a continuous ability?" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247473.XML" title="(XML) A new approach to measuring absolute pitch on a psychometric theory of isolated pitch perception: Is it disentangling specific groups or capturing a continuous ability?" />
+    <author>
+      <name>Nayana Di Giuseppe Germano</name>
+    </author>
+    <author>
+      <name>Hugo Cogo-Moreira</name>
+    </author>
+    <author>
+      <name>Fausto Coutinho-Lourenço</name>
+    </author>
+    <author>
+      <name>Graziela Bortz</name>
+    </author>
+    <id>10.1371/journal.pone.0247473</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Nayana Di Giuseppe Germano, Hugo Cogo-Moreira, Fausto Coutinho-Lourenço, Graziela Bortz&lt;/p&gt;
+
+Absolute Pitch (AP) is commonly defined as a rare ability that allows an individual to identify any pitch by name. Most researchers use classificatory tests for AP which tracks the number of isolated correct answers. However, each researcher chooses their own procedure for what should be considered correct or incorrect in measuring this ability. Consequently, it is impossible to evaluate comparatively how the stimuli and criteria classify individuals in the same way. We thus adopted a psychometric perspective, approaching AP as a latent trait. Via the Latent Variable Model, we evaluated the consistency and validity for a measure to test for AP ability. A total of 783 undergraduate music students participated in the test. The test battery comprised 10 isolated pitches. All collected data were analyzed with two different rating criteria (&lt;i&gt;perfect&lt;/i&gt; and &lt;i&gt;imperfect&lt;/i&gt;) under three Latent Variable Model approaches: continuous (Item Response Theory with two and three parameters), categorical (Latent Class Analysis), and the Hybrid model. According to model fit information indices, the &lt;i&gt;perfect&lt;/i&gt; approach (only exact pitch responses as correct) measurement model had a better fit under the trait (continuous) specification. This contradicts the usual assumption of a division between AP and non-AP possessors. Alternatively, the categorical solution for the two classes demonstrated the best solution for the &lt;i&gt;imperfect&lt;/i&gt; approach (exact pitch responses and semitone deviations considered as correct).</content>
+  </entry>
+  <entry>
+    <title>Mathematical modeling of COVID-19 transmission dynamics in Uganda: Implications of complacency and early easing of lockdown</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247456" title="Mathematical modeling of COVID-19 transmission dynamics in Uganda: Implications of complacency and early easing of lockdown" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247456.PDF" title="(PDF) Mathematical modeling of COVID-19 transmission dynamics in Uganda: Implications of complacency and early easing of lockdown" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247456.XML" title="(XML) Mathematical modeling of COVID-19 transmission dynamics in Uganda: Implications of complacency and early easing of lockdown" />
+    <author>
+      <name>Joseph Y. T. Mugisha</name>
+    </author>
+    <author>
+      <name>Joseph Ssebuliba</name>
+    </author>
+    <author>
+      <name>Juliet N. Nakakawa</name>
+    </author>
+    <author>
+      <name>Cliff R. Kikawa</name>
+    </author>
+    <author>
+      <name>Amos Ssematimba</name>
+    </author>
+    <id>10.1371/journal.pone.0247456</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Joseph Y. T. Mugisha, Joseph Ssebuliba, Juliet N. Nakakawa, Cliff R. Kikawa, Amos Ssematimba&lt;/p&gt;
+Background &lt;p&gt;Uganda has a unique set up comprised of resource-constrained economy, social-economic challenges, politically diverse regional neighborhood and home to long-standing refuge crisis that comes from long and protracted conflicts of the great lakes. The devastation of the on-going global pandemic outbreak of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is likely to be escalated by these circumstances with expectations of the impact of the disease being severe.&lt;/p&gt; Materials and methods &lt;p&gt;In this study, we formulate a mathematical model that incorporates the currently known disease characteristics and tracks various intervention measures that the government of Uganda has implemented since the reporting of the first case in March 2020. We then evaluate these measures to understand levels of responsiveness and adherence to standard operating procedures and quantify their impact on the disease burden. Novel in this model was the unique aspect of modeling the trace-and-isolate protocol in which some of the latently infected individuals tested positive while in strict isolation centers thereby reducing their infectious period.&lt;/p&gt; Results &lt;p&gt;The study findings show that even with elimination of all imported cases at any given time it would take up to nine months to rid Uganda of the disease. The findings also show that the optimal timing of easing of lockdowns while mitigating the possibility of re-emergence of a second epidemic wave requires avoiding the scenario of releasing too-many-too-soon. It is even more worrying that enhancing contact tracing would only affect the magnitude and timing of the second wave but cannot prevent it altogether.&lt;/p&gt; Conclusion &lt;p&gt;We conclude that, given the prevailing circumstances, a phased-out lifting of lockdown measures, minimization of COVID-19 transmissibility within hospital settings, elimination of recruitment of infected individuals as well as enhanced contact tracing would be key to preventing overwhelming of the healthcare system that would come with dire consequences.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Implementing a new clinical pathway in a non-receptive context: Mixed methods evaluation of a new fracture pathway for older people in a hospital Trust in the West Midlands, UK</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247455" title="Implementing a new clinical pathway in a non-receptive context: Mixed methods evaluation of a new fracture pathway for older people in a hospital Trust in the West Midlands, UK" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247455.PDF" title="(PDF) Implementing a new clinical pathway in a non-receptive context: Mixed methods evaluation of a new fracture pathway for older people in a hospital Trust in the West Midlands, UK" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247455.XML" title="(XML) Implementing a new clinical pathway in a non-receptive context: Mixed methods evaluation of a new fracture pathway for older people in a hospital Trust in the West Midlands, UK" />
+    <author>
+      <name>Gill Combes</name>
+    </author>
+    <author>
+      <name>Gareth Owen</name>
+    </author>
+    <author>
+      <name>Sarah Damery</name>
+    </author>
+    <author>
+      <name>Sarah Flanagan</name>
+    </author>
+    <author>
+      <name>Celia Brown</name>
+    </author>
+    <author>
+      <name>Graeme Currie</name>
+    </author>
+    <id>10.1371/journal.pone.0247455</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Gill Combes, Gareth Owen, Sarah Damery, Sarah Flanagan, Celia Brown, Graeme Currie&lt;/p&gt;
+Objectives &lt;p&gt;This paper reports a mixed methods evaluation of a new pathway to improve clinical outcomes for older people with fractures treated at a hospital Trust in the West Midlands, UK. The paper focuses specifically on the context surrounding the translation of the new pathway into practice and the way that external and internal factors influenced its adaptation and implementation.&lt;/p&gt; Methods &lt;p&gt;Quantitative analysis used a controlled Interrupted Time Series (ITS) to estimate the effect of the new pathway on patient complication rate, median length of hospital stay and 30-day mortality by comparing the pre- and post-intervention periods. ITS data were extracted from the UK Trauma Audit and Research Network (TARN) database and a patient-level control group identified using propensity score matching. Parallel qualitative analysis aimed to examine the context surrounding the new pathway and how external and internal factors might influence its adaption and implementation into clinical practice. Data were collected via semi-structured interviews (n = 16) undertaken with staff and clinical stakeholders within the Trust and were analysed using the COM-B (Capability, Opportunity, Motivation) model of behaviour.&lt;/p&gt; Results &lt;p&gt;No statistically significant effects were found for any of the patient outcomes studied in the controlled ITS analysis. Qualitative data suggest that the lack of effectiveness of the new initiative can be explained with reference to the capability, opportunity and motivation of internal Trust stakeholders to engage with the pathway, which created a non-receptive environment within the Trust.&lt;/p&gt; Conclusions &lt;p&gt;Successfully implementing new care pathways in environments that may be non-receptive to change requires efforts to be put into winning ‘hearts and minds’ within the organisation to ensure engagement from key stakeholders during intervention development. Evidence must be provided internally of the way that a given intervention will alleviate the problematic issues being experienced within the organisation, and external dissemination of results should be avoided until there is evidence of a positive effect within the organisation where the new care pathway is first implemented.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>The combination of MMSE with VSRAD and eZIS has greater accuracy for discriminating mild cognitive impairment from early Alzheimer’s disease than MMSE alone</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247427" title="The combination of MMSE with VSRAD and eZIS has greater accuracy for discriminating mild cognitive impairment from early Alzheimer’s disease than MMSE alone" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247427.PDF" title="(PDF) The combination of MMSE with VSRAD and eZIS has greater accuracy for discriminating mild cognitive impairment from early Alzheimer’s disease than MMSE alone" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247427.XML" title="(XML) The combination of MMSE with VSRAD and eZIS has greater accuracy for discriminating mild cognitive impairment from early Alzheimer’s disease than MMSE alone" />
+    <author>
+      <name>Keita Tokumitsu</name>
+    </author>
+    <author>
+      <name>Norio Yasui-Furukori</name>
+    </author>
+    <author>
+      <name>Junko Takeuchi</name>
+    </author>
+    <author>
+      <name>Koji Yachimori</name>
+    </author>
+    <author>
+      <name>Norio Sugawara</name>
+    </author>
+    <author>
+      <name>Yoshio Terayama</name>
+    </author>
+    <author>
+      <name>Nobuyuki Tanaka</name>
+    </author>
+    <author>
+      <name>Tatsunori Naraoka</name>
+    </author>
+    <author>
+      <name>Kazutaka Shimoda</name>
+    </author>
+    <id>10.1371/journal.pone.0247427</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Keita Tokumitsu, Norio Yasui-Furukori, Junko Takeuchi, Koji Yachimori, Norio Sugawara, Yoshio Terayama, Nobuyuki Tanaka, Tatsunori Naraoka, Kazutaka Shimoda&lt;/p&gt;
+Background &lt;p&gt;Alzheimer’s disease (AD) is assessed by carefully examining a patient’s cognitive impairment. However, previous studies reported inadequate diagnostic accuracy for dementia in primary care settings. Many hospitals use the automated quantitative evaluation method known as the Voxel-based Specific Regional Analysis System for Alzheimer’s Disease (VSRAD), wherein brain MRI data are used to evaluate brain morphological abnormalities associated with AD. Similarly, an automated quantitative evaluation application called the easy Z-score imaging system (eZIS), which uses brain SPECT data to detect regional cerebral blood flow decreases associated with AD, is widely used. These applications have several indicators, each of which is known to correlate with the degree of AD. However, it is not completely known whether these indicators work better when used in combination in real-world clinical practice.&lt;/p&gt; Methods &lt;p&gt;We included 112 participants with mild cognitive impairment (MCI) and 128 participants with early AD in this study. All participants underwent MRI, SPECT, and the Mini-Mental State Examination (MMSE). Demographic and clinical characteristics were assessed by univariate analysis, and logistic regression analysis with a combination of MMSE, VSRAD and eZIS indicators was performed to verify whether the diagnostic accuracy in discriminating between MCI and early AD was improved.&lt;/p&gt; Results &lt;p&gt;The area under the receiver operating characteristic curve (AUC) for the MMSE score alone was 0.835. The AUC was significantly improved to 0.870 by combining the MMSE score with two quantitative indicators from the VSRAD and eZIS that assessed the extent of brain abnormalities.&lt;/p&gt; Conclusion &lt;p&gt;Compared with the MMSE score alone, the combination of the MMSE score with the VSRAD and eZIS indicators significantly improves the accuracy of discrimination between patients with MCI and early AD. Implementing VSRAD and eZIS does not require professional clinical experience in the treatment of dementia. Therefore, the accuracy of dementia diagnosis by physicians may easily be improved in real-world primary care settings.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Clients’ satisfaction with HIV care and treatment centres in Dar es Salaam, Tanzania: A cross-sectional study</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247421" title="Clients’ satisfaction with HIV care and treatment centres in Dar es Salaam, Tanzania: A cross-sectional study" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247421.PDF" title="(PDF) Clients’ satisfaction with HIV care and treatment centres in Dar es Salaam, Tanzania: A cross-sectional study" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247421.XML" title="(XML) Clients’ satisfaction with HIV care and treatment centres in Dar es Salaam, Tanzania: A cross-sectional study" />
+    <author>
+      <name>Salome E. Buluba</name>
+    </author>
+    <author>
+      <name>Neema E. Mawi</name>
+    </author>
+    <author>
+      <name>Edith A. M. Tarimo</name>
+    </author>
+    <id>10.1371/journal.pone.0247421</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Salome E. Buluba, Neema E. Mawi, Edith A. M. Tarimo&lt;/p&gt;
+Background &lt;p&gt;HIV is a major global public health challenge, claiming the lives of over 32 million people so far. The satisfaction of HIV-affected clients with the quality of their HIV services at treatment centres is crucial for quality improvement. This article assesses clients’ satisfaction with different aspects of the overall care experience and seeks to determine if the type of health facility ownership is a predictor of satisfaction.&lt;/p&gt; Methods &lt;p&gt;A cross-sectional study involving 430 respondents was conducted between September and October 2019. Purposeful and convenient sampling techniques were used to select health facilities and potential respondents, respectively. A pre-tested, interviewer-administered questionnaire was used to collect data. Binary logistic regression was used to assess the association between type of health facility and clients’ satisfaction based on the six assessed aspects of care, and p˂0.05 was considered statistically significant.&lt;/p&gt; Results &lt;p&gt;The general clients’ satisfaction with HIV/AIDS services at care and treatment centres was 92.3%. Respondents from public health facilities were most satisfied with privacy and confidentiality (100%), physical environment (100%), counseling (99.5%) and drug availability (99.5%); respondents from private health facilities were most satisfied with the time spent in the facility (95.9%); while respondents from faith-based health facilities were most satisfied with staff-patient communication (99.2%). However, after adjusting for confounders, only one aspect of care, that of “time spent in the facility,” showed significant association with the type of health facility.&lt;/p&gt; Conclusion &lt;p&gt;Generally, clients’ satisfaction with HIV/AIDS services at care and treatment centres in the Ubungo District, Dar es Salaam was high. This finding should encourage health care providers to maintain high-quality services to sustain clients’ satisfaction.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Molecular characterization and antibiotic resistance of &lt;i&gt;Acinetobacter baumannii&lt;/i&gt; in cerebrospinal fluid and blood</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247418" title="Molecular characterization and antibiotic resistance of &lt;i&gt;Acinetobacter baumannii&lt;/i&gt; in cerebrospinal fluid and blood" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247418.PDF" title="(PDF) Molecular characterization and antibiotic resistance of &lt;i&gt;Acinetobacter baumannii&lt;/i&gt; in cerebrospinal fluid and blood" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247418.XML" title="(XML) Molecular characterization and antibiotic resistance of &lt;i&gt;Acinetobacter baumannii&lt;/i&gt; in cerebrospinal fluid and blood" />
+    <author>
+      <name>Xiaohong Shi</name>
+    </author>
+    <author>
+      <name>Hong Wang</name>
+    </author>
+    <author>
+      <name>Xin Wang</name>
+    </author>
+    <author>
+      <name>Huaiqi Jing</name>
+    </author>
+    <author>
+      <name>Ran Duan</name>
+    </author>
+    <author>
+      <name>Shuai Qin</name>
+    </author>
+    <author>
+      <name>Dongyue Lv</name>
+    </author>
+    <author>
+      <name>Yufeng Fan</name>
+    </author>
+    <author>
+      <name>Zhenzhou Huang</name>
+    </author>
+    <author>
+      <name>Kyle Stirling</name>
+    </author>
+    <author>
+      <name>Lei Zhang</name>
+    </author>
+    <author>
+      <name>Jiazheng Wang</name>
+    </author>
+    <id>10.1371/journal.pone.0247418</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Xiaohong Shi, Hong Wang, Xin Wang, Huaiqi Jing, Ran Duan, Shuai Qin, Dongyue Lv, Yufeng Fan, Zhenzhou Huang, Kyle Stirling, Lei Zhang, Jiazheng Wang&lt;/p&gt;
+
+The increasing prevalence of carbapenem-resistant &lt;i&gt;Acinetobacter baumannii&lt;/i&gt; (CRAB) caused nosocomial infections generate significant comorbidity and can cause death among patients. Current treatment options are limited. These infections pose great difficulties for infection control and clinical treatment. To identify the antimicrobial resistance, carbapenemases and genetic relatedness of &lt;i&gt;Acinetobacter baumannii&lt;/i&gt; isolates from cerebrospinal fluid (CSF) and blood, a total of 50 nonrepetitive CSF isolates and 44 blood isolates were collected. The resistance phenotypes were determined, and polymerase chain reaction (PCR) was performed to examine the mechanisms of carbapenem resistance. Finally, multilocus sequence typing (MLST) was conducted to determine the genetic relatedness of these isolates. It was observed that 88 of the 94 collected isolates were resistant to imipenem or meropenem. Among them, the &lt;i&gt;bla&lt;/i&gt;&lt;sub&gt;OXA-23&lt;/sub&gt; gene was the most prevalent carbapenemase gene, with an observed detection rate of 91.5% (86/94), followed by the &lt;i&gt;bla&lt;/i&gt;&lt;sub&gt;OXA-24&lt;/sub&gt; gene with a 2.1% detection rate (2/94). Among all carbapenem-resistant &lt;i&gt;Acinetobacter baumannii&lt;/i&gt; (CRAB) observations, isolates with the &lt;i&gt;bla&lt;/i&gt;&lt;sub&gt;OXA-23&lt;/sub&gt; gene were resistant to both imipenem and meropenem. Interestingly, isolates positive for the &lt;i&gt;bla&lt;/i&gt;&lt;sub&gt;OXA-24&lt;/sub&gt; gene but negative for the &lt;i&gt;bla&lt;/i&gt;&lt;sub&gt;OXA-23&lt;/sub&gt; gene showed an imipenem-sensitive but meropenem-resistant phenotype. The MLST analysis identified 21 different sequence types (STs), with ST195, ST540 and ST208 most frequently detected (25.5%, 12.8% and 11.7%, respectively). 80 of the 94 isolates (85.1%) were clustered into CC92 which showed a carbapenem resistance phenotype (except AB13). Five novel STs were detected, and most of them belong to CRAB. In conclusion, these findings provide additional observations and epidemiological data of CSF and blood &lt;i&gt;A&lt;/i&gt;. &lt;i&gt;baumannii&lt;/i&gt; strains, which may improve future infection-control measures and aid in potential clinical treatments in hospitals and other clinical settings.</content>
+  </entry>
+  <entry>
+    <title>Effect of inhibition indexed by auditory P300 on transmission of visual sensory information</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247416" title="Effect of inhibition indexed by auditory P300 on transmission of visual sensory information" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247416.PDF" title="(PDF) Effect of inhibition indexed by auditory P300 on transmission of visual sensory information" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247416.XML" title="(XML) Effect of inhibition indexed by auditory P300 on transmission of visual sensory information" />
+    <author>
+      <name>Amirmahmoud Houshmand Chatroudi</name>
+    </author>
+    <author>
+      <name>Reza Rostami</name>
+    </author>
+    <author>
+      <name>Ali Motie Nasrabadi</name>
+    </author>
+    <author>
+      <name>Yuko Yotsumoto</name>
+    </author>
+    <id>10.1371/journal.pone.0247416</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Amirmahmoud Houshmand Chatroudi, Reza Rostami, Ali Motie Nasrabadi, Yuko Yotsumoto&lt;/p&gt;
+
+Early electroencephalographic studies that focused on finding brain correlates of psychic events led to the discovery of the P300. Since then, the P300 has become the focus of many basic and clinical neuroscience studies. However, despite its wide applications, the underlying function of the P300 is not yet clearly understood. One line of research among the many studies that have attempted to elucidate the underlying subroutine of the P300 in the brain has suggested that the physiological function of the P300 is related to inhibition. While some intracranial, behavioral, and event-related potential studies have provided support for this theory, little is known about the inhibitory mechanism. In this study, using alpha event-related desynchronization (ERD) and effective connectivity, based on the causal (one-way directed) relationship between alpha ERD and P300 sources, we demonstrated that P300’s associated inhibition is implemented at a higher information processing stage in a localized brain region. We discuss how inhibition as the primary function of the P300 is not inconsistent with ’resource allocation’ and ’working memory updating’ theories about its cognitive function. In light of our findings regarding the scope and information processing stage of inhibition of the P300, we reconcile the inhibitory account of the P300 with working memory updating theory. Finally, based on the compensatory behavior of alpha ERD at the time of suppression of the P300, we propose two distinct yet complementary working memory mechanisms (inhibition and desynchronizing excitation) that render target perception possible.</content>
+  </entry>
+  <entry>
+    <title>“Dispense antiretrovirals daily!” restructuring the delivery of HIV services to optimize antiretroviral initiation among men in Malawi</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247409" title="“Dispense antiretrovirals daily!” restructuring the delivery of HIV services to optimize antiretroviral initiation among men in Malawi" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247409.PDF" title="(PDF) “Dispense antiretrovirals daily!” restructuring the delivery of HIV services to optimize antiretroviral initiation among men in Malawi" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247409.XML" title="(XML) “Dispense antiretrovirals daily!” restructuring the delivery of HIV services to optimize antiretroviral initiation among men in Malawi" />
+    <author>
+      <name>Alinane Linda Nyondo-Mipando</name>
+    </author>
+    <author>
+      <name>Leticia Suwedi Kapesa</name>
+    </author>
+    <author>
+      <name>Sangwani Salimu</name>
+    </author>
+    <author>
+      <name>Thokozani Kazuma</name>
+    </author>
+    <author>
+      <name>Victor Mwapasa</name>
+    </author>
+    <id>10.1371/journal.pone.0247409</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Alinane Linda Nyondo-Mipando, Leticia Suwedi Kapesa, Sangwani Salimu, Thokozani Kazuma, Victor Mwapasa&lt;/p&gt;
+Background &lt;p&gt;Gender disparities exist in the scale-up and uptake of HIV services with men being disproportionately under-represented in the services. In Eastern and Southern Africa, of the people living with HIV infection, more adult women than men were on treatment highlighting the disparities in HIV services. Delayed initiation of antiretroviral treatment creates a missed opportunity to prevent transmission of HIV while increasing HIV and AIDS-associated morbidity and mortality. The main objective of this study was to assess the strategies that men prefer for Antiretroviral Therapy (ART) initiation in Blantyre, Malawi.&lt;/p&gt; Methods &lt;p&gt;This was a qualitative study conducted in 7 Health facilities in Blantyre from January to July 2017. We selected participants following purposive sampling. We conducted 20 in-depth interviews (IDIs) with men of different HIV statuses, 17 interviews with health care workers (HCWs), and 14 focus group discussions (FGDs) among men of varying HIV statuses. We digitally recorded all the data, transcribed verbatim, managed using NVivo, and analysed it thematically.&lt;/p&gt; Results &lt;p&gt;Restructuring the delivery of antiretroviral (ARVs) treatment and conduct of ART clinics is key to optimizing early initiation of treatment among heterosexual men in Blantyre. The areas requiring restructuring included: Clinic days by offering ARVs daily; Clinic hours to accommodate schedules of men; Clinic layout and flow that preserves privacy and establishment of male-specific clinics; ARV dispensing procedures where clients receive more pills to last them longer than 3 months. Additionally there is need to improve the packaging of ARVs, invent ARVs with less dosing frequency, and dispense ARVs from the main pharmacy. It was further suggested that the test-and-treat strategy be implemented with fidelity and revising the content in counseling sessions with an emphasis on the benefits of ARVs.&lt;/p&gt; Conclusion &lt;p&gt;The success in ART initiation among men will require a restructuring of the current ART services to make them accessible and available for men to initiate treatment. The inclusion of people-centered approaches will ensure that individual preferences are incorporated into the initiation of ARVs. The type, frequency, distribution, and packaging of ARVs should be aligned with other medicines readily available within a health facility to minimize stigma.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Rearing methods and life cycle characteristics of &lt;i&gt;Chironomus&lt;/i&gt; sp. &lt;i&gt;Florida&lt;/i&gt; (Chironomidae: Diptera): A rapid-developing species for laboratory studies</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247382" title="Rearing methods and life cycle characteristics of &lt;i&gt;Chironomus&lt;/i&gt; sp. &lt;i&gt;Florida&lt;/i&gt; (Chironomidae: Diptera): A rapid-developing species for laboratory studies" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247382.PDF" title="(PDF) Rearing methods and life cycle characteristics of &lt;i&gt;Chironomus&lt;/i&gt; sp. &lt;i&gt;Florida&lt;/i&gt; (Chironomidae: Diptera): A rapid-developing species for laboratory studies" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247382.XML" title="(XML) Rearing methods and life cycle characteristics of &lt;i&gt;Chironomus&lt;/i&gt; sp. &lt;i&gt;Florida&lt;/i&gt; (Chironomidae: Diptera): A rapid-developing species for laboratory studies" />
+    <author>
+      <name>Roberto Reyes-Maldonado</name>
+    </author>
+    <author>
+      <name>Bruno Marie</name>
+    </author>
+    <author>
+      <name>Alonso Ramírez</name>
+    </author>
+    <id>10.1371/journal.pone.0247382</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Roberto Reyes-Maldonado, Bruno Marie, Alonso Ramírez&lt;/p&gt;
+
+The species &lt;i&gt;Chironomus&lt;/i&gt; sp. &lt;i&gt;“Florida”&lt;/i&gt; has several qualities that make it a potential aquatic laboratory model to be used in Puerto Rico. Its use as such, however, requires a rearing protocol and life cycle description not previously reported. The present study addresses this lack of information by first describing a rearing method obtained through three years of observations. Next we describe and discuss the life cycle and the effects of temperature and feeding on development. The species has a short life cycle (typically 11 days) and larval stages easily identified using body measurements. Temperature affects the duration of the life cycle, with warm temperatures producing faster development than cold temperatures. The effects of different food concentrations vary: in large water volumes, concentrations of 2 mg/larva/day produce faster developmental times, but at low water volumes, small food concentrations of 0.5 mg/larva/day produce faster developmental times. The rearing protocol and life cycle parameters presented in this study are intended to promote the use of this species as a laboratory model. The fast development of &lt;i&gt;Chironomus&lt;/i&gt; sp. &lt;i&gt;“Florida”&lt;/i&gt; makes it ideal for toxicological studies.</content>
+  </entry>
+  <entry>
+    <title>Image quality and diagnostic value of diffusion-weighted breast magnetic resonance imaging: Comparison of acquired and computed images</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247379" title="Image quality and diagnostic value of diffusion-weighted breast magnetic resonance imaging: Comparison of acquired and computed images" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247379.PDF" title="(PDF) Image quality and diagnostic value of diffusion-weighted breast magnetic resonance imaging: Comparison of acquired and computed images" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247379.XML" title="(XML) Image quality and diagnostic value of diffusion-weighted breast magnetic resonance imaging: Comparison of acquired and computed images" />
+    <author>
+      <name>Hye Shin Ahn</name>
+    </author>
+    <author>
+      <name>Sung Hun Kim</name>
+    </author>
+    <author>
+      <name>Ji Youn Kim</name>
+    </author>
+    <author>
+      <name>Chang Suk Park</name>
+    </author>
+    <author>
+      <name>Robert Grimm</name>
+    </author>
+    <author>
+      <name>Yohan Son</name>
+    </author>
+    <id>10.1371/journal.pone.0247379</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Hye Shin Ahn, Sung Hun Kim, Ji Youn Kim, Chang Suk Park, Robert Grimm, Yohan Son&lt;/p&gt;
+Purpose &lt;p&gt;To compare the image quality of acquired diffusion-weighted imaging (DWI) and computed DWI and evaluate the lesion detectability and likelihood of malignancy in these datasets.&lt;/p&gt; Materials and methods &lt;p&gt;This prospective study was approved by our institutional review board. A total of 29 women (mean age, 43.5 years) underwent DWI between August 2018 and April 2019 for 32 breast cancers and 16 benign breast lesions. Three radiologists independently reviewed the acquired DWI with b-values of 1000 and 2000 s/mm&lt;sup&gt;2&lt;/sup&gt; (A-b1000 and A-b2000) and the computed DWI with a b-value of 2000 s/mm&lt;sup&gt;2&lt;/sup&gt; (C-b2000). Image quality was scored and compared between the three DWI datasets. Lesion detectability was recorded, and the lesion’s likelihood for malignancy was scored using a five-point scale.&lt;/p&gt; Results &lt;p&gt;The A-b1000 images were superior to the A-b2000 and C-b2000 images in chest distinction, fat suppression, and overall image quality. The A-b2000 and C-b2000 images showed comparable scores for all image quality parameters. C-b2000 showed the highest values for lesion detection among all readers, although there was no statistical difference in sensitivity, specificity, positive predictive value, negative predictive value, and accuracy between the DWI datasets. The malignancy scores of the DWI images were not significantly different among the three readers.&lt;/p&gt; Conclusions &lt;p&gt;A-b1000 DWI is suitable for breast lesion evaluations, considering its better image quality and comparable diagnostic values compared to that of A-b2000 and C-b2000 images. The additional use of computed high b-value DWI may have the potential to increase the detectability of breast masses.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Top-down and sideways: Herbivory and cross-ecosystem connectivity shape restoration success at the salt marsh-upland ecotone</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247374" title="Top-down and sideways: Herbivory and cross-ecosystem connectivity shape restoration success at the salt marsh-upland ecotone" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247374.PDF" title="(PDF) Top-down and sideways: Herbivory and cross-ecosystem connectivity shape restoration success at the salt marsh-upland ecotone" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247374.XML" title="(XML) Top-down and sideways: Herbivory and cross-ecosystem connectivity shape restoration success at the salt marsh-upland ecotone" />
+    <author>
+      <name>Kerstin Wasson</name>
+    </author>
+    <author>
+      <name>Karen E. Tanner</name>
+    </author>
+    <author>
+      <name>Andrea Woofolk</name>
+    </author>
+    <author>
+      <name>Sean McCain</name>
+    </author>
+    <author>
+      <name>Justin P. Suraci</name>
+    </author>
+    <id>10.1371/journal.pone.0247374</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Kerstin Wasson, Karen E. Tanner, Andrea Woofolk, Sean McCain, Justin P. Suraci&lt;/p&gt;
+
+Wetland restoration provides remarkable opportunities to understand vegetation dynamics and to inform success of future projects through rigorous restoration experiments. Salt marsh restoration typically focuses on physical factors such as sediment dynamics and elevation. Despite many demonstrations of strong top-down effects on salt marshes, the potential for consumers to affect salt marsh restoration projects has rarely been quantified. Recently, major restoration projects at the Elkhorn Slough National Estuarine Research Reserve in central California, USA provided an opportunity to examine how herbivory influences restoration success. We quantified the strength of consumer effects by comparing caged to uncaged plantings, and compared effects among plant species and sites. We used camera traps to detect which herbivores were most common and how their abundance varied spatially. Beyond characterizing consumer effects, we also tested management strategies for reducing negative effects of herbivory at the restoration sites, including caging, mowing, and acoustic playbacks of predator sounds. We found extremely strong consumer effects at sites with extensive stands of exotic forbs upland of the high marsh; uncaged restoration plants suffered heavy herbivory and high mortality, while most caged plants survived. Brush rabbits (&lt;i&gt;Sylvilagus bachmani&lt;/i&gt;) were by far the most frequent consumers of these high marsh plants. Our work thus provides the first evidence of mammal consumers affecting salt marsh restoration success. Mowing of tall exotic forb cover adjacent to the marsh at one restoration site greatly reduced consumption, and nearly all monitored plantings survived at a second restoration site where construction had temporarily eliminated upland cover. Playbacks of predator sounds did not significantly affect restoration plantings, but restoration efforts in marsh communities vulnerable to terrestrial herbivory may benefit from concurrent restoration of predator communities in the upland habitats surrounding the marsh. A landscape approach is thus critical for recognizing linkages between terrestrial and marine vegetation.</content>
+  </entry>
+  <entry>
+    <title>SARS-CoV-2 viral shedding characteristics and potential evidence for the priority for faecal specimen testing in diagnosis</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247367" title="SARS-CoV-2 viral shedding characteristics and potential evidence for the priority for faecal specimen testing in diagnosis" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247367.PDF" title="(PDF) SARS-CoV-2 viral shedding characteristics and potential evidence for the priority for faecal specimen testing in diagnosis" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247367.XML" title="(XML) SARS-CoV-2 viral shedding characteristics and potential evidence for the priority for faecal specimen testing in diagnosis" />
+    <author>
+      <name>Chen Yuan</name>
+    </author>
+    <author>
+      <name>Hongling Wang</name>
+    </author>
+    <author>
+      <name>Kefeng Li</name>
+    </author>
+    <author>
+      <name>An Tang</name>
+    </author>
+    <author>
+      <name>Yaxin Dai</name>
+    </author>
+    <author>
+      <name>Bing Wu</name>
+    </author>
+    <author>
+      <name>Hui Zhang</name>
+    </author>
+    <author>
+      <name>Jiabei Chen</name>
+    </author>
+    <author>
+      <name>Jienan Liu</name>
+    </author>
+    <author>
+      <name>Wenjie Wu</name>
+    </author>
+    <author>
+      <name>Songye Gu</name>
+    </author>
+    <author>
+      <name>Hai Wang</name>
+    </author>
+    <author>
+      <name>Haodi Xu</name>
+    </author>
+    <author>
+      <name>Mingyu Wu</name>
+    </author>
+    <author>
+      <name>Menglu Yu</name>
+    </author>
+    <author>
+      <name>Yuchao Wang</name>
+    </author>
+    <author>
+      <name>Xinwei Yu</name>
+    </author>
+    <author>
+      <name>Jialu He</name>
+    </author>
+    <author>
+      <name>Shelan Liu</name>
+    </author>
+    <author>
+      <name>Yongli Zhang</name>
+    </author>
+    <author>
+      <name>Zhendong Tong</name>
+    </author>
+    <author>
+      <name>Jianbo Yan</name>
+    </author>
+    <id>10.1371/journal.pone.0247367</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Chen Yuan, Hongling Wang, Kefeng Li, An Tang, Yaxin Dai, Bing Wu, Hui Zhang, Jiabei Chen, Jienan Liu, Wenjie Wu, Songye Gu, Hai Wang, Haodi Xu, Mingyu Wu, Menglu Yu, Yuchao Wang, Xinwei Yu, Jialu He, Shelan Liu, Yongli Zhang, Zhendong Tong, Jianbo Yan&lt;/p&gt;
+
+This study aimed to identify the specimen type that has high positivity and its proper sampling time for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) testing to promote diagnostic efficiency. All SARS-CoV-2-infected patients with a laboratory-confirmed diagnosis in Zhoushan City were followed up for viral shedding in respiratory tract specimens and faecal samples. Positivity was analysed both qualitatively and quantitatively by proper statistical approaches with strong testing power. Viral shedding in respiratory tract and faecal specimens was prolonged to 45 and 40 days after the last exposure, respectively. The overall positive rate in respiratory tract specimens was low and relatively unstable, being higher in the early-to-mid stage than in the mid-to-late stage of the disease course. Compared with respiratory tract specimens, faecal samples had a higher viral load, higher overall positive rate, and more stable positivity in different disease courses and varied symptomatic status. Faecal specimens have the potential ability to surpass respiratory tract specimens in virus detection. Testing of faecal specimens in diagnosis, especially for identifying asymptomatic carriers, is recommended. Simultaneously, testing respiratory tract specimens at the early-to-mid stage is better than testing at the mid-to-late stage of the disease course. A relatively small sample size was noted, and statistical approaches were used to address it. Information was missing for both specimen types at different stages of the disease course due to censored data. Our research extends the observed viral shedding in both specimen types and highlights the importance of faecal specimen testing in SARS-CoV-2 diagnosis. Healthcare workers, patients, and the general public may all benefit from our study findings. Disposal of sewage from hospitals and residential areas should be performed cautiously because the virus sheds in faeces and can last for a long time.</content>
+  </entry>
+  <entry>
+    <title>Magnetic ligand fishing using immobilized DPP-IV for identification of antidiabetic ligands in lingonberry extract</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247329" title="Magnetic ligand fishing using immobilized DPP-IV for identification of antidiabetic ligands in lingonberry extract" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247329.PDF" title="(PDF) Magnetic ligand fishing using immobilized DPP-IV for identification of antidiabetic ligands in lingonberry extract" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247329.XML" title="(XML) Magnetic ligand fishing using immobilized DPP-IV for identification of antidiabetic ligands in lingonberry extract" />
+    <author>
+      <name>Rita de Cássia Lemos Lima</name>
+    </author>
+    <author>
+      <name>Ulrike Böcker</name>
+    </author>
+    <author>
+      <name>Gordon J. McDougall</name>
+    </author>
+    <author>
+      <name>J. William Allwood</name>
+    </author>
+    <author>
+      <name>Nils Kristian Afseth</name>
+    </author>
+    <author>
+      <name>Sileshi Gizachew Wubshet</name>
+    </author>
+    <id>10.1371/journal.pone.0247329</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Rita de Cássia Lemos Lima, Ulrike Böcker, Gordon J. McDougall, J. William Allwood, Nils Kristian Afseth, Sileshi Gizachew Wubshet&lt;/p&gt;
+
+In this work, a new magnetic ligand fishing probe for discovery of DPP-IV inhibitory ligands was developed and it was tested as a proof of concept on the fruit extract of &lt;i&gt;Vaccinium vitis-idaea&lt;/i&gt; (lingonberry). The ligands were shown to have appreciable dipeptidyl peptidase IV (DPP-IV) inhibitory activity (IC&lt;sub&gt;50&lt;/sub&gt;: 31.8 μg mL-1).) Inhibition of DPP-IV is a well-known therapeutic approach for management of type 2 diabetes (T2D). DPP-IV was successfully immobilized onto magnetic beads and was shown to retain its catalytic activity and selectivity over a model mixture. A total of four ligands were successfully fished out and identified as cyanidin-3-galactoside (&lt;i&gt;2&lt;/i&gt;), cyanidin-3-arabinoside (&lt;i&gt;3&lt;/i&gt;), proanthocynidin A (&lt;i&gt;4&lt;/i&gt;), and 10-carboxyl-pyranopeonidin 3-&lt;i&gt;O&lt;/i&gt;-(6″-&lt;i&gt;O&lt;/i&gt;-p-coumaroyl)-glucoside (&lt;i&gt;5&lt;/i&gt;) using HPLC/HRMS.</content>
+  </entry>
+  <entry>
+    <title>Characteristics of sickle cell patients with frequent emergency department visits and hospitalizations</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247324" title="Characteristics of sickle cell patients with frequent emergency department visits and hospitalizations" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247324.PDF" title="(PDF) Characteristics of sickle cell patients with frequent emergency department visits and hospitalizations" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247324.XML" title="(XML) Characteristics of sickle cell patients with frequent emergency department visits and hospitalizations" />
+    <author>
+      <name>Kyle Kidwell</name>
+    </author>
+    <author>
+      <name>Camila Albo</name>
+    </author>
+    <author>
+      <name>Michael Pope</name>
+    </author>
+    <author>
+      <name>Latanya Bowman</name>
+    </author>
+    <author>
+      <name>Hongyan Xu</name>
+    </author>
+    <author>
+      <name>Leigh Wells</name>
+    </author>
+    <author>
+      <name>Nadine Barrett</name>
+    </author>
+    <author>
+      <name>Niren Patel</name>
+    </author>
+    <author>
+      <name>Amy Allison</name>
+    </author>
+    <author>
+      <name>Abdullah Kutlar</name>
+    </author>
+    <id>10.1371/journal.pone.0247324</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Kyle Kidwell, Camila Albo, Michael Pope, Latanya Bowman, Hongyan Xu, Leigh Wells, Nadine Barrett, Niren Patel, Amy Allison, Abdullah Kutlar&lt;/p&gt;
+
+Vaso-occlusive episodes (VOEs) are a hallmark of sickle cell disease (SCD), and account for &gt;90% of health care encounters for this patient population. The Cooperative Study of Sickle Cell Disease, a large study enrolling &gt;3000 patients, showed that the majority of SCD patients (80%) experienced 0–3 major pain crises/year. Only a small minority (~5%) experienced ≥6 VOEs/year. Our study sought to further understand this difference in VOE frequency between SCD patients. We analyzed 25 patients (13M/12F, mean age of 28.8) with ≥6 ED visits or hospitalizations/year (high utilizers), and compared these with 9 patients (6M/3F, mean age of 37.6) who had ≤2 ED visits or hospitalizations/year (low utilizers). All subjects were given a demographic survey along with questionnaires for depression, anxiety, and Health Locus of Control. Each subject then underwent quantitative sensory testing (QST) with three different modalities: pressure pain sensitivity, heat and cold sensitivity, and Von Frey monofilament testing. Laboratory and clinical data were collected through subjects’ medical records. CBC and chemistry analysis showed high utilizers had higher WBC (p&lt;0.01), ANC (p&lt;0.01), total bilirubin (p = 0.02), and lower MCV (p = 0.03). Opioid use (morphine equivalents) over the past 6 months was significantly higher in the high utilizer group (12125.7 mg vs 2423.1 mg, p = 0.005). QST results showed lower pressure pain threshold at the ulna (224.4 KPa vs 338.9 KPa, p = 0.04) in the high utilizer group. High utilizers also had higher anxiety (9.0 vs 4.6, p = 0.04) and depression scores (10.0 vs 6.0, p = 0.051). While the low utilizer group had higher education levels with more associate and bachelor degrees (p = 0.009), there was no difference in income or employment. These data show that many biological and psychosocial factors contribute to high health care utilization in SCD. A multi-disciplinary and multi-faceted approach will be required to address this complex problem.</content>
+  </entry>
+  <entry>
+    <title>Predicting the effects of reservoir water level management on the reproductive output of a riparian songbird</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247318" title="Predicting the effects of reservoir water level management on the reproductive output of a riparian songbird" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247318.PDF" title="(PDF) Predicting the effects of reservoir water level management on the reproductive output of a riparian songbird" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247318.XML" title="(XML) Predicting the effects of reservoir water level management on the reproductive output of a riparian songbird" />
+    <author>
+      <name>Mathew Hepp</name>
+    </author>
+    <author>
+      <name>Eirikur Palsson</name>
+    </author>
+    <author>
+      <name>Sarah K. Thomsen</name>
+    </author>
+    <author>
+      <name>David J. Green</name>
+    </author>
+    <id>10.1371/journal.pone.0247318</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Mathew Hepp, Eirikur Palsson, Sarah K. Thomsen, David J. Green&lt;/p&gt;
+
+Dams and reservoirs alter natural water flow regimes with adverse effects on natural ecosystems. Quantifying and reducing these effects are important as global demands for energy and water, and the number of dams and reservoir, increase. However, costs and logistic constraints typically preclude experimental assessment of reservoir effects on the environment. We developed a stochastic individual-based model (IBM), parameterized using empirical data, to estimate the annual productivity of yellow warblers that breed in riparian habitat within the footprint of the Arrow Lakes Reservoir in British Columbia, Canada. The IBM incorporated information on breeding phenology, nest site selection, brood parasitism, daily nest survival, re-nesting probabilities and post-fledging survival. We used the IBM to estimate the effect of four different water management scenarios on annual productivity. We found that the IBM accurately estimated average nest success (0.39 ± 0.10 SD), the proportion of females that produced at least one fledgling during a breeding season (0.56 ± 0.11), and annual fledging success (2.06 ± 0.43) under current conditions. The IBM estimated that reservoir operations currently reduce the annual productivity of this population by 37%, from an average of 1.62 to 1.06 independent young/female. Delaying when reservoir water levels reach 435m asl (the minimum elevation occupied by yellow warblers) by approximately 2 weeks was predicted to increase annual productivity to 1.44 independent young/female. The standardized effect on annual productivity of reducing the maximum elevation of the reservoir so that yellow warbler habitat is not inundated (Cohen’s d = 1.52) or delaying when water is stored (Cohen’s d = 0.83) was primarily driven by inundation effects on post-fledging survival. Reservoir operation effects on breeding birds will be species specific, but this IBM can easily be modified to allow the environmental impacts on the entire breeding bird community to be incorporated into water management decisions.</content>
+  </entry>
+  <entry>
+    <title>Mental disorders following electrical injuries—A register-based, matched cohort study</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247317" title="Mental disorders following electrical injuries—A register-based, matched cohort study" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247317.PDF" title="(PDF) Mental disorders following electrical injuries—A register-based, matched cohort study" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247317.XML" title="(XML) Mental disorders following electrical injuries—A register-based, matched cohort study" />
+    <author>
+      <name>Karin Biering</name>
+    </author>
+    <author>
+      <name>Jesper Medom Vestergaard</name>
+    </author>
+    <author>
+      <name>Anette Kærgaard</name>
+    </author>
+    <author>
+      <name>Ole Carstensen</name>
+    </author>
+    <author>
+      <name>Kent J. Nielsen</name>
+    </author>
+    <id>10.1371/journal.pone.0247317</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Karin Biering, Jesper Medom Vestergaard, Anette Kærgaard, Ole Carstensen, Kent J. Nielsen&lt;/p&gt;
+Introduction &lt;p&gt;Electrical injuries happen every day in homes and workplaces. Not only may these injuries cause physical damage and disability, they may also cause mental disorders. The aim of this study was to investigate if persons with an electrical injury suffer from mental disorders in the following years.&lt;/p&gt; Material and methods &lt;p&gt;In a prospective matched cohort design, we identified 14.112 electrical injuries in two Danish registries and matched these with persons with dislocation/sprain injuries or eye injuries, respectively, as well as with persons from the workforce from the same occupation, using year of injury, sex and age as matching variables. We identified possible outcomes in terms of mental diagnoses in the Danish National Patient registry, based on literature, including reviews, original studies and case-reports as well as experiences from clinical praxis. The associations were analyzed using conditional cox- and logistic regression.&lt;/p&gt; Results &lt;p&gt;We found that the following of the examined outcomes were associated with exposure to an electrical injury compared to the matched controls. Some of the outcomes showed the strongest associations shortly after the injury, namely ‘mental disorders due to known physiological condition’, ‘anxiety and adjustment disorders’, and especially the ‘Post Traumatic Stress Disorder (PTSD)’ subgroup. The same pattern was seen for ‘Depression’ although the associations were weaker. Other conditions took time to develop (‘Somatoform disorders’), or were only present in the time to event analysis (‘other non-psychotic mental disorders’ and ‘sleep disorders’). The findings were consistent in all three matches, with the highest risk estimates in the occupation match.&lt;/p&gt; Conclusion &lt;p&gt;Electrical injuries may result in mental disorders, both acute and several years after. However, the absolute risk is limited as most of the outcomes are rare.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Observing COVID-19 related behaviors in a high visitor use area of Arches National Park</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247315" title="Observing COVID-19 related behaviors in a high visitor use area of Arches National Park" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247315.PDF" title="(PDF) Observing COVID-19 related behaviors in a high visitor use area of Arches National Park" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247315.XML" title="(XML) Observing COVID-19 related behaviors in a high visitor use area of Arches National Park" />
+    <author>
+      <name>Zachary D. Miller</name>
+    </author>
+    <author>
+      <name>Wayne Freimund</name>
+    </author>
+    <author>
+      <name>Douglas Dalenberg</name>
+    </author>
+    <author>
+      <name>Madison Vega</name>
+    </author>
+    <id>10.1371/journal.pone.0247315</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Zachary D. Miller, Wayne Freimund, Douglas Dalenberg, Madison Vega&lt;/p&gt;
+Introduction &lt;p&gt;Visitation to parks and protected areas is a common COVID-19 coping strategy promoted by state and national public health officials and political leadership. Crowding and congestions in parks has been a perennial problem and the ability to socially distance within them is an unproven assumption. Is it possible to socially distance in a busy national park that has been designed to concentrate use?&lt;/p&gt; Methodology/Principal findings &lt;p&gt;An observational study was conducted in July 2020 at the outside foyer of the Visitor Center of Arches National Park. Motion sensor cameras were placed to record one-minute videos when a person entered the field of view. Number of groups, group size, facial coverings and encounters within 6 feet (1.83 meters) of other groups were recorded. Groups were smaller on average than recorded in previous studies. Approximately 61% of the visitors wore masks. Most groups (69%) were able to experience the visitor center with no intergroup encounters. We model the probability of intergroup encounters and find as group size and number of groups increases, the probability of encounters rises. With four groups present, the probability of one or more encounters ranges from 19% to 40% for common group sizes, while if eight groups are present, the probability of one or more encounters increases from 34% to 64% for common group sizes.&lt;/p&gt; Conclusions/Significance &lt;p&gt;Under conditions in which park visitors have the physical space to avoid close encounters with other groups they are taking advantage of the opportunity. Visitors are minimizing group size, wearing masks, and remaining socially distant. However, encounters increase as the number or the size of the groups increases. In other areas of the parks this ability to avoid encounters may not be as possible. We recommend that park managers continue to appeal for compliance with CDC guidelines, especially the wearing of masks and encouraging visitors to split up into small groups when visiting.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>A knowledge, attitudes, and practices study on ticks and tick-borne diseases in cattle among farmers in a selected area of eastern Bhutan</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247302" title="A knowledge, attitudes, and practices study on ticks and tick-borne diseases in cattle among farmers in a selected area of eastern Bhutan" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247302.PDF" title="(PDF) A knowledge, attitudes, and practices study on ticks and tick-borne diseases in cattle among farmers in a selected area of eastern Bhutan" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247302.XML" title="(XML) A knowledge, attitudes, and practices study on ticks and tick-borne diseases in cattle among farmers in a selected area of eastern Bhutan" />
+    <author>
+      <name>Jamyang Namgyal</name>
+    </author>
+    <author>
+      <name>Tenzin Tenzin</name>
+    </author>
+    <author>
+      <name>Sylvia Checkley</name>
+    </author>
+    <author>
+      <name>Tim J. Lysyk</name>
+    </author>
+    <author>
+      <name>Sangay Rinchen</name>
+    </author>
+    <author>
+      <name>Ratna B. Gurung</name>
+    </author>
+    <author>
+      <name>Sithar Dorjee</name>
+    </author>
+    <author>
+      <name>Isabelle Couloigner</name>
+    </author>
+    <author>
+      <name>Susan C. Cork</name>
+    </author>
+    <id>10.1371/journal.pone.0247302</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Jamyang Namgyal, Tenzin Tenzin, Sylvia Checkley, Tim J. Lysyk, Sangay Rinchen, Ratna B. Gurung, Sithar Dorjee, Isabelle Couloigner, Susan C. Cork&lt;/p&gt;
+
+Livestock farming plays an important role in supporting the livelihood of resource-poor subsistence farmers in Bhutan. However, ticks and tick-borne diseases (TBDs) are one of the major constraints to livestock farming due to their negative effect on health and production. To date, no study has been conducted in Bhutan to assess farmers’ knowledge, attitude, and practices (KAP) about ticks and TBDs in cattle, although such information is essential in ensuring the development and adoption of effective prevention and control measures. Therefore, a KAP survey was conducted among 246 cattle owners in the Samkhar sub-district of eastern Bhutan in June 2019, using a structured questionnaire. Based on our scoring criteria, 52% [95%CI: 45.5–58.4] had adequate knowledge about ticks as potential vectors of diseases. Logistic regression analysis showed that the individuals who practiced a stall-feeding system of cattle rearing were 2.8 times [OR = 2.8 (95%CI: 1.66–4.78)] more likely to have adequate knowledge than others. Sixty-eight percent [95%CI: 62.5–74.4] had a favorable attitude toward tick prevention and control programs. Men were 1.95 times [OR = 1.95 (95%CI: 1.09–3.55)] more likely to have a favorable attitude than women, and the individuals who practiced a stall-feeding system were 2.59 times [OR = 2.59 95%CI: 1.45–4.78)] more likely to have a favorable attitude than others, after adjusting for the effect of other variables in the model. Overall, only 38% [95%CI 32.5–45] of the respondents reported tick infestation as one of the most important animal health problems, but 100% reported using acaricides to control ticks in cattle. Despite a high level of acaricide usage, the level of knowledge was low among the farmers interviewed. Findings from this study underline the importance of considering identified knowledge gaps and initiating education efforts to improve the adoption of effective tick prevention and control measures among farmers.</content>
+  </entry>
+  <entry>
+    <title>Sweet chestnut standardized fractions from sustainable circular process and green tea extract: &lt;i&gt;In vitro&lt;/i&gt; inhibitory activity against phytopathogenic fungi for innovative applications in green agriculture</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247298" title="Sweet chestnut standardized fractions from sustainable circular process and green tea extract: &lt;i&gt;In vitro&lt;/i&gt; inhibitory activity against phytopathogenic fungi for innovative applications in green agriculture" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247298.PDF" title="(PDF) Sweet chestnut standardized fractions from sustainable circular process and green tea extract: &lt;i&gt;In vitro&lt;/i&gt; inhibitory activity against phytopathogenic fungi for innovative applications in green agriculture" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247298.XML" title="(XML) Sweet chestnut standardized fractions from sustainable circular process and green tea extract: &lt;i&gt;In vitro&lt;/i&gt; inhibitory activity against phytopathogenic fungi for innovative applications in green agriculture" />
+    <author>
+      <name>Annalisa Romani</name>
+    </author>
+    <author>
+      <name>Gabriele Simone</name>
+    </author>
+    <author>
+      <name>Margherita Campo</name>
+    </author>
+    <author>
+      <name>Lorenzo Moncini</name>
+    </author>
+    <author>
+      <name>Roberta Bernini</name>
+    </author>
+    <id>10.1371/journal.pone.0247298</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Annalisa Romani, Gabriele Simone, Margherita Campo, Lorenzo Moncini, Roberta Bernini&lt;/p&gt;
+
+In the present study, the antifungal activities of two commercial tannins-rich dry fractions towards different filamentous fungi of agronomical and food interest were evaluated. In particular, a standardized fraction from sweet chestnut (&lt;i&gt;Castanea sativa&lt;/i&gt; Mill.) wood by-products and a commercial green tea (&lt;i&gt;Camellia sinensis&lt;/i&gt; L.) leaf extract were tested at different concentrations (0.1–5.0% and 0.2% w/v respectively). The Sweet Chestnut Wood fraction was produced in an industrial plant through an environmentally and economically sustainable process, involving hot-water extraction and a sequence of membrane filtration steps with different molecular cut-offs for fractionation and concentration of the active principles. The Sweet Chestnut Wood and Green Tea Leaf extracts were characterised &lt;i&gt;via&lt;/i&gt; HPLC/DAD/MS quali-quantitative analysis. The first extract showed a polyphenolic content of 20.5% w/w, 100% hydrolysable tannins; the second one showed a polyphenolic content of 87.5% w/w, of which 96.2% epigallocatechin gallate and 3.8% epicatechin gallate. The antifungal activity of the Sweet Chestnut fraction in aqueous solutions was evaluated towards different filamentous fungi, in particular telluric phytopathogens (&lt;i&gt;Fusarium oxysporum&lt;/i&gt; f. sp. &lt;i&gt;radicis-lycopersici&lt;/i&gt;; &lt;i&gt;Fusarium solani&lt;/i&gt;; &lt;i&gt;Rhizoctonia solani&lt;/i&gt;; &lt;i&gt;Sclerotium rolfsii&lt;/i&gt;) and post harvest pathogens (&lt;i&gt;Botrytis cinerea&lt;/i&gt;, that can also attack field plants; &lt;i&gt;Penicillium digitatum&lt;/i&gt;; &lt;i&gt;Penicillium italicum&lt;/i&gt;), and compared to the activity of Green Tea Leaf extract solutions. The experimental results evidenced, for almost all tested fungi, inhibition of the mycelial growth rate in presence of tannins. The lowest inhibitions were observed for &lt;i&gt;B&lt;/i&gt;. &lt;i&gt;cinerea&lt;/i&gt; (7.5%, to 28.9%) and &lt;i&gt;P&lt;/i&gt;. &lt;i&gt;italicum&lt;/i&gt; (53.8% in 5.0% w/v Sweet Chestnut extract substrate). A proportional inhibitory effect to tannin concentration was observed for &lt;i&gt;F&lt;/i&gt;. &lt;i&gt;oxysporum&lt;/i&gt; f. sp. &lt;i&gt;radicis-lycopersici&lt;/i&gt; and &lt;i&gt;F&lt;/i&gt;. &lt;i&gt;solani&lt;/i&gt; (from 33.7% to 56.6%), &lt;i&gt;R&lt;/i&gt;. &lt;i&gt;solani&lt;/i&gt; (from 29.7% to 68.8%) and &lt;i&gt;P&lt;/i&gt;. &lt;i&gt;digitatum&lt;/i&gt; (64.7% to 87.0%). The highest effect resulted for &lt;i&gt;S&lt;/i&gt;. &lt;i&gt;rolfsii&lt;/i&gt;, (5.0% to 100%).</content>
+  </entry>
+  <entry>
+    <title>A model of infection in honeybee colonies with social immunity</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247294" title="A model of infection in honeybee colonies with social immunity" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247294.PDF" title="(PDF) A model of infection in honeybee colonies with social immunity" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247294.XML" title="(XML) A model of infection in honeybee colonies with social immunity" />
+    <author>
+      <name>Teeraphan Laomettachit</name>
+    </author>
+    <author>
+      <name>Monrudee Liangruksa</name>
+    </author>
+    <author>
+      <name>Teerasit Termsaithong</name>
+    </author>
+    <author>
+      <name>Anuwat Tangthanawatsakul</name>
+    </author>
+    <author>
+      <name>Orawan Duangphakdee</name>
+    </author>
+    <id>10.1371/journal.pone.0247294</id>
+    <updated>2021-02-22T14:00:00Z</updated>
+    <published>2021-02-22T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Teeraphan Laomettachit, Monrudee Liangruksa, Teerasit Termsaithong, Anuwat Tangthanawatsakul, Orawan Duangphakdee&lt;/p&gt;
+
+Honeybees (&lt;i&gt;Apis mellifera&lt;/i&gt;) play a significant role in the pollination of various food crops and plants. In the past decades, honeybee management has been challenged with increased pathogen and environmental pressure associating with increased beekeeping costs, having a marked economic impact on the beekeeping industry. Pathogens have been identified as a contributing cause of colony losses. Evidence suggested a possible route of pathogen transmission among bees via oral-oral contacts through trophallaxis. Here we propose a model that describes the transmission of an infection within a colony when bee members engage in the trophallactic activity to distribute nectar. In addition, we examine two important features of social immunity, defined as collective disease defenses organized by honeybee society. First, our model considers the social segregation of worker bees. The segregation limits foragers, which are highly exposed to pathogens during foraging outside the nest, from interacting with bees residing in the inner parts of the nest. Second, our model includes a hygienic response, by which healthy nurse bees exterminate infected bees to mitigate horizontal transmission of the infection to other bee members. We propose that the social segregation forms the first line of defense in reducing the uptake of pathogens into the colony. If the first line of defense fails, the hygienic behavior provides a second mechanism in preventing disease spread. Our study identifies the rate of egg-laying as a critical factor in maintaining the colony’s health against an infection. We propose that winter conditions which cease or reduce the egg-laying activity combined with an infection in early spring can compromise the social immunity defenses and potentially cause colony losses.</content>
+  </entry>
+</feed>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss1full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.nature.com/~d/styles/itemcontent.css"?><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns="http://purl.org/rss/1.0/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+    <channel rdf:about="http://feeds.nature.com/nchembio/rss/current">
+        <title>Nature Chemical Biology - Issue - nature.com science feeds</title>
+        <description>Nature - the world's best science and medicine on your desktop</description>
+        <link>http://feeds.nature.com/nchembio/rss/current</link>
+        <admin:generatorAgent rdf:resource="http://www.nature.com/" />
+        <admin:errorReportsTo rdf:resource="mailto:feedback@nature.com" />
+        <dc:publisher>Nature Publishing Group</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:rights>© 2021 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.</dc:rights>
+        <prism:publicationName>Nature Chemical Biology</prism:publicationName>
+        
+        
+        <prism:copyright>© 2021 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.</prism:copyright>
+        <prism:rightsAgent>permissions@nature.com</prism:rightsAgent>
+        <image rdf:resource="https://www.nature.com/uploads/product/nchembio/rss.png" />
+        <items>
+            <rdf:Seq>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41589-021-00740-7" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41589-020-00724-z" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41589-020-00728-9" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41589-020-00718-x" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41589-021-00756-z" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41589-021-00736-3" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41589-020-00727-w" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41589-020-00734-x" />
+                
+            </rdf:Seq>
+        </items>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://feeds.nature.com/nchembio/rss/current" /><feedburner:info uri="nchembio/rss/current" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+    <image rdf:about="https://www.nature.com/uploads/product/nchembio/rss.png">
+        <title>Nature Chemical Biology</title>
+        <url>https://www.nature.com/uploads/product/nchembio/rss.png</url>
+        <link>http://feeds.nature.com/nchembio/rss/current</link>
+    </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41589-021-00740-7">
+            <title><![CDATA[Optical control of fast and processive engineered myosins in vitro and in living cells]]></title>
+            <link>http://feeds.nature.com/~r/nchembio/rss/current/~3/aFW9O0tYVNk/s41589-021-00740-7</link>
+            <content:encoded><![CDATA[
+                <p>Nature Chemical Biology, Published online: 18 February 2021; <a href="https://www.nature.com/articles/s41589-021-00740-7">doi:10.1038/s41589-021-00740-7</a></p>High-performance engineered myosins robustly change speed or direction in response to an optical signal. In living cells, these motors localize to the tips of protrusions when illuminated and deliver molecular cargos.<img src="http://feeds.feedburner.com/~r/nchembio/rss/current/~4/aFW9O0tYVNk" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Optical control of fast and processive engineered myosins in vitro and in living cells]]></dc:title>
+            <dc:creator>Paul V. Ruijgrok</dc:creator><dc:creator>Rajarshi P. Ghosh</dc:creator><dc:creator>Sasha Zemsky</dc:creator><dc:creator>Muneaki Nakamura</dc:creator><dc:creator>Rui Gong</dc:creator><dc:creator>Lin Ning</dc:creator><dc:creator>Robert Chen</dc:creator><dc:creator>Vipul T. Vachharajani</dc:creator><dc:creator>Alexander E. Chu</dc:creator><dc:creator>Namrata Anand</dc:creator><dc:creator>Raphael R. Eguchi</dc:creator><dc:creator>Po-Ssu Huang</dc:creator><dc:creator>Michael Z. Lin</dc:creator><dc:creator>Gregory M. Alushin</dc:creator><dc:creator>Jan T. Liphardt</dc:creator><dc:creator>Zev Bryant</dc:creator>
+            <dc:identifier>doi:10.1038/s41589-021-00740-7</dc:identifier>
+            <dc:source>Nature Chemical Biology, Published online: 2021-02-18; | doi:10.1038/s41589-021-00740-7</dc:source>
+            <dc:date>2021-02-18</dc:date>
+            <prism:publicationName>Nature Chemical Biology</prism:publicationName>
+            <prism:doi>10.1038/s41589-021-00740-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41589-021-00740-7</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41589-021-00740-7</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41589-020-00724-z">
+            <title><![CDATA[A community resource for paired genomic and metabolomic data mining]]></title>
+            <link>http://feeds.nature.com/~r/nchembio/rss/current/~3/LOyBn6tgVGU/s41589-020-00724-z</link>
+            <content:encoded><![CDATA[
+                <p>Nature Chemical Biology, Published online: 15 February 2021; <a href="https://www.nature.com/articles/s41589-020-00724-z">doi:10.1038/s41589-020-00724-z</a></p>Genomics and metabolomics are widely used to explore specialized metabolite diversity. The Paired Omics Data Platform is a community initiative to systematically document links between metabolome and (meta)genome data, aiding identification of natural product biosynthetic origins and metabolite structures.<img src="http://feeds.feedburner.com/~r/nchembio/rss/current/~4/LOyBn6tgVGU" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[A community resource for paired genomic and metabolomic data mining]]></dc:title>
+            <dc:creator>Michelle A. Schorn</dc:creator><dc:creator>Stefan Verhoeven</dc:creator><dc:creator>Lars Ridder</dc:creator><dc:creator>Florian Huber</dc:creator><dc:creator>Deepa D. Acharya</dc:creator><dc:creator>Alexander A. Aksenov</dc:creator><dc:creator>Gajender Aleti</dc:creator><dc:creator>Jamshid Amiri Moghaddam</dc:creator><dc:creator>Allegra T. Aron</dc:creator><dc:creator>Saefuddin Aziz</dc:creator><dc:creator>Anelize Bauermeister</dc:creator><dc:creator>Katherine D. Bauman</dc:creator><dc:creator>Martin Baunach</dc:creator><dc:creator>Christine Beemelmanns</dc:creator><dc:creator>J. Michael Beman</dc:creator><dc:creator>María Victoria Berlanga-Clavero</dc:creator><dc:creator>Alex A. Blacutt</dc:creator><dc:creator>Helge B. Bode</dc:creator><dc:creator>Anne Boullie</dc:creator><dc:creator>Asker Brejnrod</dc:creator><dc:creator>Tim S. Bugni</dc:creator><dc:creator>Alexandra Calteau</dc:creator><dc:creator>Liu Cao</dc:creator><dc:creator>Víctor J. Carrión</dc:creator><dc:creator>Raquel Castelo-Branco</dc:creator><dc:creator>Shaurya Chanana</dc:creator><dc:creator>Alexander B. Chase</dc:creator><dc:creator>Marc G. Chevrette</dc:creator><dc:creator>Leticia V. Costa-Lotufo</dc:creator><dc:creator>Jason M. Crawford</dc:creator><dc:creator>Cameron R. Currie</dc:creator><dc:creator>Bart Cuypers</dc:creator><dc:creator>Tam Dang</dc:creator><dc:creator>Tristan de Rond</dc:creator><dc:creator>Alyssa M. Demko</dc:creator><dc:creator>Elke Dittmann</dc:creator><dc:creator>Chao Du</dc:creator><dc:creator>Christopher Drozd</dc:creator><dc:creator>Jean-Claude Dujardin</dc:creator><dc:creator>Rachel J. Dutton</dc:creator><dc:creator>Anna Edlund</dc:creator><dc:creator>David P. Fewer</dc:creator><dc:creator>Neha Garg</dc:creator><dc:creator>Julia M. Gauglitz</dc:creator><dc:creator>Emily C. Gentry</dc:creator><dc:creator>Lena Gerwick</dc:creator><dc:creator>Evgenia Glukhov</dc:creator><dc:creator>Harald Gross</dc:creator><dc:creator>Muriel Gugger</dc:creator><dc:creator>Dulce G. Guillén Matus</dc:creator><dc:creator>Eric J. N. Helfrich</dc:creator><dc:creator>Benjamin-Florian Hempel</dc:creator><dc:creator>Jae-Seoun Hur</dc:creator><dc:creator>Marianna Iorio</dc:creator><dc:creator>Paul R. Jensen</dc:creator><dc:creator>Kyo Bin Kang</dc:creator><dc:creator>Leonard Kaysser</dc:creator><dc:creator>Neil L. Kelleher</dc:creator><dc:creator>Chung Sub Kim</dc:creator><dc:creator>Ki Hyun Kim</dc:creator><dc:creator>Irina Koester</dc:creator><dc:creator>Gabriele M. König</dc:creator><dc:creator>Tiago Leao</dc:creator><dc:creator>Seoung Rak Lee</dc:creator><dc:creator>Yi-Yuan Lee</dc:creator><dc:creator>Xuanji Li</dc:creator><dc:creator>Jessica C. Little</dc:creator><dc:creator>Katherine N. Maloney</dc:creator><dc:creator>Daniel Männle</dc:creator><dc:creator>Christian Martin H.</dc:creator><dc:creator>Andrew C. McAvoy</dc:creator><dc:creator>Willam W. Metcalf</dc:creator><dc:creator>Hosein Mohimani</dc:creator><dc:creator>Carlos Molina-Santiago</dc:creator><dc:creator>Bradley S. Moore</dc:creator><dc:creator>Michael W. Mullowney</dc:creator><dc:creator>Mitchell Muskat</dc:creator><dc:creator>Louis-Félix Nothias</dc:creator><dc:creator>Ellis C. O’Neill</dc:creator><dc:creator>Elizabeth I. Parkinson</dc:creator><dc:creator>Daniel Petras</dc:creator><dc:creator>Jörn Piel</dc:creator><dc:creator>Emily C. Pierce</dc:creator><dc:creator>Karine Pires</dc:creator><dc:creator>Raphael Reher</dc:creator><dc:creator>Diego Romero</dc:creator><dc:creator>M. Caroline Roper</dc:creator><dc:creator>Michael Rust</dc:creator><dc:creator>Hamada Saad</dc:creator><dc:creator>Carmen Saenz</dc:creator><dc:creator>Laura M. Sanchez</dc:creator><dc:creator>Søren Johannes Sørensen</dc:creator><dc:creator>Margherita Sosio</dc:creator><dc:creator>Roderich D. Süssmuth</dc:creator><dc:creator>Douglas Sweeney</dc:creator><dc:creator>Kapil Tahlan</dc:creator><dc:creator>Regan J. Thomson</dc:creator><dc:creator>Nicholas J. Tobias</dc:creator><dc:creator>Amaro E. Trindade-Silva</dc:creator><dc:creator>Gilles P. van Wezel</dc:creator><dc:creator>Mingxun Wang</dc:creator><dc:creator>Kelly C. Weldon</dc:creator><dc:creator>Fan Zhang</dc:creator><dc:creator>Nadine Ziemert</dc:creator><dc:creator>Katherine R. Duncan</dc:creator><dc:creator>Max Crüsemann</dc:creator><dc:creator>Simon Rogers</dc:creator><dc:creator>Pieter C. Dorrestein</dc:creator><dc:creator>Marnix H. Medema</dc:creator><dc:creator>Justin J. J. van der Hooft</dc:creator>
+            <dc:identifier>doi:10.1038/s41589-020-00724-z</dc:identifier>
+            <dc:source>Nature Chemical Biology, Published online: 2021-02-15; | doi:10.1038/s41589-020-00724-z</dc:source>
+            <dc:date>2021-02-15</dc:date>
+            <prism:publicationName>Nature Chemical Biology</prism:publicationName>
+            <prism:doi>10.1038/s41589-020-00724-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41589-020-00724-z</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41589-020-00724-z</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41589-020-00728-9">
+            <title><![CDATA[Peroxiredoxins couple metabolism and cell division in an ultradian cycle]]></title>
+            <link>http://feeds.nature.com/~r/nchembio/rss/current/~3/6JrGy5sn15o/s41589-020-00728-9</link>
+            <content:encoded><![CDATA[
+                <p>Nature Chemical Biology, Published online: 11 February 2021; <a href="https://www.nature.com/articles/s41589-020-00728-9">doi:10.1038/s41589-020-00728-9</a></p>Hydrogen peroxide and peroxiredoxin oxidation levels oscillate during the yeast metabolic cycle, while the absence of peroxiredoxins or the use of thiol oxidants and reductants disrupts metabolic cycling and its coupling with cell division.<img src="http://feeds.feedburner.com/~r/nchembio/rss/current/~4/6JrGy5sn15o" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Peroxiredoxins couple metabolism and cell division in an ultradian cycle]]></dc:title>
+            <dc:creator>Prince Saforo Amponsah</dc:creator><dc:creator>Galal Yahya</dc:creator><dc:creator>Jannik Zimmermann</dc:creator><dc:creator>Marie Mai</dc:creator><dc:creator>Sarah Mergel</dc:creator><dc:creator>Timo Mühlhaus</dc:creator><dc:creator>Zuzana Storchova</dc:creator><dc:creator>Bruce Morgan</dc:creator>
+            <dc:identifier>doi:10.1038/s41589-020-00728-9</dc:identifier>
+            <dc:source>Nature Chemical Biology, Published online: 2021-02-11; | doi:10.1038/s41589-020-00728-9</dc:source>
+            <dc:date>2021-02-11</dc:date>
+            <prism:publicationName>Nature Chemical Biology</prism:publicationName>
+            <prism:doi>10.1038/s41589-020-00728-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41589-020-00728-9</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41589-020-00728-9</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41589-020-00718-x">
+            <title><![CDATA[Structure- and mechanism-guided design of single fluorescent protein-based biosensors]]></title>
+            <link>http://feeds.nature.com/~r/nchembio/rss/current/~3/4VrtrGPr3Do/s41589-020-00718-x</link>
+            <content:encoded><![CDATA[
+                <p>Nature Chemical Biology, Published online: 08 February 2021; <a href="https://www.nature.com/articles/s41589-020-00718-x">doi:10.1038/s41589-020-00718-x</a></p>Using extensive knowledge about the structures and mechanisms of genetically encoded fluorescent biosensors, this Perspective provides guidelines to aid and accelerate the development of an increasingly broad range of high-performance imaging tools.<img src="http://feeds.feedburner.com/~r/nchembio/rss/current/~4/4VrtrGPr3Do" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Structure- and mechanism-guided design of single fluorescent protein-based biosensors]]></dc:title>
+            <dc:creator>Yusuke Nasu</dc:creator><dc:creator>Yi Shen</dc:creator><dc:creator>Luke Kramer</dc:creator><dc:creator>Robert E. Campbell</dc:creator>
+            <dc:identifier>doi:10.1038/s41589-020-00718-x</dc:identifier>
+            <dc:source>Nature Chemical Biology, Published online: 2021-02-08; | doi:10.1038/s41589-020-00718-x</dc:source>
+            <dc:date>2021-02-08</dc:date>
+            <prism:publicationName>Nature Chemical Biology</prism:publicationName>
+            <prism:doi>10.1038/s41589-020-00718-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41589-020-00718-x</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41589-020-00718-x</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41589-021-00756-z">
+            <title><![CDATA[Author Correction: A cytochrome <i>c</i> is the natural electron acceptor for nicotine oxidoreductase]]></title>
+            <link>http://feeds.nature.com/~r/nchembio/rss/current/~3/PAPwz2ihDB8/s41589-021-00756-z</link>
+            <content:encoded><![CDATA[
+                <p>Nature Chemical Biology, Published online: 04 February 2021; <a href="https://www.nature.com/articles/s41589-021-00756-z">doi:10.1038/s41589-021-00756-z</a></p>Author Correction: A cytochrome <i>c</i> is the natural electron acceptor for nicotine oxidoreductase<img src="http://feeds.feedburner.com/~r/nchembio/rss/current/~4/PAPwz2ihDB8" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: A cytochrome <i>c</i> is the natural electron acceptor for nicotine oxidoreductase]]></dc:title>
+            <dc:creator>Mark Dulchavsky</dc:creator><dc:creator>Christopher T. Clark</dc:creator><dc:creator>James C. A. Bardwell</dc:creator><dc:creator>Frederick Stull</dc:creator>
+            <dc:identifier>doi:10.1038/s41589-021-00756-z</dc:identifier>
+            <dc:source>Nature Chemical Biology, Published online: 2021-02-04; | doi:10.1038/s41589-021-00756-z</dc:source>
+            <dc:date>2021-02-04</dc:date>
+            <prism:publicationName>Nature Chemical Biology</prism:publicationName>
+            <prism:doi>10.1038/s41589-021-00756-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41589-021-00756-z</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41589-021-00756-z</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41589-021-00736-3">
+            <title><![CDATA[Synthetic protein quality control to enhance full-length translation in bacteria]]></title>
+            <link>http://feeds.nature.com/~r/nchembio/rss/current/~3/6FkcBUa1ip8/s41589-021-00736-3</link>
+            <content:encoded><![CDATA[
+                <p>Nature Chemical Biology, Published online: 04 February 2021; <a href="https://www.nature.com/articles/s41589-021-00736-3">doi:10.1038/s41589-021-00736-3</a></p>A synthetic protein quality control system (ProQC) uses RNA hybridization to enhance translation of full-length proteins in coupled transcription–translation systems to optimize production of biosynthetic enzymes for metabolic engineering efforts.<img src="http://feeds.feedburner.com/~r/nchembio/rss/current/~4/6FkcBUa1ip8" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Synthetic protein quality control to enhance full-length translation in bacteria]]></dc:title>
+            <dc:creator>Jina Yang</dc:creator><dc:creator>Yong Hee Han</dc:creator><dc:creator>Jongwon Im</dc:creator><dc:creator>Sang Woo Seo</dc:creator>
+            <dc:identifier>doi:10.1038/s41589-021-00736-3</dc:identifier>
+            <dc:source>Nature Chemical Biology, Published online: 2021-02-04; | doi:10.1038/s41589-021-00736-3</dc:source>
+            <dc:date>2021-02-04</dc:date>
+            <prism:publicationName>Nature Chemical Biology</prism:publicationName>
+            <prism:doi>10.1038/s41589-021-00736-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41589-021-00736-3</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41589-021-00736-3</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41589-020-00727-w">
+            <title><![CDATA[Yeast- and antibody-based tools for studying tryptophan C-mannosylation]]></title>
+            <link>http://feeds.nature.com/~r/nchembio/rss/current/~3/HpTveIMez4w/s41589-020-00727-w</link>
+            <content:encoded><![CDATA[
+                <p>Nature Chemical Biology, Published online: 04 February 2021; <a href="https://www.nature.com/articles/s41589-020-00727-w">doi:10.1038/s41589-020-00727-w</a></p>An engineered Pichia pastoris strain enables the synthesis of tryptophan C-mannosylated proteins, and selected monoclonal antibodies provide tools for detecting these modified proteins and studying their functions.<img src="http://feeds.feedburner.com/~r/nchembio/rss/current/~4/HpTveIMez4w" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Yeast- and antibody-based tools for studying tryptophan C-mannosylation]]></dc:title>
+            <dc:creator>Alan John</dc:creator><dc:creator>Michael A. Järvå</dc:creator><dc:creator>Sayali Shah</dc:creator><dc:creator>Runyu Mao</dc:creator><dc:creator>Stephane Chappaz</dc:creator><dc:creator>Richard W. Birkinshaw</dc:creator><dc:creator>Peter E. Czabotar</dc:creator><dc:creator>Alvin W. Lo</dc:creator><dc:creator>Nichollas E. Scott</dc:creator><dc:creator>Ethan D. Goddard-Borger</dc:creator>
+            <dc:identifier>doi:10.1038/s41589-020-00727-w</dc:identifier>
+            <dc:source>Nature Chemical Biology, Published online: 2021-02-04; | doi:10.1038/s41589-020-00727-w</dc:source>
+            <dc:date>2021-02-04</dc:date>
+            <prism:publicationName>Nature Chemical Biology</prism:publicationName>
+            <prism:doi>10.1038/s41589-020-00727-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41589-020-00727-w</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41589-020-00727-w</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41589-020-00734-x">
+            <title><![CDATA[Phospholipase iPLA<sub>2</sub>β averts ferroptosis by eliminating a redox lipid death signal]]></title>
+            <link>http://feeds.nature.com/~r/nchembio/rss/current/~3/gPiKLSTcScs/s41589-020-00734-x</link>
+            <content:encoded><![CDATA[
+                <p>Nature Chemical Biology, Published online: 04 February 2021; <a href="https://www.nature.com/articles/s41589-020-00734-x">doi:10.1038/s41589-020-00734-x</a></p>Ca2+-independent phospholipase A2β cleaves an oxidized form of phosphatidylethanolamine (PE) involved in ferroptosis such that increases in PE sensitize cells to ferroptosis. A mutant allele of the enzyme links neurodegeneration and ferroptosis.<img src="http://feeds.feedburner.com/~r/nchembio/rss/current/~4/gPiKLSTcScs" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Phospholipase iPLA<sub>2</sub>β averts ferroptosis by eliminating a redox lipid death signal]]></dc:title>
+            <dc:creator>Wan-Yang Sun</dc:creator><dc:creator>Vladimir A. Tyurin</dc:creator><dc:creator>Karolina Mikulska-Ruminska</dc:creator><dc:creator>Indira H. Shrivastava</dc:creator><dc:creator>Tamil S. Anthonymuthu</dc:creator><dc:creator>Yu-Jia Zhai</dc:creator><dc:creator>Ming-Hai Pan</dc:creator><dc:creator>Hai-Biao Gong</dc:creator><dc:creator>Dan-Hua Lu</dc:creator><dc:creator>Jie Sun</dc:creator><dc:creator>Wen-Jun Duan</dc:creator><dc:creator>Sergey Korolev</dc:creator><dc:creator>Andrey Y. Abramov</dc:creator><dc:creator>Plamena R. Angelova</dc:creator><dc:creator>Ian Miller</dc:creator><dc:creator>Ofer Beharier</dc:creator><dc:creator>Gao-Wei Mao</dc:creator><dc:creator>Haider H. Dar</dc:creator><dc:creator>Alexandr A. Kapralov</dc:creator><dc:creator>Andrew A. Amoscato</dc:creator><dc:creator>Teresa G. Hastings</dc:creator><dc:creator>Timothy J. Greenamyre</dc:creator><dc:creator>Charleen T. Chu</dc:creator><dc:creator>Yoel Sadovsky</dc:creator><dc:creator>Ivet Bahar</dc:creator><dc:creator>Hülya Bayır</dc:creator><dc:creator>Yulia Y. Tyurina</dc:creator><dc:creator>Rong-Rong He</dc:creator><dc:creator>Valerian E. Kagan</dc:creator>
+            <dc:identifier>doi:10.1038/s41589-020-00734-x</dc:identifier>
+            <dc:source>Nature Chemical Biology, Published online: 2021-02-04; | doi:10.1038/s41589-020-00734-x</dc:source>
+            <dc:date>2021-02-04</dc:date>
+            <prism:publicationName>Nature Chemical Biology</prism:publicationName>
+            <prism:doi>10.1038/s41589-020-00734-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41589-020-00734-x</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41589-020-00734-x</feedburner:origLink></item>
+    
+</rdf:RDF>

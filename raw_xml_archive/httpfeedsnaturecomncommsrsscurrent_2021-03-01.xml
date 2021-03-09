@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss1full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.nature.com/~d/styles/itemcontent.css"?><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns="http://purl.org/rss/1.0/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+    <channel rdf:about="http://feeds.nature.com/ncomms/rss/current">
+        <title>Nature Communications - current - nature.com science feeds</title>
+        <description>Nature Communications is an online-only, multidisciplinary journal dedicated to publishing high-quality research in all areas of the biological, physical and chemical sciences. Papers published by the journal represent important advances of significance to specialists within each field.</description>
+        <link>http://feeds.nature.com/ncomms/rss/current</link>
+        <admin:generatorAgent rdf:resource="http://www.nature.com/" />
+        <admin:errorReportsTo rdf:resource="mailto:feedback@nature.com" />
+        <dc:publisher>Nature Publishing Group</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:rights>© 2021 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.</dc:rights>
+        <prism:publicationName>Nature Communications</prism:publicationName>
+        
+        
+        <prism:copyright>© 2021 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.</prism:copyright>
+        <prism:rightsAgent>permissions@nature.com</prism:rightsAgent>
+        <image rdf:resource="https://www.nature.com/uploads/product/ncomms/rss.png" />
+        <items>
+            <rdf:Seq>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21676-5" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21497-6" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21650-1" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21591-9" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21634-1" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21587-5" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21618-1" />
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41467-021-21646-x" />
+                
+            </rdf:Seq>
+        </items>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://feeds.nature.com/ncomms/rss/current" /><feedburner:info uri="ncomms/rss/current" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+    <image rdf:about="https://www.nature.com/uploads/product/ncomms/rss.png">
+        <title>Nature Communications</title>
+        <url>https://www.nature.com/uploads/product/ncomms/rss.png</url>
+        <link>http://feeds.nature.com/ncomms/rss/current</link>
+    </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21676-5">
+            <title><![CDATA[Thermochromic aggregation-induced dual phosphorescence via temperature-dependent <i>sp</i><sup>3</sup>-linked donor-acceptor electronic coupling]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/vUjDR4OV3mQ/s41467-021-21676-5</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 01 March 2021; <a href="https://www.nature.com/articles/s41467-021-21676-5">doi:10.1038/s41467-021-21676-5</a></p>Aggregation-induced emission (AIE) has proven to be a viable strategy to achieve highly efficient room temperature phosphorescence (RTP) in bulk by restricting molecular motions. Here, the authors present an RTP design strategy by combining the concept of AIE and donor-acceptor motif and demonstrate unusual thermochromic dual phosphorescence.<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/vUjDR4OV3mQ" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Thermochromic aggregation-induced dual phosphorescence via temperature-dependent <i>sp</i><sup>3</sup>-linked donor-acceptor electronic coupling]]></dc:title>
+            <dc:creator>Tao Wang</dc:creator><dc:creator>Zhubin Hu</dc:creator><dc:creator>Xiancheng Nie</dc:creator><dc:creator>Linkun Huang</dc:creator><dc:creator>Miao Hui</dc:creator><dc:creator>Xiang Sun</dc:creator><dc:creator>Guoqing Zhang</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21676-5</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-01; | doi:10.1038/s41467-021-21676-5</dc:source>
+            <dc:date>2021-03-01</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21676-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21676-5</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21676-5</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21497-6">
+            <title><![CDATA[Immunomodulating nano-adaptors potentiate antibody-based cancer immunotherapy]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/oVHgY9qKfZk/s41467-021-21497-6</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 01 March 2021; <a href="https://www.nature.com/articles/s41467-021-21497-6">doi:10.1038/s41467-021-21497-6</a></p>Current strategies to boost anti-tumor immune response include the use of immune checkpoint inhibitors and bispecific T cell-engaging antibodies. Here the authors describe a versatile antibody immobilization nanoplatform that can be used to deliver different combinations of immunotherapeutics, showing therapeutic superiority in pre-clinical models.<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/oVHgY9qKfZk" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Immunomodulating nano-adaptors potentiate antibody-based cancer immunotherapy]]></dc:title>
+            <dc:creator>Cheng-Tao Jiang</dc:creator><dc:creator>Kai-Ge Chen</dc:creator><dc:creator>An Liu</dc:creator><dc:creator>Hua Huang</dc:creator><dc:creator>Ya-Nan Fan</dc:creator><dc:creator>Dong-Kun Zhao</dc:creator><dc:creator>Qian-Ni Ye</dc:creator><dc:creator>Hou-Bing Zhang</dc:creator><dc:creator>Cong-Fei Xu</dc:creator><dc:creator>Song Shen</dc:creator><dc:creator>Meng-Hua Xiong</dc:creator><dc:creator>Jin-Zhi Du</dc:creator><dc:creator>Xian-Zhu Yang</dc:creator><dc:creator>Jun Wang</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21497-6</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-01; | doi:10.1038/s41467-021-21497-6</dc:source>
+            <dc:date>2021-03-01</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21497-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21497-6</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21497-6</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21650-1">
+            <title><![CDATA[Identification of leukemic and pre-leukemic stem cells by clonal tracking from single-cell transcriptomics]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/5EVfqM2bRkk/s41467-021-21650-1</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 01 March 2021; <a href="https://www.nature.com/articles/s41467-021-21650-1">doi:10.1038/s41467-021-21650-1</a></p>Leukaemic stem cells drive acute myeloid leukaemia (AML) progression and relapse but they are incompletely characterized. Here, the authors combine single-cell transcriptomics and clonal tracking using nuclear and mitochondrial somatic variants to distinguish healthy, pre-leukaemic and leukaemic stem cells in AML.<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/5EVfqM2bRkk" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Identification of leukemic and pre-leukemic stem cells by clonal tracking from single-cell transcriptomics]]></dc:title>
+            <dc:creator>Lars Velten</dc:creator><dc:creator>Benjamin A. Story</dc:creator><dc:creator>Pablo Hernández-Malmierca</dc:creator><dc:creator>Simon Raffel</dc:creator><dc:creator>Daniel R. Leonce</dc:creator><dc:creator>Jennifer Milbank</dc:creator><dc:creator>Malte Paulsen</dc:creator><dc:creator>Aykut Demir</dc:creator><dc:creator>Chelsea Szu-Tu</dc:creator><dc:creator>Robert Frömel</dc:creator><dc:creator>Christoph Lutz</dc:creator><dc:creator>Daniel Nowak</dc:creator><dc:creator>Johann-Christoph Jann</dc:creator><dc:creator>Caroline Pabst</dc:creator><dc:creator>Tobias Boch</dc:creator><dc:creator>Wolf-Karsten Hofmann</dc:creator><dc:creator>Carsten Müller-Tidow</dc:creator><dc:creator>Andreas Trumpp</dc:creator><dc:creator>Simon Haas</dc:creator><dc:creator>Lars M. Steinmetz</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21650-1</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-01; | doi:10.1038/s41467-021-21650-1</dc:source>
+            <dc:date>2021-03-01</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21650-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21650-1</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21650-1</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21591-9">
+            <title><![CDATA[Differential regulation of β-catenin-mediated transcription via N- and C-terminal co-factors governs identity of murine intestinal epithelial stem cells]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/jJm1_NA4Stk/s41467-021-21591-9</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 01 March 2021; <a href="https://www.nature.com/articles/s41467-021-21591-9">doi:10.1038/s41467-021-21591-9</a></p>How downstream regulators of Wnt/β-catenin signalling control the fate of intestinal epithelial stem cells (IESCs) is unclear. Here, the authors show that the transcriptional co-factors interacting with the N- and C-terminal domains of β-catenin differentially regulate Wnt target gene activation, in turn differentially affecting the murine IESC proliferation and differentiation.<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/jJm1_NA4Stk" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Differential regulation of β-catenin-mediated transcription via N- and C-terminal co-factors governs identity of murine intestinal epithelial stem cells]]></dc:title>
+            <dc:creator>Costanza Borrelli</dc:creator><dc:creator>Tomas Valenta</dc:creator><dc:creator>Kristina Handler</dc:creator><dc:creator>Karelia Vélez</dc:creator><dc:creator>Alessandra Gurtner</dc:creator><dc:creator>Giulia Moro</dc:creator><dc:creator>Atefeh Lafzi</dc:creator><dc:creator>Laura de Vargas Roditi</dc:creator><dc:creator>George Hausmann</dc:creator><dc:creator>Isabelle C. Arnold</dc:creator><dc:creator>Andreas E. Moor</dc:creator><dc:creator>Konrad Basler</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21591-9</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-01; | doi:10.1038/s41467-021-21591-9</dc:source>
+            <dc:date>2021-03-01</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21591-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21591-9</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21591-9</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21634-1">
+            <title><![CDATA[S-Trimer, a COVID-19 subunit vaccine candidate, induces protective immunity in nonhuman primates]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/rzZ1pvfS8Wo/s41467-021-21634-1</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 01 March 2021; <a href="https://www.nature.com/articles/s41467-021-21634-1">doi:10.1038/s41467-021-21634-1</a></p>Vaccines for SARS-CoV-2 are needed to fight the pandemic. Here the authors show immunogenicity of an adjuvanted subunit vaccine, SARS-CoV-2 spike protein trimerized with trimer-tag technology, in small animal models and protection from SARS-CoV-2 challenge in non-human primates.<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/rzZ1pvfS8Wo" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[S-Trimer, a COVID-19 subunit vaccine candidate, induces protective immunity in nonhuman primates]]></dc:title>
+            <dc:creator>Joshua G. Liang</dc:creator><dc:creator>Danmei Su</dc:creator><dc:creator>Tian-Zhang Song</dc:creator><dc:creator>Yilan Zeng</dc:creator><dc:creator>Weijin Huang</dc:creator><dc:creator>Jinhua Wu</dc:creator><dc:creator>Rong Xu</dc:creator><dc:creator>Peiwen Luo</dc:creator><dc:creator>Xiaofang Yang</dc:creator><dc:creator>Xiaodong Zhang</dc:creator><dc:creator>Shuangru Luo</dc:creator><dc:creator>Ying Liang</dc:creator><dc:creator>Xinglin Li</dc:creator><dc:creator>Jiaju Huang</dc:creator><dc:creator>Qiang Wang</dc:creator><dc:creator>Xueqin Huang</dc:creator><dc:creator>Qingsong Xu</dc:creator><dc:creator>Mei Luo</dc:creator><dc:creator>Anliang Huang</dc:creator><dc:creator>Dongxia Luo</dc:creator><dc:creator>Chenyan Zhao</dc:creator><dc:creator>Fan Yang</dc:creator><dc:creator>Jian-Bao Han</dc:creator><dc:creator>Yong-Tang Zheng</dc:creator><dc:creator>Peng Liang</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21634-1</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-01; | doi:10.1038/s41467-021-21634-1</dc:source>
+            <dc:date>2021-03-01</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21634-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21634-1</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21634-1</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21587-5">
+            <title><![CDATA[DNA stability: a central design consideration for DNA data storage systems]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/1Evlz56270k/s41467-021-21587-5</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 01 March 2021; <a href="https://www.nature.com/articles/s41467-021-21587-5">doi:10.1038/s41467-021-21587-5</a></p>DNA has the potential to store vast amounts of data but it is subject to physical decay. In this Perspective, the authors propose that the stability of DNA should be a key consideration in how it is used for data storage.<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/1Evlz56270k" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[DNA stability: a central design consideration for DNA data storage systems]]></dc:title>
+            <dc:creator>Karishma Matange</dc:creator><dc:creator>James M. Tuck</dc:creator><dc:creator>Albert J. Keung</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21587-5</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-01; | doi:10.1038/s41467-021-21587-5</dc:source>
+            <dc:date>2021-03-01</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21587-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21587-5</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21587-5</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21618-1">
+            <title><![CDATA[Photocatalysis-mediated drug-free sustainable cancer therapy using nanocatalyst]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/02_dbRpvI1c/s41467-021-21618-1</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 01 March 2021; <a href="https://www.nature.com/articles/s41467-021-21618-1">doi:10.1038/s41467-021-21618-1</a></p>Nanoparticles have been used to reduce the toxicity associated with chemotherapeutic agents. Here, the authors report a Z-scheme SnS1.68-WO2.41 nanocatalyst for photocatalytic generation of oxidative holes and hydrogen molecules for drug-free therapeutic strategy.<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/02_dbRpvI1c" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Photocatalysis-mediated drug-free sustainable cancer therapy using nanocatalyst]]></dc:title>
+            <dc:creator>Bin Zhao</dc:creator><dc:creator>Yingshuai Wang</dc:creator><dc:creator>Xianxian Yao</dc:creator><dc:creator>Danyang Chen</dc:creator><dc:creator>Mingjian Fan</dc:creator><dc:creator>Zhaokui Jin</dc:creator><dc:creator>Qianjun He</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21618-1</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-01; | doi:10.1038/s41467-021-21618-1</dc:source>
+            <dc:date>2021-03-01</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21618-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21618-1</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21618-1</feedburner:origLink></item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41467-021-21646-x">
+            <title><![CDATA[Observation of magnetic adatom-induced Majorana vortex and its hybridization with field-induced Majorana vortex in an iron-based superconductor]]></title>
+            <link>http://feeds.nature.com/~r/ncomms/rss/current/~3/IYgLcj6PhCo/s41467-021-21646-x</link>
+            <content:encoded><![CDATA[
+                <p>Nature Communications, Published online: 01 March 2021; <a href="https://www.nature.com/articles/s41467-021-21646-x">doi:10.1038/s41467-021-21646-x</a></p>Braiding Majorana modes is essential for topological quantum computing, but it remains difficult to find a suitable platform. Here, the authors report the evidence of hybridization between field-induced and magnetic adatom induced Majorana modes in an iron-based superconductor FeTe0.55Se0.45, providing a possible single-material platform for braiding Majorana modes.<img src="http://feeds.feedburner.com/~r/ncomms/rss/current/~4/IYgLcj6PhCo" height="1" width="1" alt=""/>]]></content:encoded>
+            <dc:title><![CDATA[Observation of magnetic adatom-induced Majorana vortex and its hybridization with field-induced Majorana vortex in an iron-based superconductor]]></dc:title>
+            <dc:creator>Peng Fan</dc:creator><dc:creator>Fazhi Yang</dc:creator><dc:creator>Guojian Qian</dc:creator><dc:creator>Hui Chen</dc:creator><dc:creator>Yu-Yang Zhang</dc:creator><dc:creator>Geng Li</dc:creator><dc:creator>Zihao Huang</dc:creator><dc:creator>Yuqing Xing</dc:creator><dc:creator>Lingyuan Kong</dc:creator><dc:creator>Wenyao Liu</dc:creator><dc:creator>Kun Jiang</dc:creator><dc:creator>Chengmin Shen</dc:creator><dc:creator>Shixuan Du</dc:creator><dc:creator>John Schneeloch</dc:creator><dc:creator>Ruidan Zhong</dc:creator><dc:creator>Genda Gu</dc:creator><dc:creator>Ziqiang Wang</dc:creator><dc:creator>Hong Ding</dc:creator><dc:creator>Hong-Jun Gao</dc:creator>
+            <dc:identifier>doi:10.1038/s41467-021-21646-x</dc:identifier>
+            <dc:source>Nature Communications, Published online: 2021-03-01; | doi:10.1038/s41467-021-21646-x</dc:source>
+            <dc:date>2021-03-01</dc:date>
+            <prism:publicationName>Nature Communications</prism:publicationName>
+            <prism:doi>10.1038/s41467-021-21646-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41467-021-21646-x</prism:url>
+        <feedburner:origLink>https://www.nature.com/articles/s41467-021-21646-x</feedburner:origLink></item>
+    
+</rdf:RDF>

@@ -1,0 +1,61 @@
+<?xml-stylesheet type='text/xsl' href='https://www.journals.elsevier.com:443/Content/Xslt/Rss.xslt'?>
+<rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Fitoterapia</title>
+    <link>https://www.journals.elsevier.com/fitoterapia/rss</link>
+    <description>A list of the latest news</description>
+    <language>en-GB</language>
+    <copyright>Elsevier B.V.</copyright>
+    <tagData>
+      <journalIssn>0367326x</journalIssn>
+      <journalName>fitoterapia</journalName>
+      <pageBusinessUnit>ELS:STMJ:JMKT</pageBusinessUnit>
+      <pageEnvironment>prod</pageEnvironment>
+      <pageExtendedName>marketing:news:rss</pageExtendedName>
+      <pageLanguage>en</pageLanguage>
+      <pageLoadTimestamp>1614035752888</pageLoadTimestamp>
+      <pageName>marketing:news</pageName>
+      <pageNoTracking>false</pageNoTracking>
+      <pageProductName>JC</pageProductName>
+      <pageTestId>blue</pageTestId>
+      <pageType>MP-CP</pageType>
+      <visitorIpAddress>50.68.174.180</visitorIpAddress>
+      <tagScriptPath>https://assets.adobedtm.com/4a848ae9611a/4da1513b0562/launch-a536f9fbceee.min.js</tagScriptPath>
+    </tagData>
+    <item>
+      <link>https://www.journals.elsevier.com/fitoterapia/news/access-the-csearch-robot-referee</link>
+      <title>News: Access the CSEARCH-Robot-Referee</title>
+      <description>&lt;p&gt;
+	Access the CSEARCH-Robot-Referee performing a structure verification based on the 13C-NMR peaklist&lt;/p&gt;</description>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 Z</pubDate>
+    </item>
+    <item>
+      <link>https://www.journals.elsevier.com/fitoterapia/news/access-the-spectral-similarity-search</link>
+      <title>News: Access the Spectral Similarity Search</title>
+      <description>&lt;p&gt;
+	The "Spectral Similarity Search" retrieves best-fitting structure proposals out of 234 million of predicted spectra and ranks them according to the difference between the query peaklist and the predicted chemical shift values.&lt;/p&gt;</description>
+      <pubDate>Fri, 11 Jan 2019 00:00:00 Z</pubDate>
+    </item>
+    <item>
+      <link>https://www.journals.elsevier.com/fitoterapia/news/symposium</link>
+      <title>News: Symposium Learning from Nature, learning from our Ancestors; from tradition to evidence based medicines</title>
+      <description>&lt;p&gt;
+	This symposium is particularly meant to set standards for research in this multidisciplinary field by having leading scientists of the monodisciplines speaking about the latest developments in their field so we can learn how these might be used in the natural products research.&lt;/p&gt;</description>
+      <pubDate>Wed, 10 Feb 2016 10:00:00 Z</pubDate>
+    </item>
+    <item>
+      <link>https://www.journals.elsevier.com/fitoterapia/news/the-european-society-of-integrative-medicine-esim-is-announc</link>
+      <title>News: The European Society of Integrative Medicine (ESIM) is announcing an innovative award “Excellence in Integrative Medicine Research Award”</title>
+      <description>&lt;p&gt;
+	The European Society of Integrative Medicine (ESIM) is announcing an innovative award “Excellence in Integrative Medicine Research Award”, generously supported by Biologische Heilmittel Heel GmbH. This international prize will recognize innovative and excellent scientific projects in the field of integrative medicine (cooperation of conventional and complementary medicine). Two different categories will be rewarded with 10.000 Euro each: one focusing on basic research, and the other focusing on clinical research.&lt;/p&gt;</description>
+      <pubDate>Wed, 08 Apr 2015 14:00:00 +0100</pubDate>
+    </item>
+    <item>
+      <link>https://www.journals.elsevier.com/fitoterapia/news/some-like-it-pungent-and-vile</link>
+      <title>News: Some like it pungent and vile. TRPA1 as a molecular target for the malodorous vinyl disulfides from asafoetida</title>
+      <description>&lt;p&gt;
+	&lt;em&gt;Ferula assa-foetida&lt;/em&gt; L. is a major source of asafoetida, a foul-smelling gum-resin of dietary and medicinal relevance. Investigation of the roots and latex of &lt;em&gt;F. assa-foetida&lt;/em&gt; afforded various mixed vinyl disulfides, including two novel asadisulfide-type esters (&lt;strong&gt;3c&lt;/strong&gt; and &lt;strong&gt;3d&lt;/strong&gt;).&lt;/p&gt;</description>
+      <pubDate>Tue, 10 Sep 2013 00:00:00 +0100</pubDate>
+    </item>
+  </channel>
+</rss>

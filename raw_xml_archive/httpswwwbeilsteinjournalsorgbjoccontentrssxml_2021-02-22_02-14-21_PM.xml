@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+
+
+
+<title>BJOC - Error</title>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta charset="UTF-8" />
+<meta name="description" content="The Beilstein Journal of Organic Chemistry is a peer-reviewed Open Access journal with no fees for authors." />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+<link rel="apple-touch-icon" sizes="57x57" href="/bjoc/theme/css/images/apple-touch-icon-57.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="/bjoc/theme/css/images/apple-touch-icon-72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="/bjoc/theme/css/images/apple-touch-icon-76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/bjoc/theme/css/images/apple-touch-icon-114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="/bjoc/theme/css/images/apple-touch-icon-120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="/bjoc/theme/css/images/apple-touch-icon-144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/bjoc/theme/css/images/apple-touch-icon-152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/bjoc/theme/css/images/apple-touch-icon-180.png" />
+
+<link rel="shortcut icon" sizes="196x196" href="/bjoc/theme/css/images/android-icon.png" />
+
+<meta name="msapplication-square70x70logo" content="/bjoc/theme/css/images/smalltile.png" />
+<meta name="msapplication-square150x150logo" content="/bjoc/theme/css/images/mediumtile.png" />
+<meta name="msapplication-wide310x150logo" content="/bjoc/theme/css/images/widetile.png" />
+<meta name="msapplication-square310x310logo" content="/bjoc/theme/css/images/largetile.png" />
+
+
+
+<link rel="stylesheet" href="/bjoc/theme/css/bjoc.css" />
+<link rel="stylesheet" href="/bjoc/css/style.css" />
+<link rel="stylesheet" href="/bjoc/css/shariff.complete.css" />
+
+<link rel="icon" href="/bjoc/theme/css/images/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/bjoc/theme/css/images/favicon.ico" type="image/x-icon" />
+
+
+<script src="/bjoc/bower_components/jquery/dist/jquery.js"></script>
+<script src="/bjoc/bower_components/jquery-once/jquery.once.js"></script>
+<script src="/bjoc/bower_components/matchHeight/dist/jquery.matchHeight.js"></script>
+<script src="/bjoc/bower_components/bootstrap-sass/assets/javascripts/bootstrap.js" defer="defer"></script>
+
+<script src="/bjoc/bower_components/lightgallery/dist/js/lightgallery.min.js" defer="defer"></script>
+<script src="/bjoc/bower_components/lightgallery/dist/js/lg-thumbnail.min.js" defer="defer"></script>
+<script src="/bjoc/bower_components/lightgallery/dist/js/lg-zoom.min.js" defer="defer"></script>
+
+<script src="/bjoc/bower_components/slick-carousel/slick/slick.js"></script>
+<script src="/bjoc/bower_components/bootstrap-datepicker/js/bootstrap-datepicker.js"></script>
+<script src="/bjoc/bower_components/lunr.js/lunr.min.js"></script>
+
+<script src="/bjoc/theme/js/beilstein.js" defer="defer"></script>
+<script src="/bjoc/theme/js/main.js" defer="defer"></script>
+
+<script src="/bjoc/js/bs-sessionStorage.js"></script>
+
+<script>
+    var Beilstein = Beilstein || { 'settings': {}, 'behaviors': {}, 'locale': {} };
+</script>
+
+<script>
+jQuery(function($){
+	var clearStorage = false
+	var clearBCList =null
+
+  if(checkSessionStorage() === undefined){
+    return;
+  }
+		
+	if(clearStorage){
+		clearPublicIdList();
+	}
+
+	if(clearBCList){
+		clearBreadCrumbList();
+	}
+});
+</script>
+
+</head>
+<body onunload="">
+
+  
+		<nav class="navbar navbar-default">
+			<div class="container">
+
+				
+				<div class="row">
+					<div class="col-md-10 col-lg-10">
+						<div class="navbar-header ">
+							<div class="row">
+								<div class="col-xs-10 col-sm-7 col-md-10">
+
+									<a href="/bjoc/home" class="navbar-brand"> <img class="hidden-xs hidden-sm  img-responsive" alt="Logo Beilstein"
+										src="/bjoc/theme/css/images/logo-bjoc.png" /> <img
+										class="visible-xs visible-sm   img-responsive" alt="Logo Beilstein" src="/bjoc/theme/css/images/logo-bjoc-s.png" />
+									</a>
+								</div>
+
+								<div class="hidden-xs col-sm-4 col-md-2">
+									<a href="/bjoc/openAccess" class="navbar-brand pull-right hidden-xs hidden-md hidden-lg"> <img class="img img-responsive"
+										alt="Platinum Open Access" src="/bjoc/theme/css/images/openAccess-logo.png" />
+									</a>
+								</div>
+								<div class="col-xs-2 col-sm-1">
+									<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+										<span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+									</button>
+								</div>
+							</div>
+							
+						</div>
+						
+					</div>
+					
+
+					<div class=" col-md-2 col-lg-2">
+						<a href="/bjoc/openAccess" class="navbar-brand pull-right hidden-xs hidden-sm "> <img class="img-responsive" alt="Platinum Open Access"
+							src="/bjoc/theme/css/images/openAccess-logo.png" />
+						</a>
+					</div>
+					
+				</div>
+				
+
+				
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					<ul class="nav navbar-nav">
+						<li><a href="/bjoc/">Home<span class="sr-only">(current)</span></a></li>
+
+						<li class="dropdown"><a href="#" class="dropdown-toggle js-dropdown-open"
+							data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Articles <span class="glyphicon glyphicon-triangle-bottom"></span></a>
+							<ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
+
+								<li><a href="/bjoc/latest">Latest Articles</a></li>
+								<li><a href="/bjoc/topten">Most Accessed</a></li>
+								<li><a href="/bjoc/series">Thematic Issues</a></li>
+								<li><a href="/bjoc/volumes">Volumes</a></li>
+								<li><a href="/bjoc/authors">Authors</a></li>
+
+							</ul></li>
+
+						<li class="hidden-xs"><a
+							href="/bjoc/submissionOverview">Submission</a></li>
+
+						<li class="dropdown"><a href="#" class="dropdown-toggle js-dropdown-open"
+							data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="glyphicon glyphicon-triangle-bottom"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="/bjoc/theJournal">The BJOC</a></li>
+								<li><a href="/bjoc/openAccess">Platinum Open Access</a></li>
+								<li><a href="/bjoc/statistics">Journal Statistics</a></li>
+								<li><a href="/bjoc/boardMembers">Editorial Board</a></li>
+								<li><a href="/bjoc/callForPapers">Call for Papers</a></li>
+							</ul></li>
+
+					</ul>
+
+					<ul class="nav navbar-nav navbar-right">
+						<li>
+							<form class="navbar-form navbar-right" role="search" action="/bjoc/search" method="get" accept-charset="utf-8">
+								<div class="form-group">
+									<input type="text" maxlength="200" class="form-control" id="quicksearch" name="q" placeholder="/ Quick Search" />
+								</div>
+							</form>
+						</li>
+
+						<li class="hidden-xs"><a href="/bjoc/search">Advanced Search</a></li>
+
+						
+							<li class="hidden-xs"><a
+								href="/bjoc/login">Alerts</a></li>
+
+							
+						
+
+						
+
+					</ul>
+				</div>
+				
+
+			</div>
+			
+		</nav>
+	
+
+  <script type="text/javascript">
+    if (!cookiesEnabled()) {
+     document.write('<br/><div class="container"><div class="alert alert-warning">Please enable Javascript and Cookies to allow this site to work correctly!</div></div>');          
+    }
+  </script>
+
+  <noscript>
+    <br/>
+    <div class="container">
+      <div class="alert alert-warning">Please enable Javascript and Cookies to allow this site to work correctly!</div>
+    </div>
+  </noscript>
+
+  <div class="container">
+
+    
+    <div class="row">
+      <span class="col-md-12 breadcrumb">&nbsp;</span>
+    </div>
+  
+
+    <div class="row">
+      <div class="col-md-12">
+        <h1 class="hero inverted"></h1>
+        <div class="alert alert-warning margin-bottom__large" role="alert">
+          <p>
+            <strong></strong>
+          </p>
+          <p>
+            Please use the navigation above or go to the <a href="/bjoc/home">home page</a>.
+          </p>
+        </div>
+
+        
+
+      </div>
+    </div>
+
+  </div>
+
+  
+    <div class="container-full container-full__dark inverted">
+      
+      <div class="container">
+
+
+          
+          
+        <div class="row">
+          <div class="col-sm-12">
+            <h2 class="hero inverted">Other Beilstein-Institut Open Science Activities</h2>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-sm-6 col-md-3">
+            <div class="panel">
+              <div class="panel-body also-visit-img">
+                <a target="_blank" href="http://www.bjnano.org"> <img
+                  src="/bjoc/theme/css/images/logo-bjnano-s.png" alt="Logo" /> <span class="bigtarget"></span>
+                </a> 
+              </div>
+            </div>
+          </div>
+          
+          <div class="col-sm-6 col-md-3">
+            <div class="panel">
+              <div class="panel-body also-visit-img">
+                <a target="_blank" href="http://www.beilstein-institut.de/en"><img
+                  src="/bjoc/theme/css/images/logo-binstitut.png" alt="Logo" /><span class="bigtarget"></span></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3">
+            <div class="panel">
+              <div class="panel-body also-visit-img">
+                <a target="_blank" href="https://www.beilstein-archives.org/xiv/"> <img
+                  src="/bjoc/theme/css/images/logo-pp-s.png" alt="Logo" /><span class="bigtarget"></span></a>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6 col-md-3">
+            <div class="panel">
+              <div class="panel-body also-visit-img">
+                <a target="_blank" href="https://www.beilstein-institut.de/en/symposia"> <img
+                  src="/bjoc/theme/css/images/logo-symposia.png" alt="Logo" /><span class="bigtarget"></span></a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+          
+          
+          
+          <div class="row">
+            <div class="col-sm-12">
+              <h2 class="hero">Keep Informed</h2>
+              <div class="row">
+
+                <div class="col-sm-3 keepInformedMargin">
+                  <p>
+                    <strong>RSS Feed</strong>
+                  </p>
+                  <p>
+                    Subscribe to our <em>Latest Articles</em> RSS Feed.
+                  </p>
+                  <a class="btn btn-default" href="/bjoc/content/rss.xml"><span class="fa fa-rss"></span> Subscribe</a>
+                </div>
+
+                <div class="col-sm-3 hidden-xs  keepInformedMargin">
+                  <p>
+                    <strong>Email Notification</strong>
+                  </p>
+                  <p>Register and get informed about new articles.</p>
+                  <a class="btn btn-default" href="/bjoc/register">Register</a>
+                </div>
+
+                <div class="col-sm-3 keepInformedMargin">
+                  <p>
+                    <strong>Follow the Beilstein-Institut</strong>
+                  </p>
+                  <p>
+                    <a href="https://www.linkedin.com/company/beilstein-institut" target="_blank">LinkedIn</a>
+                  </p>
+                  <p>
+                    Twitter: <a href="https://twitter.com/@BeilsteinInst" target="_blank">@BeilsteinInst</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+          
+          
+        </div>
+        
+      </div>
+  
+
+  <div>
+
+    <footer class="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-4 hidden-xs">
+            <a href="/bjoc/home"> <img class="img-responsive" src="/bjoc/theme/css/images/logo-bjoc-s.png" />
+            </a>
+          </div>
+          <div class="col-sm-8 col-xs-12">
+            <ul class="footer-nav">
+              <li class="hidden-xs"><a href="/bjoc/hints">Help</a></li>
+              <li><a href="/bjoc/support">Support &amp; Contact</a></li>
+              <li class="hidden-xs"><a href="/bjoc/login">Alerts</a></li>
+              
+            </ul>
+            <ul class="footer-nav">
+              <li><a href="/bjoc/privacyPolicy">Privacy Policy</a></li>
+              <li><a href="/bjoc/terms">Terms &amp; Conditions</a></li>
+              <li><a href="/bjoc/impressum">Impressum</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </div>
+  
+  <!-- Piwik -->
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.kemhost.de/" : "http://piwik.kemhost.de/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 3);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script>
+<noscript><p><img src="http://piwik.kemhost.de/piwik.php?idsite=3" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tracking Code -->
+
+
+  <script src="/bjoc/js/shariff.min.js"></script>
+  
+  
+
+</body>
+</html>
+

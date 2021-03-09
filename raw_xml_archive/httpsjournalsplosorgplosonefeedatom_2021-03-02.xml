@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>PLOS ONE</title>
+  <link rel="alternate" href="https://journals.plos.org/plosone/" />
+  <author>
+    <name>PLOS</name>
+    <uri>https://journals.plos.org/plosone/</uri>
+    <email>webmaster@plos.org</email>
+  </author>
+  <subtitle type="text">accelerating the publication of peer-reviewed science</subtitle>
+  <id>http://journals.plos.org/plosone/feed/atom</id>
+  <rights>All PLOS articles are Open Access.</rights>
+  <icon>https://journals.plos.org/plosone/resource/img/favicon.ico</icon>
+  <logo>https://journals.plos.org/plosone/resource/img/favicon.ico</logo>
+  <updated>2021-03-02T17:22:21Z</updated>
+  <entry>
+    <title>Blockchain in manufacturing quality control: A computer simulation study</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247925" title="Blockchain in manufacturing quality control: A computer simulation study" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247925.PDF" title="(PDF) Blockchain in manufacturing quality control: A computer simulation study" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247925.XML" title="(XML) Blockchain in manufacturing quality control: A computer simulation study" />
+    <author>
+      <name>Pooi-Mun Wong</name>
+    </author>
+    <author>
+      <name>Shreya R. K. Sinha</name>
+    </author>
+    <author>
+      <name>Chee-Kong Chui</name>
+    </author>
+    <id>10.1371/journal.pone.0247925</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Pooi-Mun Wong, Shreya R. K. Sinha, Chee-Kong Chui&lt;/p&gt;
+
+Blockchain has been applied to quality control in manufacturing, but the problems of false defect detections and lack of data transparency remain. This paper proposes a framework, Blockchain Quality Controller (BCQC), to overcome these limitations while fortifying data security. BCQC utilizes blockchain and Internet-of-Things to form a peer-to-peer supervision network. This paper also proposes a consensus algorithm, Quality Defect Tolerance (QDT), to adopt blockchain for during-production quality control. Simulation results show that BCQC enhances data security and improves defect detections. Although the time taken for the quality control process increases with the number of nodes in blockchain, the application of QDT allows multiple inspections on a workpiece to be consolidated at a faster pace, effectively speeding up the entire quality control process. The BCQC and QDT can improve the quality of parts produced for mass personalization manufacturing.</content>
+  </entry>
+  <entry>
+    <title>Measurement of the adult human midbrain with transcranial ultrasound</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247920" title="Measurement of the adult human midbrain with transcranial ultrasound" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247920.PDF" title="(PDF) Measurement of the adult human midbrain with transcranial ultrasound" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247920.XML" title="(XML) Measurement of the adult human midbrain with transcranial ultrasound" />
+    <author>
+      <name>Karl Aoun</name>
+    </author>
+    <author>
+      <name>Kay L. Double</name>
+    </author>
+    <author>
+      <name>Verity Pearson-Dennett</name>
+    </author>
+    <author>
+      <name>Rezzak Yilmaz</name>
+    </author>
+    <author>
+      <name>Daniela Berg</name>
+    </author>
+    <author>
+      <name>Gabrielle Todd</name>
+    </author>
+    <id>10.1371/journal.pone.0247920</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Karl Aoun, Kay L. Double, Verity Pearson-Dennett, Rezzak Yilmaz, Daniela Berg, Gabrielle Todd&lt;/p&gt;
+Background &lt;p&gt;Transcranial sonography is increasingly used to aid clinical diagnoses of movement disorders, for example, to identify an enlarged area of substantia nigra echogenicity in patients with Parkinson’s disease.&lt;/p&gt; Objective &lt;p&gt;The current study investigated characteristics of the midbrain at the anatomical plane for quantification of substantia nigra echogenicity. METHODS: Area of substantia nigra echogenicity, cross-sectional area of the midbrain, and interpeduncular angle were quantified in two groups of adults aged 18–50 years: 47 healthy non-drug-using controls (control group) and 22 individuals with a history of methamphetamine use (methamphetamine group), a cohort with a high prevalence of enlarged substantia nigra echogenicity and thus risk of Parkinson’s disease.&lt;/p&gt; Results &lt;p&gt;In the control group, cross-sectional area of the midbrain (4.47±0.44 cm&lt;sup&gt;2&lt;/sup&gt;) and interpeduncular angle were unaffected by age, sex, or image acquisition side. In the methamphetamine group, cross-sectional midbrain area (4.72±0.60 cm&lt;sup&gt;2&lt;/sup&gt;) and area of substantia nigra echogenicity were enlarged compared to the control group, and the enlargement was sex-dependent (larger in males than females). Whole midbrain area and interpeduncular angle were found to be weak predictors of area of substantia nigra echogenicity after accounting for group and sex.&lt;/p&gt; Conclusions &lt;p&gt;History of methamphetamine use is associated with an enlarged midbrain and area of substantia nigra echogenicity, and the abnormality is more pronounced in males than females. Thus, males may be more susceptible to methamphetamine-induced changes to the brainstem, and risk of Parkinson’s disease, than females.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>The diagnostic function of intravoxel incoherent motion for distinguishing between pilocytic astrocytoma and ependymoma</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247899" title="The diagnostic function of intravoxel incoherent motion for distinguishing between pilocytic astrocytoma and ependymoma" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247899.PDF" title="(PDF) The diagnostic function of intravoxel incoherent motion for distinguishing between pilocytic astrocytoma and ependymoma" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247899.XML" title="(XML) The diagnostic function of intravoxel incoherent motion for distinguishing between pilocytic astrocytoma and ependymoma" />
+    <author>
+      <name>Nguyen Minh Duc</name>
+    </author>
+    <id>10.1371/journal.pone.0247899</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Nguyen Minh Duc&lt;/p&gt;
+Introduction &lt;p&gt;Intravoxel incoherent motion (IVIM) imaging concurrently measures diffusion and perfusion parameters and has potential applications for brain tumor classification. However, the effectiveness of IVIM for the differentiation between pilocytic astrocytoma and ependymoma has not been verified. The aim of this study was to determine the potential diagnostic role of IVIM for the distinction between ependymoma and pilocytic astrocytoma.&lt;/p&gt; Methods &lt;p&gt;Between February 2019 and October 2020, 22 children (15 males and 7 females; median age 4 years) with either ependymoma or pilocytic astrocytoma were recruited for this prospective study. IVIM parameters were fitted using 7 b-values (0–1,500 s/mm&lt;sup&gt;2&lt;/sup&gt;), to develop a bi-exponential model. The diffusivity (D), perfusion fraction (&lt;i&gt;f&lt;/i&gt;), and pseudo diffusivity (D*) were measured in both tumors and the adjacent normal-appearing parenchyma. These IVIM parameters were compared using the Mann-Whitney U test. Receiver operating characteristic (ROC) curve analysis was employed to assess diagnostic performance.&lt;/p&gt; Results &lt;p&gt;The median D values for ependymoma and pilocytic astrocytoma were 0.87 and 1.25 × 10&lt;sup&gt;−3&lt;/sup&gt; mm&lt;sup&gt;2&lt;/sup&gt;/s (p &lt; 0.05), respectively, whereas the &lt;i&gt;f&lt;/i&gt; values were 0.11% and 0.15% (p &lt; 0.05). The ratios of the median D values for ependymoma and pilocytic astrocytoma relative to the median D values for the adjacent, normal-appearing parenchyma were 1.45 and 2.10 (p &lt; 0.05), respectively. ROC curve analysis found that the D value had the best diagnostic performance for the differentiation between pilocytic astrocytoma and ependymoma, with an area under the ROC curve of 1.&lt;/p&gt; Conclusion &lt;p&gt;IVIM is a beneficial, effective, non-invasive, and endogenous-contrast imaging technique. The D value derived from IVIM was the most essential factor for differentiating ependymoma from pilocytic astrocytoma.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Association of electronic cigarette exposure with serum uric acid level and hyperuricemia: 2016-2017 Korea National Health and Nutritional Examination Survey</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247868" title="Association of electronic cigarette exposure with serum uric acid level and hyperuricemia: 2016-2017 Korea National Health and Nutritional Examination Survey" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247868.PDF" title="(PDF) Association of electronic cigarette exposure with serum uric acid level and hyperuricemia: 2016-2017 Korea National Health and Nutritional Examination Survey" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247868.XML" title="(XML) Association of electronic cigarette exposure with serum uric acid level and hyperuricemia: 2016-2017 Korea National Health and Nutritional Examination Survey" />
+    <author>
+      <name>Taeyun Kim</name>
+    </author>
+    <author>
+      <name>Yunkyung Kim</name>
+    </author>
+    <author>
+      <name>Jihun Kang</name>
+    </author>
+    <id>10.1371/journal.pone.0247868</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Taeyun Kim, Yunkyung Kim, Jihun Kang&lt;/p&gt;
+Objectives &lt;p&gt;The present study evaluated the association of electronic cigarette (EC) exposure with serum uric acid (UA) level and hyperuricemia (HUA) using a nationally representative sample of South Korea.&lt;/p&gt; Methods &lt;p&gt;This study included 10,692 participants (9,905, 609, and 178, never, ever, and current EC users, respectively). Urinary cotinine and 4-(methylnitrosamino)-1-(3-pyridyl)-1-butanol (NNAL) levels were used to determine conventional smoking exposure among EC users. The association between EC use and UA level was evaluated by linear regression analysis. Multivariable logistic regression analysis was used to assess the association between EC and HUA. Subgroup analysis confined to cotinine-verified active smokers was performed to address the association between the dual use of EC and combustible cigarettes and serum UA levels.&lt;/p&gt; Results &lt;p&gt;The serum UA level was highest among current EC users, followed by ever and never EC users. The prevalence of HUA was 26.2%, 19.3%, and 10.8% in current, ever, and never EC users, respectively. Although EC exposure was positively associated with HUA in a dose-dependent manner only in men (&lt;i&gt;P&lt;/i&gt;&lt;sub&gt;trend&lt;/sub&gt; = 0.04), a similar tendency was also observed in women with marginal significance (&lt;i&gt;P&lt;/i&gt;&lt;sub&gt;trend&lt;/sub&gt; = 0.102). The positive association of HUA with EC exposure was more apparent among dual users (odds ratio [OR] = 1.96, 95% confidence interval [CI]: 1.29–2.99) than among those who only smoked combustible cigarettes.&lt;/p&gt; Conclusions &lt;p&gt;EC exposure was associated with higher serum UA level and higher OR of HUA. The positive association between EC exposure and HUA was more prominent in dual users who concurrently consumed EC and combustible cigarettes.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>EGFR mutation-guided use of afatinib, erlotinib and gefitinib for advanced non-small-cell lung cancer in Hong Kong – A cost-effectiveness analysis</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247860" title="EGFR mutation-guided use of afatinib, erlotinib and gefitinib for advanced non-small-cell lung cancer in Hong Kong – A cost-effectiveness analysis" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247860.PDF" title="(PDF) EGFR mutation-guided use of afatinib, erlotinib and gefitinib for advanced non-small-cell lung cancer in Hong Kong – A cost-effectiveness analysis" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247860.XML" title="(XML) EGFR mutation-guided use of afatinib, erlotinib and gefitinib for advanced non-small-cell lung cancer in Hong Kong – A cost-effectiveness analysis" />
+    <author>
+      <name>Joyce H. S. You</name>
+    </author>
+    <author>
+      <name>William C. S. Cho</name>
+    </author>
+    <author>
+      <name>Wai-kit Ming</name>
+    </author>
+    <author>
+      <name>Yu-chung Li</name>
+    </author>
+    <author>
+      <name>Chung-kong Kwan</name>
+    </author>
+    <author>
+      <name>Kwok-hung Au</name>
+    </author>
+    <author>
+      <name>Joseph Siu-kie Au</name>
+    </author>
+    <id>10.1371/journal.pone.0247860</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Joyce H. S. You, William C. S. Cho, Wai-kit Ming, Yu-chung Li, Chung-kong Kwan, Kwok-hung Au, Joseph Siu-kie Au&lt;/p&gt;
+Introduction &lt;p&gt;Tyrosine kinase inhibitors (TKIs) therapy targets at epidermal growth factor receptor (EGFR) gene mutations in non-small-cell lung cancer (NSCLC). We aimed to compare the EGFR mutation-guided target therapy versus empirical chemotherapy for first-line treatment of advanced NSCLC in the public healthcare setting of Hong Kong.&lt;/p&gt; Methods &lt;p&gt;A Markov model was designed to simulate outcomes of a hypothetical cohort of advanced (stage IIIB/IV) NSCLC adult patients with un-tested EGFR-sensitizing mutation status. Four treatment strategies were evaluated: Empirical first-line chemotherapy with cisplatin-pemetrexed (empirical chemotherapy group), and EGFR mutation-guided use of a TKI (afatinib, erlotinib, and gefitinib). Model outcome measures were direct medical cost, progression-free survival, overall survival, and quality-adjusted life-years (QALYs). Incremental cost per QALY gained (ICER) was estimated. Sensitivity analyses were performed to examine robustness of model results.&lt;/p&gt; Results &lt;p&gt;Empirical chemotherapy and EGFR mutation-guided gefitinib gained lower QALYs at higher costs than the erlotinib group. Comparing with EGFR mutation-guided erlotinib, the afatinib strategy gained additional QALYs with ICER (540,633 USD/QALY). In 10,000 Monte Carlo simulations for probabilistic sensitivity analysis, EGFR mutation-guided afatinib, erlotinib, gefitinib and empirical chemotherapy were preferred strategy in 0%, 98%, 0% and 2% of time at willingness-to-pay (WTP) 47,812 USD/QALY (1x gross domestic product (GDP) per capita), and in 30%, 68%, 2% and 0% of time at WTP 143,436 USD/QALY (3x GDP per capita), respectively.&lt;/p&gt; Conclusions &lt;p&gt;EGFR mutation-guided erlotinib appears to be the cost-effective strategy from the perspective of Hong Kong public healthcare provider over a broad range of WTP.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Rotational stability of modified toric intraocular lens</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247844" title="Rotational stability of modified toric intraocular lens" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247844.PDF" title="(PDF) Rotational stability of modified toric intraocular lens" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247844.XML" title="(XML) Rotational stability of modified toric intraocular lens" />
+    <author>
+      <name>Ryoko Osawa</name>
+    </author>
+    <author>
+      <name>Tetsuro Oshika</name>
+    </author>
+    <author>
+      <name>Masahiko Sano</name>
+    </author>
+    <author>
+      <name>Takuma Yuguchi</name>
+    </author>
+    <author>
+      <name>Tadayoshi Kaiya</name>
+    </author>
+    <id>10.1371/journal.pone.0247844</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Ryoko Osawa, Tetsuro Oshika, Masahiko Sano, Takuma Yuguchi, Tadayoshi Kaiya&lt;/p&gt;
+
+We evaluated the rotational stability of a new toric intraocular lens (IOL), HOYA XY-1 toric IOL that is an improved version of HOYA 355 toric IOL, with longer overall length (13.0 mm vs. 12.5 mm), shortened unfolding time, and texture processing of the surface of haptics. Data from 193 eyes of 165 patients (76.4 ± 8.3 years old) with preoperative corneal astigmatism exceeding 0.75 diopters who had undergone phacoemulsification and toric IOL implantation were collected and analyzed. Corneal astigmatism, refractive astigmatism, and uncorrected (UDVA) and corrected distance visual acuity (CDVA) were evaluated before and 1 day, 1 week, and 1 month after surgery. The degree of IOL decentration, IOL tilt, and toric axis misalignment was assessed at 1 day and 1 month postoperatively. Fifty eyes received AcrySof toric IOL, 51 eyes TECNIS toric IOL, 46 eyes HOYA 355 toric IOL, and 46 eyes HOYA XY-1 toric IOL. The amount of axis misalignment from the intended axis was significantly different among IOLs (p = 0.004, one-way ANOVA), and HOYA XY-1 showed significantly less amount of axis misalignment than TECNIS (p = 0.020, Tukey’s multiple comparison) and HOYA 355 (p = 0.010). The proportion of eyes that showed axis misalignment &lt;10° at 1 month postoperatively was significantly higher with HOYA XY-1 toric IOL than with other toric IOLs (χ&lt;sup&gt;2&lt;/sup&gt; test, p = 0.020). HOYA XY-1 toric IOL, the modified version of HOYA 355 toric IOL, showed excellent rotational stability in comparison with other models of toric IOLs.</content>
+  </entry>
+  <entry>
+    <title>The impact of public coverage of newer hepatitis C medications on utilization, adherence, and costs in British Columbia</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247843" title="The impact of public coverage of newer hepatitis C medications on utilization, adherence, and costs in British Columbia" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247843.PDF" title="(PDF) The impact of public coverage of newer hepatitis C medications on utilization, adherence, and costs in British Columbia" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247843.XML" title="(XML) The impact of public coverage of newer hepatitis C medications on utilization, adherence, and costs in British Columbia" />
+    <author>
+      <name>Harriet Ho</name>
+    </author>
+    <author>
+      <name>Naveed Z. Janjua</name>
+    </author>
+    <author>
+      <name>Kimberlyn M. McGrail</name>
+    </author>
+    <author>
+      <name>Mark Harrison</name>
+    </author>
+    <author>
+      <name>The BC Hepatitis Testers Cohort Team</name>
+    </author>
+    <author>
+      <name>Michael R. Law</name>
+    </author>
+    <id>10.1371/journal.pone.0247843</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Harriet Ho, Naveed Z. Janjua, Kimberlyn M. McGrail, Mark Harrison, The BC Hepatitis Testers Cohort Team , Michael R. Law&lt;/p&gt;
+Background &lt;p&gt;Sofosbuvir and ledipasvir-sofosbuvir are both newer direct-acting antiviral agents for the treatment of hepatitis C. The high list prices for both drugs have led to concern about the budget impact for public drug coverage programs. Therefore, we studied the impact of public prescription drug coverage for both drugs on utilization, adherence, and public and private expenditure in British Columbia, Canada.&lt;/p&gt; Methods &lt;p&gt;We used provincial administrative claims data from January 2014 to June 2017 for all individuals historically tested for either hepatitis C and/or human immunodeficiency virus. Using interrupted time series analysis, we examined the impact of public insurance coverage on treatment uptake, adherence (proportion of days covered), and public and private expenditures.&lt;/p&gt; Results &lt;p&gt;Over our study period, 4,462 treatment initiations were eligible for analysis (1,131 sofosbuvir and 3,331 ledipasvir-sofosbuvir, which include 19 patients initiated on both treatments). We found the start of public coverage for sofosbuvir and ledipasvir-sofosbuvir increased treatment uptake by 154%. Adherence rates were consistently high and did not change with public coverage. Finally, public expenditure increased after the policy change, and crowded out some private expenditure.&lt;/p&gt; Conclusion &lt;p&gt;Public coverage for high-cost drugs for hepatitis C dramatically increased use of these drugs, but did not reduce adherence. From a health policy perspective, public payers should be prepared for increased treatment uptake following the availability of public coverage. However, they should not be concerned that populations without private insurance coverage will be less adherent and not finish their treatment course.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>SNX25 regulates proinflammatory cytokine expression via the NF-κB signal in macrophages</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247840" title="SNX25 regulates proinflammatory cytokine expression via the NF-κB signal in macrophages" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247840.PDF" title="(PDF) SNX25 regulates proinflammatory cytokine expression via the NF-κB signal in macrophages" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247840.XML" title="(XML) SNX25 regulates proinflammatory cytokine expression via the NF-κB signal in macrophages" />
+    <author>
+      <name>Kazuya Nishimura</name>
+    </author>
+    <author>
+      <name>Tatsuhide Tanaka</name>
+    </author>
+    <author>
+      <name>Shoko Takemura</name>
+    </author>
+    <author>
+      <name>Kouko Tatsumi</name>
+    </author>
+    <author>
+      <name>Akio Wanaka</name>
+    </author>
+    <id>10.1371/journal.pone.0247840</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Kazuya Nishimura, Tatsuhide Tanaka, Shoko Takemura, Kouko Tatsumi, Akio Wanaka&lt;/p&gt;
+
+Innate immunity is the first line of defense against bacterial infection and is initiated by macrophages. Sorting nexin 25 (SNX25) is an SNX family member and is reported to negatively regulate TGF-β signaling by enhancing TGF receptor degradation. However, few studies have focused on the relationship between SNX25 and the immune system. We knocked down SNX25 expression in macrophages and examined inflammatory cytokine expression, a hallmark of innate immunity, after lipopolysaccharide stimulation. SNX25 knockdown increased proinflammatory cytokine expression in RAW 264.7 cells. In addition, SNX25 knockdown activated the NF-κB signal by promoting ubiquitination of IκBα. These results suggest that SNX25 inhibits the NF-κB signal and thereby regulates proinflammatory cytokine expression in macrophages.</content>
+  </entry>
+  <entry>
+    <title>Convolutional neural network model based on radiological images to support COVID-19 diagnosis: Evaluating database biases</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247839" title="Convolutional neural network model based on radiological images to support COVID-19 diagnosis: Evaluating database biases" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247839.PDF" title="(PDF) Convolutional neural network model based on radiological images to support COVID-19 diagnosis: Evaluating database biases" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247839.XML" title="(XML) Convolutional neural network model based on radiological images to support COVID-19 diagnosis: Evaluating database biases" />
+    <author>
+      <name>Caio B. S. Maior</name>
+    </author>
+    <author>
+      <name>João M. M. Santana</name>
+    </author>
+    <author>
+      <name>Isis D. Lins</name>
+    </author>
+    <author>
+      <name>Márcio J. C. Moura</name>
+    </author>
+    <id>10.1371/journal.pone.0247839</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Caio B. S. Maior, João M. M. Santana, Isis D. Lins, Márcio J. C. Moura&lt;/p&gt;
+
+As SARS-CoV-2 has spread quickly throughout the world, the scientific community has spent major efforts on better understanding the characteristics of the virus and possible means to prevent, diagnose, and treat COVID-19. A valid approach presented in the literature is to develop an image-based method to support COVID-19 diagnosis using convolutional neural networks (CNN). Because the availability of radiological data is rather limited due to the novelty of COVID-19, several methodologies consider reduced datasets, which may be inadequate, biasing the model. Here, we performed an analysis combining six different databases using chest X-ray images from open datasets to distinguish images of infected patients while differentiating COVID-19 and pneumonia from ‘no-findings’ images. In addition, the performance of models created from fewer databases, which may imperceptibly overestimate their results, is discussed. Two CNN-based architectures were created to process images of different sizes (512 × 512, 768 × 768, 1024 × 1024, and 1536 × 1536). Our best model achieved a balanced accuracy (BA) of 87.7% in predicting one of the three classes (‘no-findings’, ‘COVID-19’, and ‘pneumonia’) and a specific balanced precision of 97.0% for ‘COVID-19’ class. We also provided binary classification with a precision of 91.0% for detection of sick patients (i.e., with COVID-19 or pneumonia) and 98.4% for COVID-19 detection (i.e., differentiating from ‘no-findings’ or ‘pneumonia’). Indeed, despite we achieved an unrealistic 97.2% BA performance for one specific case, the proposed methodology of using multiple databases achieved better and less inflated results than from models with specific image datasets for training. Thus, this framework is promising for a low-cost, fast, and noninvasive means to support the diagnosis of COVID-19.</content>
+  </entry>
+  <entry>
+    <title>A 4D continuous representation of myocardial velocity fields from tissue phase mapping magnetic resonance imaging</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247826" title="A 4D continuous representation of myocardial velocity fields from tissue phase mapping magnetic resonance imaging" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247826.PDF" title="(PDF) A 4D continuous representation of myocardial velocity fields from tissue phase mapping magnetic resonance imaging" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247826.XML" title="(XML) A 4D continuous representation of myocardial velocity fields from tissue phase mapping magnetic resonance imaging" />
+    <author>
+      <name>Bård A. Bendiksen</name>
+    </author>
+    <author>
+      <name>Gary McGinley</name>
+    </author>
+    <author>
+      <name>Ivar Sjaastad</name>
+    </author>
+    <author>
+      <name>Lili Zhang</name>
+    </author>
+    <author>
+      <name>Emil K. S. Espe</name>
+    </author>
+    <id>10.1371/journal.pone.0247826</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Bård A. Bendiksen, Gary McGinley, Ivar Sjaastad, Lili Zhang, Emil K. S. Espe&lt;/p&gt;
+
+Myocardial velocities carry important diagnostic information in a range of cardiac diseases, and play an important role in diagnosing and grading left ventricular diastolic dysfunction. Tissue Phase Mapping (TPM) Magnetic Resonance Imaging (MRI) enables discrete sampling of the myocardium’s underlying smooth and continuous velocity field. This paper presents a post-processing framework for constructing a spatially and temporally smooth and continuous representation of the myocardium’s velocity field from TPM data. In the proposed scheme, the velocity field is represented through either linear or cubic B-spline basis functions. The framework facilitates both interpolation and noise reducing approximation. As a proof-of-concept, the framework was evaluated using artificially noisy (i.e., synthetic) velocity fields created by adding different levels of noise to an original TPM data. The framework’s ability to restore the original velocity field was investigated using Bland-Altman statistics. Moreover, we calculated myocardial material point trajectories through temporal integration of the original and synthetic fields. The effect of noise reduction on the calculated trajectories was investigated by assessing the distance between the start and end position of material points after one complete cardiac cycle (end point error). We found that the Bland-Altman limits of agreement between the original and the synthetic velocity fields were reduced after application of the framework. Furthermore, the integrated trajectories exhibited consistently lower end point error. These results suggest that the proposed method generates a realistic continuous representation of myocardial velocity fields from noisy and discrete TPM data. Linear B-splines resulted in narrower limits of agreement between the original and synthetic fields, compared to Cubic B-splines. The end point errors were also consistently lower for Linear B-splines than for cubic. Linear B-splines therefore appear to be more suitable for TPM data.</content>
+  </entry>
+  <entry>
+    <title>On the joint role of non-Hispanic Black race/ethnicity and weight status in predicting postmenopausal weight gain</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247821" title="On the joint role of non-Hispanic Black race/ethnicity and weight status in predicting postmenopausal weight gain" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247821.PDF" title="(PDF) On the joint role of non-Hispanic Black race/ethnicity and weight status in predicting postmenopausal weight gain" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247821.XML" title="(XML) On the joint role of non-Hispanic Black race/ethnicity and weight status in predicting postmenopausal weight gain" />
+    <author>
+      <name>Christopher N. Ford</name>
+    </author>
+    <author>
+      <name>Shine Chang</name>
+    </author>
+    <author>
+      <name>Alexis C. Wood</name>
+    </author>
+    <author>
+      <name>JoAnn E. Manson</name>
+    </author>
+    <author>
+      <name>David O. Garcia</name>
+    </author>
+    <author>
+      <name>Helena Laroche</name>
+    </author>
+    <author>
+      <name>Chloe E. Bird</name>
+    </author>
+    <author>
+      <name>Mara Z. Vitolins</name>
+    </author>
+    <id>10.1371/journal.pone.0247821</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Christopher N. Ford, Shine Chang, Alexis C. Wood, JoAnn E. Manson, David O. Garcia, Helena Laroche, Chloe E. Bird, Mara Z. Vitolins&lt;/p&gt;
+Objectives &lt;p&gt;To determine how baseline weight status contributes to differences in postmenopausal weight gain among non-Hispanic Blacks (NHBs) and non-Hispanic Whites (NHWs).&lt;/p&gt; Methods &lt;p&gt;Data were included from 70,750 NHW and NHB postmenopausal women from the Women’s Health Initiative Observational Study (WHI OS). Body Mass Index (BMI) at baseline was used to classify women as having normal weight, overweight, obese class I, obese class II or obese class III. Cox proportional hazards was used to estimate the hazard of a 10% or more increase in weight from baseline.&lt;/p&gt; Results &lt;p&gt;In both crude and adjusted models, NHBs were more likely to experience ≥10% weight gain than NHWs within the same category of baseline weight status. Moreover, NHBs who were normal weight at baseline were most likely to experience ≥10% weight gain in both crude and adjusted models. Age-stratified results were consistent with overall findings. In all age categories, NHBs who were normal weight at baseline were most likely to experience ≥10% weight gain. Based on the results of adjusted models, the joint influence of NHB race/ethnicity and weight status on risk of postmenopausal weight gain was both sub-additive and sub-multiplicative.&lt;/p&gt; Conclusion &lt;p&gt;NHBs are more likely to experience postmenopausal weight gain than NHWs, and the disparity in risk is most pronounced among those who are normal weight at baseline. To address the disparity in postmenopausal obesity, future studies should focus on identifying and modifying factors that promote weight gain among normal weight NHBs.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Facial expression in humans as a measure of empathy towards farm animals in pain</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247808" title="Facial expression in humans as a measure of empathy towards farm animals in pain" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247808.PDF" title="(PDF) Facial expression in humans as a measure of empathy towards farm animals in pain" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247808.XML" title="(XML) Facial expression in humans as a measure of empathy towards farm animals in pain" />
+    <author>
+      <name>Lexis H. Ly</name>
+    </author>
+    <author>
+      <name>Daniel M. Weary</name>
+    </author>
+    <id>10.1371/journal.pone.0247808</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Lexis H. Ly, Daniel M. Weary&lt;/p&gt;
+
+People often express concern for the welfare of farm animals, but research on this topic has relied upon self-report. Facial expressions provide a quantifiable measure of emotional response that may be less susceptible to social desirability bias and other issues associated with self-report. Viewing other humans in pain elicits facial expressions indicative of empathy. Here we provide the first evidence that this measure can also be used to assess human empathetic responses towards farm animals, showing that facial expressions respond reliably when participants view videos of farm animals undergoing painful procedures. Participants (&lt;i&gt;n&lt;/i&gt; = 30) were asked to watch publicly sourced video clips of cows and pigs undergoing common management procedures (e.g. disbudding, castration, tail docking) and control videos (e.g. being lightly restrained, standing). Participants provided their subjective rating of the intensity of 5 negative emotions (pain, sadness, anger, fear, disgust) on an 11-point Likert scale. Videos of the participants (watching the animals) were scored for intensity of unpleasantness of the participants’ facial expression (also on an 11-point Likert scale) by a trained observer who was blind to treatment. Participants showed more intense facial expressions while viewing painful procedures versus control procedures (mean ± SE Likert; 2.4 ± 0.08 versus 0.6 ± 0.17). Participants who reported more intense negative responses also showed stronger facial expressions (slope ± SE = 0.4 ± 0.04). Both the self-reported and facial measures varied with species and procedure witnessed. These results indicate that facial expressions can be used to assess human-animal empathy.</content>
+  </entry>
+  <entry>
+    <title>Spatial analysis of COVID-19 incidence and the sociodemographic context in Brazil</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247794" title="Spatial analysis of COVID-19 incidence and the sociodemographic context in Brazil" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247794.PDF" title="(PDF) Spatial analysis of COVID-19 incidence and the sociodemographic context in Brazil" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247794.XML" title="(XML) Spatial analysis of COVID-19 incidence and the sociodemographic context in Brazil" />
+    <author>
+      <name>Carlos Eduardo Raymundo</name>
+    </author>
+    <author>
+      <name>Marcella Cini Oliveira</name>
+    </author>
+    <author>
+      <name>Tatiana de Araujo Eleuterio</name>
+    </author>
+    <author>
+      <name>Suzana Rosa André</name>
+    </author>
+    <author>
+      <name>Marcele Gonçalves da Silva</name>
+    </author>
+    <author>
+      <name>Eny Regina da Silva Queiroz</name>
+    </author>
+    <author>
+      <name>Roberto de Andrade Medronho</name>
+    </author>
+    <id>10.1371/journal.pone.0247794</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Carlos Eduardo Raymundo, Marcella Cini Oliveira, Tatiana de Araujo Eleuterio, Suzana Rosa André, Marcele Gonçalves da Silva, Eny Regina da Silva Queiroz, Roberto de Andrade Medronho&lt;/p&gt;
+Background &lt;p&gt;Identified in December 2019 in the city of Wuhan, China, the outbreak of COVID-19 spread throughout the world and its impacts affect different populations differently, where countries with high levels of social and economic inequality such as Brazil gain prominence, for understanding of the vulnerability factors associated with the disease. Given this scenario, in the absence of a vaccine or safe and effective antiviral treatment for COVID-19, nonpharmacological measures are essential for prevention and control of the disease. However, many of these measures are not feasible for millions of individuals who live in territories with increased social vulnerability. The study aims to analyze the spatial distribution of COVID-19 incidence in Brazil’s municipalities (counties) and investigate its association with sociodemographic determinants to better understand the social context and the epidemic’s spread in the country.&lt;/p&gt; Methods &lt;p&gt;This is an analytical ecological study using data from various sources. The study period was February 25 to September 26, 2020. Data analysis used global regression models: ordinary least squares (OLS), spatial autoregressive model (SAR), and conditional autoregressive model (CAR) and the local regression model called multiscale geographically weighted regression (MGWR).&lt;/p&gt; Findings &lt;p&gt;The higher the GINI index, the higher the incidence of the disease at the municipal level. Likewise, the higher the nurse ratio per 1,000 inhabitants in the municipalities, the higher the COVID-19 incidence. Meanwhile, the proportional mortality ratio was inversely associated with incidence of the disease.&lt;/p&gt; Discussion &lt;p&gt;Social inequality increased the risk of COVID-19 in the municipalities. Better social development of the municipalities was associated with lower risk of the disease. Greater access to health services improved the diagnosis and notification of the disease and was associated with more cases in the municipalities. Despite universal susceptibility to COVID-19, populations with increased social vulnerability were more exposed to risk of the illness.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Personalized prediction of early childhood asthma persistence: A machine learning approach</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247784" title="Personalized prediction of early childhood asthma persistence: A machine learning approach" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247784.PDF" title="(PDF) Personalized prediction of early childhood asthma persistence: A machine learning approach" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247784.XML" title="(XML) Personalized prediction of early childhood asthma persistence: A machine learning approach" />
+    <author>
+      <name>Saurav Bose</name>
+    </author>
+    <author>
+      <name>Chén C. Kenyon</name>
+    </author>
+    <author>
+      <name>Aaron J. Masino</name>
+    </author>
+    <id>10.1371/journal.pone.0247784</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Saurav Bose, Chén C. Kenyon, Aaron J. Masino&lt;/p&gt;
+
+Early childhood asthma diagnosis is common; however, many children diagnosed before age 5 experience symptom resolution and it remains difficult to identify individuals whose symptoms will persist. Our objective was to develop machine learning models to identify which individuals diagnosed with asthma before age 5 continue to experience asthma-related visits. We curated a retrospective dataset for 9,934 children derived from electronic health record (EHR) data. We trained five machine learning models to differentiate individuals without subsequent asthma-related visits (transient diagnosis) from those with asthma-related visits between ages 5 and 10 (persistent diagnosis) given clinical information up to age 5 years. Based on average NPV-Specificity area (ANSA), all models performed significantly better than random chance, with XGBoost obtaining the best performance (0.43 mean ANSA). Feature importance analysis indicated age of last asthma diagnosis under 5 years, total number of asthma related visits, self-identified black race, allergic rhinitis, and eczema as important features. Although our models appear to perform well, a lack of prior models utilizing a large number of features to predict individual persistence makes direct comparison infeasible. However, feature importance analysis indicates our models are consistent with prior research indicating diagnosis age and prior health service utilization as important predictors of persistent asthma. We therefore find that machine learning models can predict which individuals will experience persistent asthma with good performance and may be useful to guide clinician and parental decisions regarding asthma counselling in early childhood.</content>
+  </entry>
+  <entry>
+    <title>Structural determinants of suicide during the global financial crisis in Spain: Integrating explanations to understand a complex public health problem</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247759" title="Structural determinants of suicide during the global financial crisis in Spain: Integrating explanations to understand a complex public health problem" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247759.PDF" title="(PDF) Structural determinants of suicide during the global financial crisis in Spain: Integrating explanations to understand a complex public health problem" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247759.XML" title="(XML) Structural determinants of suicide during the global financial crisis in Spain: Integrating explanations to understand a complex public health problem" />
+    <author>
+      <name>Javier Alvarez-Galvez</name>
+    </author>
+    <author>
+      <name>Victor Suarez-Lledo</name>
+    </author>
+    <author>
+      <name>Luis Salvador-Carulla</name>
+    </author>
+    <author>
+      <name>Jose Almenara-Barrios</name>
+    </author>
+    <id>10.1371/journal.pone.0247759</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Javier Alvarez-Galvez, Victor Suarez-Lledo, Luis Salvador-Carulla, Jose Almenara-Barrios&lt;/p&gt;
+Introduction &lt;p&gt;Suicide is a complex public health problem in contemporary societies. Macroeconomic downturns derived from the economic crisis have been found to be associated with growing suicide mortality in the United States and in Europe. The present work is aimed to assess the association between the recent economic downturns and suicide patterns using interrupted time series analysis and, particularly, adjusting this relationship by indicators of social cohesion and community values that might provide additional insights on the complex explanation of suicidal trends.&lt;/p&gt; Methods &lt;p&gt;We combined suicide, social and economic data extracted from the &lt;i&gt;National Statistics Institute (INE)&lt;/i&gt;, the &lt;i&gt;Eurostat database&lt;/i&gt;, and the &lt;i&gt;World Values Survey&lt;/i&gt; to assess the association between the socio-economic factors and trends in suicide rates. To study the association between the financial crisis and changes in suicide rates in Spain, we used interrupted time series analysis (ITSA).&lt;/p&gt; Results &lt;p&gt;Our findings confirm that suicides increased after the 2011 recession, but remained moderately constant after the 2008 economic downturn. Suicides particularly increased after the 2011 recession in the 10–14, and 45–64 years old intervals between males and females, and apparently in older groups. However, during the 2008–2011 time period suicide rates decreased during working years (specifically among 40–44, 45–49, and 55–59 years old groups). Our results highlight the importance of social protection against unemployment and, to a lesser extent, social protection in disability and family, in reducing suicides, as well as the economic prosperity of the country.&lt;/p&gt; Conclusion &lt;p&gt;This result corroborates that the economic crisis has possibly impacted the growing suicide rates of the most vulnerable groups, but exclusively during the period characterised by economic cuts after the 2011 recession. This study highlights the need to implement tailored policies that protect these collectives against suicide.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Serum &lt;i&gt;β&lt;/i&gt;&lt;sub&gt;2&lt;/sub&gt;-microglobulin levels in Coronavirus disease 2019 (Covid-19): Another prognosticator of disease severity?</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247758" title="Serum &lt;i&gt;β&lt;/i&gt;&lt;sub&gt;2&lt;/sub&gt;-microglobulin levels in Coronavirus disease 2019 (Covid-19): Another prognosticator of disease severity?" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247758.PDF" title="(PDF) Serum &lt;i&gt;β&lt;/i&gt;&lt;sub&gt;2&lt;/sub&gt;-microglobulin levels in Coronavirus disease 2019 (Covid-19): Another prognosticator of disease severity?" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247758.XML" title="(XML) Serum &lt;i&gt;β&lt;/i&gt;&lt;sub&gt;2&lt;/sub&gt;-microglobulin levels in Coronavirus disease 2019 (Covid-19): Another prognosticator of disease severity?" />
+    <author>
+      <name>Walter Conca</name>
+    </author>
+    <author>
+      <name>Mayyadah Alabdely</name>
+    </author>
+    <author>
+      <name>Faisal Albaiz</name>
+    </author>
+    <author>
+      <name>Michael Warren Foster</name>
+    </author>
+    <author>
+      <name>Maha Alamri</name>
+    </author>
+    <author>
+      <name>Morad Alkaff</name>
+    </author>
+    <author>
+      <name>Futwan Al-Mohanna</name>
+    </author>
+    <author>
+      <name>Nicolaas Nagelkerke</name>
+    </author>
+    <author>
+      <name>Reem Saad Almaghrabi</name>
+    </author>
+    <id>10.1371/journal.pone.0247758</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Walter Conca, Mayyadah Alabdely, Faisal Albaiz, Michael Warren Foster, Maha Alamri, Morad Alkaff, Futwan Al-Mohanna, Nicolaas Nagelkerke, Reem Saad Almaghrabi&lt;/p&gt;
+
+&lt;i&gt;β&lt;/i&gt;&lt;sub&gt;2&lt;/sub&gt;-microglobulin (&lt;i&gt;β&lt;/i&gt;&lt;sub&gt;2&lt;/sub&gt;-m), a 11.8 kDa protein, pairs non-covalently with the α3 domain of the major histocompatibility class (MHC) I &lt;i&gt;α&lt;/i&gt;-chain and is essential for the conformation of the MHC class I protein complex. Shed &lt;i&gt;β&lt;/i&gt;&lt;sub&gt;2&lt;/sub&gt;-m is measurable in circulation, and various disorders are accompanied by increases in &lt;i&gt;β&lt;/i&gt;&lt;sub&gt;2&lt;/sub&gt;-m levels, including several viral infections. Therefore, we explored whether &lt;i&gt;β&lt;/i&gt;&lt;sub&gt;2&lt;/sub&gt;-m levels could also be elevated in Coronavirus disease 2019 (Covid-19) and whether they predict disease severity. Serum &lt;i&gt;β&lt;/i&gt;&lt;sub&gt;2&lt;/sub&gt;-m levels were measured in a cohort of 34 patients infected with SARS-CoV-2 on admission to a tertiary care hospital in Riyadh, Saudi Arabia, as well as in an approximately age-sex matched group of 34 uninfected controls. Mean &lt;i&gt;β&lt;/i&gt;&lt;sub&gt;2&lt;/sub&gt;-m level was 3.25±1.68 mg/l (reference range 0.8–2.2 mg/l) in patients (mean age 48.2±21.6) and 1.98±0.61 mg/l in controls (mean age 48.2±21.6). 17 patients (mean age 36.9± 18.0) with mean &lt;i&gt;β&lt;/i&gt;&lt;sub&gt;2&lt;/sub&gt;-m levels of 2.27±0.64 mg/l had mild disease by WHO severity categorization, 12 patients (mean age 53.3±18.1) with mean &lt;i&gt;β&lt;/i&gt;&lt;sub&gt;2&lt;/sub&gt;-m levels of 3.57±1.39 mg/l had moderate disease, and five patients (of whom 2 died; mean age 74.4±13.8) with mean &lt;i&gt;β&lt;/i&gt;&lt;sub&gt;2&lt;/sub&gt;-m levels of 5.85±1.85 mg/l had severe disease (&lt;i&gt;P&lt;/i&gt; &lt; = 0.001, by ANOVA test for linear trend). In multivariate ordinal regression &lt;i&gt;β&lt;/i&gt;&lt;sub&gt;2&lt;/sub&gt;-m levels were the only significant predictor of disease severity. Our findings suggest that higher &lt;i&gt;β&lt;/i&gt;&lt;sub&gt;2&lt;/sub&gt;-m levels could be an early indicator of severity of disease and predict outcome of Covid-19. As the main limitations of the study are a single-center study, sample size and ethnicity, these results need confirmation in larger cohorts outside the Arabian Peninsula in order to delineate the value of &lt;i&gt;β&lt;/i&gt;&lt;sub&gt;2&lt;/sub&gt;-m measurements. The role of &lt;i&gt;β&lt;/i&gt;&lt;sub&gt;2&lt;/sub&gt;-m in the etiology and pathogenesis of severe Covid-19 remains to be elucidated.</content>
+  </entry>
+  <entry>
+    <title>Baseline serum angiopoietin-2 and VEGF levels predict the deterioration of the liver functional reserve during lenvatinib treatment for hepatocellular carcinoma</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247728" title="Baseline serum angiopoietin-2 and VEGF levels predict the deterioration of the liver functional reserve during lenvatinib treatment for hepatocellular carcinoma" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247728.PDF" title="(PDF) Baseline serum angiopoietin-2 and VEGF levels predict the deterioration of the liver functional reserve during lenvatinib treatment for hepatocellular carcinoma" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247728.XML" title="(XML) Baseline serum angiopoietin-2 and VEGF levels predict the deterioration of the liver functional reserve during lenvatinib treatment for hepatocellular carcinoma" />
+    <author>
+      <name>Taku Shigesawa</name>
+    </author>
+    <author>
+      <name>Goki Suda</name>
+    </author>
+    <author>
+      <name>Megumi Kimura</name>
+    </author>
+    <author>
+      <name>Osamu Maehara</name>
+    </author>
+    <author>
+      <name>Yoshimasa Tokuchi</name>
+    </author>
+    <author>
+      <name>Akinori Kubo</name>
+    </author>
+    <author>
+      <name>Ren Yamada</name>
+    </author>
+    <author>
+      <name>Ken Furuya</name>
+    </author>
+    <author>
+      <name>Masaru Baba</name>
+    </author>
+    <author>
+      <name>Takashi Kitagataya</name>
+    </author>
+    <author>
+      <name>Kazuharu Suzuki</name>
+    </author>
+    <author>
+      <name>Masatsugu Ohara</name>
+    </author>
+    <author>
+      <name>Naoki Kawagishi</name>
+    </author>
+    <author>
+      <name>Masato Nakai</name>
+    </author>
+    <author>
+      <name>Takuya Sho</name>
+    </author>
+    <author>
+      <name>Mitsuteru Natsuizaka</name>
+    </author>
+    <author>
+      <name>Kenichi Morikawa</name>
+    </author>
+    <author>
+      <name>Koji Ogawa</name>
+    </author>
+    <author>
+      <name>Naoya Sakamoto</name>
+    </author>
+    <id>10.1371/journal.pone.0247728</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Taku Shigesawa, Goki Suda, Megumi Kimura, Osamu Maehara, Yoshimasa Tokuchi, Akinori Kubo, Ren Yamada, Ken Furuya, Masaru Baba, Takashi Kitagataya, Kazuharu Suzuki, Masatsugu Ohara, Naoki Kawagishi, Masato Nakai, Takuya Sho, Mitsuteru Natsuizaka, Kenichi Morikawa, Koji Ogawa, Naoya Sakamoto&lt;/p&gt;
+
+A deteriorated liver functional reserve during systemic therapy for unresectable hepatocellular carcinoma (HCC) causes poor patient outcomes. We aimed to identify predictive factors associated with the deterioration of Child-Pugh score at 8 weeks after lenvatinib initiation. Patients with adequate clinical data and baseline preserved serum samples available were included. Baseline fibroblast growth factor (FGF)19 and 21, angiopoietin (ANG)2, and vascular endothelial growth factor (VEGF) levels were evaluated. Thirty-seven patients were included, and 6, 15, 14, and 2 experienced complete response, partial response, stable disease, and progressive disease, respectively. Twenty-four (65%) and 13 (35%) patients showed a maintained/improved and deteriorated Child-Pugh-score, respectively. While baseline clinical data, treatment response, and laboratory data were similar between these two patient groups, baseline ANG2 and VEGF levels were significantly higher (&lt;i&gt;P&lt;/i&gt; = 0.0017) and lower (&lt;i&gt;P&lt;/i&gt; = 0.0231), respectively, in patients with deteriorated Child-Pugh score than in those without. Based on receiver operating characteristic curve analysis, cut-off values for ANG2 and VEGF were found to be 3,108 pg/mL and 514.9 pg/mL, respectively. Among patients with low VEGF and high ANG2, 89% (8/9) exhibited a deteriorated Child-Pugh score, whereas none of the patients (0/9) with high VEGF and low ANG2 did. The deterioration of the Child-Pugh score in patients with unresectable HCC who are treated with lenvatinib may be predictable based on combined baseline serum ANG2 and VEGF levels.</content>
+  </entry>
+  <entry>
+    <title>CXCR4 inhibition with AMD3100 attenuates amphetamine induced locomotor activity in adolescent Long Evans male rats</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247707" title="CXCR4 inhibition with AMD3100 attenuates amphetamine induced locomotor activity in adolescent Long Evans male rats" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247707.PDF" title="(PDF) CXCR4 inhibition with AMD3100 attenuates amphetamine induced locomotor activity in adolescent Long Evans male rats" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247707.XML" title="(XML) CXCR4 inhibition with AMD3100 attenuates amphetamine induced locomotor activity in adolescent Long Evans male rats" />
+    <author>
+      <name>Briana Mason</name>
+    </author>
+    <author>
+      <name>Corey Calhoun</name>
+    </author>
+    <author>
+      <name>Victoria Woytowicz</name>
+    </author>
+    <author>
+      <name>Latifa Pina</name>
+    </author>
+    <author>
+      <name>Roshninder Kanda</name>
+    </author>
+    <author>
+      <name>Curtis Dunn</name>
+    </author>
+    <author>
+      <name>Antonio Alves</name>
+    </author>
+    <author>
+      <name>S. Tiffany Donaldson</name>
+    </author>
+    <id>10.1371/journal.pone.0247707</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Briana Mason, Corey Calhoun, Victoria Woytowicz, Latifa Pina, Roshninder Kanda, Curtis Dunn, Antonio Alves, S. Tiffany Donaldson&lt;/p&gt;
+
+Adolescent psychostimulant abuse has been on the rise over the past decade. This trend has demonstrable ramifications on adolescent behavior and brain morphology, increasing risk for development of addiction during adolescence and in later adulthood. Neuroimmune substrates are implicated in the etiology of substance use disorders. To add to this body of work, the current study was developed to explore the role of a chemokine receptor, CXC Chemokine Receptor 4 (CXCR4), in the development of amphetamine (AMPH) sensitization. We targeted CXCR4 as it is implicated in developmental processes, dopaminergic transmission, neuroimmune responses, and the potentiation of psychostimulant abuse pathology. To evaluate the role of CXCR4 activity on the development of AMPH sensitization, a CXCR4 antagonist (Plerixafor; AMD3100) was administered to rats as a pretreatment variable. Specifically, adolescent Long Evans male rats (&lt;i&gt;N&lt;/i&gt; = 37) were divided into four groups: (1) AMD3100 (IP, 4.0 mg/kg) + AMPH (IP, 4.0 mg/kg), (2) saline (SAL; 0.9% NaCl) + AMPH, (3) AMD3100 + SAL, and (4) SAL + SAL. Animals were first habituated to locomotor activity (LMA) chambers, then injected with a pretreatment drug (AMD3100 or SAL) followed by AMPH or SAL every other for four days. After a one-week withdrawal period, all animals were administered a low challenge dose of AMPH (IP, 1.0 mg/kg). AMPH-injected rats displayed significantly more locomotor activity compared to controls across all testing days. CXCR4 antagonism significantly attenuated AMPH-induced locomotor activity. On challenge day, AMD3100 pre-treated animals exhibited diminutive AMPH-induced locomotor activity compared to SAL pre-treated animals. Postmortem analyses of brain tissue revealed elevated CXCR4 protein levels in the striatum of all experimental groups. Our results implicate CXCR4 signaling in the development of AMPH sensitization and may represent an important therapeutic target for future research in psychostimulant abuse.</content>
+  </entry>
+  <entry>
+    <title>A message-passing multi-task architecture for the implicit event and polarity detection</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247704" title="A message-passing multi-task architecture for the implicit event and polarity detection" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247704.PDF" title="(PDF) A message-passing multi-task architecture for the implicit event and polarity detection" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247704.XML" title="(XML) A message-passing multi-task architecture for the implicit event and polarity detection" />
+    <author>
+      <name>Chunli Xiang</name>
+    </author>
+    <author>
+      <name>Junchi Zhang</name>
+    </author>
+    <author>
+      <name>Donghong Ji</name>
+    </author>
+    <id>10.1371/journal.pone.0247704</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Chunli Xiang, Junchi Zhang, Donghong Ji&lt;/p&gt;
+
+Implicit sentiment analysis is a challenging task because the sentiment of a text is expressed in a connotative manner. To tackle this problem, we propose to use textual events as a knowledge source to enrich network representations. To consider task interactions, we present a novel lightweight joint learning paradigm that can pass task-related messages between tasks during training iterations. This is distinct from previous methods that involve multi-task learning by simple parameter sharing. Besides, a human-annotated corpus with implicit sentiment labels and event labels is scarce, which hinders practical applications of deep neural models. Therefore, we further investigate a back-translation approach to expand training instances. Experiment results on a public benchmark demonstrate the effectiveness of both the proposed multi-task architecture and data augmentation strategy.</content>
+  </entry>
+  <entry>
+    <title>Maltohexaose-indocyanine green (MH-ICG) for near infrared imaging of endocarditis</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247673" title="Maltohexaose-indocyanine green (MH-ICG) for near infrared imaging of endocarditis" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247673.PDF" title="(PDF) Maltohexaose-indocyanine green (MH-ICG) for near infrared imaging of endocarditis" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247673.XML" title="(XML) Maltohexaose-indocyanine green (MH-ICG) for near infrared imaging of endocarditis" />
+    <author>
+      <name>Kiyoko Takemiya</name>
+    </author>
+    <author>
+      <name>Joachim J. Røise</name>
+    </author>
+    <author>
+      <name>Maomao He</name>
+    </author>
+    <author>
+      <name>Chung Taing</name>
+    </author>
+    <author>
+      <name>Alexander G. Rodriguez</name>
+    </author>
+    <author>
+      <name>Niren Murthy</name>
+    </author>
+    <author>
+      <name>Mark M. Goodman</name>
+    </author>
+    <author>
+      <name>W. Robert Taylor</name>
+    </author>
+    <id>10.1371/journal.pone.0247673</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Kiyoko Takemiya, Joachim J. Røise, Maomao He, Chung Taing, Alexander G. Rodriguez, Niren Murthy, Mark M. Goodman, W. Robert Taylor&lt;/p&gt;
+
+Infectious endocarditis is a life-threatening disease, and diagnostics are urgently needed to accurately diagnose this disease especially in the case of prosthetic valve endocarditis. We show here that maltohexaose conjugated to indocyanine green (MH-ICG) can detect &lt;i&gt;Staphylococcus aureus&lt;/i&gt; (&lt;i&gt;S&lt;/i&gt;. &lt;i&gt;aureus&lt;/i&gt;) infection in a rat model of infective endocarditis. The affinity of MH-ICG to &lt;i&gt;S&lt;/i&gt;. &lt;i&gt;aureus&lt;/i&gt; was determined and had a Km and Vmax of 5.4 μM and 3.0 X 10&lt;sup&gt;−6&lt;/sup&gt; μmol/minutes/10&lt;sup&gt;8&lt;/sup&gt; CFU, respectively. MH-ICG had no detectable toxicity to mammalian cells at concentrations as high as 100 μM. The &lt;i&gt;in vivo&lt;/i&gt; efficiency of MH-ICG in rats was evaluated using a right heart endocarditis model, and the accumulation of MH-ICG in the bacterial vegetations was 2.5 ± 0.2 times higher than that in the control left ventricular wall. The biological half-life of MH-ICG in healthy rats was 14.0 ± 1.3 minutes, and approximately 50% of injected MH-ICG was excreted into the feces after 24 hours. These data demonstrate that MH-ICG was internalized by bacteria with high specificity and that MH-ICG specifically accumulated in bacterial vegetations in a rat model of endocarditis. These results demonstrate the potential efficacy of this agent in the detection of infective endocarditis.</content>
+  </entry>
+  <entry>
+    <title>Reference intervals of common clinical biochemistry analytes in young Nigerian adults</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247672" title="Reference intervals of common clinical biochemistry analytes in young Nigerian adults" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247672.PDF" title="(PDF) Reference intervals of common clinical biochemistry analytes in young Nigerian adults" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247672.XML" title="(XML) Reference intervals of common clinical biochemistry analytes in young Nigerian adults" />
+    <author>
+      <name>Ojor Ayemoba</name>
+    </author>
+    <author>
+      <name>Nathan Okeji</name>
+    </author>
+    <author>
+      <name>Nurudeen Hussain</name>
+    </author>
+    <author>
+      <name>Tahir Umar</name>
+    </author>
+    <author>
+      <name>Anthony Ajemba-Life</name>
+    </author>
+    <author>
+      <name>Terfa Kene</name>
+    </author>
+    <author>
+      <name>Uchechukwu Edom</name>
+    </author>
+    <author>
+      <name>Ikechukwu Ogueri</name>
+    </author>
+    <author>
+      <name>Goodluck Nwagbara</name>
+    </author>
+    <author>
+      <name>Inalegwu Ochai</name>
+    </author>
+    <author>
+      <name>Usman Adekanye</name>
+    </author>
+    <author>
+      <name>Ikenna Onoh</name>
+    </author>
+    <id>10.1371/journal.pone.0247672</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Ojor Ayemoba, Nathan Okeji, Nurudeen Hussain, Tahir Umar, Anthony Ajemba-Life, Terfa Kene, Uchechukwu Edom, Ikechukwu Ogueri, Goodluck Nwagbara, Inalegwu Ochai, Usman Adekanye, Ikenna Onoh&lt;/p&gt;
+Background &lt;p&gt;Reference intervals are assessment tools for interpretation of clinical test results. These intervals describe the dispersion of test parameter values of apparently healthy persons in defined populations as health status indicators. Using reference intervals obtained and validated in populations outside the geographical region of derivation for medical decision-making may impact negatively on clinical interpretation and patient management. Many countries have established their reference values, current studies on these data for Nigeria are however scarce. Determination of clinical biochemistry reference intervals for young Nigerian adults which is of particular importance in routine clinical management and conduct of clinical trials in response to existing and emerging diseases will add significantly to the existing body of knowledge.&lt;/p&gt; Objective &lt;p&gt;The objective was to establish reference intervals for 24biochemistry analytes among Nigerians aged 18 to 26 years.&lt;/p&gt; Methods &lt;p&gt;This was a cross-sectional study among 7,797 consenting male and female military applicants aged 18 to 26 years from 37 States of Nigeria. It was a total study among volunteers for military service. Blood samples were collected and subjected to serological testing for HIV-1 and 2, hepatitis-B, malaria, pregnancy and haematuria to restrict our study population to apparently healthy participants. Biochemical assays were performed on 6,169 participant samples that met the inclusion criteria. Generated data was entered into MS Excel&lt;sup&gt;®&lt;/sup&gt; and exported into SPSS&lt;sup&gt;®&lt;/sup&gt; software version 16 for analysis. Statistical tools used were frequencies, median, mid 95&lt;sup&gt;th&lt;/sup&gt; percentile range with 2.5&lt;sup&gt;th&lt;/sup&gt; and 97.5&lt;sup&gt;th&lt;/sup&gt; percentiles as limits. Reference intervals were estimated using nonparametric methods. No intergender statistical comparison was made.&lt;/p&gt; Results &lt;p&gt;Complete records were obtained for 6,169 eligible participants. Median values and associated reference intervals were similar in both genders.&lt;/p&gt; Conclusion &lt;p&gt;The findings from this study will help in clinical decision-making and play a significant role in supporting the current global rapid expansion of clinical trials in response to the urgent need for preventive and therapeutic solutions to existing and emerging diseases.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Knowledge and practice of clients on preventive measures of COVID-19 pandemic among governmental health facilities in South Wollo, Ethiopia: A facility-based cross-sectional study</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247639" title="Knowledge and practice of clients on preventive measures of COVID-19 pandemic among governmental health facilities in South Wollo, Ethiopia: A facility-based cross-sectional study" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247639.PDF" title="(PDF) Knowledge and practice of clients on preventive measures of COVID-19 pandemic among governmental health facilities in South Wollo, Ethiopia: A facility-based cross-sectional study" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247639.XML" title="(XML) Knowledge and practice of clients on preventive measures of COVID-19 pandemic among governmental health facilities in South Wollo, Ethiopia: A facility-based cross-sectional study" />
+    <author>
+      <name>Reta Dewau</name>
+    </author>
+    <author>
+      <name>Tefera Chane Mekonnen</name>
+    </author>
+    <author>
+      <name>Sisay Eshete Tadesse</name>
+    </author>
+    <author>
+      <name>Amare Muche</name>
+    </author>
+    <author>
+      <name>Getahun Gebre Bogale</name>
+    </author>
+    <author>
+      <name>Erkihun Tadesse Amsalu</name>
+    </author>
+    <id>10.1371/journal.pone.0247639</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Reta Dewau, Tefera Chane Mekonnen, Sisay Eshete Tadesse, Amare Muche, Getahun Gebre Bogale, Erkihun Tadesse Amsalu&lt;/p&gt;
+Introduction &lt;p&gt;Coronavirus-19 is a global health challenge and need an immediate action. Thus, understanding client’s knowledge about SARS-COV2 causes, roots of transmissions, and prevention strategies are urgently warranted. Although there were global studies reported knowledge and preventive practices of COVID-19, but the information is not representative and inclusive for Ethiopia. Thus, the current study is done to identify the knowledge and the prevention strategies for COVID-19 among clients in South Wollo, Ethiopia.&lt;/p&gt; Methods &lt;p&gt;An institutional based cross-sectional study was conducted from May 21 to 30, 2020 among clients seeking service in Dessie town health facilities. A total of 81 clients were included from the selected health facilities with simple random sampling technique. We developed measuring tools by adopting from World Health Organization and center for disease prevention recommendation manual for assessing service providers’ knowledge and preventive practices. For data entry Epi-data 3.1 version was employed and further data management and analysis was performed using STATA Version 14. Student T-test and one way ANOVA were computed to see the mean difference in knowledge and practice between and among the group. Chi-square test was also done to portray the presence of association between different co-variants with client’s knowledge and preventive practices.&lt;/p&gt; Results &lt;p&gt;Findings of the study showed that more than half (56.8%) of the participants had good knowledge about its symptoms, way of spread and prevention of the virus. Furthermore, 65.4% of clients demonstrated five or more preventive practice measures of COVID-19. The mean preventive practice score with standard deviation was (4.75±1.28 from 6 components). In the current study, knowledge had no significant difference among sex, education status, and monthly income. However, COVID-19 transmission knowledge was significantly higher among urban residents. Thus, clients who were knowledgeable about way of transmission and symptoms of COVID-19 had significantly higher COVID-19 preventive practice.&lt;/p&gt; Conclusion &lt;p&gt;Our findings revealed that clients’ knowledge and preventive practice of COVID-19 were not optimal. Clients with good knowledge and urban residents had practiced better prevention measures of the pandemic, signifying that packages and programs directed in enhancing knowledge about the virus is useful in combating the pandemic and continuing safe practices.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Panacea: Visual exploration system for analyzing trends in annual recruitment using time-varying graphs</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247587" title="Panacea: Visual exploration system for analyzing trends in annual recruitment using time-varying graphs" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247587.PDF" title="(PDF) Panacea: Visual exploration system for analyzing trends in annual recruitment using time-varying graphs" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247587.XML" title="(XML) Panacea: Visual exploration system for analyzing trends in annual recruitment using time-varying graphs" />
+    <author>
+      <name>Toshiyuki T. Yokoyama</name>
+    </author>
+    <author>
+      <name>Masashi Okada</name>
+    </author>
+    <author>
+      <name>Tadahiro Taniguchi</name>
+    </author>
+    <id>10.1371/journal.pone.0247587</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Toshiyuki T. Yokoyama, Masashi Okada, Tadahiro Taniguchi&lt;/p&gt;
+
+Annual recruitment data of new graduates are manually analyzed by human resources (HR) specialists in industries, which signifies the need to evaluate the recruitment strategy of HR specialists. Different job seekers send applications to companies every year. The relationships between applicants’ attributes (e.g., English skill or academic credentials) can be used to analyze the changes in recruitment trends across multiple years. However, most attributes are unnormalized and thus require thorough preprocessing. Such unnormalized data hinder effective comparison of the relationship between applicants in the early stage of data analysis. Thus, a visual exploration system is highly needed to gain insight from the overview of the relationship among applicant qualifications across multiple years. In this study, we propose the Polarizing Attributes for Network Analysis of Correlation on Entities Association (Panacea) visualization system. The proposed system integrates a time-varying graph model and dynamic graph visualization for heterogeneous tabular data. Using this system, HR specialists can interactively inspect the relationships between two attributes of prospective employees across multiple years. Further, we demonstrate the usability of Panacea with representative examples for finding hidden trends in real-world datasets, and we discuss feedback from HR specialists obtained throughout Panacea’s development. The proposed Panacea system enables HR specialists to visually explore the annual recruitment of new graduates.</content>
+  </entry>
+  <entry>
+    <title>Long-term monitoring of margays (&lt;i&gt;Leopardus wiedii&lt;/i&gt;): Implications for understanding low detection rates</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247536" title="Long-term monitoring of margays (&lt;i&gt;Leopardus wiedii&lt;/i&gt;): Implications for understanding low detection rates" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247536.PDF" title="(PDF) Long-term monitoring of margays (&lt;i&gt;Leopardus wiedii&lt;/i&gt;): Implications for understanding low detection rates" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247536.XML" title="(XML) Long-term monitoring of margays (&lt;i&gt;Leopardus wiedii&lt;/i&gt;): Implications for understanding low detection rates" />
+    <author>
+      <name>Bart J. Harmsen</name>
+    </author>
+    <author>
+      <name>Nicola Saville</name>
+    </author>
+    <author>
+      <name>Rebecca J. Foster</name>
+    </author>
+    <id>10.1371/journal.pone.0247536</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Bart J. Harmsen, Nicola Saville, Rebecca J. Foster&lt;/p&gt;
+
+Population assessments of wide-ranging, cryptic, terrestrial mammals rely on camera trap surveys. While camera trapping is a powerful method of detecting presence, it is difficult distinguishing rarity from low detection rate. The margay (&lt;i&gt;Leopardus wiedii&lt;/i&gt;) is an example of a species considered rare based on its low detection rates across its range. Although margays have a wide distribution, detection rates with camera traps are universally low; consequently, the species is listed as Near Threatened. Our 12-year camera trap study of margays in protected broadleaf forest in Belize suggests that while margays have low detection rate, they do not seem to be rare, rather that they are difficult to detect with camera traps. We detected a maximum of 187 individuals, all with few or no recaptures over the years (mean = 2.0 captures/individual ± SD 2.1), with two-thirds of individuals detected only once. The few individuals that were recaptured across years exhibited long tenures up to 9 years and were at least 10 years old at their final detection. We detected multiple individuals of both sexes at the same locations during the same survey, suggesting overlapping ranges with non-exclusive territories, providing further evidence of a high-density population. By studying the sparse annual datasets across multiple years, we found evidence of an abundant margay population in the forest of the Cockscomb Basin, which might have been deemed low density and rare, if studied in the short term. We encourage more long-term camera trap studies to assess population status of semi-arboreal carnivore species that have hitherto been considered rare based on low detection rates.</content>
+  </entry>
+  <entry>
+    <title>BC-store: A program for MGISEQ barcode sets analysis</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247532" title="BC-store: A program for MGISEQ barcode sets analysis" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247532.PDF" title="(PDF) BC-store: A program for MGISEQ barcode sets analysis" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247532.XML" title="(XML) BC-store: A program for MGISEQ barcode sets analysis" />
+    <author>
+      <name>Irina Bulusheva</name>
+    </author>
+    <author>
+      <name>Vera Belova</name>
+    </author>
+    <author>
+      <name>Boris Nikashin</name>
+    </author>
+    <author>
+      <name>Dmitriy Korostin</name>
+    </author>
+    <id>10.1371/journal.pone.0247532</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Irina Bulusheva, Vera Belova, Boris Nikashin, Dmitriy Korostin&lt;/p&gt;
+
+Here we present the devised BC-store–a program for analyzing and selecting sets of barcodes for sequencing on platforms manufactured by MGI Tech (China). The app is available as an open source in Python3 and as a desktop version. The application allows analyzing the compatibility of barcodes on a single lane of a flow cell in a set in the case of equal and arbitrary fractions. In addition, with the help of this tool barcodes can be added to an existing set with custom share options. In this paper we describe how BC-store works for different tasks and consider the effectiveness of using BC-store in sequence lab routine tasks.</content>
+  </entry>
+  <entry>
+    <title>Self-management interventions for adults living with Chronic Obstructive Pulmonary Disease (COPD): The development of a Core Outcome Set for COMPAR-EU project</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247522" title="Self-management interventions for adults living with Chronic Obstructive Pulmonary Disease (COPD): The development of a Core Outcome Set for COMPAR-EU project" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247522.PDF" title="(PDF) Self-management interventions for adults living with Chronic Obstructive Pulmonary Disease (COPD): The development of a Core Outcome Set for COMPAR-EU project" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247522.XML" title="(XML) Self-management interventions for adults living with Chronic Obstructive Pulmonary Disease (COPD): The development of a Core Outcome Set for COMPAR-EU project" />
+    <author>
+      <name>Estela Camus-García</name>
+    </author>
+    <author>
+      <name>Ana Isabel González-González</name>
+    </author>
+    <author>
+      <name>Monique Heijmans</name>
+    </author>
+    <author>
+      <name>Ena Niño de Guzmán</name>
+    </author>
+    <author>
+      <name>Claudia Valli</name>
+    </author>
+    <author>
+      <name>Jessica Beltran</name>
+    </author>
+    <author>
+      <name>Hector Pardo-Hernández</name>
+    </author>
+    <author>
+      <name>Lyudmil Ninov</name>
+    </author>
+    <author>
+      <name>Valentina Strammiello</name>
+    </author>
+    <author>
+      <name>Kaisa Immonen</name>
+    </author>
+    <author>
+      <name>Dimitris Mavridis</name>
+    </author>
+    <author>
+      <name>Marta Ballester</name>
+    </author>
+    <author>
+      <name>Rosa Suñol</name>
+    </author>
+    <author>
+      <name>Carola Orrego</name>
+    </author>
+    <id>10.1371/journal.pone.0247522</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Estela Camus-García, Ana Isabel González-González, Monique Heijmans, Ena Niño de Guzmán, Claudia Valli, Jessica Beltran, Hector Pardo-Hernández, Lyudmil Ninov, Valentina Strammiello, Kaisa Immonen, Dimitris Mavridis, Marta Ballester, Rosa Suñol, Carola Orrego&lt;/p&gt;
+Background &lt;p&gt;A large body of evidence suggests that self-management interventions (SMIs) may improve outcomes in chronic obstructive pulmonary disease (COPD). However, accurate comparisons of the relative effectiveness of SMIs are challenging, partly due to heterogeneity of outcomes across trials and uncertainty about the importance of these outcomes for patients. We aimed to develop a core set of patient-relevant outcomes (COS) for SMIs trials to enhance comparability of interventions and ensure person-centred care.&lt;/p&gt; Methods &lt;p&gt;We undertook an innovative approach consisting of four interlinked stages: i) Development of an initial catalogue of outcomes from previous EU-funded projects and/or published studies, ii) Scoping review of reviews on patients and caregivers’ perspectives to identify outcomes of interest, iii) Two-round Delphi online survey with patients and patient representatives to rate the importance of outcomes, and iv) Face-to-face consensus workshop with patients, patient representatives, health professionals and researchers to develop the COS.&lt;/p&gt; Results &lt;p&gt;From an initial list of 79 potential outcomes, 16 were included in the COS plus one supplementary outcome relevant to all participants. These were related to patient and caregiver knowledge/competence, self-efficacy, patient activation, self-monitoring, adherence, smoking cessation, COPD symptoms, physical activity, sleep quality, caregiver quality of life, activities of daily living, coping with the disease, participation and decision-making, emergency room visits/admissions and cost effectiveness.&lt;/p&gt; Conclusion &lt;p&gt;The development of the COPD COS for the evaluation of SMIs will increase consistency in the measurement and reporting of outcomes across trials. It will also contribute to more personalized health care and more informed health decisions in clinical practice as patients’ preferences regarding COPD outcomes are more systematically included.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>Norm-focused nudges influence pro-environmental choices and moderate post-choice emotional responses</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247519" title="Norm-focused nudges influence pro-environmental choices and moderate post-choice emotional responses" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247519.PDF" title="(PDF) Norm-focused nudges influence pro-environmental choices and moderate post-choice emotional responses" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247519.XML" title="(XML) Norm-focused nudges influence pro-environmental choices and moderate post-choice emotional responses" />
+    <author>
+      <name>Carlos Andres Trujillo</name>
+    </author>
+    <author>
+      <name>Catalina Estrada-Mejia</name>
+    </author>
+    <author>
+      <name>Jose A. Rosa</name>
+    </author>
+    <id>10.1371/journal.pone.0247519</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Carlos Andres Trujillo, Catalina Estrada-Mejia, Jose A. Rosa&lt;/p&gt;
+
+In this paper, we use choice architecture techniques to activate both social and personal norms, seeking to increase pro-environmental choices and to better understand the effect of such norm types on post-choice emotional responses. In four experiments, we make different social or personal norms salient by aligning choice environments with psychosocial mechanisms that activate different types of norms. We use different choice architecture techniques to change information, alter product sets, and generate the social consequences of choices. The target behavior, purchasing a recycled paper notebook, is captured through direct purchase behaviors or willingness to pay commitments. We find that choice architecture activates personal but not social norms, and that associated positive and negative emotions (guilt, shame, regret and pride) are elicited by choices but not by willingness to pay. Moreover, manipulating choice environment moderates the relationship between choice and norm-related emotions, such that positive emotional responses seem to be stronger than negative ones. The results suggest that choice architecture interventions can activate individual level beliefs about sustainability and help reduce the attitude-behavior gap.</content>
+  </entry>
+  <entry>
+    <title>Monocyte subtype counts are associated with 10-year cardiovascular disease risk as determined by the Framingham Risk Score among subjects of the LIFE-Adult study</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247480" title="Monocyte subtype counts are associated with 10-year cardiovascular disease risk as determined by the Framingham Risk Score among subjects of the LIFE-Adult study" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247480.PDF" title="(PDF) Monocyte subtype counts are associated with 10-year cardiovascular disease risk as determined by the Framingham Risk Score among subjects of the LIFE-Adult study" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247480.XML" title="(XML) Monocyte subtype counts are associated with 10-year cardiovascular disease risk as determined by the Framingham Risk Score among subjects of the LIFE-Adult study" />
+    <author>
+      <name>Samira Zeynalova</name>
+    </author>
+    <author>
+      <name>Karolin Bucksch</name>
+    </author>
+    <author>
+      <name>Markus Scholz</name>
+    </author>
+    <author>
+      <name>Maryam Yahiaoui-Doktor</name>
+    </author>
+    <author>
+      <name>Melanie Gross</name>
+    </author>
+    <author>
+      <name>Markus Löffler</name>
+    </author>
+    <author>
+      <name>Susanne Melzer</name>
+    </author>
+    <author>
+      <name>Attila Tárnok</name>
+    </author>
+    <id>10.1371/journal.pone.0247480</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Samira Zeynalova, Karolin Bucksch, Markus Scholz, Maryam Yahiaoui-Doktor, Melanie Gross, Markus Löffler, Susanne Melzer, Attila Tárnok&lt;/p&gt;
+
+Coronary heart disease, an inflammatory disease, is the leading cause of death globally. White blood cell counts (including monocytes) are easily available biomarkers of systemic inflammation. Monocyte subtypes can be measured by flow cytometry and classified into classical (CD14&lt;sup&gt;high&lt;/sup&gt;, CD16&lt;sup&gt;neg&lt;/sup&gt;), intermediate (CD14&lt;sup&gt;high&lt;/sup&gt;, CD16&lt;sup&gt;+&lt;/sup&gt;) and non-classical (CD14&lt;sup&gt;+&lt;/sup&gt;, CD16&lt;sup&gt;high&lt;/sup&gt;) with distinct functional properties. The goal of this study was to investigate the association of monocyte total count and its subtypes with cardiovascular risk groups defined by the Framingham Risk Score, which is used to estimate the 10-year risk of developing myocardial infarction or predict mortality following coronary heart disease. We also aimed to investigate whether monocyte counts are associated with relevant cardiovascular risk factors not included in the Framingham Risk Score, such as carotid atherosclerotic plaque and intima-media thickness. Our data came from the LIFE-Adult study, a population-based cohort study of 10,000 randomly selected participants in Leipzig, Germany. Data was gathered using self-administered questionnaires and physical examinations. Carotid plaques and intima-media thickness were measured using carotid artery sonography. Monocyte subtypes in blood were determined by 10-color flow cytometry for a total of 690 individuals. In a multivariate regression analysis adjusting for the risk factors BMI, intima-media thickness, presence of carotid plaques and diabetes mellitus, monocyte subtypes and total count were found to be significantly associated with the dichotomized Framingham Risk Score (≥10% versus &lt;10%): Odds ratios [95% confidence interval] for monocyte subtypes: classical: 11.19 [3.79–34.26]; intermediate: 2.27 [1.11–4.71]; non-classical: 4.18 [1.75–10.20]; total: 14.59 [4.61–47.95]. In absence of prospective data, the FRS was used as a surrogate for CHD. Our results indicate that monocyte counts could provide useful predictive value for cardiovascular disease risk.</content>
+  </entry>
+  <entry>
+    <title>Interactions of protective behavioral strategies and cannabis use motives: An online survey among past-month users</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247387" title="Interactions of protective behavioral strategies and cannabis use motives: An online survey among past-month users" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247387.PDF" title="(PDF) Interactions of protective behavioral strategies and cannabis use motives: An online survey among past-month users" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247387.XML" title="(XML) Interactions of protective behavioral strategies and cannabis use motives: An online survey among past-month users" />
+    <author>
+      <name>Gregor Genrich</name>
+    </author>
+    <author>
+      <name>Céline Zeller</name>
+    </author>
+    <author>
+      <name>Hans Jörg Znoj</name>
+    </author>
+    <id>10.1371/journal.pone.0247387</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Gregor Genrich, Céline Zeller, Hans Jörg Znoj&lt;/p&gt;
+
+Given the constant high prevalence of cannabis use and cannabis dependence, it is important to determine protective behaviors on the individual level, which buffer the effects of risk factors. Protective Behavioral Strategies for Marijuana (PBSM) have been identified to play an important role for harm reduction in adolescent and young adult users. In the present study, we analyzed if PBSM moderate the effects of use motives (captured by the Marijuana Motives Measure, MMM) on the severity of dependence beyond the effects of age, gender, education and cannabis use frequency. We used confirmatory factor analysis (CFA) to validate the German versions of PBSM and MMM. Data was gathered in an online survey distributed to randomly chosen households in the city of Bern in the German speaking part of Switzerland. The final sample comprised 362 past-month users. Results showed negative correlations between PBSM and cannabis use frequency and severity of dependence. The only motives being correlated with severity of dependence were coping and routine, beyond frequency of use. PBSM significantly moderated the effect only of routine motives on the severity of dependence. However, only a few cases who used PBSM extensively were affected. PBSM appear to be an important factor to reduce harm among past-month users but not among those with dependent use patterns, e.g. coping and routine users. Clinical implications are discussed. The routine factor adds significantly to the MMM and should be implemented and improved in future studies. PBSM as well as the MMM can be used in future studies in German speaking populations.</content>
+  </entry>
+  <entry>
+    <title>Estimation of change in pleural pressure in assisted and unassisted spontaneous breathing pediatric patients using fluctuation of central venous pressure: A preliminary study</title>
+    <link rel="alternate" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247360" title="Estimation of change in pleural pressure in assisted and unassisted spontaneous breathing pediatric patients using fluctuation of central venous pressure: A preliminary study" />
+    <link rel="related" type="application/pdf" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247360.PDF" title="(PDF) Estimation of change in pleural pressure in assisted and unassisted spontaneous breathing pediatric patients using fluctuation of central venous pressure: A preliminary study" />
+    <link rel="related" type="text/xml" href="https://journals.plos.org/plosone/article/asset?id=10.1371/journal.pone.0247360.XML" title="(XML) Estimation of change in pleural pressure in assisted and unassisted spontaneous breathing pediatric patients using fluctuation of central venous pressure: A preliminary study" />
+    <author>
+      <name>Nao Okuda</name>
+    </author>
+    <author>
+      <name>Miyako Kyogoku</name>
+    </author>
+    <author>
+      <name>Yu Inata</name>
+    </author>
+    <author>
+      <name>Kanako Isaka</name>
+    </author>
+    <author>
+      <name>Kazue Moon</name>
+    </author>
+    <author>
+      <name>Takeshi Hatachi</name>
+    </author>
+    <author>
+      <name>Yoshiyuki Shimizu</name>
+    </author>
+    <author>
+      <name>Muneyuki Takeuchi</name>
+    </author>
+    <id>10.1371/journal.pone.0247360</id>
+    <updated>2021-03-01T14:00:00Z</updated>
+    <published>2021-03-01T14:00:00Z</published>
+    <content type="html">&lt;p&gt;by Nao Okuda, Miyako Kyogoku, Yu Inata, Kanako Isaka, Kazue Moon, Takeshi Hatachi, Yoshiyuki Shimizu, Muneyuki Takeuchi&lt;/p&gt;
+Background &lt;p&gt;It is important to evaluate the size of respiratory effort to prevent patient self-inflicted lung injury and ventilator-induced diaphragmatic dysfunction. Esophageal pressure (Pes) measurement is the gold standard for estimating respiratory effort, but it is complicated by technical issues. We previously reported that a change in pleural pressure (ΔPpl) could be estimated without measuring Pes using change in CVP (ΔCVP) that has been adjusted with a simple correction among mechanically ventilated, paralyzed pediatric patients. This study aimed to determine whether our method can be used to estimate ΔPpl in assisted and unassisted spontaneous breathing patients during mechanical ventilation.&lt;/p&gt; Methods &lt;p&gt;The study included hemodynamically stable children (aged &lt;18 years) who were mechanically ventilated, had spontaneous breathing, and had a central venous catheter and esophageal balloon catheter in place. We measured the change in Pes (ΔPes), ΔCVP, and ΔPpl that was calculated using a corrected ΔCVP (cΔCVP-derived ΔPpl) under three pressure support levels (10, 5, and 0 cmH&lt;sub&gt;2&lt;/sub&gt;O). The cΔCVP-derived ΔPpl value was calculated as follows: cΔCVP-derived ΔPpl = k × ΔCVP, where k was the ratio of the change in airway pressure (ΔPaw) to the ΔCVP during airway occlusion test.&lt;/p&gt; Results &lt;p&gt;Of the 14 patients enrolled in the study, 6 were excluded because correct positioning of the esophageal balloon could not be confirmed, leaving eight patients for analysis (mean age, 4.8 months). Three variables that reflected ΔPpl (ΔPes, ΔCVP, and cΔCVP-derived ΔPpl) were measured and yielded the following results: -6.7 ± 4.8, − -2.6 ± 1.4, and − -7.3 ± 4.5 cmH2O, respectively. The repeated measures correlation between cΔCVP-derived ΔPpl and ΔPes showed that cΔCVP-derived ΔPpl had good correlation with ΔPes (r = 0.84, p&lt; 0.0001).&lt;/p&gt; Conclusions &lt;p&gt;ΔPpl can be estimated reasonably accurately by ΔCVP using our method in assisted and unassisted spontaneous breathing children during mechanical ventilation.&lt;/p&gt;</content>
+  </entry>
+</feed>

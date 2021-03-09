@@ -1,6 +1,0 @@
-http://feeds.nature.com/ja/rss/current
-https://www.thieme-connect.de/rss/thieme/en/10.1055-s-00000058.xml
-https://chemistry-europe.onlinelibrary.wiley.com/feed/10990690/most-recent
-https://onlinelibrary.wiley.com/feed/15213773/most-recent
-https://www.mdpi.com/rss/journal/marinedrugs
-http://feeds.feedburner.com/acs/jnprdf
