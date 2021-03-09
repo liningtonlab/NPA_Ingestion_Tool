@@ -1,0 +1,5 @@
+requests
+metapub
+feedparser
+python-dotenv
+beautifulsoup4
