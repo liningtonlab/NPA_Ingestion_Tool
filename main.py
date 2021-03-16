@@ -196,7 +196,7 @@ if __name__ == "__main__":
     # Slack Stats Messaging
     message = (
         "Inserted DOI's parsed directly from RSS feeds: {0}\nInserted DOI's via CrossRef query of RSS feed "
-        "parsed title: {1}\nTotal Database DOI's: {2}\n{3} with title only \n{4} with both title and "
+        "parsed title: {1}\nTotal Database DOI's: {2}\n{3} with title \n{4} with title and "
         "abstract.".format(
             doi_feeds_insert_count,
             no_doi_feeds_insert_count,
